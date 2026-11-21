@@ -1,0 +1,50 @@
+# my3dprinter.io — instructions
+
+Static Next.js site (output: export). `npm run build` → `out/` → `dist/` (scripts/postbuild.mjs adds llms.txt). Then `python3 scripts/check-seo.py` must report 0 issues. Push to `main` → GitHub Actions builds and publishes the `site` branch → the promt-site server pulls it every 5 minutes (deploy/add-site.sh). Site language: **English**. Company name in legal text: OUTRANKING LTD only (no company number, no address).
+
+## What the site is
+1. **Tools** (lib/data/tools.ts): converters, viewers, image→3D, SVG→3D, DDS textures. Everything runs in the browser (three.js, occt-import-js for STEP/IGES, fflate). Never add server uploads or paid APIs.
+2. **Printers** (`content/printers/*.md`): one page per printer model or brand hub.
+3. **Guides** (`content/guides/*.md`): comparisons (X vs Y), setup/connection/firmware, how-to, troubleshooting, filament.
+4. Format pages (lib/data/formats.ts) and static pages (`content/pages/`).
+
+## Adding a converter
+Add an entry to `TOOLS` in lib/data/tools.ts only if the engine really supports both formats (inputs: lib/engine/load.ts; outputs: lib/engine/export.ts). Add pair-specific `NOTES` for high-volume pairs. Test the conversion in a real browser (Playwright + /usr/bin/google-chrome) before publishing. Do not create pages for conversions we cannot do (FBX/STEP/BLEND/SLDPRT output, BLEND/SLDPRT/SKP input).
+
+## Content plan
+`keywords.md` is the plan (Ahrefs, US). Take unchecked rows top to bottom within a section; one page per search intent (merge close variants). Put the target keyword in `seoTitle`, the H1 (`title`), the first sentence and one FAQ question. After publishing, tick every row the page covers and add its path.
+
+## Front matter
+```yaml
+---
+title: H1 of the page (contains the keyword)
+seoTitle: ≤ 60 chars, contains the keyword
+description: 70–160 chars, unique
+date: YYYY-MM-DD
+updated: YYYY-MM-DD   # when revised
+category: e.g. Bambu Lab | Creality | Prusa | Comparisons | Setup and software | Troubleshooting | Filament and materials | Files and slicers
+summary: [3 one-sentence facts]
+faq: [3–4 items, q/a]
+sources: [{name, url}]   # required on printer pages and comparisons
+specs: [["Label", "Value"], ...]   # printer pages only, from the maker's official spec page
+tools: [tool slugs to show in the sidebar]
+---
+```
+File name: `content/<printers|guides>/YYYY-MM-DD-slug.md` (date = today in Asia/Tashkent). Slug = URL.
+
+## Page structure
+- First sentence answers the query in bold with the keyword.
+- Printer page: who it suits → setup (high level, from the official quick start) → connecting (Wi-Fi/app/LAN/SD) → manual (link to the official manual/wiki, never copy it) → firmware/software → compare links.
+- Comparison: at-a-glance table → what the differences mean → which to buy.
+- Troubleshooting: symptom → causes → fixes in order → prevention.
+- 2–5 internal links to tools and other pages. Use only paths that exist.
+
+## Accuracy rules (strict)
+- Specs, prices, dates and feature claims only from the manufacturer (spec page, wiki, manual, blog) or, if missing there, two reputable sources that agree. List them in `sources`. If sources disagree or a number is missing, leave it out.
+- Launch prices must be labelled as launch prices with the region. Do not state current prices.
+- No invented test results, quotes, user numbers or reviews. We do not claim to have tested printers.
+- Never copy manuals or competitor text; write in your own words. Link to official manuals.
+- Brand names are trademarks; we are independent. No logos or official product photos.
+
+## Daily task
+Add up to 8 pages a day from keywords.md (printers first, then comparisons, setup, troubleshooting, filament), verified as above. Build, run check-seo, commit `Add content: <titles>`, push. Never ask for confirmation.

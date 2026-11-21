@@ -1,0 +1,27 @@
+{
+  "name": "my3dprinter",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3030",
+    "build": "next build && node scripts/postbuild.mjs",
+    "check": "python3 scripts/check-seo.py"
+  },
+  "dependencies": {
+    "@fontsource/inter": "^5.3.0",
+    "@fontsource/space-grotesk": "^5.3.0",
+    "fflate": "^0.8.3",
+    "gray-matter": "^4.0.3",
+    "marked": "^18.2.1",
+    "next": "^15.5.29",
+    "occt-import-js": "^0.0.23",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "three": "^0.187.0"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "@types/react": "^19.3.0",
+    "@types/three": "^0.187.0",
+    "typescript": "^6.0.3"
+  }
+}

@@ -1,0 +1,35 @@
+name: Build site
+
+# Builds the static site and publishes it to the "site" branch.
+# The server pulls that branch every few minutes (deploy/add-site.sh), so no SSH keys are stored here.
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    concurrency: { group: build, cancel-in-progress: false }
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22, cache: npm }
+      - run: npm ci
+      - run: npm run build
+      - name: SEO checks
+        run: python3 scripts/check-seo.py
+      - name: Publish to the "site" branch
+        run: |
+          cd dist
+          git init -q -b site
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add -A
+          git commit -q -m "Site build from ${GITHUB_SHA::7}"
+          git push -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" site
+          echo "Published $(find . -name index.html | wc -l) pages"
