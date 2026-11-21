@@ -48,4 +48,4 @@ Even with a perfect, certified filament, the surface of a print has gaps between
 
 ## Related
 
-- [PETG vs PLA](/guides/petg-vs-pla/)
+- [PETG vs PLA](/blog/petg-vs-pla/)

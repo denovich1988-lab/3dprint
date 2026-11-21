@@ -72,7 +72,7 @@ The official manual, maintenance schedule and troubleshooting pages are on the [
 
 ## P1S or P2S?
 
-Both have the same 256 mm build volume. The P2S adds a 5-inch touchscreen, a 1080p camera, a stronger servo extruder, a quick-swap nozzle and a 110 °C bed. Read our [P1S vs P2S comparison](/guides/bambu-lab-p1s-vs-p2s/) for the full list.
+Both have the same 256 mm build volume. The P2S adds a 5-inch touchscreen, a 1080p camera, a stronger servo extruder, a quick-swap nozzle and a 110 °C bed. Read our [P1S vs P2S comparison](/blog/bambu-lab-p1s-vs-p2s/) for the full list.
 
 ## Files and formats
 

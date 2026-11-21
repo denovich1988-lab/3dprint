@@ -59,5 +59,5 @@ The P2S arrives mostly assembled. Follow Bambu Lab’s quick-start guide and the
 
 ## Compare
 
-- [Bambu Lab P1S vs P2S](/guides/bambu-lab-p1s-vs-p2s/)
+- [Bambu Lab P1S vs P2S](/blog/bambu-lab-p1s-vs-p2s/)
 - [Bambu Lab P1S](/printers/bambu-lab-p1s/)

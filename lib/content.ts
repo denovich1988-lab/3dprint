@@ -26,7 +26,7 @@ export type Doc = {
 
 const root = path.join(process.cwd(), 'content');
 
-export function listDocs(dir: 'guides' | 'printers' | 'pages'): Doc[] {
+export function listDocs(dir: 'blog' | 'printers' | 'pages'): Doc[] {
   const d = path.join(root, dir);
   if (!fs.existsSync(d)) return [];
   return fs.readdirSync(d)
@@ -51,6 +51,6 @@ function readDoc(dir: string, f: string): Doc {
   } as Doc;
 }
 
-export function getDoc(dir: 'guides' | 'printers' | 'pages', slug: string) {
+export function getDoc(dir: 'blog' | 'printers' | 'pages', slug: string) {
   return listDocs(dir).find((d) => d.slug === slug);
 }

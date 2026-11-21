@@ -1,0 +1,431 @@
+# my3dprinter.io – blog keywords by KD
+
+Articles for /blog/, from docs/3d-printing-keywords.xlsx and Ahrefs question keywords (US, Nov 2026).
+Sorted by Keyword Difficulty (easiest first), then by total US volume of the group. One line = one article; the variants go into headings and the FAQ.
+Line format: `- [ ] slug | main keyword | US volume (all variants) | KD | variants`. Rows with an empty KD have no Ahrefs score yet; treat them as KD 5.
+Tick when published: `- [x] slug | ... | blog/slug`. Mark `- [-]` with a reason if it cannot be written accurately or duplicates another post.
+
+## KD 0–5 (easiest) — 321 articles
+
+- [ ] what-to-3d-print | 3d print ideas | 52900 | 0 | cool things to 3d print; 3d printer projects; 3d printer ideas; 3d printing ideas; things to 3d print; useful things to 3d print; what can you make with a 3d printer; fun things to 3d print; best things to 3d print; 150 cool things to 3d print; stuff to 3d print; cool 3d print ideas; easy 3d printing ideas; coolest things to 3d print; what to 3d print
+- [ ] bambu-filament | bambu filament | 43000 | 2 | bambu lab filament; bambu labs filament
+- [ ] 3d-printed-dragon | 3d printed dragon | 34800 | 0 | 3d printed dragons; dragon 3d print; 3d print dragon; 3d printer dragon
+- [ ] 3d-printed-fidget-toys | 3d printed fidgets | 25400 | 0 | 3d printed fidget toys; 3d printed fidget toy; 3d printed fidget; 3d print fidget toys
+- [x] petg-vs-pla | petg vs pla | 16300 | 3 | pla vs petg; is petg stronger than pla; pla vs petg filament; petg filament vs pla; petg vs pla filament; pla vs abs vs petg; petg vs pla strength; what is the difference between pla and petg; is petg better than pla; pla vs petg strength | blog/petg-vs-pla
+- [ ] sunlu-filament | sunlu filament | 16000 | 5 | 
+- [ ] pla-filament | pla filament | 14000 | 2 | 
+- [ ] tpu-filament | tpu filament | 10900 | 1 | what is tpu filament
+- [ ] filament-dryer | filament dryer | 10600 | 0 | 3d printer filament dryer
+- [ ] asa-filament | asa filament | 9200 | 1 | what is asa filament
+- [x] is-pla-food-safe | is pla food safe | 8350 | 1 | is petg food safe; food safe 3d printer filament; is pla filament food safe; what filament is food safe; is petg dishwasher safe | blog/is-pla-food-safe
+- [ ] pla-vs-pla-plus | pla vs pla+ | 8250 | 0 | pla+; pla+ vs pla; pla+ vs petg; pla vs pla plus; pla plus vs pla; pla plus vs petg; what is pla+; petg vs pla+; petg vs pla plus; pla pro vs pla plus; what is pla plus; pla + vs pla
+- [ ] 3d-printed-toys | 3d printed toys | 7700 | 0 | 
+- [ ] petg-filament | petg filament | 7400 | 0 | 
+- [ ] 3d-printed-animals | 3d printed animals | 7100 | 0 | 
+- [ ] klipper | klipper | 6270 | 4 | klipper 3d printer; what is klipper; what is klipper 3d printing
+- [ ] 3d-printed-stuff | 3d printed stuff | 5800 | 1 | 
+- [ ] bambu-lab-pla-basic-filament | bambu lab pla basic filament | 5400 | 2 | 
+- [ ] 3d-printing-pen | 3d printing pen | 5200 | 3 | 3d printer pen
+- [x] bambu-p1s-vs-p2s | bambu p1s vs p2s | 5050 | 0 | bambu lab p1s vs p2s; bambu labs p1s vs p2s; bambu lab p2s vs p1s; bambu p2s vs p1s; p1s vs p2s bambu | blog/bambu-lab-p1s-vs-p2s
+- [ ] how-to-dry-filament | how to dry filament | 5000 | 0 | does petg need to be dried; how to dry pla filament; does pla need to be dried; how to dry filament without a dryer; what temp to dry pla; how to dry petg filament; how to dry 3d printer filament; how long to dry petg; how to dry filament in oven; how long to dry pla filament; how to dry tpu filament; how to keep filament dry
+- [x] p1s-vs-p2s | p1s vs p2s | 4900 | 0 | p2s vs p1s | blog/bambu-lab-p1s-vs-p2s
+- [ ] large-3d-printer | large 3d printer | 4600 | 1 | 
+- [ ] pla-vs-abs | pla vs abs | 4450 | 5 | abs vs pla; abs vs pla filament; pla vs abs filament; abs filament vs pla; is abs stronger than pla
+- [ ] abs-filament | abs filament | 4200 | 2 | what is abs filament
+- [ ] what-is-ams-in-3d-printing | what is ams in 3d printing | 4200 | 3 | what is ams 3d printing; what does ams mean in 3d printing
+- [ ] asa-vs-abs | asa vs abs | 4100 | 0 | abs vs asa; asa vs abs filament; abs vs asa filament
+- [ ] how-to-clean-a-3d-printer-nozzle | how to clean hotend nozzle bambu | 4010 | 0 | how to clean 3d printer nozzle; how to unclog 3d printer nozzle; how to clean a 3d printer nozzle; how to unclog a 3d printer nozzle; 3d printer nozzle clog
+- [ ] cheap-3d-printer | cheap 3d printer | 4000 | 5 | 3d printer cheap
+- [ ] 3d-printer-stand | 3d printer stand | 3900 | 0 | 
+- [ ] 3d-printed-chicken | 3d printed chicken | 3900 | 0 | 
+- [ ] petg-hf | petg hf | 3800 | 3 | what is petg hf
+- [ ] cool-3d-printed-things | cool 3d printed things | 3600 | 2 | 
+- [ ] petg-vs-abs | petg vs abs | 3500 | 1 | abs vs petg; pla vs petg vs abs; petg vs pla vs abs
+- [ ] multi-color-3d-printer | multi color 3d printer | 3400 | 0 | 
+- [ ] multicolor-3d-printer | multicolor 3d printer | 3300 | 0 | 
+- [ ] hobby-lobby-filament | hobby lobby filament | 3300 | 0 | hobby lobby 3d printer filament
+- [ ] how-to-use-3d-printing-in-architecture | how to use 3d printing in architecture | 3300 | 0 | 
+- [ ] what-is-petg | what is petg filament | 3150 | 1 | what is petg; what is petg filament used for; what does petg stand for
+- [ ] prusa-connect | prusa connect | 3100 | 4 | 
+- [ ] sls-3d-printer | sls 3d printer | 3000 | 4 | sls 3d printing
+- [ ] mini-3d-printer | mini 3d printer | 2900 | 0 | 
+- [ ] filament-recycler | filament recycler | 2900 | 0 | 
+- [ ] 3d-printed-snake | 3d printed snake | 2900 | 0 | 
+- [ ] lithophane | lithophane 3d print | 2900 | 2 | 3d printed lithophane
+- [ ] 3d-printer-table | 3d printer table | 2900 | 0 | 
+- [ ] elegoo-filament | elegoo filament | 2800 | 3 | 
+- [ ] 3d-printed-mask | 3d printed mask | 2700 | 0 | 
+- [ ] how-to-store-filament | filament storage | 2700 | 0 | 
+- [ ] carbon-fiber-filament | carbon fiber filament | 2600 | 2 | 
+- [ ] 3d-printed-dragon-egg | 3d printed dragon egg | 2600 | 0 | 
+- [ ] 3d-printer-accessories | 3d printer accessories | 2600 | 1 | 
+- [ ] pctg-filament | pctg filament | 2500 | 1 | 
+- [ ] 3d-printer-enclosure | 3d printer enclosure | 2500 | 2 | 
+- [ ] industrial-3d-printer | industrial 3d printer | 2500 | 0 | 
+- [ ] creality-filament | creality filament | 2400 | 0 | 
+- [ ] fdm-3d-printer | fdm 3d printer | 2300 | 4 | 
+- [ ] 3d-print-supports | how to add supports in bambu studio | 2180 | 0 | 3d print supports; how to enable support generation bambu; how to remove 3d print supports; best way to remove supports from 3d print; 3d print with supports; 3d print supports hard to remove; 3d print tree supports; how to add manual supports in bambu studio
+- [ ] bambu-lab-p2s-price | bambu lab p2s price | 2100 | 2 | 
+- [ ] sunlu-filament-dryer | sunlu filament dryer | 2100 | 4 | 
+- [ ] atomic-filament | atomic filament | 2100 | 0 | 
+- [ ] bambu-lab-pla-matte-filament | bambu lab pla matte filament | 2100 | 0 | 
+- [ ] big-3d-printer | big 3d printer | 2000 | 2 | 
+- [ ] sla-3d-printer | sla 3d printer | 2000 | 2 | 
+- [ ] 3d-printed-car | 3d printed car | 2000 | 2 | 
+- [ ] esun-filament | esun filament | 2000 | 0 | 
+- [ ] 3d-printed-action-figures | 3d printed action figures | 2000 | 0 | 
+- [ ] strongest-3d-printer-filament | strongest 3d printer filament | 2000 | 1 | what is the strongest 3d printer filament
+- [ ] petg-cf | petg-cf | 1900 | 2 | 
+- [ ] nylon-filament | nylon filament | 1900 | 0 | 
+- [ ] peek-filament | peek filament | 1900 | 1 | 
+- [ ] peba-filament | peba filament | 1900 | 0 | 
+- [ ] 3d-printed-ideas | 3d printed ideas | 1900 | 1 | 
+- [ ] 3d-print-not-sticking-to-bed | 3d print not sticking to bed | 1830 | 0 | 3d printer not sticking to bed; 3d printer bed adhesion; bed adhesion issues; 3d printer filament not sticking to bed; petg bed adhesion; 3d print not sticking to build plate; 3d print bed adhesion; why is my 3d print not sticking to the bed
+- [ ] pva-filament | pva filament | 1800 | 4 | 
+- [ ] 3d-printed-basketball | 3d printed basketball | 1800 | 0 | 
+- [ ] 3d-printed-keychain | 3d printed keychain | 1800 | 0 | 
+- [ ] 3d-printed-lizard | 3d printed lizard | 1800 | 0 | 
+- [ ] 3d-printed-axolotl | 3d printed axolotl | 1800 | 0 | 
+- [ ] pla-temperature | pla temperature | 1700 | 3 | 
+- [ ] best-multicolor-3d-printer | best multicolor 3d printer | 1700 | 5 | 
+- [ ] 3d-printed-rocket | 3d printed rocket | 1700 | 4 | 
+- [ ] maker-world-3d-printing | maker world 3d printing | 1600 | 0 | 
+- [ ] carbon-fiber-3d-printer | carbon fiber 3d printer | 1600 | 1 | 
+- [ ] 3d-printer-parts | 3d printer parts | 1600 | 0 | 
+- [ ] polymaker-filament | polymaker filament | 1600 | 0 | 
+- [ ] best-filament-dryer | best filament dryer | 1600 | 1 | 
+- [ ] 3d-printer-os | 3d printer os | 1600 | 2 | 
+- [ ] 3d-printed-phone-stand | 3d printed phone stand | 1600 | 0 | 
+- [ ] overture-filament | overture filament | 1600 | 0 | 
+- [ ] is-pla-toxic | is pla toxic | 1550 | 0 | is petg toxic to print; is 3d printing toxic; is pla filament toxic; is petg toxic
+- [ ] bambu-a1-vs-p1s | bambu a1 vs p1s | 1550 | 0 | bambu lab a1 vs p1s; bambu p1s vs a1; bambu lab p1s vs a1
+- [ ] cheapest-3d-printer | cheapest 3d printer | 1550 | 1 | what is the cheapest 3d printer
+- [ ] how-long-does-3d-printing-take | how long does it take to 3d print something | 1500 | 0 | how long does 3d printing take; how long does it take to 3d print; how long to let 3d print cool
+- [ ] best-3d-printed-items | best 3d printed items | 1500 | 1 | 
+- [ ] bambu-lab-p1s-price | bambu lab p1s price | 1500 | 2 | 
+- [ ] dual-extruder-3d-printer | dual extruder 3d printer | 1500 | 2 | 
+- [ ] how-to-clean-a-3d-printer-bed | how to clean 3d printer bed | 1450 | 0 | how to clean bambu textured pei plate; how to clean a 3d printer bed
+- [ ] 3d-printed-pokemon | 3d printed pokemon | 1400 | 0 | 
+- [ ] 3d-printer-nozzle | 3d printer nozzle | 1400 | 5 | 
+- [ ] best-3d-printer-for-miniatures | best 3d printer for miniatures | 1400 | 0 | 
+- [ ] best-3d-printer-under-500 | best 3d printer under 500 | 1400 | 0 | 
+- [ ] toybox-3d-printer-review | toybox 3d printer review | 1400 | 2 | 
+- [ ] chocolate-3d-printer | chocolate 3d printer | 1400 | 0 | 
+- [ ] 3d-printed-jewelry | 3d printed jewelry | 1400 | 1 | 
+- [ ] 3d-printed-car-parts | 3d printed car parts | 1400 | 0 | 
+- [ ] 3d-printer-toys | 3d printer toys | 1400 | 0 | 
+- [ ] 3d-printed-drone | 3d printed drone | 1400 | 0 | 
+- [ ] bambu-filament-guide | bambu filament guide | 1350 | 3 | bambu lab filament guide; bambu labs filament guide
+- [ ] multi-head-3d-printer | multi head 3d printer | 1300 | 3 | 
+- [ ] 3d-printer-tools | 3d printer tools | 1300 | 0 | 3d printer tool kit; 3d printer maintenance tool kit
+- [ ] brim-and-raft-in-3d-printing | what is a raft in 3d printing | 1300 | 0 | what is a brim in 3d printing; how to add brim in bambu studio; what is brim in 3d printing; how to add a brim in bambu studio
+- [ ] 3d-printed-dinosaur | 3d printed dinosaur | 1300 | 0 | 
+- [ ] 3d-printed-fishing-lures | 3d printed fishing lures | 1300 | 0 | 
+- [ ] 3d-printed-cat | 3d printed cat | 1300 | 0 | 
+- [ ] 3d-printed-heart | 3d printed heart | 1300 | 3 | 
+- [ ] titanium-3d-printer | titanium 3d printer | 1300 | 1 | 
+- [ ] z-offset | z offset 3d printer | 1270 | 2 | z offset; z offset test print; ender 3 z offset; what is z offset in 3d printing; 3d printer z offset; how to set z offset; orca slicer z offset; what is z offset; how to adjust z offset
+- [ ] how-much-does-3d-printing-cost | how much does 3d printing cost | 1250 | 1 | how much does it cost to 3d print something; how much does it cost to 3d print
+- [ ] asa-vs-petg | asa vs petg | 1250 | 2 | petg vs asa
+- [ ] how-does-a-resin-printer-work | how does a resin printer work | 1250 | 0 | what is a resin printer; what is a resin 3d printer; how does a resin 3d printer work
+- [ ] enclosed-3d-printer | enclosed 3d printer | 1200 | 0 | 
+- [ ] fastest-3d-printer | fastest 3d printer | 1200 | 4 | 
+- [ ] clear-3d-printer-filament | clear 3d printer filament | 1200 | 0 | 
+- [ ] 3d-printed-boat | 3d printed boat | 1200 | 0 | 
+- [ ] 3d-printed-sword | 3d printed sword | 1200 | 0 | 
+- [ ] silicone-3d-printer | silicone 3d printer | 1200 | 0 | 
+- [ ] bambu-lab-h2c-price | bambu lab h2c price | 1200 | 1 | 
+- [ ] snapmaker-u1-review | snapmaker u1 review | 1200 | 1 | 
+- [ ] 3d-printed-octopus | 3d printed octopus | 1200 | 0 | 
+- [ ] elegoo-slicer | elegoo slicer | 1100 | 0 | 
+- [ ] 3d-printed-tools | 3d printed tools | 1100 | 0 | 
+- [ ] p2s-vs-x1c | p2s vs x1c | 1100 | 0 | x1c vs p2s
+- [ ] aluminum-3d-printer | aluminum 3d printer | 1100 | 5 | 
+- [ ] 3d-printed-dentures | 3d printed dentures | 1100 | 3 | 
+- [ ] bambu-h2c-vs-h2d | bambu h2c vs h2d | 1050 |  | bambu h2d vs h2c; bambu lab h2d vs h2c
+- [ ] pctg-vs-petg | pctg vs petg | 1000 | 0 | petg vs pctg
+- [ ] flashforge-ad5x-review | flashforge ad5x review | 1000 | 4 | 
+- [ ] prusa-vs-bambu | prusa vs bambu | 1000 | 0 | bambu vs prusa; prusa vs bambu lab
+- [ ] infill-in-3d-printing | what is infill 3d printing | 1000 | 2 | what is infill in 3d printing; what does infill mean in 3d printing
+- [ ] 3d-printer-upgrades | ender 3 upgrades | 950 | 1 | bambu p1s upgrades; 3d printer upgrades
+- [ ] tpu-vs-pla | tpu vs pla | 950 | 0 | pla vs tpu
+- [ ] bed-leveling | ender 3 bed leveling | 920 | 0 | 3d printer bed leveling; ender 3 pro bed leveling; ender 3 auto bed leveling; bed leveling; ender 3 bed leveling gcode; bed leveling test print; 3d printer auto bed leveling
+- [ ] p1s-vs-a1 | p1s vs a1 | 850 | 0 | a1 vs p1s
+- [ ] pla-matte-vs-basic | pla matte vs basic | 850 | 0 | pla basic vs matte; pla basic vs pla matte
+- [x] bambu-a1-vs-a1-mini | bambu a1 vs a1 mini | 850 | 0 | bambu lab a1 vs a1 mini | blog/bambu-lab-a1-vs-a1-mini
+- [ ] how-much-electricity-does-a-3d-printer-use | how much electricity does a 3d printer use | 800 | 0 | how much power does a 3d printer use
+- [ ] bambu-x2d-vs-p2s | bambu x2d vs p2s | 750 |  | bambu lab x2d vs p2s
+- [ ] elephant-foot-3d-printing | 3d printing elephant foot | 750 | 0 | elephant foot 3d printing; 3d print elephant foot; elephant foot compensation
+- [ ] remove-filament-from-3d-printer | how to remove filament from 3d printer | 750 | 0 | how to unload filament from ams; how to get filament out of tube
+- [ ] things-to-3d-print-and-sell | how to start a 3d printing business | 700 | 0 | how to make money 3d printing
+- [ ] petg-hf-vs-petg | petg hf vs petg | 700 |  | petg vs petg hf
+- [x] a1-vs-a1-mini | a1 vs a1 mini | 700 | 0 | a1 mini vs a1 | blog/bambu-lab-a1-vs-a1-mini
+- [ ] remove-3d-print-from-bed | how to remove 3d print from bed | 650 | 0 | how to get 3d print off bed
+- [ ] bambu-h2s-vs-h2d | bambu h2s vs h2d | 650 |  | bambu h2d vs h2s
+- [ ] p1s-vs-x1c | p1s vs x1c | 650 | 0 | x1c vs p1s
+- [ ] what-is-pla-cf | what is pla cf | 600 | 1 | what is pla-cf
+- [ ] is-pla-recyclable | is pla recyclable | 600 | 1 | 
+- [x] bambu-lab-p1s-vs-p2s-differences | bambu lab p1s vs p2s differences | 600 |  | bambu lab p2s vs p1s differences | blog/bambu-lab-p1s-vs-p2s
+- [ ] how-to-use-bambu-studio | how to use bambu studio | 600 | 3 | 
+- [ ] heat-creep-3d-printing | heat creep | 520 | 4 | heat creep 3d printing; 3d printer heat creep
+- [ ] what-is-ironing-in-3d-printing | what is ironing in 3d printing | 500 | 2 | 
+- [ ] p1p-vs-p1s | p1p vs p1s | 500 | 0 | p1s vs p1p
+- [ ] how-to-edit-stl-files | how to edit stl files | 500 | 0 | 
+- [ ] 3d-printer-setup | 3d printer setup | 500 | 0 | 
+- [ ] can-you-3d-print-silicone | can you 3d print silicone | 500 | 2 | 
+- [ ] is-sunlu-filament-good | is sunlu filament good | 500 | 0 | 
+- [ ] pla-silk-vs-pla | pla silk vs pla | 500 | 0 | silk pla vs pla
+- [ ] first-layer-problems | 3d print first layer issues | 470 | 0 | first layer test; 3d print first layer; 3d printing first layer problems; 3d printer first layer problems
+- [ ] snapmaker-vs-bambu | snapmaker vs bambu | 450 |  | snapmaker vs bambu lab
+- [ ] asa-vs-pla | asa vs pla | 450 | 1 | 
+- [ ] is-a-3d-printer-worth-it | is a 3d printer worth it | 450 | 0 | 
+- [ ] k1-vs-k2 | k1 vs k2 | 400 | 0 | 
+- [ ] is-petg-uv-resistant | is petg uv resistant | 400 | 0 | 
+- [ ] how-to-respool-filament | how to respool filament | 400 | 0 | 
+- [ ] creality-k2-plus-vs-k2-pro | creality k2 plus vs k2 pro | 400 |  | creality k2 pro vs k2 plus
+- [ ] bambu-x1c-vs-p2s | bambu x1c vs p2s | 400 |  | bambu p2s vs x1c
+- [ ] is-pla-waterproof | is pla waterproof | 400 | 0 | 
+- [ ] ender-3-pro-firmware | ender 3 pro firmware | 400 | 0 | 
+- [ ] what-is-slicing-in-3d-printing | what is slicing in 3d printing | 400 | 0 | 
+- [ ] creality-scan-software | creality scan software | 400 | 3 | 
+- [ ] ams-failed-to-pull-back-filament | ams failed to pull back filament | 400 | 0 | 
+- [ ] prusa-xl-firmware | prusa xl firmware | 400 |  | 
+- [ ] can-you-3d-print-carbon-fiber | can you 3d print carbon fiber | 350 | 1 | 
+- [ ] orca-slicer-vs-bambu-studio | orca slicer vs bambu studio | 350 | 0 | 
+- [ ] where-is-bambu-labs-located | where is bambu labs located | 350 | 3 | 
+- [ ] ender-3-v2-firmware | ender 3 v2 firmware | 350 | 2 | 
+- [ ] prusa-core-one-firmware | prusa core one firmware | 350 |  | 
+- [ ] ender-3-firmware | ender 3 firmware | 350 | 2 | 
+- [ ] can-you-3d-print-a-3d-printer | can you 3d print a 3d printer | 350 | 0 | 
+- [ ] how-to-3d-print-a-picture | how to 3d print a picture | 350 | 0 | 
+- [ ] klipper-github | klipper github | 350 | 0 | 
+- [ ] layer-shift-3d-printing | layer shift 3d printing | 340 | 2 | 3d print layer shift; 3d printer layer shift
+- [ ] what-do-you-need-for-a-3d-printer | what do you need for a 3d printer | 300 | 0 | 
+- [ ] do-you-need-a-computer-for-a-3d-printer | do you need a computer for a 3d printer | 300 | 0 | 
+- [ ] creality-vs-bambu | creality vs bambu | 300 | 0 | 
+- [ ] bambu-studio-software | bambu studio software | 300 | 0 | 
+- [ ] how-to-smooth-pla-prints | how to smooth pla prints | 300 | 0 | 
+- [ ] how-to-load-filament-bambu-a1 | how to load filament bambu a1 | 300 |  | 
+- [ ] how-to-remove-ptfe-tube-from-ams | how to remove ptfe tube from ams | 300 |  | 
+- [ ] snapmaker-u1-firmware | snapmaker u1 firmware | 300 |  | 
+- [ ] snapmaker-u1-vs-bambu-p2s | snapmaker u1 vs bambu p2s | 300 |  | 
+- [ ] creality-wifi-box | creality wifi box | 300 | 0 | 
+- [ ] how-long-to-cure-resin-prints | how long to cure resin prints | 300 | 0 | 
+- [ ] polycarbonate-vs-abs | polycarbonate vs abs | 300 | 2 | 
+- [ ] creality-k2-vs-bambu-p1s | creality k2 vs bambu p1s | 300 |  | 
+- [ ] how-many-grams-of-filament-in-a-roll | how many grams of filament in a roll | 300 | 0 | 
+- [ ] klipper-ender-3 | klipper ender 3 | 290 | 0 | ender 3 klipper
+- [ ] ender-3-firmware-update | ender 3 firmware update | 290 | 1 | how to update ender 3 firmware
+- [ ] klipper-vs-marlin | klipper vs marlin | 290 | 0 | marlin vs klipper
+- [ ] bambu-lab-firmware-update | bambu lab firmware update | 250 | 3 | bambu firmware update
+- [ ] can-you-3d-print-legos | can you 3d print legos | 250 | 0 | 
+- [ ] what-is-pc-filament | what is pc filament | 250 | 2 | 
+- [ ] does-petg-need-an-enclosure | does petg need an enclosure | 250 | 0 | 
+- [ ] is-elegoo-filament-good | is elegoo filament good | 250 | 0 | 
+- [ ] what-temp-does-pla-melt | what temp does pla melt | 250 | 0 | 
+- [ ] what-are-wall-loops-in-3d-printing | what are wall loops in 3d printing | 250 | 0 | 
+- [ ] can-you-3d-print-rubber | can you 3d print rubber | 250 | 0 | 
+- [ ] can-you-paint-pla | can you paint pla | 250 | 0 | 
+- [ ] how-to-paint-pla | how to paint pla | 250 | 0 | 
+- [ ] creality-firmware | creality firmware | 250 | 1 | 
+- [ ] what-is-3d-printing | what is 3d printing? | 250 | 0 | 
+- [ ] is-pla-safe-for-aquariums | is pla safe for aquariums | 250 | 0 | 
+- [ ] ender-3-vs-ender-3-pro | ender 3 vs ender 3 pro | 250 | 0 | 
+- [ ] flashforge-adventurer-5m-vs-5m-pro | flashforge adventurer 5m vs 5m pro | 250 | 0 | 
+- [ ] petg-hf-vs-cf | petg hf vs cf | 250 |  | 
+- [x] bambu-lab-p1s-vs-p2s-comparison | bambu lab p1s vs p2s comparison | 250 |  |  | blog/bambu-lab-p1s-vs-p2s
+- [ ] bambu-lab-p1s-firmware-update-2026 | bambu lab p1s firmware update 2026 | 250 |  | 
+- [ ] how-to-3d-print-multiple-colors | how to 3d print multiple colors | 250 | 0 | 
+- [ ] what-is-3d-printing-used-for | what is 3d printing used for | 250 | 0 | 
+- [ ] petg-vs-petg-plus | petg vs petg+ | 250 | 0 | 
+- [ ] can-you-3d-print-clear-plastic | can you 3d print clear plastic | 250 | 2 | 
+- [ ] prusa-core-one-vs-bambu-p2s | prusa core one vs bambu p2s | 200 |  | 
+- [ ] how-to-convert-stl-to-gcode | how to convert stl to gcode | 200 | 0 | 
+- [ ] creality-k2-vs-k2-pro | creality k2 vs k2 pro | 200 |  | 
+- [ ] petg-basic-vs-hf | petg basic vs hf | 200 |  | 
+- [ ] snapmaker-u1-vs-bambu-x2d | snapmaker u1 vs bambu x2d | 200 |  | 
+- [ ] bambu-ps1-vs-ps2 | bambu ps1 vs ps2 | 200 |  | 
+- [ ] bambu-p2s-vs-h2s | bambu p2s vs h2s | 200 |  | 
+- [ ] how-to-print-from-bambu-studio | how to print from bambu studio | 200 |  | 
+- [ ] how-to-recycle-pla-filament | how to recycle pla filament | 200 | 1 | 
+- [ ] asa-filament-vs-petg | asa filament vs petg | 200 | 2 | 
+- [ ] how-to-make-a-3d-printer | how to make a 3d printer | 200 | 1 | 
+- [ ] how-to-choose-a-3d-printer | how to choose a 3d printer | 200 | 2 | 
+- [ ] how-to-connect-3d-printer-to-computer | how to connect 3d printer to computer | 200 | 0 | how to connect a 3d printer to a computer
+- [ ] matte-pla-vs-pla | matte pla vs pla | 200 | 0 | 
+- [ ] klipper-screen | klipper screen | 200 | 0 | 
+- [ ] klipper-input-shaping | klipper input shaping | 200 | 0 | 
+- [ ] how-to-use-orca-slicer | how to use orca slicer | 200 | 0 | 
+- [ ] creality-ender-3-firmware | creality ender 3 firmware | 200 | 0 | 
+- [ ] ender-3-software | ender 3 software | 200 | 0 | 
+- [ ] bambu-lab-a1-setup | bambu lab a1 setup | 190 |  | bambu a1 setup
+- [ ] octoprint-vs-klipper | octoprint vs klipper | 190 | 0 | klipper vs octoprint
+- [ ] bambu-p1s-setup | bambu p1s setup | 180 | 1 | bambu lab p1s setup
+- [ ] how-to-load-filament-into-ams | how to load filament into ams | 150 |  | 
+- [ ] how-to-add-a-pause-in-bambu-studio | how to add a pause in bambu studio | 150 |  | 
+- [ ] how-to-connect-bambu-studio-to-printer | how to connect bambu studio to printer | 150 |  | how to connect bambu printer to bambu studio
+- [ ] ender-3-v3-se-firmware | ender 3 v3 se firmware | 150 | 0 | 
+- [ ] how-to-scale-in-bambu-studio | how to scale in bambu studio | 150 |  | 
+- [ ] ender-3-pro-firmware-update | ender 3 pro firmware update | 150 | 0 | 
+- [ ] creality-ender-3-pro-firmware | creality ender 3 pro firmware | 150 | 0 | 
+- [ ] klipper-pressure-advance | klipper pressure advance | 150 | 4 | 
+- [ ] 3d-printer-desk-setup | 3d printer desk setup | 150 | 0 | 
+- [ ] ender-3-pro-manual | ender 3 pro manual | 150 | 1 | 
+- [ ] klipper-pid-tune | klipper pid tune | 150 | 1 | 
+- [ ] bambu-p1s-manual | bambu p1s manual | 140 | 2 | bambu lab p1s manual
+- [ ] bambu-lab-a1-mini-setup | bambu lab a1 mini setup | 130 |  | bambu a1 mini setup
+- [ ] octoprint-plugins | octoprint plugins | 100 | 5 | 
+- [ ] creality-k2-plus-firmware | creality k2 plus firmware | 100 |  | 
+- [ ] ams-not-loading-filament | ams not loading filament | 100 |  | 
+- [ ] flashforge-adventurer-5m-manual | flashforge adventurer 5m manual | 100 |  | 
+- [ ] bambu-a1-manual | bambu a1 manual | 100 |  | bambu lab a1 manual
+- [ ] ams-not-feeding-filament | ams not feeding filament | 100 |  | 
+- [ ] ender-3-v2-manual | ender 3 v2 manual | 100 | 1 | 
+- [ ] why-is-my-3d-printer-not-printing | why is my 3d printer not printing | 100 | 1 | 
+- [ ] 3d-printer-not-printing | 3d printer not printing | 100 | 0 | 
+- [ ] mainsail-klipper | mainsail klipper | 100 | 0 | 
+- [ ] ender-3-v2-firmware-update | ender 3 v2 firmware update | 100 | 4 | 
+- [ ] klipper-macros | klipper macros | 100 | 3 | 
+- [ ] 3d-printer-not-extruding | 3d printer not extruding | 100 | 0 | 
+- [ ] home-3d-printer-setup | home 3d printer setup | 100 | 0 | 
+- [ ] ender-3-s1-firmware | ender 3 s1 firmware | 100 | 0 | 
+- [ ] ender-3-v3-se-firmware-update | ender 3 v3 se firmware update | 100 | 0 | 
+- [ ] creality-ender-3-v2-firmware | creality ender 3 v2 firmware | 100 | 0 | 
+- [ ] ender-3-s1-pro-firmware | ender 3 s1 pro firmware | 100 | 0 | 
+- [ ] best-octoprint-plugins | best octoprint plugins | 90 | 0 | 
+- [ ] klipper-rotation-distance-calculator | klipper rotation distance calculator | 80 | 0 | 
+- [ ] bambu-p1s-firmware | bambu p1s firmware | 80 | 4 | 
+- [ ] bambu-lan-only-mode | bambu lan only mode | 80 | 0 | 
+- [ ] marlin-firmware-ender-3 | marlin firmware ender 3 | 70 | 5 | 
+- [ ] bambu-error-code-05014024 | bambu error code 05014024 | 70 |  | 
+- [ ] 3d-printer-room-setup | 3d printer room setup | 70 | 0 | 
+- [ ] ender-3-manual | ender 3 manual | 70 | 3 | 
+- [ ] creality-wifi-box-2-0 | creality wifi box 2.0 | 70 | 0 | 
+- [ ] octoprint-ender-3 | octoprint ender 3 | 70 | 0 | 
+- [ ] ams-lite-not-loading-filament | ams lite not loading filament | 70 |  | 
+- [ ] bambu-a1-firmware | bambu a1 firmware | 70 |  | 
+- [ ] creality-ender-3-pro-manual | creality ender 3 pro manual | 70 | 0 | 
+- [ ] bambu-lan-mode | bambu lan mode | 70 | 0 | 
+- [ ] ender-3-setup | ender 3 setup | 60 | 0 | 
+- [ ] ender-3-pro-setup | ender 3 pro setup | 60 | 0 | 
+- [ ] bambu-lab-p1s-combo-unboxing-and-setup | bambu lab p1s combo unboxing and setup | 60 |  | 
+- [ ] bambu-lab-a1-combo-setup | bambu lab a1 combo setup | 60 |  | 
+- [ ] bambu-studio-not-connecting-to-printer | bambu studio not connecting to printer | 60 |  | 
+- [ ] how-to-connect-3d-printer-to-computer-wirelessly | how to connect 3d printer to computer wirelessly | 60 |  | 
+- [ ] creality-firmware-update | creality firmware update | 60 | 1 | 
+- [ ] klipper-timelapse | klipper timelapse | 60 | 0 | 
+- [ ] bambu-lab-firmware | bambu lab firmware | 60 | 2 | 
+- [ ] octoprint-install | octoprint install | 60 | 3 | 
+- [ ] fluidd-klipper | fluidd klipper | 60 | 1 | 
+- [ ] bambu-p2s-setup | bambu p2s setup | 50 |  | 
+- [ ] bambu-p2s-manual | bambu p2s manual | 50 |  | 
+- [ ] octoprint-alternatives | octoprint alternatives | 50 | 0 | 
+- [ ] how-to-update-octoprint | how to update octoprint | 50 | 3 | 
+- [ ] creality-ender-3-manual | creality ender 3 manual | 50 | 1 | 
+- [ ] creality-k1-max-firmware | creality k1 max firmware | 50 | 0 | 
+- [ ] creality-ender-3-v2-manual | creality ender 3 v2 manual | 50 | 1 | 
+- [ ] bambu-ams-setup | bambu ams setup | 50 | 4 | 
+- [ ] creality-k1-firmware | creality k1 firmware | 50 | 2 | 
+- [ ] creality-k2-firmware | creality k2 firmware | 50 |  | 
+- [ ] octoprint-vs-mainsail | octoprint vs mainsail | 40 | 0 | 
+
+## KD 6–10 — 26 articles
+
+- [ ] best-3d-printer-for-kids | 3d printer for kids | 28600 | 8 | best 3d printer for kids; kids 3d printer; 3d printer kids
+- [ ] best-3d-printer-for-beginners | best 3d printer for beginners | 21800 | 10 | best beginner 3d printer; 3d printer for beginners; beginner 3d printer; best entry level 3d printer; what is the best 3d printer for beginners
+- [ ] can-you-3d-print-metal | metal 3d printer | 16800 | 6 | 3d metal printer; metal 3d printing; 3d metal printing; 3d print metal; 3d printer metal; can you 3d print metal; can 3d printers print metal
+- [ ] how-to-make-stl-files | how to design 3d print models | 4850 | 6 | how to create 3d printer files; how to make 3d printer models; how to make 3d models for printing; how to design for 3d printing; how to design a 3d print model; how to make a 3d printer file; how to create 3d models for printing; how to make your own 3d print files; how to make a 3d model for printing; how to make stl files; how to design your own 3d prints bambu lab; how to create stl files for 3d printing; how to make a 3d print model; how to make 3d printer files
+- [ ] 3d-printed-food | 3d printed food | 3100 | 9 | 
+- [ ] 3d-printer-types | 3d printer types | 2700 | 8 | types of 3d printing
+- [ ] how-to-calibrate-a-3d-printer | how to calibrate a 3d printer | 2650 | 8 | z offset calibration; first layer calibration; prusa first layer calibration
+- [ ] 3d-food-printer | 3d food printer | 2500 | 9 | 3d printing food
+- [ ] 3d-printed-steak | 3d printed steak | 2100 | 6 | 
+- [ ] bambu-pla | bambu pla | 1900 | 8 | 
+- [ ] bambulab-filament | bambulab filament | 1800 | 6 | 
+- [ ] 3d-printing-materials | 3d printing materials | 1700 | 9 | 
+- [ ] wood-filament | wood filament | 1600 | 7 | 
+- [ ] creality-filament-recycler | creality filament recycler | 1500 | 6 | 
+- [ ] creality-software | creality software | 1300 | 9 | 
+- [ ] flashforge-slicer | flashforge slicer | 1300 | 9 | 
+- [ ] u1-3d-printer | u1 3d printer | 1300 | 6 | 
+- [ ] bambu-lab-a1-mini-price | bambu lab a1 mini price | 1200 | 7 | 
+- [ ] bambu-lab-x1-carbon-price | bambu lab x1 carbon price | 1100 | 10 | 
+- [ ] 3d-printed-hand | 3d printed hand | 1100 | 8 | 
+- [ ] under-extrusion-vs-over-extrusion | under extrusion | 1020 | 9 | 3d printer under extrusion; over extrusion; under extrusion 3d printing; over extrusion 3d printing; 3d printer over extrusion; under extrusion vs over extrusion; over extrusion vs under extrusion; how to fix over extrusion
+- [ ] 3d-print-stringing | 3d print stringing | 920 | 7 | what causes stringing in 3d printing; stringing 3d print fix
+- [ ] 3d-print-warping | 3d print warping | 340 | 8 | 3d print warping off bed
+- [ ] can-you-3d-print-food | can you 3d print food | 300 | 6 | 
+- [ ] 3d-printer-buying-guide | 3d printer buying guide | 250 | 6 | 
+- [ ] 3d-printer-problems | 3d printer problems | 90 | 6 | 
+
+## KD 11–20 — 38 articles
+
+- [ ] 3d-printed-house | 3d printed house | 36300 | 12 | 3d printed homes; icon 3d printed homes; 3d printing houses; 3d printed house cost; 3d printed home
+- [ ] how-much-does-a-3d-printer-cost | how much is a 3d printer | 29350 | 11 | 3d printer price; 3d printer cost; how much does a 3d printer cost; most expensive 3d printer; cost of 3d printer; how much is a 3d printer for home; how much is 3d printer; how much does 3d printer filament cost; how to make money with a 3d printer; how much is 3d printer filament; is 3d printing expensive; how expensive is a 3d printer; how much is filament for a 3d printer; how much money is a 3d printer; how much is a 3d printer cost
+- [ ] resin-vs-filament-3d-printer | resin 3d printer | 25450 | 13 | best resin 3d printer; resin vs filament 3d printer; resin printer vs 3d printer; resin 3d printer vs filament; resin vs filament; 3d printer resin vs filament; resin printer vs filament; fdm vs resin; filament vs resin 3d printer
+- [ ] 3d-printer-software | 3d printer software | 19250 | 11 | best 3d printing software; cad software for 3d printing; free cad software for 3d printing; software for 3d printing; 3d printer design software; 3d printing apps; 3d printer app; 3d printer apps; creality 3d printer software; what software to use for 3d printing; ender 3d printer software; best 3d printer software; flashforge 3d printer software; dremel 3d printer software
+- [ ] resin-printer | resin printer | 18200 | 13 | 3d printer resin; resin 3d printing
+- [ ] prusa-slicer | prusa slicer | 16000 | 12 | 
+- [ ] 3d-printed-meat | 3d printed meat | 14000 | 15 | 
+- [ ] what-is-pla | what is pla | 8000 | 12 | what does pla stand for; what is pla filament; what is pla made of; what is pla plastic; what is pla filament made of; what does pla stand for 3d printing; what is a pla
+- [ ] 3d-scanner-for-3d-printer | 3d scanner for 3d printer | 7500 | 12 | 3d scanner for 3d printing; 3d printer scanner
+- [ ] how-to-use-a-3d-printer | how to 3d print | 7300 | 12 | how to use a 3d printer; 3d printing for beginners; how to use 3d printer; how to 3d print something; how to start 3d printing; is 3d printing hard; how do you use a 3d printer; how to work a 3d printer; how to use a 3d printer for beginners
+- [ ] pla-plastic | pla plastic | 3700 | 16 | 
+- [ ] large-format-3d-printer | large format 3d printer | 3200 | 14 | 
+- [ ] bambu-lab-app | bambu lab app | 3000 | 16 | bambu labs app; bambu app
+- [ ] small-3d-printer | small 3d printer | 2300 | 14 | 
+- [ ] 3d-printed-shoes | 3d printed shoes | 2300 | 20 | 
+- [ ] what-is-an-stl-file | what is an stl file | 1900 | 12 | what is a stl file
+- [ ] good-3d-printer | good 3d printer | 1800 | 16 | 
+- [ ] 3d-printed-organs | 3d printed organs | 1700 | 11 | 
+- [ ] scan-for-3d-print | scan for 3d print | 1600 | 12 | 
+- [ ] commercial-3d-printer | commercial 3d printer | 1300 | 20 | 
+- [ ] 3d-printing-innovations | 3d printing innovations | 1300 | 12 | 
+- [ ] 3d-laser-printer | 3d laser printer | 1300 | 15 | 
+- [ ] is-pla-biodegradable | is pla biodegradable | 1100 | 18 | 
+- [ ] bambu-studio-update | bambu studio update | 900 | 12 | how to update bambu studio
+- [ ] flashforge-software | flashforge software | 800 | 16 | 
+- [ ] where-to-buy-3d-printer-filament | where to buy 3d printer filament | 700 | 12 | 
+- [ ] creality-cloud-app | creality cloud app | 600 | 16 | 
+- [ ] what-is-a-3mf-file | what is a 3mf file | 600 | 16 | 
+- [ ] bambu-connect | bambu connect | 600 | 11 | 
+- [ ] prusa-firmware | prusa firmware | 600 | 12 | 
+- [ ] how-to-open-stl-files | how to open stl files | 250 | 12 | 
+- [ ] klipper-firmware | klipper firmware | 150 | 11 | 
+- [ ] octoprint-anywhere | octoprint anywhere | 150 | 17 | 
+- [ ] 3d-print-problems | 3d print problems | 90 | 19 | 
+- [ ] octoprint-setup | octoprint setup | 80 | 13 | 
+- [ ] klipper-install | klipper install | 70 | 15 | 
+- [ ] obico-for-klipper | obico for klipper | 60 | 11 | 
+- [ ] how-to-use-octoprint | how to use octoprint | 50 | 12 | 
+
+## KD 21–35 — 21 articles
+
+- [ ] 3d-printer-filament-types | what is a 3d filament | 149000 | 30 | 3d filament; 3d printer filament types; 3d printer filament types and uses; what is filament; what is a filament; what material is used for 3d printing; what material does a 3d printer use; what is 3d printer filament made of; what is the best filament for 3d printing
+- [ ] best-3d-printer | best 3d printer | 36000 | 34 | 
+- [ ] bambu-handy | bambu handy | 19000 | 30 | 
+- [ ] creality-slicer | creality slicer | 16000 | 21 | 
+- [ ] bambu-slicer | bambu slicer | 7100 | 28 | 
+- [ ] creality-cloud | creality cloud | 6600 | 26 | 
+- [ ] how-does-a-3d-printer-work | how does a 3d printer work | 6150 | 23 | how does a 3d printer work step by step; how does 3d printer work; 3d printer how it works; how a 3d printer works; how 3d printing works
+- [ ] best-3d-printer-2026 | best 3d printer 2026 | 5300 | 33 | 
+- [ ] bambu-labs-software | bambu labs software | 5300 | 28 | bambu lab software; bambu software
+- [ ] octoprint | octoprint | 4650 | 23 | what is octoprint
+- [ ] bambu-handy-app | bambu handy app | 3100 | 28 | 
+- [ ] creality-print | creality print | 3100 | 31 | 
+- [ ] bambu-wiki | bambu wiki | 3000 | 26 | 
+- [ ] best-budget-3d-printer | best budget 3d printer | 2800 | 22 | 
+- [ ] when-was-3d-printing-invented | when was 3d printing invented | 1300 | 23 | 
+- [ ] bambu-studio-app | bambu studio app | 900 | 31 | 
+- [ ] creality-print-software | creality print software | 800 | 24 | 
+- [ ] when-was-the-first-3d-printer-made | when was the first 3d printer made | 700 | 23 | 
+- [ ] creality-app | creality app | 500 | 24 | 
+- [ ] 3d-printer-filament-guide | 3d printer filament guide | 200 | 27 | 
+- [ ] kiauh-klipper | kiauh klipper | 150 | 27 | 
+
+## KD over 35 (later) — 4 articles
+
+- [ ] bambu-studio | bambu studio | 48450 | 42 | is bambu studio free
+- [ ] orcaslicer | orcaslicer | 9800 | 51 | 
+- [ ] cura-slicer | cura slicer | 8500 | 40 | 
+- [ ] octoprint-raspberry-pi | octoprint raspberry pi | 430 | 39 | raspberry pi octoprint

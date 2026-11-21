@@ -6,7 +6,7 @@ const NAV = [
   ['/3d-viewer/', '3D viewer'],
   ['/image-to-stl/', 'Image to STL'],
   ['/printers/', 'Printers'],
-  ['/guides/', 'Guides'],
+  ['/blog/', 'Blog'],
 ];
 
 export default function Header() {

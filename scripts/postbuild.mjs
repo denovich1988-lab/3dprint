@@ -12,5 +12,5 @@ const title = (u) => { const h = fs.readFileSync(path.join(dist, u, 'index.html'
 const lines = ['# my3dprinter.io', '', '> Free in-browser 3D model viewers and converters (STL, 3MF, STEP, OBJ, GLB, FBX, PLY, USDZ, G-code), image-to-STL and lithophane tools, DDS texture converters, and independent 3D printer guides. Files are processed on the user’s device and never uploaded.', ''];
 for (const u of urls.sort()) if (u !== '//' && !u.includes('_placeholder') && !u.startsWith('/404')) lines.push(`- [${title(u)}](${site}${u.replace(/^\/\//, '/')})`);
 fs.writeFileSync(path.join(dist, 'llms.txt'), lines.join('\n') + '\n');
-for (const p of ['guides/_placeholder', 'printers/_placeholder']) fs.rmSync(path.join(dist, p), { recursive: true, force: true });
+for (const p of ['blog/_placeholder', 'printers/_placeholder']) fs.rmSync(path.join(dist, p), { recursive: true, force: true });
 console.log(`dist ready: ${urls.length} pages`);

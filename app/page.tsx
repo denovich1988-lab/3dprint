@@ -25,7 +25,7 @@ export default function Home() {
   const top = TOOLS.filter((t) => t.kind === 'mesh').sort((a, b) => b.volume - a.volume).slice(0, 16);
   const img = TOOLS.filter((t) => ['image', 'svg', 'dds-encode', 'dds-decode'].includes(t.kind));
   const viewers = TOOLS.filter((t) => t.kind === 'viewer');
-  const guides = listDocs('guides').slice(0, 6);
+  const guides = listDocs('blog').slice(0, 6);
   const printers = listDocs('printers').slice(0, 6);
   return (
     <>
@@ -74,9 +74,9 @@ export default function Home() {
 
         {(printers.length > 0 || guides.length > 0) && (
           <section className="section" aria-labelledby="guide-h">
-            <h2 id="guide-h">3D printers and guides</h2>
+            <h2 id="guide-h">3D printers and blog</h2>
             <div className="cols">
-              {[...printers.map((d) => ({ d, base: '/printers/' })), ...guides.map((d) => ({ d, base: '/guides/' }))].slice(0, 9).map(({ d, base }) => (
+              {[...printers.map((d) => ({ d, base: '/printers/' })), ...guides.map((d) => ({ d, base: '/blog/' }))].slice(0, 9).map(({ d, base }) => (
                 <div className="card" key={base + d.slug}><h3><Link href={`${base}${d.slug}/`}>{d.title}</Link></h3><p>{d.description}</p></div>
               ))}
             </div>

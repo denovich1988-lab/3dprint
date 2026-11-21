@@ -5,17 +5,17 @@ import { meta } from '@/lib/seo';
 
 export const dynamicParams = false;
 export function generateStaticParams() {
-  const d = listDocs('guides').map((x) => ({ slug: x.slug }));
+  const d = listDocs('blog').map((x) => ({ slug: x.slug }));
   return d.length ? d : [{ slug: '_placeholder' }];
 }
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
-  const d = getDoc('guides', slug);
-  return d ? meta({ title: d.seoTitle || d.title, description: d.description, path: `/guides/${slug}/`, type: 'article' }) : {};
+  const d = getDoc('blog', slug);
+  return d ? meta({ title: d.seoTitle || d.title, description: d.description, path: `/blog/${slug}/`, type: 'article' }) : {};
 }
 export default async function Page({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
-  const d = getDoc('guides', slug);
+  const d = getDoc('blog', slug);
   if (!d) notFound();
-  return <DocPage d={d} section={{ name: 'Guides', path: '/guides/' }} />;
+  return <DocPage d={d} section={{ name: 'Blog', path: '/blog/' }} />;
 }

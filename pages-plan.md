@@ -1,0 +1,243 @@
+# my3dprinter.io – printer pages and tool pages
+
+From docs/3d-printing-keywords.xlsx. Blog articles are planned in blog-keywords.md.
+Line: `- [ ] slug | main keyword | US volume (all variants) | KD | variants`. Tick with the path when published; `- [-]` with a reason if not possible.
+
+Printer pages go to content/printers/YYYY-MM-DD-<slug>.md (use a clean slug like bambu-lab-h2d). Brand queries such as "bambu 3d printer" become a brand hub page (e.g. bambu-lab-3d-printers) listing all models.
+
+## Printer models and brand hubs (118)
+
+- [ ] bambu-3d-printer | bamboo 3d printer | 104700 | 1 | bambu 3d printer; bambu lab 3d printer; bambu printer; bambu labs 3d printer; my bambu; 3d printer bambu lab; bambu 3d printers; bambu printer 3d
+- [x] bambu-lab-a1 | bambu lab a1 | 97200 | 3 | bambu a1; bambu lab a1 3d printer; bambu labs a1; bambu lab a1 combo; bambu lab a1 combo 3d printer; bambu a1 combo; bambu a1 3d printer; bambu labs a1 combo; bambu lab 3d printer a1 | printers/bambu-lab-a1
+- [x] bambu-p2s | bambu p2s | 61600 | 15 | bambu lab p2s; bambu lab p2s 3d printer; bambu labs p2s; bambu lab p2s combo; p2s bambu; bambu p2s combo; bambu lab p2s combo 3d printer | printers/bambu-lab-p2s
+- [x] bambu-lab-a1-mini | bambu lab a1 mini | 57900 | 26 | bambu lab a1 mini 3d printer; bambu a1 mini; bambu labs a1 mini; bambu lab a1 mini combo 3d printer | printers/bambu-lab-a1-mini
+- [x] bambu-lab-p1s-3d-printer | bambu lab p1s 3d printer | 54800 | 25 | bambu p1s; bambu lab p1s combo; bambu p1s combo; bambu lab ps1; p1s bambu | printers/bambu-lab-p1s
+- [ ] snapmaker-u1 | snapmaker u1 | 41100 | 11 | snapmaker u1 3d printer
+- [ ] bambu-lab-x1-carbon | bambu lab x1 carbon | 39500 | 0 | bambu x1c; bambu lab x1; bambu x1 carbon; bambu labs x1 carbon; bambu lab x1 carbon 3d printer; bambu lab x1c; bambu lab x1 carbon combo 3d printer; bambu labs x1c
+- [ ] bambu-h2c | bambu h2c | 25700 | 7 | bambu lab h2c; bambu labs h2c; h2c bambu lab
+- [ ] elegoo-centauri-carbon | elegoo centauri carbon | 25200 | 4 | elegoo centauri carbon 3d printer
+- [ ] flashforge-adventurer-5m-3d-printer | flashforge adventurer 5m 3d printer | 25000 | 27 | flashforge adventurer 5m
+- [ ] toybox-3d-printer | toybox 3d printer | 23000 | 1 | 
+- [ ] bambu-x2d | bambu x2d | 22000 | 12 | bambu lab x2d; bambu lab x2d 3d printer; x2d bambu; bambu labs x2d; bambu lab x2d printer
+- [ ] bambu-h2s | bambu h2s | 19900 | 3 | bambu lab h2s; h2s bambu; bambu lab h2s 3d printer
+- [ ] bambu-h2d | bambu h2d | 18700 | 10 | bambu lab h2d 3d printer; h2d bambu
+- [ ] bambu-ams | bambu ams | 18200 | 8 | bambu lab ams; ams bambu
+- [ ] ender-3-pro | ender 3 pro | 17800 | 4 | creality ender 3 pro; creality ender 3 pro 3d printer
+- [ ] prusa-3d-printer | prusa 3d printer | 15100 | 16 | prusa printers
+- [ ] ender-3 | ender 3 | 15100 | 4 | ender 3 3d printer
+- [ ] prusa-xl | prusa xl | 15000 | 3 | 
+- [ ] prusa-mk4 | prusa mk4 | 12000 | 20 | 
+- [ ] prusa-core-one | prusa core one | 12000 | 29 | 
+- [ ] anycubic-kobra-s1-combo-3d-printer | anycubic kobra s1 combo 3d printer | 9900 | 4 | anycubic kobra s1
+- [ ] bambu-makerworld | bambu makerworld | 9200 | 1 | bambu labs makerworld; makerworld bambu
+- [ ] ender-3d-printer | ender 3d printer | 9000 | 6 | 
+- [ ] bambu-lab-ams-lite | bambu lab ams lite | 8300 | 26 | bambu ams lite
+- [ ] creality-ender-3-v3-se | creality ender 3 v3 se | 7700 | 28 | creality ender 3 v3 se 3d printer
+- [ ] flashforge-ad5x | flashforge ad5x | 7200 | 2 | 
+- [ ] creality-k2-combo | creality k2 combo | 7200 | 1 | creality k2 combo 3d printer; creality k2
+- [ ] ender-3-v2 | ender 3 v2 | 6700 | 0 | creality ender 3 v2
+- [ ] prusa-mini | prusa mini | 6000 | 5 | 
+- [ ] ender-3-v3 | ender 3 v3 | 5800 | 3 | 
+- [ ] toy-box-3d-printer | toy box 3d printer | 5500 | 5 | 
+- [ ] bambu-lab-ams-2-pro-automatic-material-system | bambu lab ams 2 pro automatic material system | 5100 | 3 | 
+- [ ] bambu-a2l | bambu a2l | 4800 | 12 | bambu lab a2l
+- [ ] elegoo-centauri-carbon-2 | elegoo centauri carbon 2 | 4700 | 1 | 
+- [ ] bambu-lab-ams-2-pro | bambu lab ams 2 pro | 4500 | 4 | bambu ams 2 pro
+- [ ] creality-k2-plus-3d-printer | creality k2 plus 3d printer | 4400 | 44 | 
+- [ ] creality-k1c | creality k1c | 4400 | 7 | creality k1c 3d printer
+- [x] a1-mini-3d-printer | a1 mini 3d printer | 4200 | 5 |  | printers/bambu-lab-a1-mini
+- [ ] bambu-lab-ams-ht-automatic-material-system | bambu lab ams ht automatic material system | 4100 | 1 | 
+- [ ] prusa-indx | prusa indx | 3900 | 25 | 
+- [ ] elegoo-saturn-4-ultra | elegoo saturn 4 ultra | 3900 | 4 | 
+- [ ] creality-3d-scanner | creality 3d scanner | 3900 | 0 | creality scanner
+- [ ] flashforge-adventurer-5m-pro | flashforge adventurer 5m pro | 3400 | 1 | flashforge adventurer 5m pro 3d printer
+- [ ] ender-3-s1 | ender 3 s1 | 3400 | 0 | 
+- [ ] anycubic-3d-printer | anycubic 3d printer | 3400 | 10 | 
+- [x] a1-3d-printer | a1 3d printer | 3400 | 20 |  | printers/bambu-lab-a1
+- [x] p1s-3d-printer | p1s 3d printer | 3300 | 7 |  | printers/bambu-lab-p1s
+- [ ] anycubic-kobra-x | anycubic kobra x | 3300 | 2 | 
+- [ ] creality-k2-pro | creality k2 pro | 3200 | 3 | 
+- [ ] flashforge-3d-printer | flashforge 3d printer | 3100 | 1 | 
+- [ ] creality-k1-max | creality k1 max | 3100 | 31 | 
+- [ ] flashforge-ad5x-multicolor-3d-printer | flashforge ad5x multicolor 3d printer | 3000 | 0 | 
+- [ ] bambu-lab-r1 | bambu lab r1 | 2700 |  | 
+- [ ] bambu-lab-h2d-ams-combo-3d-printer | bambu lab h2d ams combo 3d printer | 2700 | 0 | 
+- [ ] ams-3d-printer | ams 3d printer | 2700 | 1 | ams 3d printing
+- [ ] snapmaker-3d-printer | snapmaker 3d printer | 2600 | 3 | 
+- [ ] elegoo-neptune-3-pro | elegoo neptune 3 pro | 2600 | 0 | 
+- [ ] x1-carbon-3d-printer | x1 carbon 3d printer | 2500 | 0 | 
+- [ ] qidi-q2 | qidi q2 | 2500 | 0 | 
+- [ ] ender-5-plus | ender 5 plus | 2500 | 0 | 
+- [ ] ender-5 | ender 5 | 2500 | 0 | 
+- [ ] voron-2-4 | voron 2.4 | 2400 | 5 | 
+- [ ] prusa-mk4s | prusa mk4s | 2400 | 26 | 
+- [ ] creality-cfs | creality cfs | 2400 | 4 | 
+- [ ] ultimaker-s5 | ultimaker s5 | 2200 | 4 | 
+- [ ] elegoo-mars-5-ultra | elegoo mars 5 ultra | 2200 | 1 | 
+- [ ] elegoo-3d-printer | elegoo 3d printer | 2200 | 11 | 
+- [ ] bambu-lab-h2c-ams-combo-3d-printer | bambu lab h2c ams combo 3d printer | 2200 | 2 | 
+- [ ] elegoo-neptune-4-max | elegoo neptune 4 max | 2100 | 0 | 
+- [ ] formlabs-form-4 | formlabs form 4 | 2000 | 9 | 
+- [ ] flashforge-adventurer-3 | flashforge adventurer 3 | 2000 | 0 | 
+- [ ] elegoo-neptune-4 | elegoo neptune 4 | 2000 | 19 | 
+- [ ] creality-k1 | creality k1 | 2000 | 26 | 
+- [ ] prusa-i3 | prusa i3 | 1900 | 11 | 
+- [ ] original-prusa-mk4s-3d-printer-kit | original prusa mk4s 3d printer kit | 1900 | 3 | 
+- [x] p2s-3d-printer | p2s 3d printer | 1800 | 3 |  | printers/bambu-lab-p2s
+- [ ] creality-falcon | creality falcon | 1800 | 5 | 
+- [ ] creality-cr-10 | creality cr-10 | 1800 | 0 | 
+- [ ] anycubic-kobra | anycubic kobra | 1800 | 15 | 
+- [ ] qidi-3d-printer | qidi 3d printer | 1700 | 15 | 
+- [ ] prusa-mk3 | prusa mk3 | 1700 | 11 | 
+- [ ] h2d-3d-printer | h2d 3d printer | 1700 | 0 | 
+- [ ] creality-sparkx-i7 | creality sparkx i7 | 1700 | 4 | 
+- [ ] bambu-lab-h2d-pro | bambu lab h2d pro | 1700 | 2 | 
+- [ ] anycubic-photon | anycubic photon | 1700 | 12 | 
+- [ ] sovol-sv08 | sovol sv08 | 1600 | 0 | 
+- [ ] elegoo-saturn-4-ultra-16k | elegoo saturn 4 ultra 16k | 1600 | 0 | 
+- [ ] bambu-lab-x1e | bambu lab x1e | 1600 | 4 | 
+- [ ] anycubic-photon-mono-4-3d-printer | anycubic photon mono 4 3d printer | 1600 | 3 | 
+- [ ] anycubic-kobra-3 | anycubic kobra 3 | 1600 | 7 | 
+- [ ] prusa-mk3s | prusa mk3s | 1500 | 7 | 
+- [ ] creality-k3 | creality k3 | 1500 | 23 | 
+- [ ] creality-falcon-a1 | creality falcon a1 | 1500 | 12 | 
+- [ ] h2c-3d-printer | h2c 3d printer | 1400 | 0 | 
+- [ ] creality-hi | creality hi | 1400 | 2 | 
+- [ ] creality-filament-maker | creality filament maker | 1400 | 5 | 
+- [ ] snapmaker-artisan | snapmaker artisan | 1300 | 14 | 
+- [ ] ender-3-s1-pro | ender 3 s1 pro | 1300 | 0 | 
+- [ ] elegoo-orange-storm-giga | elegoo orange storm giga | 1300 | 0 | 
+- [ ] elegoo-jupiter | elegoo jupiter | 1300 | 2 | 
+- [ ] bambu-lab-ams-hub | bambu lab ams hub | 1300 | 4 | 
+- [ ] stratasys-3d-printer | stratasys 3d printer | 1200 | 1 | 
+- [ ] prusa-core-one-plus-3d-printer | prusa core one+ 3d printer | 1200 | 14 | 
+- [ ] prusa-core-one-l | prusa core one l | 1200 | 6 | 
+- [ ] flashforge-creator-pro | flashforge creator pro | 1200 | 0 | 
+- [ ] dremel-3d-printer | dremel 3d printer | 1200 | 1 | 
+- [ ] bambu-lab-p1s-specs | bambu lab p1s specs | 1200 | 12 | 
+- [ ] glowforge-aura-laser-3d-printer | glowforge aura laser 3d printer | 1100 | 10 | 
+- [ ] ender-3-max | ender 3 max | 1100 | 0 | 
+- [ ] elegoo-mars | elegoo mars | 1100 | 4 | 
+- [ ] creality-space-pi | creality space pi | 1100 | 6 | 
+- [ ] creality-otter | creality otter | 1100 | 1 | 
+- [ ] creality-k1-se | creality k1 se | 1100 | 0 | 
+- [ ] anycubic-photon-mono | anycubic photon mono | 1100 | 16 | 
+- [ ] anycubic-kobra-3-max | anycubic kobra 3 max | 1100 | 1 | 
+- [ ] qidi-plus-4 | qidi plus 4 | 1000 | 3 | 
+- [ ] elegoo-mars-3 | elegoo mars 3 | 1000 | 0 | 
+
+## Converters, viewers and format pages (113)
+
+- [x] 3mf-to-stl | 3mf to stl | 7950 | 0 | convert 3mf to stl; 3mf to stl converter; .3mf to stl | /3mf-to-stl/
+- [x] 3d-viewer | 3d viewer | 6550 | 61 | 3d model viewer; online 3d viewer; 3d viewer online; 3d file viewer; 3d object viewer; view in 3d; online 3d model viewer | /3d-viewer/
+- [x] image-to-stl | image to stl | 6450 | 40 | image to stl converter; convert image to stl; image to stl file | /image-to-stl/
+- [x] png-to-stl | png to stl | 4600 | 45 | png to stl converter; convert png to stl | /png-to-stl/
+- [x] png-to-dds | png to dds | 3950 | 0 | png to dds converter | /png-to-dds/
+- [x] step-to-stl | step to stl | 3730 | 1 | step to stl converter; stp to stl; convert step to stl; step file to stl; .step to stl; convert stp to stl; stp to stl converter; stp file to stl | /step-to-stl/
+- [ ] stl-to-step | stl to step | 3420 | 0 | stl to step converter; convert stl to step; stl to stp; stl to step file converter; stl to step file
+- [x] dds-to-png | dds to png | 3150 | 0 | dds to png converter | /dds-to-png/
+- [x] svg-to-stl | svg to stl | 2750 | 0 | convert svg to stl; svg to stl converter | /svg-to-stl/
+- [ ] png-to-dxf | png to dxf | 2750 | 0 | png to dxf converter; convert png to dxf
+- [x] jpg-to-stl | jpg to stl | 2590 | 9 | jpeg to stl; jpg to stl converter; convert jpg to stl; jpeg to stl converter; jpg to stl converter free | /jpg-to-stl/
+- [x] glb-to-stl | glb to stl | 2500 | 0 | glb to stl converter; convert glb to stl | /glb-to-stl/
+- [x] stl-to-3mf | stl to 3mf | 2450 | 0 | stl to 3mf converter; convert stl to 3mf | /stl-to-3mf/
+- [ ] svg-to-dxf | svg to dxf | 2300 | 1 | 
+- [ ] glb-file | glb file | 2100 | 2 | .glb file
+- [x] step-viewer | stp file viewer | 2000 | 46 | stp viewer; online step file viewer; stp viewer online | /step-viewer/
+- [x] obj-to-stl | obj to stl | 1850 | 0 | obj to stl converter; convert obj to stl | /obj-to-stl/
+- [ ] step-file | stp file | 1700 | 12 | 
+- [x] glb-to-obj | glb to obj | 1700 | 0 | glb to obj converter | /glb-to-obj/
+- [ ] 3mf-file | 3mf file | 1700 | 0 | 
+- [x] stl-to-obj | stl to obj | 1450 | 0 | stl to obj converter; convert stl to obj | /stl-to-obj/
+- [ ] glb-to-fbx | glb to fbx | 1450 | 1 | glb to fbx converter
+- [ ] stl-converter | stl converter | 1300 | 48 | 
+- [x] fbx-to-obj | fbx to obj | 1280 | 0 | fbx to obj converter; convert fbx to obj | /fbx-to-obj/
+- [ ] gif-to-frames | gif to frames | 1000 | 0 | 
+- [ ] jpg-to-dxf | jpg to dxf | 950 | 0 | jpeg to dxf
+- [x] gcode-to-stl | gcode to stl | 950 | 0 | gcode to stl converter; convert gcode to stl | /gcode-to-stl/
+- [ ] ai-viewer | ai file viewer | 950 | 5 | ai viewer; .ai file viewer
+- [ ] png-to-cur | png to cur | 900 | 0 | 
+- [ ] png-combiner | png combiner | 900 | 0 | 
+- [x] obj-viewer | obj viewer | 900 | 44 |  | /obj-viewer/
+- [x] zip-to-stl | zip to stl | 800 | 0 | zip to stl converter | /zip-to-stl/
+- [ ] merge-png | merge png | 800 | 0 | 
+- [x] fbx-to-stl | fbx to stl | 770 | 0 | convert fbx to stl; fbx to stl converter | /fbx-to-stl/
+- [ ] 2d-to-3d | 2d to 3d image converter | 750 | 12 | 2d to 3d converter
+- [ ] large-to-jpg | jpg large to jpg | 700 | 5 | 
+- [ ] dds-viewer | dds viewer | 690 | 0 | dds file viewer; online dds viewer
+- [ ] dxf-converter | dxf converter | 600 | 3 | 
+- [ ] dds-file | dds file | 600 | 0 | 
+- [ ] cur-to-png | cur to png | 550 | 0 | .cur to png
+- [ ] obj-to-fbx | obj to fbx | 530 | 0 | obj to fbx with textures; obj to fbx converter
+- [ ] picture-to-stl | picture to stl | 500 | 0 | 
+- [ ] image-to-dxf | image to dxf | 500 | 2 | 
+- [x] gltf-to-obj | gltf to obj | 500 | 0 | gltf to obj converter | /gltf-to-obj/
+- [x] dae-to-obj | dae to obj | 470 | 0 | convert dae to obj | /dae-to-obj/
+- [ ] stl-to-gcode | stl to gcode converter | 450 | 2 | 
+- [ ] gif-frame-extractor | gif frame extractor | 450 | 0 | 
+- [ ] dae-file | dae file | 450 | 0 | .dae file
+- [x] ply-to-stl | ply to stl | 430 | 0 | ply to stl converter; convert ply to stl | /ply-to-stl/
+- [ ] stl-file-converter | stl file converter | 400 | 34 | 
+- [ ] igs-file | igs file | 400 | 1 | 
+- [x] stl-to-dxf | stl to dxf | 390 | 0 | convert stl to dxf | /stl-to-dxf/
+- [ ] gltf-to-fbx | gltf to fbx | 390 | 0 | gltf to fbx converter
+- [ ] zip-to-png | zip to png | 350 | 0 | 
+- [ ] usdz | usdz | 350 | 22 | 
+- [ ] ppm-viewer | ppm viewer | 350 | 0 | 
+- [ ] png-to-3d | png to 3d model | 350 | 2 | 
+- [ ] image-to-3d | convert image to 3d model | 350 | 31 | 
+- [ ] fbx-converter | fbx converter | 350 | 2 | 
+- [ ] dae-to-fbx | dae to fbx | 350 | 0 | dae to fbx converter
+- [ ] convert-to-stl | convert to stl | 350 | 0 | 
+- [x] 3mf-viewer | 3mf viewer | 350 | 0 |  | /3mf-viewer/
+- [x] png-to-obj | png to obj | 340 | 0 | png to obj converter | /png-to-obj/
+- [ ] picture-to-3d | picture to 3d model converter | 300 | 12 | convert picture to 3d model
+- [ ] photo-to-stl | photo to stl | 300 | 39 | 
+- [x] gltf-to-stl | gltf to stl | 300 | 0 |  | /gltf-to-stl/
+- [ ] glb-file-format | glb file format | 300 | 6 | 
+- [x] fbx-to-glb | fbx to glb | 300 | 0 |  | /fbx-to-glb/
+- [ ] dds-converter | dds converter | 300 | 0 | 
+- [ ] 3d-model-converter | 3d model converter | 300 | 10 | 
+- [ ] usdz-file | usdz file | 250 | 9 | 
+- [x] ply-viewer | ply viewer | 250 | 0 |  | /ply-viewer/
+- [x] obj-to-glb | obj to glb | 250 | 0 |  | /obj-to-glb/
+- [ ] obj-converter | obj converter | 250 | 0 | 
+- [ ] dxf-to-stl | dxf to stl | 250 | 0 | 
+- [ ] 3mf-to-step | 3mf to step | 250 | 0 | 
+- [ ] 3d-file-converter | 3d file converter | 250 | 18 | 
+- [ ] stl-to-fbx | stl to fbx | 200 | 0 | 
+- [ ] pdf-to-stl | pdf to stl | 200 | 0 | 
+- [x] 3mf-to-obj | 3mf to obj | 200 | 0 |  | /3mf-to-obj/
+- [ ] 3d-converter | 3d converter | 200 | 36 | 
+- [ ] stl-converter-free | stl converter free | 150 | 34 | 
+- [ ] step-file-converter | step file converter | 150 | 0 | 
+- [x] png-to-3mf | png to 3mf | 150 | 0 |  | /png-to-3mf/
+- [ ] image-to-obj | image to obj | 150 | 0 | 
+- [x] dae-to-stl | dae to stl | 150 | 0 |  | /dae-to-stl/
+- [ ] convert-to-obj | convert to obj | 150 | 1 | 
+- [x] 3ds-to-obj | 3ds to obj | 110 | 0 | convert 3ds to obj | /3ds-to-obj/
+- [x] usdz-to-stl | usdz to stl | 100 | 0 |  | /usdz-to-stl/
+- [x] svg-to-obj | svg to obj | 100 | 0 |  | /svg-to-obj/
+- [ ] stl-to-png | stl to png | 100 | 0 | 
+- [ ] rar-to-stl | rar to stl | 100 | 0 | 
+- [ ] obj-to-step | obj to step | 100 | 0 | 
+- [ ] jpg-to-3d | convert jpg to 3d image online free | 100 | 38 | 
+- [ ] dxf-to-jpg | dxf to jpg | 100 | 0 | 
+- [x] ply-to-obj | convert ply to obj | 90 | 0 |  | /ply-to-obj/
+- [ ] model-converter | model converter | 90 | 7 | 
+- [ ] fbx-to-gltf | fbx to gltf | 90 | 0 | 
+- [ ] create-stl-file-from-image | create stl file from image | 90 | 34 | 
+- [ ] convert-3d | convert 3d | 90 | 10 | 
+- [ ] turn-image-into-stl | turn image into stl | 80 | 35 | 
+- [x] step-to-obj | stp to obj | 80 | 0 |  | /step-to-obj/
+- [ ] free-stl-converter | free stl converter | 80 | 48 | 
+- [ ] convert-stl | convert stl | 80 | 51 | 
+- [ ] step-converter | stp converter | 70 | 0 | 
+- [ ] pic-to-stl | pic to stl | 70 | 34 | 
+- [ ] dds-to-tga | dds to tga | 70 | 0 | 
+- [ ] usdz-to-fbx | usdz to fbx | 60 | 0 | 
+- [ ] step-to-step | step to step | 60 | 2 | 
+- [ ] gltf-converter | gltf converter | 60 | 1 | 
+- [ ] 3d-model-file-converter | 3d model file converter | 60 | 11 | 
+- [ ] obj-file-converter | obj file converter | 50 | 0 | 
+- [x] igs-to-stl | igs to stl | 50 | 0 |  | /igs-to-stl/

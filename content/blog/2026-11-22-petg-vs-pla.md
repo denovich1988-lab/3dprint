@@ -55,5 +55,5 @@ Use PETG for parts that bend, take impacts, get warm or live outdoors: hooks, br
 
 ## Related
 
-- [Is PLA food safe?](/guides/is-pla-food-safe/)
+- [Is PLA food safe?](/blog/is-pla-food-safe/)
 - Converting a downloaded model? Try [3MF to STL](/3mf-to-stl/) or check its size in the [STL viewer](/stl-viewer/).
