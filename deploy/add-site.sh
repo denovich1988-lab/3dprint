@@ -5,7 +5,7 @@
 set -e
 DOMAIN="${1:-my3dprinter.io}"
 NAME=my3dprinter
-REPO=https://github.com/denovich1988-lab/my3dprinter.git
+REPO=https://github.com/denovich1988-lab/3dprint.git
 SRC=/opt/$NAME-site
 WWW=/var/www/$NAME
 
