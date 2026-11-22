@@ -68,7 +68,7 @@ The P1S connects over Wi-Fi. Most owners bind it to the **Bambu Handy** app on a
 
 ## Manual and maintenance
 
-The official manual, maintenance schedule and troubleshooting pages are on the [Bambu Lab Wiki](https://wiki.bambulab.com/en/p1/manual/unboxing-p1s). Keep the firmware updated from Bambu Studio or the app, and check the wiki before replacing parts such as the hot end.
+The official manual, maintenance schedule and troubleshooting pages are on the Bambu Lab Wiki. Keep the firmware updated from Bambu Studio or the app, and check the wiki before replacing parts such as the hot end.
 
 ## P1S or P2S?
 

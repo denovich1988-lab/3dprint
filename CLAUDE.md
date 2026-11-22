@@ -28,7 +28,7 @@ updated: YYYY-MM-DD   # when revised
 category: e.g. Bambu Lab | Creality | Prusa | Comparisons | Setup and software | Troubleshooting | Filament and materials | Files and slicers
 summary: [3 one-sentence facts]
 faq: [3–4 items, q/a]
-sources: [{name, url}]   # required on printer pages and comparisons
+sources: [{name, url}]   # required on printer pages and comparisons; NOT shown on the page (verification record + structured data only)
 specs: [["Label", "Value"], ...]   # printer pages only, from the maker's official spec page
 tools: [tool slugs to show in the sidebar]
 ---
@@ -37,16 +37,17 @@ File name: `content/<printers|blog>/YYYY-MM-DD-slug.md` (date = today in Asia/Ta
 
 ## Page structure
 - First sentence answers the query in bold with the keyword.
-- Printer page: who it suits → setup (high level, from the official quick start) → connecting (Wi-Fi/app/LAN/SD) → manual (link to the official manual/wiki, never copy it) → firmware/software → compare links.
+- Printer page: who it suits → setup (high level, from the official quick start) → connecting (Wi-Fi/app/LAN/SD) → manual (say where the official manual is, e.g. "on the Bambu Lab Wiki", as plain text without a link; never copy it) → firmware/software → compare links.
 - Comparison: at-a-glance table → what the differences mean → which to buy.
 - Troubleshooting: symptom → causes → fixes in order → prevention.
 - 2–5 internal links to tools and other pages. Use only paths that exist.
+- **No external links anywhere on the site (owner's rule):** no links to other websites in the text, FAQ, summary or templates — not to manufacturers, wikis, model libraries or competitors. Mention a source by name in plain text if needed; URLs go only into `sources` in the front matter.
 
 ## Accuracy rules (strict)
 - Specs, prices, dates and feature claims only from the manufacturer (spec page, wiki, manual, blog) or, if missing there, two reputable sources that agree. List them in `sources`. If sources disagree or a number is missing, leave it out.
 - Launch prices must be labelled as launch prices with the region. Do not state current prices.
 - No invented test results, quotes, user numbers or reviews. We do not claim to have tested printers.
-- Never copy manuals or competitor text; write in your own words. Link to official manuals.
+- Never copy manuals or competitor text; write in your own words. Name the official manual as plain text (no link).
 - Brand names are trademarks; we are independent. No logos or official product photos.
 
 ## Daily task

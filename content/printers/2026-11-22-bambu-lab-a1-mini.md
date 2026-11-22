@@ -48,7 +48,7 @@ Bambu Lab lists PLA, PETG, TPU and PVA as ideal. Because the bed reaches 80 °C 
 
 ## Setup and manual
 
-Assembly takes a few minutes using the official video. After the on-screen calibration, bind the printer in Bambu Handy and send prints from Bambu Studio. The manual, FAQ and maintenance guides are on the [Bambu Lab Wiki](https://wiki.bambulab.com/en/a1-mini/manual/faq).
+Assembly takes a few minutes using the official video. After the on-screen calibration, bind the printer in Bambu Handy and send prints from Bambu Studio. The manual, FAQ and maintenance guides are on the Bambu Lab Wiki.
 
 ## Small printer, small files
 

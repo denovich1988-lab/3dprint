@@ -28,7 +28,7 @@ export default function DocPage({ d, section }: { d: Doc; section: { name: strin
               <tbody>{d.specs.map(([k, v]) => <tr key={k}><th scope="row">{k}</th><td>{v}</td></tr>)}</tbody></table>
           ) : null}
           <div dangerouslySetInnerHTML={{ __html: d.html }} />
-          {d.sources?.length ? <><h2>Sources</h2><ul className="small">{d.sources.map((s) => <li key={s.url}><a href={s.url} rel="nofollow noopener" target="_blank">{s.name}</a></li>)}</ul></> : null}
+
         </article>
         <aside className="aside">
           {tools.length > 0 && <div className="facts"><b>Tools for this</b><div className="tool-grid" style={{ marginTop: 10, gridTemplateColumns: '1fr' }}>{tools.map((t) => <Link key={t.slug} className="tool-link" href={`/${t.slug}/`}>{t.h1}</Link>)}</div></div>}

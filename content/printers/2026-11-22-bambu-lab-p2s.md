@@ -55,7 +55,7 @@ The P2S Combo ships with the **AMS 2 Pro**, which feeds up to four spools and dr
 
 ## Setup and manual
 
-The P2S arrives mostly assembled. Follow Bambu Lab’s quick-start guide and the on-screen self-test, then bind the printer to the Bambu Handy app and send prints from Bambu Studio. The official manual, FAQ and maintenance pages are on the [Bambu Lab Wiki](https://wiki.bambulab.com/en/p2s/manual/p2s-faq).
+The P2S arrives mostly assembled. Follow Bambu Lab’s quick-start guide and the on-screen self-test, then bind the printer to the Bambu Handy app and send prints from Bambu Studio. The official manual, FAQ and maintenance pages are on the Bambu Lab Wiki.
 
 ## Compare
 
