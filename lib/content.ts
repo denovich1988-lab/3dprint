@@ -46,6 +46,8 @@ function readDoc(dir: string, f: string): Doc {
     slug, file: f,
     title: data.title, description: data.description,
     date: norm(data.date)!, updated: norm(data.updated),
+    // Remote illustration → local WebP made by scripts/fetch-images.mjs; only used if the file exists.
+    image: typeof data.image === 'string' && fs.existsSync(path.join(process.cwd(), 'public', 'images', dir, `${slug}.webp`)) ? `/images/${dir}/${slug}.webp` : undefined,
     html: html.replace(/<a href="(https?:\/\/(?!my3dprinter\.io)[^"]+)"/g, '<a href="$1" rel="nofollow noopener" target="_blank"'),
     words: content.split(/\s+/).filter(Boolean).length,
   } as Doc;

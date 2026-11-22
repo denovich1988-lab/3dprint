@@ -27,9 +27,11 @@ for url, h in pages.items():
         try: json.loads(m.group(1))
         except Exception as e: issues.append(f'{url}: bad JSON-LD {e}')
     for href in re.findall(r'href="(/[^"#?]*)"', h):
-        if href.startswith('/_next') or re.search(r'\.(svg|png|xml|txt|ico|css|js|wasm)$', href): continue
+        if href.startswith('/_next') or re.search(r'\.(svg|png|webp|jpg|xml|txt|ico|css|js|wasm|webmanifest)$', href): continue
         if not href.endswith('/'): href += '/'
         if href not in pages: issues.append(f'{url}: broken link {href}')
+    for href in re.findall(r'<a [^>]*href="(https?://[^"]+)"', h):
+        if 'my3dprinter.io' not in href: issues.append(f'{url}: external link {href} (owner rule: no external links)')
 for k, v in titles.items():
     if len(v) > 1: issues.append(f'duplicate title {k!r}: {v}')
 for k, v in descs.items():

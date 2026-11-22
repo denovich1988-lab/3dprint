@@ -21,6 +21,7 @@ jobs:
         with: { node-version: 22, cache: npm }
       - run: npm ci
       - run: npm run build
+        env: { NODE_OPTIONS: "--max-old-space-size=4096" }
       - name: SEO checks
         run: python3 scripts/check-seo.py
       - name: Publish to the "site" branch
@@ -33,3 +34,17 @@ jobs:
           git commit -q -m "Site build from ${GITHUB_SHA::7}"
           git push -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" site
           echo "Published $(find . -name index.html | wc -l) pages"
+      - name: Notify search engines (IndexNow)
+        continue-on-error: true
+        run: |
+          sleep 330   # the server pulls the site branch every 5 minutes; wait so the key file and new pages are live
+          python3 - <<'PY'
+          import json, re, urllib.request
+          urls = re.findall(r'<loc>([^<]+)</loc>', open('dist/sitemap.xml').read())
+          body = json.dumps({"host": "my3dprinter.io", "key": "4914a7e60617c47675286a2dca44e1b5", "keyLocation": "https://my3dprinter.io/4914a7e60617c47675286a2dca44e1b5.txt", "urlList": urls[:10000]}).encode()
+          req = urllib.request.Request("https://api.indexnow.org/indexnow", data=body, headers={"Content-Type": "application/json; charset=utf-8"})
+          try:
+              print("IndexNow:", urllib.request.urlopen(req, timeout=30).status, len(urls), "urls")
+          except Exception as e:
+              print("IndexNow failed:", e)
+          PY

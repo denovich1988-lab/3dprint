@@ -7,7 +7,8 @@ export default function Footer() {
     ['Converters', [['/3mf-to-stl/', '3MF to STL'], ['/step-to-stl/', 'STEP to STL'], ['/glb-to-stl/', 'GLB to STL'], ['/obj-to-stl/', 'OBJ to STL'], ['/stl-to-3mf/', 'STL to 3MF'], ['/converters/', 'All converters']]],
     ['Images & textures', [['/image-to-stl/', 'Image to STL'], ['/lithophane-maker/', 'Lithophane maker'], ['/svg-to-stl/', 'SVG to STL'], ['/png-to-dds/', 'PNG to DDS'], ['/dds-to-png/', 'DDS to PNG']]],
     ['Viewers', [['/3d-viewer/', '3D model viewer'], ['/stl-viewer/', 'STL viewer'], ['/3mf-viewer/', '3MF viewer'], ['/step-viewer/', 'STEP viewer'], ['/obj-viewer/', 'OBJ viewer']]],
-    ['my3dprinter.io', [['/printers/', '3D printers'], ['/blog/', 'Blog'], ['/formats/', 'File formats'], ['/about/', 'About'], ['/contact/', 'Contact'], ['/privacy/', 'Privacy'], ['/terms/', 'Terms']]],
+    ['my3dprinter.io', [['/printers/', '3D printers'], ['/blog/', 'Blog'], ['/formats/', 'File formats'], ['/about/', 'About'], ['/contact/', 'Contact']]],
+    ['Legal', [['/privacy/', 'Privacy policy'], ['/cookies/', 'Cookie policy'], ['/terms/', 'Terms of use'], ['/disclaimer/', 'Disclaimer']]],
   ];
   return (
     <footer className="site-footer">
@@ -24,7 +25,7 @@ export default function Footer() {
         ))}
       </div>
       <div className="wrap footer-base">
-        <p>© {new Date().getFullYear()} {SITE.company}. Brand and product names belong to their owners; my3dprinter.io is an independent site and is not affiliated with any printer maker.</p>
+        <p>© {new Date().getFullYear()} my3dprinter.io. Brand and product names belong to their owners; my3dprinter.io is an independent site and is not affiliated with any printer maker.</p>
       </div>
     </footer>
   );

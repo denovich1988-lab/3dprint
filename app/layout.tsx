@@ -11,7 +11,13 @@ import { SITE } from '@/lib/site';
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE.url),
-  icons: { icon: '/icon.svg' },
+  icons: {
+    icon: [{ url: '/favicon.ico', sizes: '48x48' }, { url: '/icon.svg', type: 'image/svg+xml' }, { url: '/icon-192.png', sizes: '192x192', type: 'image/png' }],
+    apple: [{ url: '/apple-touch-icon.png', sizes: '180x180' }],
+  },
+  manifest: '/site.webmanifest',
+  applicationName: SITE.name,
+  formatDetection: { telephone: false },
 };
 export const viewport: Viewport = { themeColor: '#10151C', width: 'device-width', initialScale: 1 };
 

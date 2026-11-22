@@ -4,7 +4,7 @@ import Faq from '@/components/Faq';
 import JsonLd from '@/components/JsonLd';
 import { TOOLS } from '@/lib/data/tools';
 import { listDocs } from '@/lib/content';
-import { meta, graph, faqLd, appLd } from '@/lib/seo';
+import { appLd, faqLd, graph, meta, orgLd, siteLd } from '@/lib/seo';
 import { SITE, abs } from '@/lib/site';
 
 export const metadata = meta({
@@ -29,7 +29,7 @@ export default function Home() {
   const printers = listDocs('printers').slice(0, 6);
   return (
     <>
-      <JsonLd data={graph({ '@type': 'WebSite', name: SITE.name, url: abs('/') }, { '@type': 'Organization', name: SITE.name, url: abs('/'), logo: abs('/icon.svg') }, appLd('my3dprinter.io 3D viewer and converter', 'Free in-browser 3D model viewer and converter for STL, 3MF, STEP, OBJ, GLB and more.', '/'), faqLd(FAQ))} />
+      <JsonLd data={graph(siteLd(), orgLd(), appLd('my3dprinter.io 3D viewer and converter', 'Free in-browser 3D model viewer and converter for STL, 3MF, STEP, OBJ, GLB and more.', '/'), faqLd(FAQ))} />
       <section className="hero">
         <div className="wrap">
           <div className="hero-head">

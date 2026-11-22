@@ -3,7 +3,7 @@ import JsonLd from './JsonLd';
 import Faq from './Faq';
 import { Doc } from '@/lib/content';
 import { abs, SITE } from '@/lib/site';
-import { crumbs, faqLd, graph } from '@/lib/seo';
+import { crumbs, faqLd, graph, orgLd } from '@/lib/seo';
 import { TOOLS } from '@/lib/data/tools';
 
 export default function DocPage({ d, section }: { d: Doc; section: { name: string; path: string } }) {
@@ -11,7 +11,8 @@ export default function DocPage({ d, section }: { d: Doc; section: { name: strin
   const tools = (d.tools || []).map((s) => TOOLS.find((t) => t.slug === s)).filter(Boolean) as any[];
   const article = {
     '@type': 'Article', headline: d.title, description: d.description, datePublished: d.date, dateModified: d.updated || d.date,
-    mainEntityOfPage: abs(path), author: { '@type': 'Organization', name: SITE.name, url: SITE.url }, publisher: { '@type': 'Organization', name: SITE.name, url: SITE.url },
+    mainEntityOfPage: abs(path), inLanguage: 'en', author: { '@type': 'Organization', name: SITE.name, url: SITE.url }, publisher: orgLd(),
+    image: abs(d.image || '/og.png'),
     ...(d.sources?.length ? { citation: d.sources.map((s) => s.url) } : {}),
   };
   return (
@@ -21,6 +22,7 @@ export default function DocPage({ d, section }: { d: Doc; section: { name: strin
       <div className="split">
         <article className="prose">
           <h1>{d.title}</h1>
+          {d.image ? <figure className="doc-hero"><img src={d.image} alt={d.imageAlt || `Illustration: ${d.title}`} width={1200} height={675} fetchPriority="high" decoding="async" /></figure> : null}
           <p className="muted small">Updated {new Date((d.updated || d.date) + 'T12:00:00Z').toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}</p>
           {d.summary?.length ? <div className="summary-box"><b>Key points</b><ul>{d.summary.map((s) => <li key={s}>{s}</li>)}</ul></div> : null}
           {d.specs?.length ? (

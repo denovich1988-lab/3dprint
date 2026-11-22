@@ -11,7 +11,7 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
   const d = getDoc('blog', slug);
-  return d ? meta({ title: d.seoTitle || d.title, description: d.description, path: `/blog/${slug}/`, type: 'article' }) : {};
+  return d ? meta({ title: d.seoTitle || d.title, description: d.description, path: `/blog/${slug}/`, type: 'article', image: d.image, published: d.date, modified: d.updated || d.date }) : {};
 }
 export default async function Page({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;

@@ -3,7 +3,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev -p 3030",
-    "build": "next build && node scripts/postbuild.mjs",
+    "build": "node scripts/fetch-images.mjs && next build && node scripts/postbuild.mjs",
     "check": "python3 scripts/check-seo.py"
   },
   "dependencies": {
