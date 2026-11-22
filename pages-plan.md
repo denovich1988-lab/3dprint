@@ -126,6 +126,39 @@ Printer pages go to content/printers/YYYY-MM-DD-<slug>.md (use a clean slug like
 - [ ] qidi-plus-4 | qidi plus 4 | 1000 | 3 | 
 - [ ] elegoo-mars-3 | elegoo mars 3 | 1000 | 0 | 
 
+## Printer manuals (Ahrefs, competitor keywords, 2026-11-22) (28)
+
+Manual guide pages: content/printers/YYYY-MM-DD-<slug>.md. Follow "Manual pages" in CLAUDE.md. Build these right after the printer model lines above.
+
+- [ ] ender-3-pro-manual | ender 3 pro manual | 240 | 1 | creality ender 3 pro manual; ender 3 pro user manual
+- [ ] ender-3-manual | ender 3 manual | 180 | 3 | creality ender 3 manual; ender 3 3d printer manual; ender 3d printer manual; ender 3 user manual
+- [ ] ender-3-v2-manual | ender 3 v2 manual | 150 | 1 | creality ender 3 v2 manual
+- [ ] prusa-mk3s-manual | prusa mk3s manual | 150 | 10 | prusa i3 mk3 manual; prusa mk3 manual; prusa mk3 assembly manual; prusa mk3s+ assembly manual pdf; prusa mk3s+ manual; prusa mk3s assembly manual
+- [ ] bambu-lab-p1s-manual | bambu p1s manual | 140 | 2 | bambu lab p1s manual
+- [ ] bambu-lab-a1-manual | bambu lab a1 manual | 100 | 0 | bambu a1 manual
+- [ ] flashforge-adventurer-5m-manual | flashforge adventurer 5m manual | 100 | 0 | 
+- [ ] creality-k1-manual | creality k1 manual | 90 | 3 | manual k1
+- [ ] ender-3-v2-neo-manual | ender 3 v2 neo manual | 70 | 0 | creality ender 3 v2 neo manual; ender-3 v2 neo manual
+- [ ] bambu-lab-p2s-manual | bambu p2s manual | 50 | 0 | 
+- [ ] prusa-manual | prusa manual | 50 | 0 | prusa assembly manual
+- [ ] ender-3-v3-se-manual | creality ender 3 v3 se manual | 50 | 7 | ender 3 v3 se manual
+- [ ] ender-3-s1-pro-manual | ender 3 s1 pro manual | 30 | 0 | creality ender 3 s1 pro manual
+- [ ] ender-5-pro-manual | ender 5 pro manual | 30 | 0 | 
+- [ ] creality-k1-max-manual | creality k1 max manual | 30 | 2 | k1 max manual
+- [ ] voron-2-4-manual | voron 2.4 manual | 30 | 7 | voron assembly manual; voron 2.4 assembly manual; voron manual
+- [ ] ender-3-s1-manual | ender 3 s1 manual | 20 | 0 | 
+- [ ] ender-5-plus-manual | ender 5 plus manual | 20 | 0 | 
+- [ ] ender-3-neo-manual | ender 3 neo manual | 20 | 0 | 
+- [ ] ender-3-max-neo-manual | ender 3 max neo manual | 20 | 0 | 
+- [ ] anet-a8-manual | anet a8 3d printer manual | 20 | 0 | 
+- [ ] voron-trident-manual | voron trident manual | 20 | 1 | 
+- [ ] prusa-mk4-manual | prusa mk4 manual | 20 | 3 | 
+- [ ] bambu-lab-x1-carbon-manual | bambu lab x1 carbon manual | 20 | 4 | bambu x1 carbon manual
+- [ ] anycubic-mega-x-manual | anycubic mega x manual | 10 | 0 | 
+- [ ] creality-sonic-pad-manual | creality sonic pad manual | 10 | 0 | 
+- [ ] anycubic-photon-manual | anycubic photon manual | 10 | 2 | 
+- [ ] elegoo-manual | elegoo manual | 10 | 5 | 
+
 ## Converters, viewers and format pages (113)
 
 - [x] 3mf-to-stl | 3mf to stl | 7950 | 0 | convert 3mf to stl; 3mf to stl converter; .3mf to stl | /3mf-to-stl/

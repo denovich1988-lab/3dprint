@@ -42,6 +42,7 @@ File name: `content/<printers|blog>/YYYY-MM-DD-slug.md` (date = today in Asia/Ta
 ## Page structure
 - First sentence answers the query in bold with the keyword.
 - Printer page: who it suits → setup (high level, from the official quick start) → connecting (Wi-Fi/app/LAN/SD) → manual (say where the official manual is, e.g. "on the Bambu Lab Wiki", as plain text without a link; never copy it) → firmware/software → compare links.
+- Manual pages ("<printer> manual"): bold first sentence saying where the official manual is (plain text, e.g. "Bambu Lab publishes the P1S manual on the Bambu Lab Wiki under P1 series → Manual"; no link) → what the official manual covers (its sections, in our words) → quick-start summary (unboxing, assembly, first calibration, first print) → maintenance schedule the maker recommends → common problems with fixes → firmware and software → link to our printer page and compare tool. Never copy or paraphrase the manual closely, never host PDFs, never invent steps; every fact from the maker's manual/wiki, listed in `sources`. Slug: `<printer>-manual`, category: `Manuals`.
 - Comparison: at-a-glance table → what the differences mean → which to buy.
 - Troubleshooting: symptom → causes → fixes in order → prevention.
 - 2–5 internal links to tools and other pages. Use only paths that exist.

@@ -8,6 +8,7 @@ Tick when published: `- [x] slug | ... | blog/slug`. Mark `- [-]` with a reason 
 ## KD 0–5 (easiest) — 321 articles
 
 - [x] what-to-3d-print | 3d print ideas | 52900 | 0 | cool things to 3d print; 3d printer projects; 3d printer ideas; 3d printing ideas; things to 3d print; useful things to 3d print; what can you make with a 3d printer; fun things to 3d print; best things to 3d print; 150 cool things to 3d print; stuff to 3d print; cool 3d print ideas; easy 3d printing ideas; coolest things to 3d print; what to 3d print | blog/what-to-3d-print
+- [ ] bambu-studio-manual-supports | how to add manual supports in bambu studio | 130 | 0 | bambu studio manual supports; bambu studio manual; manual supports bambu studio
 - [ ] bambu-filament | bambu filament | 43000 | 2 | bambu lab filament; bambu labs filament
 - [ ] 3d-printed-dragon | 3d printed dragon | 34800 | 0 | 3d printed dragons; dragon 3d print; 3d print dragon; 3d printer dragon
 - [x] 3d-printed-fidget-toys | 3d printed fidgets | 25400 | 0 | 3d printed fidget toys; 3d printed fidget toy; 3d printed fidget; 3d print fidget toys | blog/3d-printed-fidget-toys
