@@ -233,3 +233,61 @@ h3 { font-size: 19px; margin: 0 0 8px; }
 .lang li a:hover { background: #f3f5f8; }
 .lang li a[aria-current] { color: var(--accent-ink); font-weight: 700; }
 @media (max-width: 640px) { .lang { margin-left: auto; } .lang summary span { display: none; } }
+
+/* ---------- Mobile ---------- */
+.header-actions { display: flex; align-items: center; gap: 8px; }
+.mnav { display: none; position: relative; }
+.mnav summary { list-style: none; cursor: pointer; width: 42px; height: 42px; display: grid; place-items: center; border: 1px solid var(--line); border-radius: 12px; color: var(--ink); background: #fff; }
+.mnav summary::-webkit-details-marker { display: none; }
+.mnav[open] summary { border-color: var(--accent); color: var(--accent-ink); }
+.mnav nav { position: fixed; left: 0; right: 0; top: 57px; background: #fff; border-bottom: 1px solid var(--line); box-shadow: 0 16px 30px rgba(16, 21, 28, 0.12); padding: 8px 16px 16px; display: flex; flex-direction: column; z-index: 40; }
+.mnav nav a { padding: 14px 4px; border-bottom: 1px solid #eef1f4; text-decoration: none; font: 600 17px var(--display); color: var(--ink); }
+.mnav nav a:last-child { border-bottom: 0; }
+@media (max-width: 860px) {
+  .header-in { height: 57px; padding: 0 16px; flex-wrap: nowrap; gap: 10px; }
+  .nav { display: none; }
+  .mnav { display: block; }
+  .lang { margin-left: 0; }
+  .lang summary { height: 42px; padding: 0 12px; border-radius: 12px; }
+  .lang ul { top: 48px; max-height: 70vh; overflow-y: auto; }
+}
+@media (max-width: 640px) {
+  .wrap { padding-left: 16px; padding-right: 16px; }
+  .hero-formats { display: none; }
+  .hero-lead { margin-bottom: 4px; }
+  /* 3D stage: controls above and below the canvas, never over the model */
+  .stage { border-radius: 18px; }
+  .stage-top { position: static; order: -1; padding: 12px 12px 0; flex-direction: column; align-items: stretch; }
+  .samples { gap: 8px; }
+  .sample-tabs { width: auto; }
+  .stage .chips { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; max-width: none; padding-bottom: 2px; }
+  .stage .chips::-webkit-scrollbar, .sample-tabs::-webkit-scrollbar, .stage-tools::-webkit-scrollbar { display: none; }
+  .stage .chips .chip { height: 36px; padding: 0 13px; font-size: 13px; flex: 0 0 auto; }
+  .sample-tabs button { height: 34px; }
+  .studio-studio .stage, .stage { min-height: 0; }
+  .stage > div:first-child { min-height: min(58vh, 420px); }
+  .stage-empty { inset: 14px; }
+  .stage-empty b { font-size: 19px; }
+  .stage-tools { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; padding: 0 12px 12px; }
+  .stage-tools button { flex: 0 0 auto; height: 38px; }
+  .stage-stats { grid-template-columns: repeat(2, minmax(0, 1fr)); margin: 0 12px 12px; gap: 8px 14px; }
+  .panel { border-radius: 18px; padding: 16px; }
+  .panel select, .cmp-pick select, input, select, textarea { font-size: 16px; }
+  .btn-upload { min-height: 50px; }
+  /* Tool lists: two columns instead of one long list */
+  .tool-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 8px; }
+  .tool-link { padding: 12px; font-size: 14px; min-height: 48px; }
+  .steps li { padding: 14px 16px; }
+  .section { margin-top: 36px; }
+  .page-head h1 { font-size: clamp(28px, 8vw, 36px); }
+  /* Comparison table: keep spec names visible while scrolling sideways */
+  .cmp-table { font-size: 13.5px; min-width: 520px; }
+  .cmp-table tbody th { min-width: 110px; }
+  .cmp-table th, .cmp-table td { padding: 10px; }
+  .cmp-table tbody th { width: 32%; }
+  .cmp-table thead img { max-width: 140px; }
+
+}
+.cmp-table tbody th, .cmp-table thead th:first-child { position: sticky; left: 0; z-index: 1; background: #fff; }
+.cmp-table thead th:first-child { background: #f6f8fa; }
+.cmp-table td.best { background: #fff4ec; }

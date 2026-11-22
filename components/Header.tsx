@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import Logo from './Logo';
 import LangSwitch from './LangSwitch';
+import MobileMenu from './MobileMenu';
 import { activeLocales, dict, lp, LANG_NAMES, LOCALIZED_PATHS, type Lang } from '@/lib/i18n';
 
 export default function Header({ lang = 'en' }: { lang?: Lang }) {
@@ -22,7 +23,10 @@ export default function Header({ lang = 'en' }: { lang?: Lang }) {
         <nav aria-label="Main" className="nav">
           {NAV.map(([href, label]) => <Link key={href} href={href}>{label}</Link>)}
         </nav>
-        {langs.length > 1 && <LangSwitch lang={lang} langs={langs} localized={LOCALIZED_PATHS} label={N.language} />}
+        <div className="header-actions">
+          {langs.length > 1 && <LangSwitch lang={lang} langs={langs} localized={LOCALIZED_PATHS} label={N.language} />}
+          <MobileMenu links={[...NAV, ['/printers/compare/', dict(lang).footer.compare]]} label="Menu" />
+        </div>
       </div>
     </header>
   );
