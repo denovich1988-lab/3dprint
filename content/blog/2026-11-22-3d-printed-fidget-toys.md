@@ -3,6 +3,8 @@ title: 3D printed fidget toys – best types and how to print them
 seoTitle: 3D Printed Fidget Toys – Best 3D Printed Fidgets to Make
 description: 3D printed fidget toys you can make at home – spinners, clickers, infinity cubes and print-in-place fidgets – with filament, settings and safety tips.
 date: 2026-11-22
+image: https://assets.animx.ai/gen/a8600779-0fcc-4dd3-88c6-21688f0415da/5929a61e-c3f7-405a-b570-9e02022ef100/output.png
+imageAlt: Illustration of 3D printed fidget toys: spinner, infinity cube, clicker and articulated snake
 category: Ideas
 summary:
   - Most 3D printed fidgets are print-in-place designs that come off the bed with moving parts already assembled.

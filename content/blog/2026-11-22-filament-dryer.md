@@ -3,6 +3,8 @@ title: Filament dryer guide – when you need one and how to use it
 seoTitle: Filament Dryer Guide – Do You Need One for 3D Printing?
 description: A filament dryer removes moisture that causes stringing, popping and weak prints. Learn which filaments need it, how to dry safely and how to store spools.
 date: 2026-11-22
+image: https://assets.animx.ai/gen/a8600779-0fcc-4dd3-88c6-21688f0415da/296b5c70-fdae-49f7-9ed7-d602c97da380/output.png
+imageAlt: Illustration of a filament dryer with a spool inside, a hygrometer and desiccant
 category: Filament and materials
 summary:
   - A filament dryer heats a spool at a controlled low temperature with airflow, so absorbed water leaves the plastic without softening it.

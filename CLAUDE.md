@@ -43,6 +43,12 @@ File name: `content/<printers|blog>/YYYY-MM-DD-slug.md` (date = today in Asia/Ta
 - 2–5 internal links to tools and other pages. Use only paths that exist.
 - **No external links anywhere on the site (owner's rule):** no links to other websites in the text, FAQ, summary or templates — not to manufacturers, wikis, model libraries or competitors. Mention a source by name in plain text if needed; URLs go only into `sources` in the front matter.
 
+## Images (owner's rule: every blog and printer page has one)
+- Generate one unique 16:9 illustration per new page with the Animx connector: `generate_image`, model "GPT Image", aspectRatio "16:9". At most 8 render at once; queue the rest.
+- Style: clean modern editorial digital illustration, soft light, deep navy and warm orange accents, "no text, no logos, no brand names". Printers: always a **generic, unbranded** printer of the same type ("not a photo of any real product") — never imitate a real product photo or logo. No real people.
+- Each prompt must show a different scene from all existing ones (check `imageAlt` values in content/).
+- Front matter: `image: https://assets.animx.ai/gen/<user>/<generationId>/output.png` (the URL from get_generation, or the same pattern) and `imageAlt: Illustration of …`. `scripts/fetch-images.mjs` downloads it to public/images/<dir>/<slug>.webp during the CI build; pages without a downloaded image show a styled placeholder.
+
 ## Accuracy rules (strict)
 - Specs, prices, dates and feature claims only from the manufacturer (spec page, wiki, manual, blog) or, if missing there, two reputable sources that agree. List them in `sources`. If sources disagree or a number is missing, leave it out.
 - Launch prices must be labelled as launch prices with the region. Do not state current prices.

@@ -3,6 +3,8 @@ title: Bambu Lab A1 mini – specs, setup, manual and limits
 seoTitle: Bambu Lab A1 mini Specs, Setup and Manual Guide
 description: Bambu Lab A1 mini explained – official specs, 180 mm build volume, materials it handles, AMS lite colour printing, setup and where to find the manual.
 date: 2026-11-22
+image: https://assets.animx.ai/gen/a8600779-0fcc-4dd3-88c6-21688f0415da/b2a2e6d9-9526-44f0-8216-b78d86906df7/output.png
+imageAlt: Illustration of a generic compact mini 3D printer on a small desk
 category: Bambu Lab
 brand: Bambu Lab
 summary:

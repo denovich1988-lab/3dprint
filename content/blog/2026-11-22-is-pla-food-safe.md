@@ -3,6 +3,8 @@ title: Is PLA food safe? What 3D printers need to know
 seoTitle: Is PLA Food Safe? PLA, PETG and 3D-Printed Food Contact
 description: Is PLA food safe? The plastic can be, but prints have layer gaps that trap bacteria. What matters – filament, nozzle, coatings – and safer options.
 date: 2026-11-22
+image: https://assets.animx.ai/gen/a8600779-0fcc-4dd3-88c6-21688f0415da/78fbaba2-b8f2-41e1-a6fb-a7c125ab1da9/output.png
+imageAlt: Illustration of a 3D printed cookie cutter and cup with visible layer lines next to cookies
 category: Filament and materials
 summary:
   - Plain PLA and PETG plastics can be food-contact materials, but a 3D-printed part is not automatically food safe.

@@ -3,6 +3,8 @@ title: Bambu Lab P2S – specs, what is new, setup and manual
 seoTitle: Bambu Lab P2S Specs, Features and Setup Guide
 description: Bambu Lab P2S explained – official specs, what changed from the P1S, the AMS 2 Pro Combo, first setup and where to find the official manual.
 date: 2026-11-22
+image: https://assets.animx.ai/gen/a8600779-0fcc-4dd3-88c6-21688f0415da/44b14c24-3659-4469-afe5-093a772de1c6/output.png
+imageAlt: Illustration of a generic enclosed 3D printer with a large touchscreen printing in colour
 category: Bambu Lab
 brand: Bambu Lab
 summary:

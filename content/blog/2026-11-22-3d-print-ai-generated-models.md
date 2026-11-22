@@ -3,6 +3,8 @@ title: How to 3D print a model from an AI 3D generator
 seoTitle: How to 3D Print AI-Generated 3D Models (GLB to STL)
 description: AI 3D generators usually export GLB. How to convert GLB to STL or 3MF, fix scale and orientation, check the mesh and get a clean print.
 date: 2026-11-22
+image: https://assets.animx.ai/gen/a8600779-0fcc-4dd3-88c6-21688f0415da/6efdb03b-8d51-407c-9066-3269c95c914c/output.png
+imageAlt: Illustration of an AI-generated 3D model turning into a print on a desktop 3D printer
 category: Files and slicers
 summary:
   - Most AI 3D generators export GLB (glTF), which uses metres and Y-up axes.

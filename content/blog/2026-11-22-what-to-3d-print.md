@@ -3,6 +3,8 @@ title: 3D print ideas – useful, fun and cool things to 3D print
 seoTitle: 3D Print Ideas – Cool, Useful and Fun Things to 3D Print
 description: 3D print ideas for every printer, from useful home fixes to fun toys and gifts. Find what to 3D print, the best filament for each and where to get models.
 date: 2026-11-22
+image: https://assets.animx.ai/gen/a8600779-0fcc-4dd3-88c6-21688f0415da/65836a18-4978-4253-ac16-7c76dc121f0a/output.png
+imageAlt: Illustration of colourful 3D printed objects: vase, phone stand, clips, planter and storage bins
 category: Ideas
 summary:
   - The best 3D print ideas solve a small problem you already have, such as a missing clip, a cable mess or a broken knob.

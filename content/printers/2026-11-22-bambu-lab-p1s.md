@@ -3,6 +3,8 @@ title: Bambu Lab P1S – specs, setup, manual and who it suits
 seoTitle: Bambu Lab P1S Specs, Setup and Manual Guide
 description: Bambu Lab P1S explained – official specs, what is in the box, first setup, Wi-Fi and app binding, where to find the manual, and how it compares with the P2S.
 date: 2026-11-22
+image: https://assets.animx.ai/gen/a8600779-0fcc-4dd3-88c6-21688f0415da/e7722ca0-a3ab-44bd-8991-a7b6e921fdf3/output.png
+imageAlt: Illustration of a generic enclosed desktop 3D printer with a glass door
 category: Bambu Lab
 brand: Bambu Lab
 summary:
