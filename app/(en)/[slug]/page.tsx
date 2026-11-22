@@ -3,6 +3,7 @@ import ToolPage from '@/components/ToolPage';
 import { TOOLS, tool } from '@/lib/data/tools';
 import { listDocs, getDoc } from '@/lib/content';
 import { meta, graph, crumbs } from '@/lib/seo';
+import { pageMeta } from '@/lib/i18n/meta';
 import JsonLd from '@/components/JsonLd';
 import Link from 'next/link';
 import { abs } from '@/lib/site';
@@ -15,7 +16,7 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
   const t = tool(slug);
-  if (t) return meta({ title: t.title, description: t.description, path: `/${slug}/` });
+  if (t) return pageMeta('tool', 'en', slug);
   const d = getDoc('pages', slug);
   if (d) return meta({ title: d.seoTitle || d.title, description: d.description, path: `/${slug}/` });
   return {};
@@ -24,7 +25,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
 export default async function Page({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
   const t = tool(slug);
-  if (t) return <ToolPage t={t} />;
+  if (t) return <ToolPage t={t} lang="en" />;
   const d = getDoc('pages', slug);
   if (!d) notFound();
   return (

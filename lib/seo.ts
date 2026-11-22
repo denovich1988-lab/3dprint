@@ -1,18 +1,19 @@
 import type { Metadata } from 'next';
 import { SITE, abs } from './site';
 
-export function meta({ title, description, path, type = 'website', image, published, modified }: {
+export function meta({ title, description, path, type = 'website', image, published, modified, languages, locale = 'en_US' }: {
   title: string; description: string; path: string; type?: 'website' | 'article'; image?: string; published?: string; modified?: string;
+  languages?: Record<string, string>; locale?: string;
 }): Metadata {
   const full = title.includes(SITE.name) ? title : `${title} | ${SITE.name}`;
   const img = abs(image || '/og.png');
   return {
     title: full,
     description,
-    alternates: { canonical: abs(path) },
+    alternates: { canonical: abs(path), ...(languages ? { languages } : {}) },
     robots: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1, 'max-video-preview': -1 },
     openGraph: {
-      title: full, description, url: abs(path), siteName: SITE.name, locale: 'en_US', type,
+      title: full, description, url: abs(path), siteName: SITE.name, locale, type,
       images: [{ url: img, width: 1200, height: image ? 675 : 630, alt: title }],
       ...(type === 'article' && published ? { publishedTime: published, modifiedTime: modified || published } : {}),
     },

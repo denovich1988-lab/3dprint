@@ -5,8 +5,6 @@ import '@fontsource/space-grotesk/500.css';
 import '@fontsource/space-grotesk/700.css';
 import './globals.css';
 import type { Metadata, Viewport } from 'next';
-import Header from '@/components/Header';
-import Footer from '@/components/Footer';
 import { SITE } from '@/lib/site';
 
 export const metadata: Metadata = {
@@ -24,12 +22,8 @@ export const viewport: Viewport = { themeColor: '#10151C', width: 'device-width'
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en">
-      <body>
-        <a className="skip" href="#main">Skip to content</a>
-        <Header />
-        <main id="main">{children}</main>
-        <Footer />
-      </body>
+      {/* lang is rewritten per language folder by scripts/postbuild.mjs */}
+      <body>{children}</body>
     </html>
   );
 }

@@ -1,9 +1,12 @@
 'use client';
 import { useRef, useState } from 'react';
+import EN from '@/lib/i18n/en.json';
+const fillT = (s: string, v: Record<string, string | number>) => s.replace(/\{(\w+)\}/g, (m, k) => (k in v ? String(v[k]) : m));
 
-type Props = { direction: 'to-dds' | 'from-dds'; out?: 'png' | 'jpg' };
 
-export default function DdsTool({ direction, out = 'png' }: Props) {
+type Props = { direction: 'to-dds' | 'from-dds'; out?: 'png' | 'jpg'; L?: typeof EN.dds };
+
+export default function DdsTool({ direction, out = 'png', L = EN.dds }: Props) {
   const input = useRef<HTMLInputElement>(null);
   const [file, setFile] = useState<File | null>(null);
   const [fmt, setFmt] = useState<'dxt5' | 'dxt1' | 'rgba'>('dxt5');
@@ -21,8 +24,8 @@ export default function DdsTool({ direction, out = 'png' }: Props) {
       if (preview) URL.revokeObjectURL(preview);
       setPreview(URL.createObjectURL(f));
       const b = await createImageBitmap(f).catch(() => null);
-      if (!b) return setError('This image could not be read.');
-      setInfo(`${b.width} × ${b.height} px${(b.width % 4 || b.height % 4) ? ' · not a multiple of 4: edge blocks are padded' : ''}`);
+      if (!b) return setError(L.cantRead);
+      setInfo(`${b.width} × ${b.height} px${(b.width % 4 || b.height % 4) ? ' · ' + L.pad : ''}`);
     } else {
       try {
         const { ddsToImage } = await import('@/lib/engine/dds');
@@ -30,7 +33,7 @@ export default function DdsTool({ direction, out = 'png' }: Props) {
         if (preview) URL.revokeObjectURL(preview);
         setPreview(URL.createObjectURL(r.blob));
         setInfo(`${r.width} × ${r.height} px · ${r.format}`);
-      } catch (e: any) { setError(e?.message || 'This DDS could not be read.'); }
+      } catch (e: any) { setError(e?.message || L.cantDds); }
     }
   };
 
@@ -50,45 +53,45 @@ export default function DdsTool({ direction, out = 'png' }: Props) {
       }
       if (result) URL.revokeObjectURL(result.url);
       setResult({ url: URL.createObjectURL(blob), name, size: blob.size });
-    } catch (e: any) { setError(e?.message || 'Conversion failed.'); }
+    } catch (e: any) { setError(e?.message || L.convFail); }
     finally { setBusy(false); }
   };
 
   return (
     <div className="studio studio-convert">
       <div className="stage stage-flat checker" onDragOver={(e) => e.preventDefault()} onDrop={(e) => { e.preventDefault(); const f = e.dataTransfer.files[0]; if (f) pick(f); }}>
-        {preview ? <img className="stage-image" src={preview} alt="Preview of your texture" /> : (
+        {preview ? <img className="stage-image" src={preview} alt={L.preview} /> : (
           <button type="button" className="stage-empty" onClick={() => input.current?.click()}>
-            <b>Drop {direction === 'to-dds' ? 'a PNG or JPG' : 'a DDS file'} here</b>
-            <span>or click to choose</span>
+            <b>{direction === 'to-dds' ? L.dropImg : L.dropDds}</b>
+            <span>{L.orClick}</span>
           </button>
         )}
       </div>
       <div className="panel">
-        <button type="button" className="btn btn-primary btn-upload" onClick={() => input.current?.click()}>{file ? 'Choose another file' : 'Upload file'}</button>
+        <button type="button" className="btn btn-primary btn-upload" onClick={() => input.current?.click()}>{file ? L.another : L.upload}</button>
         <input ref={input} type="file" hidden accept={direction === 'to-dds' ? 'image/png,image/jpeg,image/webp' : '.dds'} onChange={(e) => e.target.files?.[0] && pick(e.target.files[0])} />
-        <p className="muted small">Converted on your device. Nothing is uploaded.</p>
+        <p className="muted small">{L.private}</p>
         {info && <p className="small"><b>{file?.name}</b><br />{info}</p>}
         <div className="convert-box">
           {direction === 'to-dds' ? <>
-            <label className="field">Compression
+            <label className="field">{L.compression}
               <select value={fmt} onChange={(e) => setFmt(e.target.value as any)}>
-                <option value="dxt5">DXT5 / BC3 (with alpha)</option>
-                <option value="dxt1">DXT1 / BC1 (smallest, 1-bit alpha)</option>
-                <option value="rgba">Uncompressed RGBA (largest, exact)</option>
+                <option value="dxt5">{L.dxt5}</option>
+                <option value="dxt1">{L.dxt1}</option>
+                <option value="rgba">{L.rgba}</option>
               </select>
             </label>
-            <label className="check"><input type="checkbox" checked={mips} onChange={(e) => setMips(e.target.checked)} /> Generate mipmaps</label>
+            <label className="check"><input type="checkbox" checked={mips} onChange={(e) => setMips(e.target.checked)} /> {L.mips}</label>
           </> : (
-            <label className="field">Save as
+            <label className="field">{L.saveAs}
               <select value={outType} onChange={(e) => setOutType(e.target.value as any)}>
-                <option value="png">PNG (keeps transparency)</option>
-                <option value="jpg">JPG (smaller, no transparency)</option>
+                <option value="png">{L.png}</option>
+                <option value="jpg">{L.jpg}</option>
               </select>
             </label>
           )}
-          <button type="button" className="btn btn-accent" disabled={!file || busy} onClick={run}>{direction === 'to-dds' ? 'Convert to DDS' : `Convert to ${outType.toUpperCase()}`}</button>
-          {result && <a className="btn btn-download" href={result.url} download={result.name}>Download {result.name} · {(result.size / 1024).toFixed(0)} KB</a>}
+          <button type="button" className="btn btn-accent" disabled={!file || busy} onClick={run}>{direction === 'to-dds' ? L.toDds : fillT(L.toFmt, { fmt: outType.toUpperCase() })}</button>
+          {result && <a className="btn btn-download" href={result.url} download={result.name}>{fillT(L.download, { name: result.name })} · {(result.size / 1024).toFixed(0)} KB</a>}
         </div>
         {error && <p className="alert alert-error" role="alert">{error}</p>}
       </div>

@@ -30,7 +30,8 @@
   "terms": "Terms of use",
   "disclaimer": "Disclaimer",
   "base": "Brand and product names belong to their owners; my3dprinter.io is an independent site and is not affiliated with any printer maker.",
-  "englishOnly": "in English"
+  "englishOnly": "in English",
+  "compare": "Compare printers"
  },
  "common": {
   "home": "Home",
@@ -576,7 +577,6 @@
   "scale": "Scale",
   "upAxis": "Up axis",
   "upAuto": "Automatic",
-  "upAutoNo": "Automatic (no change)",
   "yToZ": "Y-up → Z-up",
   "zToY": "Z-up → Y-up",
   "keep": "Keep as is",
@@ -609,7 +609,8 @@
    "gamepad": "Controller",
    "podcast-mic": "Podcast mic",
    "ring-light": "Ring light"
-  }
+  },
+  "noChange": "no change"
  },
  "image3d": {
   "needSvg": "Please choose an .svg file.",
@@ -640,7 +641,10 @@
   "invert": "Invert (light areas raised)",
   "thickness": "Thickness",
   "create": "Create {fmt}",
-  "download": "Download {name}"
+  "download": "Download {name}",
+  "dropSvg": "Drop an SVG here",
+  "dropImg": "Drop a PNG or JPG here",
+  "downloadAs": "Download as"
  },
  "dds": {
   "cantRead": "This image could not be read.",
@@ -663,6 +667,9 @@
   "toFmt": "Convert to {fmt}",
   "compression": "Compression",
   "output": "Output",
-  "download": "Download {name}"
+  "download": "Download {name}",
+  "dropImg": "Drop a PNG or JPG here",
+  "dropDds": "Drop a DDS file here",
+  "saveAs": "Save as"
  }
 }

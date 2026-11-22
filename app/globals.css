@@ -224,3 +224,12 @@ h3 { font-size: 19px; margin: 0 0 8px; }
 .cmp-cta h2 { color: #fff; margin: 0 0 4px; }
 .cmp-cta p { margin: 0; color: #b7c1cc; }
 @media (max-width: 720px) { .cmp-cta { flex-direction: column; align-items: flex-start; } }
+.lang { position: relative; margin-left: 14px; }
+.lang summary { list-style: none; cursor: pointer; display: inline-flex; align-items: center; gap: 6px; height: 34px; padding: 0 10px; border: 1px solid var(--line); border-radius: 999px; font: 600 13px var(--display); color: var(--ink); background: #fff; }
+.lang summary::-webkit-details-marker { display: none; }
+.lang[open] summary { border-color: var(--accent); }
+.lang ul { position: absolute; right: 0; top: 40px; z-index: 50; list-style: none; margin: 0; padding: 6px; background: #fff; border: 1px solid var(--line); border-radius: 12px; box-shadow: 0 12px 30px rgba(16, 21, 28, 0.14); min-width: 170px; }
+.lang li a { display: block; padding: 8px 12px; border-radius: 8px; text-decoration: none; color: var(--ink); font-size: 14px; }
+.lang li a:hover { background: #f3f5f8; }
+.lang li a[aria-current] { color: var(--accent-ink); font-weight: 700; }
+@media (max-width: 640px) { .lang { margin-left: auto; } .lang summary span { display: none; } }
