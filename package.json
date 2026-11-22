@@ -3,7 +3,7 @@
   "private": true,
   "scripts": {
     "dev": "node scripts/gen-locales.mjs && next dev -p 3030",
-    "build": "node scripts/gen-locales.mjs && node scripts/fetch-images.mjs && next build && node scripts/postbuild.mjs",
+    "build": "node scripts/check-i18n.mjs && node scripts/gen-locales.mjs && node scripts/fetch-images.mjs && next build && node scripts/postbuild.mjs",
     "check": "python3 scripts/check-seo.py"
   },
   "dependencies": {

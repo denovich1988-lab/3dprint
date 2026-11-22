@@ -1,6 +1,6 @@
 # my3dprinter.io — instructions
 
-Static Next.js site (output: export). `npm run build` → `out/` → `dist/` (scripts/postbuild.mjs adds llms.txt). Then `python3 scripts/check-seo.py` must report 0 issues. Push to `main` → GitHub Actions builds and publishes the `site` branch → the promt-site server pulls it every 5 minutes (deploy/add-site.sh). Site language: **English**. Company name in legal text: OUTRANKING LTD only (no company number, no address).
+Static Next.js site (output: export). `npm run build` → `out/` → `dist/` (scripts/postbuild.mjs adds llms.txt). Then `python3 scripts/check-seo.py` must report 0 issues. Push to `main` → GitHub Actions builds and publishes the `site` branch → the promt-site server pulls it every 5 minutes (deploy/add-site.sh). Site language: **English**. Never mention any company name, address or phone number on the site (owner's rule); the operator is "my3dprinter.io", contact hello@my3dprinter.io.
 
 ## What the site is
 1. **Tools** (lib/data/tools.ts): converters, viewers, image→3D, SVG→3D, DDS textures. Everything runs in the browser (three.js, occt-import-js for STEP/IGES, fflate). Never add server uploads or paid APIs.
