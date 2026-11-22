@@ -1,4 +1,5 @@
 ---
+shortName: Bambu Lab A1 mini
 title: Bambu Lab A1 mini – specs, setup, manual and limits
 seoTitle: Bambu Lab A1 mini Specs, Setup and Manual Guide
 description: Bambu Lab A1 mini explained – official specs, 180 mm build volume, materials it handles, AMS lite colour printing, setup and where to find the manual.
@@ -22,6 +23,8 @@ specs:
   - ["Max hot end flow", "28 mm³/s (Bambu ABS at 280 °C)"]
   - ["Size and weight", "347 × 315 × 365 mm; 5.5 kg"]
   - ["Recommended room", "10–30 °C, humidity under 85%"]
+  - ["Enclosure", "Open frame"]
+  - ["Multi-colour", "Up to 4 colours with the optional AMS lite"]
 faq:
   - q: What can the A1 mini print?
     a: Bambu Lab lists PLA, PETG, TPU and PVA as ideal. ABS, ASA, PC, PA, PET and carbon- or glass-filled filaments are listed as not recommended.

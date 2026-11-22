@@ -1,0 +1,668 @@
+{
+ "meta": {
+  "name": "English"
+ },
+ "nav": {
+  "converters": "Converters",
+  "viewer": "3D viewer",
+  "imageToStl": "Image to STL",
+  "printers": "Printers",
+  "blog": "Blog",
+  "home": "my3dprinter.io home",
+  "language": "Language",
+  "skip": "Skip to content"
+ },
+ "footer": {
+  "tagline": "Free tools that run in your browser. Your files are never uploaded.",
+  "converters": "Converters",
+  "images": "Images & textures",
+  "viewers": "Viewers",
+  "site": "my3dprinter.io",
+  "legal": "Legal",
+  "allConverters": "All converters",
+  "printers": "3D printers",
+  "blog": "Blog",
+  "formats": "File formats",
+  "about": "About",
+  "contact": "Contact",
+  "privacy": "Privacy policy",
+  "cookies": "Cookie policy",
+  "terms": "Terms of use",
+  "disclaimer": "Disclaimer",
+  "base": "Brand and product names belong to their owners; my3dprinter.io is an independent site and is not affiliated with any printer maker.",
+  "englishOnly": "in English"
+ },
+ "common": {
+  "home": "Home",
+  "converterSuffix": " converter",
+  "faq": "Questions and answers",
+  "relatedTools": "Related tools"
+ },
+ "home": {
+  "title": "Free 3D Model Viewer and Converter – STL, 3MF, STEP, OBJ, GLB",
+  "description": "Open, measure and convert 3D models in your browser: STL, 3MF, STEP, OBJ, GLB, FBX and more. Image to STL, lithophanes, plus 3D printer guides. No upload.",
+  "h1": "Free 3D model viewer and converter",
+  "lead": "Drop any 3D file to see it on a print bed, measure it, and convert it for your slicer, Blender or AR. Everything runs in your browser.",
+  "formats": "Supported formats",
+  "popular": "Popular converters",
+  "allConverters": "All converters",
+  "imagesH": "Images, logos and textures",
+  "imgCards": [
+   [
+    "Image to STL",
+    "Turn a picture into a relief or a raised logo, sized in millimetres."
+   ],
+   [
+    "Lithophane maker",
+    "Make a photo panel that lights up when held to a lamp."
+   ],
+   [
+    "SVG to STL",
+    "Extrude vector logos into signs, keychains and stencils."
+   ],
+   [
+    "PNG to DDS",
+    "Create DXT1/DXT5 game textures with mipmaps, or open DDS as PNG."
+   ]
+  ],
+  "viewersH": "Online 3D viewers",
+  "guidesH": "3D printers and blog",
+  "whyH": "Why convert here",
+  "why": [
+   [
+    "Private by design",
+    "Files are processed on your device. Nothing is uploaded, stored or shared."
+   ],
+   [
+    "Made for 3D printing",
+    "Models sit on a print bed with real millimetre sizes, volume and a solid-PLA weight estimate."
+   ],
+   [
+    "CAD and AI models too",
+    "Open STEP and IGES from CAD, GLB from AI generators, and G-code from your slicer."
+   ]
+  ],
+  "appName": "my3dprinter.io 3D viewer and converter",
+  "appDesc": "Free in-browser 3D model viewer and converter for STL, 3MF, STEP, OBJ, GLB and more.",
+  "faq": [
+   [
+    "Is my3dprinter.io free?",
+    "Yes. Every viewer and converter is free to use, with no account and no watermark."
+   ],
+   [
+    "Are my files uploaded to a server?",
+    "No. Models are opened and converted inside your browser using JavaScript and WebAssembly. The file never leaves your computer or phone, which also makes large files fast."
+   ],
+   [
+    "Which 3D formats can I open?",
+    "STL, 3MF, OBJ, GLB, glTF, FBX, PLY, DAE, 3DS, USDZ, OFF, AMF, VRML, STEP, STP, IGES, IGS and G-code, plus ZIP files that contain a model."
+   ],
+   [
+    "Which formats can I save?",
+    "STL (binary or ASCII), 3MF, OBJ, GLB, glTF, PLY, USDZ, DXF and OFF. Images can become STL, 3MF, OBJ or GLB, and textures can be converted between DDS, PNG and JPG."
+   ],
+   [
+    "Can I convert models from AI 3D generators?",
+    "Yes. Tools such as Meshy, Tripo and Rodin usually export GLB. Open the GLB here, check the size, and convert it to STL or 3MF for your slicer."
+   ]
+  ]
+ },
+ "converters": {
+  "title": "Free 3D File Converters – STL, 3MF, STEP, OBJ, GLB and More",
+  "description": "Every converter on my3dprinter.io: 3D models, CAD, images to STL, SVG and DDS textures. Free, in your browser, and your files are never uploaded.",
+  "h1": "3D file converters",
+  "lead": "{n} free tools. Each one runs in your browser, so files stay on your device and large models convert without waiting for uploads.",
+  "groups": [
+   [
+    "3D model converters",
+    "Convert between STL, 3MF, OBJ, GLB, glTF, FBX, PLY, STEP and more."
+   ],
+   [
+    "Images and vectors to 3D",
+    "Turn pictures, logos and SVG files into printable models."
+   ],
+   [
+    "Texture converters",
+    "Convert game textures between DDS, PNG and JPG."
+   ],
+   [
+    "3D viewers",
+    "Open and measure 3D files without installing anything."
+   ]
+  ],
+  "crumb": "Converters"
+ },
+ "tool": {
+  "mesh": {
+   "title": "{F} to {T} Converter – Free, Online, No Upload",
+   "h1": "{F} to {T} converter",
+   "lead": "Convert {F} files to {T} in your browser. Preview the model in 3D, check its size, then download. Free, no sign-up, and your file never leaves your device.",
+   "description": "Free {F} to {T} converter that runs in your browser. Preview in 3D, fix scale and orientation, download {T} in seconds. No upload, no sign-up."
+  },
+  "viewer": {
+   "title": "{F} Viewer – Open {F} Files Online, Free",
+   "h1": "{F} viewer",
+   "lead": "View {F} files online without installing anything. Rotate and zoom, see dimensions, triangle count and volume, and convert to another format if you need to.",
+   "description": "Free online {F} viewer: open .{ext} files in your browser, rotate, measure size and volume, view wireframe, convert. No upload, no sign-up."
+  },
+  "special": {
+   "image-to-stl": {
+    "title": "Image to STL Converter – Turn a Picture into a 3D Print",
+    "h1": "Image to STL converter",
+    "lead": "Turn a PNG or JPG into a 3D-printable STL. Choose a relief, a lithophane or a raised logo, set the size in millimetres and watch the model update live.",
+    "description": "Free image to STL converter: turn PNG or JPG pictures into reliefs, lithophanes and logo stamps. Live 3D preview, size in mm, no upload."
+   },
+   "png-to-stl": {
+    "title": "PNG to STL Converter – Logos, Reliefs and Lithophanes",
+    "h1": "PNG to STL converter",
+    "lead": "Convert a PNG into an STL you can print. Logo mode raises the dark shapes; relief mode turns brightness into height; transparent areas stay flat.",
+    "description": "Convert PNG to STL online: raise logos, make reliefs or lithophanes, set size and thickness in mm. Free, live 3D preview, files stay on your device."
+   },
+   "jpg-to-stl": {
+    "title": "JPG to STL Converter – Photo to 3D Print or Lithophane",
+    "h1": "JPG to STL converter",
+    "lead": "Turn a JPG photo into an STL. Lithophane mode makes a thin panel that shows the photo when lit from behind; relief mode makes a raised picture.",
+    "description": "Free JPG to STL converter. Make photo lithophanes and reliefs from JPG images with a live 3D preview. Set size in mm, download STL. No upload."
+   },
+   "jpeg-to-stl": {
+    "title": "JPEG to STL Converter – Free and Online",
+    "h1": "JPEG to STL converter",
+    "lead": "Convert JPEG images into printable STL reliefs, lithophanes or stamps, right in your browser.",
+    "description": "Convert JPEG to STL online for free. Reliefs, lithophanes and logo stamps with a live 3D preview and sizes in millimetres. No upload needed."
+   },
+   "lithophane-maker": {
+    "title": "Lithophane Maker – Photo to Lithophane STL, Free",
+    "h1": "Lithophane maker",
+    "lead": "Make a lithophane STL from any photo. Dark areas print thicker and block more light, so the picture appears when you hold the print up to a lamp.",
+    "description": "Free online lithophane maker: turn a photo into a lithophane STL with adjustable size, thickness and detail. Live preview, no upload, no sign-up."
+   },
+   "png-to-obj": {
+    "title": "PNG to OBJ Converter – Image to 3D Model Online",
+    "h1": "PNG to OBJ converter",
+    "lead": "Turn a PNG into a 3D OBJ model for Blender or a game engine: brightness becomes height on a solid base.",
+    "description": "Convert PNG to OBJ online: turn an image into a 3D relief model with adjustable size and height. Free, live preview, nothing uploaded."
+   },
+   "png-to-3mf": {
+    "title": "PNG to 3MF Converter – Image to Slicer-Ready 3MF",
+    "h1": "PNG to 3MF converter",
+    "lead": "Create a 3MF from a PNG. 3MF stores millimetres, so the model opens at the exact size you set in Bambu Studio, PrusaSlicer or OrcaSlicer.",
+    "description": "Convert PNG to 3MF for Bambu Studio, PrusaSlicer and OrcaSlicer. Raise logos or make reliefs with sizes in mm. Free and private, in your browser."
+   },
+   "svg-to-stl": {
+    "title": "SVG to STL Converter – Extrude Vector Art for 3D Printing",
+    "h1": "SVG to STL converter",
+    "lead": "Extrude an SVG into a solid STL for signs, logos, keychains, cookie cutters and stencils. Set the width and thickness in millimetres.",
+    "description": "Free SVG to STL converter: extrude vector logos and shapes into 3D-printable solids. Set width and thickness in mm, preview in 3D, no upload."
+   },
+   "svg-to-obj": {
+    "title": "SVG to OBJ Converter – Vector to 3D Model",
+    "h1": "SVG to OBJ converter",
+    "lead": "Extrude SVG shapes into a 3D OBJ model for Blender, games or 3D printing.",
+    "description": "Convert SVG to OBJ online: extrude vector shapes into a 3D model with set width and depth. Free, live 3D preview, files stay on your device."
+   },
+   "png-to-dds": {
+    "title": "PNG to DDS Converter – DXT1, DXT5 and Mipmaps, Free",
+    "h1": "PNG to DDS converter",
+    "lead": "Convert PNG images to DDS textures for games and mods. Choose DXT5 for transparency, DXT1 for the smallest files, or uncompressed RGBA, with optional mipmaps.",
+    "description": "Free PNG to DDS converter for game textures and mods. DXT1, DXT5 or uncompressed RGBA with mipmaps. Runs in your browser, no upload."
+   },
+   "jpg-to-dds": {
+    "title": "JPG to DDS Converter – Game Textures Online",
+    "h1": "JPG to DDS converter",
+    "lead": "Turn JPG images into DDS textures with DXT1 or DXT5 compression and mipmaps.",
+    "description": "Convert JPG to DDS online: DXT1, DXT5 or uncompressed textures with mipmaps for games and mods. Free, in your browser, no upload."
+   },
+   "dds-to-png": {
+    "title": "DDS to PNG Converter – Open DDS Textures Online",
+    "h1": "DDS to PNG converter",
+    "lead": "Convert DDS game textures to PNG and keep transparency. Works with DXT1, DXT3, DXT5 and uncompressed DDS files.",
+    "description": "Free DDS to PNG converter: open DXT1, DXT3, DXT5 and uncompressed DDS textures and save them as PNG with transparency. No upload."
+   },
+   "dds-to-jpg": {
+    "title": "DDS to JPG Converter – Free and Online",
+    "h1": "DDS to JPG converter",
+    "lead": "Convert DDS textures to JPG images in your browser.",
+    "description": "Convert DDS to JPG online: decode DXT1, DXT3, DXT5 and uncompressed DDS textures to JPG. Free and private, files never leave your device."
+   },
+   "3d-viewer": {
+    "title": "Online 3D Model Viewer – STL, 3MF, OBJ, GLB, STEP, FBX",
+    "h1": "Online 3D model viewer",
+    "lead": "Open 3D files in your browser: STL, 3MF, OBJ, GLB, glTF, FBX, STEP, PLY and more. Rotate, measure size and volume, check the mesh, save a PNG.",
+    "description": "Free online 3D viewer for STL, 3MF, OBJ, GLB, FBX, STEP and PLY. Rotate, measure dimensions and volume, wireframe view. Files stay on your device."
+   },
+   "zip-to-stl": {
+    "title": "ZIP to STL – Open and Convert Zipped 3D Models Online",
+    "h1": "ZIP to STL converter"
+   }
+  },
+  "sectionViewers": "3D viewers",
+  "sectionConverters": "Converters",
+  "howH": "How to use it",
+  "howTo": "How to use the {name}",
+  "aboutPair": "About {F} to {T} conversion",
+  "aboutFiles": "About {F} files",
+  "about3d": "3D",
+  "whatIs": "What is a {F} file?",
+  "moreAbout": "More about {F}",
+  "keepsH": "What each format keeps",
+  "usedBy": "Used by:",
+  "steps": {
+   "viewer": [
+    "Drop your {F} file on the viewer or click “Upload your model”.",
+    "Rotate with the mouse or one finger, zoom with the wheel or a pinch, and switch to wireframe to inspect the mesh.",
+    "Read the size, triangle count and volume, save a PNG, or convert the model to another format."
+   ],
+   "viewerAny": "3D",
+   "image": [
+    "Upload a {img} image.",
+    "Choose relief, lithophane or logo/stamp and set width, base and height in millimetres. The 3D preview updates as you change settings.",
+    "Click “Create {T}” and download the file for your slicer."
+   ],
+   "imgPng": "PNG",
+   "imgJpg": "JPG or PNG",
+   "svg": [
+    "Upload an SVG with filled shapes (convert text to paths first).",
+    "Set the width and the thickness in millimetres.",
+    "Click “Create {T}” and download it."
+   ],
+   "ddsEncode": [
+    "Upload a {F} image.",
+    "Choose DXT5, DXT1 or uncompressed, and whether to build mipmaps.",
+    "Click “Convert to DDS” and download the texture."
+   ],
+   "ddsDecode": [
+    "Upload a .dds texture. The preview shows it immediately.",
+    "Choose {T} as the output.",
+    "Click convert and download the image."
+   ],
+   "mesh": [
+    "Drop your {F} file on the 3D preview or click “Upload your model”.",
+    "Check the preview and size. Adjust Scale or Up axis if the model looks wrong.",
+    "Click “Convert to {T}”, then download the {T} file."
+   ]
+  },
+  "faq": {
+   "privacy": [
+    "Are my files uploaded?",
+    "No. The conversion runs in your web browser with JavaScript and WebAssembly. Your file is read from your device and the result is created on your device, so nothing is sent to our server."
+   ],
+   "free": [
+    "Is it free?",
+    "Yes. There is no sign-up, no watermark and no file limit set by us. Very large files are limited only by your device’s memory."
+   ],
+   "lostQ": "What is lost when converting {F} to {T}?",
+   "lostA": "{T} keeps: {keeps}. Anything {F} stores beyond that is dropped.",
+   "mesh": [
+    [
+     "Why is my model the wrong size?",
+     "Formats store units differently: STL has none, glTF uses metres, 3MF and STEP record units. If the result looks 1000 times too small or large, pick a different option in Scale (for example “Metres → mm”) and convert again."
+    ],
+    [
+     "Why is my model lying on its side?",
+     "Some formats treat Y as up (glTF, OBJ, FBX), others Z (STL, 3MF, STEP). “Up axis: Automatic” rotates the model for the target format. Choose “Keep as is” if you prefer the original orientation."
+    ]
+   ],
+   "imageBestQ": "Which image works best?",
+   "imageBestLitho": "Use a well-lit photo with clear contrast. Crop it to the shape you want before uploading. Faces and landscapes work well; very dark photos come out thick and dim.",
+   "imageBestOther": "For logos and text use a high-contrast PNG (black shapes on white or transparent). For reliefs, any photo works, but simple images with strong light and dark areas give the clearest result.",
+   "image": [
+    [
+     "What settings should I print a lithophane with?",
+     "Lithophanes are usually printed upright in white PLA with 100% infill and fine layers (0.12–0.16 mm) so the thickness differences show clearly. Check your slicer’s recommendations for your printer."
+    ],
+    [
+     "Can I change the size later?",
+     "Yes. Set the width here, or scale the STL in your slicer. Scaling in the slicer also scales the thickness, so set the thickness here for the best control."
+    ]
+   ],
+   "svg": [
+    [
+     "Why are some parts of my SVG missing?",
+     "Only filled shapes and stroked lines are turned into 3D. Text must be converted to paths first (in Inkscape: Path → Object to Path; in Illustrator: Type → Create Outlines). Embedded bitmaps are ignored."
+    ],
+    [
+     "How do I make a cookie cutter or keychain?",
+     "Use a simple outline. Extrude it with a small thickness for a keychain, or combine a thin tall wall and a wider base in your slicer or CAD app for a cutter."
+    ]
+   ],
+   "dds": [
+    [
+     "Which DDS compression should I choose?",
+     "DXT5 (BC3) keeps smooth transparency and suits most game textures. DXT1 (BC1) gives the smallest files but only on/off transparency. Uncompressed RGBA is exact but four to eight times larger."
+    ],
+    [
+     "Do I need mipmaps?",
+     "Most games expect mipmaps for textures shown at different distances; they reduce shimmering. UI images and icons usually do not need them."
+    ],
+    [
+     "Which DDS files can be opened?",
+     "DXT1, DXT3, DXT5 and uncompressed DDS files. BC7 files that use the newer DX10 header are not supported yet."
+    ]
+   ],
+   "viewer": [
+    [
+     "Which formats can the viewer open?",
+     "STL, 3MF, OBJ, GLB, glTF, FBX, PLY, DAE, 3DS, USDZ, OFF, AMF, VRML (WRL), STEP, STP, IGES, IGS and G-code, plus ZIP archives that contain a model."
+    ],
+    [
+     "How accurate are the measurements?",
+     "Dimensions come straight from the file’s coordinates and are shown in the file’s own units (millimetres for most 3D-printing files). Volume is exact for closed (watertight) meshes; for open meshes it is only an estimate."
+    ],
+    [
+     "Can I open huge files?",
+     "Files with a few million triangles open on most computers. Very large scans may be slow on phones because everything runs on your device."
+    ]
+   ]
+  }
+ },
+ "notes": {
+  "3mf-stl": [
+   "Most 3MF files you meet are slicer projects from Bambu Studio, OrcaSlicer, PrusaSlicer or MakerWorld. Each object on the plate is kept; merge them into one STL or download one STL per object.",
+   "Print settings, painted supports, colour painting and plate layout live only in the 3MF project. STL keeps the shape, so re-apply those settings in your slicer after importing."
+  ],
+  "stl-3mf": [
+   "3MF stores units, so a model converted here is tagged as millimetres and opens at the right size in Bambu Studio, PrusaSlicer, OrcaSlicer and Cura.",
+   "A 3MF file is a compressed ZIP, so it is usually smaller than the same binary STL."
+  ],
+  "glb-stl": [
+   "GLB is the usual download from AI 3D generators (Meshy, Tripo, Rodin and others) and from web viewers. Converting to STL keeps the shape and drops colours and textures, which slicers cannot use anyway.",
+   "glTF uses metres and Y-up. We rotate the model so it stands upright in your slicer; if it looks tiny, choose “Metres → mm” in Scale.",
+   "AI-generated meshes are often open or self-intersecting. Check the model in your slicer and use its repair option before printing."
+  ],
+  "step-stl": [
+   "STEP stores exact CAD surfaces. To make an STL, curved faces are split into triangles (tessellation). We use a fine setting so holes and fillets stay smooth.",
+   "Assemblies keep every part. Download one STL for the whole assembly or one per part."
+  ],
+  "stp-stl": [
+   ".stp and .step are the same format, so this works exactly like STEP to STL: exact CAD surfaces are tessellated into a fine triangle mesh."
+  ],
+  "obj-stl": [
+   "OBJ files from Blender, ZBrush or 3D scanners often come with textures. STL keeps only the geometry, which is what a slicer needs.",
+   "OBJ is usually Y-up. We rotate the model to Z-up so it lies correctly on the build plate."
+  ],
+  "stl-obj": [
+   "Use OBJ to bring a print model into Blender, Maya or a game engine. STL has no units, so check the scale after importing (Blender treats 1 unit as 1 metre)."
+  ],
+  "fbx-obj": [
+   "FBX is common for game assets and Mixamo characters. OBJ keeps the mesh and UVs; skeletons and animation are not part of OBJ, so the model is exported in its current pose."
+  ],
+  "fbx-stl": [
+   "Rigged characters are exported in the pose stored in the file. Thin parts such as hair cards or flat clothing may need thickening before they will print."
+  ],
+  "glb-obj": [
+   "Useful when a tool accepts OBJ but not glTF. Geometry and UVs are kept; PBR materials are simplified."
+  ],
+  "gcode-stl": [
+   "G-code contains printer moves, not the model you sliced. We rebuild a solid from each extruded line using the detected layer height and a 0.45 mm line width, so you get a close approximation for previews and measurements.",
+   "If you still have the original STL or 3MF, use that instead: it will be far cleaner."
+  ],
+  "zip-stl": [
+   "Model sites often deliver STL files inside ZIP archives. We open the archive in your browser and convert the first model inside. If the ZIP holds several models, you will see which one was used."
+  ],
+  "ply-stl": [
+   "PLY files from 3D scanners can be point clouds. Only PLY files with faces (triangles) can be converted to a printable STL."
+  ],
+  "stl-dxf": [
+   "The mesh is written as 3DFACE entities, which AutoCAD, LibreCAD and most CAM programs can open. DXF from a mesh is not a 2D drawing; for laser cutting you still need a flat outline."
+  ]
+ },
+ "formats": {
+  "stl": {
+   "what": "STL is the most common file for 3D printing. It stores a surface as a list of triangles and nothing else: no colours, no materials, no units. Every slicer can open it.",
+   "usedBy": "Every slicer (Bambu Studio, PrusaSlicer, OrcaSlicer, Cura), Thingiverse and Printables downloads, most CAD tools as an export.",
+   "keeps": "Triangle geometry only. Binary STL is about five times smaller than ASCII STL.",
+   "notes": "STL has no unit field. Slicers assume millimetres, so a model exported in metres or inches can appear tiny or huge."
+  },
+  "3mf": {
+   "what": "3MF is a ZIP-based format designed to replace STL. It stores the mesh with units, colours, several objects and, in slicer projects, plate and print settings.",
+   "usedBy": "Bambu Studio, PrusaSlicer, OrcaSlicer, Cura, Windows 3D Builder; MakerWorld and Printables project files.",
+   "keeps": "Meshes, units (usually millimetres), object names, colours and materials, build-plate layout; slicer projects add their own settings.",
+   "notes": "Slicer-specific data such as Bambu Studio plate settings or painted supports is not part of the core standard, so it is dropped when converting to other formats."
+  },
+  "obj": {
+   "what": "OBJ is a plain-text 3D format supported almost everywhere. It stores vertices, faces and texture coordinates; materials live in a separate .mtl file.",
+   "usedBy": "Blender, Maya, 3ds Max, ZBrush, game engines, photogrammetry and 3D-scanning apps.",
+   "keeps": "Geometry, UV coordinates, normals, groups. Colours and textures only through the companion .mtl and image files."
+  },
+  "glb": {
+   "what": "GLB is the single-file, binary form of glTF, the standard for 3D on the web, in AR and in many AI 3D generators. Geometry, materials and textures are packed into one file.",
+   "usedBy": "Web viewers, three.js, Babylon.js, Blender, AR on Android, AI model generators such as Meshy, Tripo and Rodin.",
+   "keeps": "Meshes, PBR materials, textures, scene hierarchy, animation. Units are metres and Y is up.",
+   "notes": "For 3D printing only the shape matters, so materials and textures are dropped when you convert GLB to STL."
+  },
+  "gltf": {
+   "what": "glTF is the JSON version of the web 3D standard. The .gltf file may reference separate .bin and texture files, or embed them.",
+   "usedBy": "Web and game engines, Blender, Sketchfab, AR tools.",
+   "keeps": "Same content as GLB: meshes, materials, textures, animation.",
+   "notes": "If your .gltf comes with .bin or image files, add them together so nothing is missing."
+  },
+  "fbx": {
+   "what": "FBX is Autodesk’s interchange format for animation and games. It can hold meshes, skeletons, animation and materials.",
+   "usedBy": "Maya, 3ds Max, Unity, Unreal Engine, Mixamo, Blender.",
+   "keeps": "Meshes, rigs, animation, cameras, materials.",
+   "notes": "FBX is a closed format. We read it in the browser; writing FBX needs Autodesk’s SDK, so FBX export is not offered."
+  },
+  "ply": {
+   "what": "PLY was created for 3D scanning. It stores triangles and, often, a colour per vertex.",
+   "usedBy": "3D scanners, MeshLab, CloudCompare, photogrammetry software.",
+   "keeps": "Vertices, faces, vertex colours and normals. Some PLY files are point clouds without faces."
+  },
+  "dae": {
+   "what": "DAE (COLLADA) is an older XML interchange format still exported by SketchUp and some game tools.",
+   "usedBy": "SketchUp, Google Earth models, older game pipelines.",
+   "keeps": "Meshes, materials, scene hierarchy, animation."
+  },
+  "3ds": {
+   "what": "3DS is the legacy 3D Studio format. It is still found in old model libraries.",
+   "usedBy": "3ds Max (legacy), model archives.",
+   "keeps": "Meshes, basic materials, simple hierarchy."
+  },
+  "usdz": {
+   "what": "USDZ is Apple’s AR format, based on Pixar’s USD. iPhones and iPads open it directly in AR Quick Look.",
+   "usedBy": "iOS and macOS AR Quick Look, Reality Composer, object-capture apps.",
+   "keeps": "Meshes, PBR materials, textures.",
+   "notes": "Complex USD features (variants, layers) are not read by browser loaders; simple USDZ models work best."
+  },
+  "off": {
+   "what": "OFF is a simple text mesh format used in geometry research and some academic tools.",
+   "usedBy": "Geomview, MeshLab, CGAL, research datasets.",
+   "keeps": "Vertices and polygon faces."
+  },
+  "amf": {
+   "what": "AMF is an XML format for 3D printing that was largely replaced by 3MF.",
+   "usedBy": "Older PrusaSlicer and Slic3r versions.",
+   "keeps": "Meshes, materials, colours, units."
+  },
+  "wrl": {
+   "what": "WRL (VRML) is an early web 3D format still used by some colour 3D printers and CAD tools.",
+   "usedBy": "Colour powder printers, some CAD exports.",
+   "keeps": "Meshes, colours, textures."
+  },
+  "step": {
+   "what": "STEP is the main neutral CAD format. Unlike STL it stores exact surfaces (B-rep), so curves stay perfectly smooth.",
+   "usedBy": "Fusion, SolidWorks, Onshape, FreeCAD, Inventor, CATIA, manufacturers’ part libraries.",
+   "keeps": "Exact solid geometry, assemblies, part names, colours.",
+   "notes": "Converting STEP to a mesh is reliable. The reverse (STL to STEP) only wraps triangles in a STEP file and does not recreate smooth CAD surfaces."
+  },
+  "stp": {
+   "what": ".stp is simply another extension for a STEP file. The content is identical to .step.",
+   "usedBy": "Same as STEP.",
+   "keeps": "Exact solid geometry and assemblies."
+  },
+  "iges": {
+   "what": "IGES is an older neutral CAD format, often used for surfaces in automotive and aerospace work.",
+   "usedBy": "Legacy CAD systems, CNC and CAM tools.",
+   "keeps": "Surfaces and curves, sometimes solids."
+  },
+  "igs": {
+   "what": ".igs is the short extension for IGES files.",
+   "usedBy": "Same as IGES.",
+   "keeps": "Surfaces and curves."
+  },
+  "gcode": {
+   "what": "G-code is the list of machine moves a slicer sends to the printer: where to move, how fast, how much plastic to push.",
+   "usedBy": "All FDM printers; produced by slicers.",
+   "keeps": "Toolpaths, temperatures, speeds. Not the original model.",
+   "notes": "A mesh rebuilt from G-code follows the printed lines, so it is an approximation of the original part."
+  },
+  "dxf": {
+   "what": "DXF is AutoCAD’s exchange format. We export 3D meshes as 3DFACE entities that AutoCAD, LibreCAD and most CAM tools can open.",
+   "usedBy": "AutoCAD, LibreCAD, laser-cutter and CNC software.",
+   "keeps": "Lines, polylines, 3D faces, layers."
+  },
+  "svg": {
+   "what": "SVG is a vector image format. Its filled shapes can be extruded into a solid for printing signs, logos, cookie cutters and stencils.",
+   "usedBy": "Inkscape, Illustrator, Figma, Cricut Design Space.",
+   "keeps": "Paths, fills, strokes."
+  },
+  "png": {
+   "what": "PNG is a lossless image format with transparency. Brightness can be turned into height to make reliefs, lithophanes and stamps.",
+   "usedBy": "Everywhere.",
+   "keeps": "Pixels, transparency."
+  },
+  "jpg": {
+   "what": "JPG is the common photo format. Photos work well for lithophanes; logos are cleaner as PNG or SVG.",
+   "usedBy": "Cameras, phones, the web.",
+   "keeps": "Pixels (lossy compression)."
+  },
+  "jpeg": {
+   "what": "JPEG and JPG are the same format with a different extension.",
+   "usedBy": "Cameras, phones, the web.",
+   "keeps": "Pixels (lossy compression)."
+  },
+  "dds": {
+   "what": "DDS is a texture format used by games. It stores GPU-compressed images (DXT/BC) and mipmaps so textures load fast.",
+   "usedBy": "Game engines, modding tools for Skyrim, Fallout, Minecraft Bedrock, flight simulators.",
+   "keeps": "Compressed pixels, mipmaps, sometimes cube maps.",
+   "notes": "We read DXT1, DXT3, DXT5 and uncompressed DDS. BC7 files (DX10 header) are not supported yet."
+  },
+  "zip": {
+   "what": "Many model sites ship STL files inside a ZIP. We open the archive in your browser and use the model inside.",
+   "usedBy": "Thingiverse, Printables, Cults downloads.",
+   "keeps": "Any files."
+  }
+ },
+ "studio": {
+  "scaleKeep": "Keep size",
+  "scaleM": "Metres → mm (×1000)",
+  "scaleIn": "Inches → mm (×25.4)",
+  "scaleCm": "Centimetres → mm (×10)",
+  "scaleToM": "mm → metres (÷1000)",
+  "svgHere": "SVG files are turned into 3D on the SVG to STL page.",
+  "imgHere": "Images are turned into 3D on the Image to STL page.",
+  "reading": "Reading {name}…",
+  "cantOpen": "This file could not be opened.",
+  "converting": "Converting to {fmt}…",
+  "convFail": "Conversion failed.",
+  "drop": "Drop a {fmt} file here",
+  "dropAny": "3D",
+  "orClick": "or click to choose · STL, 3MF, OBJ, GLB, FBX, STEP, PLY and more",
+  "dropToOpen": "Drop to open",
+  "demoCats": "Demo model categories",
+  "demoModels": "Demo models",
+  "view": "View",
+  "rotate": "Rotate",
+  "wireframe": "Wireframe",
+  "reset": "Reset view",
+  "savePng": "Save PNG",
+  "size": "Size",
+  "triangles": "Triangles",
+  "volume": "Volume",
+  "solidPla": "Solid PLA",
+  "openAnother": "Open another file",
+  "upload": "Upload your model",
+  "private": "Files are processed on your device and never uploaded.",
+  "convertTo": "Convert to",
+  "scale": "Scale",
+  "upAxis": "Up axis",
+  "upAuto": "Automatic",
+  "upAutoNo": "Automatic (no change)",
+  "yToZ": "Y-up → Z-up",
+  "zToY": "Z-up → Y-up",
+  "keep": "Keep as is",
+  "ascii": "ASCII STL (larger, human-readable)",
+  "separate": "One file per object ({n}) as ZIP",
+  "convertBtn": "Convert to {fmt}",
+  "download": "Download {name}",
+  "groups": {
+   "home": "For the home",
+   "toys": "Toys",
+   "football": "Football",
+   "creators": "Creators"
+  },
+  "samples": {
+   "vase": "Vase",
+   "planter": "Planter",
+   "mug": "Mug",
+   "lamp": "Lamp",
+   "phone-stand": "Phone stand",
+   "gear": "Gear",
+   "duck": "Duck",
+   "robot": "Robot",
+   "rocket": "Rocket",
+   "teddy": "Teddy bear",
+   "footballer": "Striker",
+   "goalkeeper": "Goalkeeper",
+   "football": "Ball",
+   "trophy": "Trophy",
+   "streamer": "Streamer",
+   "gamepad": "Controller",
+   "podcast-mic": "Podcast mic",
+   "ring-light": "Ring light"
+  }
+ },
+ "image3d": {
+  "needSvg": "Please choose an .svg file.",
+  "needImg": "This page works with PNG and JPG. Use SVG to STL for vector files.",
+  "cantRead": "This image could not be read.",
+  "cantBuild": "Could not build the model.",
+  "exportFail": "Export failed.",
+  "hintSvg": "Filled shapes are extruded into a solid",
+  "hintImg": "Brightness becomes height",
+  "building": "Building…",
+  "yourImage": "Your image",
+  "backlit": "Backlit look",
+  "another": "Choose another file",
+  "uploadSvg": "Upload SVG",
+  "uploadImg": "Upload image",
+  "private": "Processed on your device. Nothing is uploaded.",
+  "style": "Style",
+  "relief": "Relief",
+  "litho": "Lithophane",
+  "stamp": "Logo / stamp",
+  "width": "Width",
+  "base": "Base thickness",
+  "maxExtra": "Max extra thickness",
+  "reliefH": "Relief height",
+  "threshold": "Threshold",
+  "detail": "Detail (samples)",
+  "darkThick": "Dark areas thicker (normal for lithophanes)",
+  "invert": "Invert (light areas raised)",
+  "thickness": "Thickness",
+  "create": "Create {fmt}",
+  "download": "Download {name}"
+ },
+ "dds": {
+  "cantRead": "This image could not be read.",
+  "pad": "not a multiple of 4: edge blocks are padded",
+  "cantDds": "This DDS could not be read.",
+  "convFail": "Conversion failed.",
+  "preview": "Preview of your texture",
+  "drop": "Drop a file here",
+  "orClick": "or click to choose",
+  "another": "Choose another file",
+  "upload": "Upload file",
+  "private": "Converted on your device. Nothing is uploaded.",
+  "dxt5": "DXT5 / BC3 (with alpha)",
+  "dxt1": "DXT1 / BC1 (smallest, 1-bit alpha)",
+  "rgba": "Uncompressed RGBA (largest, exact)",
+  "mips": "Generate mipmaps",
+  "png": "PNG (keeps transparency)",
+  "jpg": "JPG (smaller, no transparency)",
+  "toDds": "Convert to DDS",
+  "toFmt": "Convert to {fmt}",
+  "compression": "Compression",
+  "output": "Output",
+  "download": "Download {name}"
+ }
+}

@@ -35,6 +35,10 @@ tools: [tool slugs to show in the sidebar]
 ```
 File name: `content/<printers|blog>/YYYY-MM-DD-slug.md` (date = today in Asia/Tashkent). Slug = URL.
 
+## Printer specs (feeds /printers/compare/ and the rankings)
+- Add `shortName` (e.g. "Bambu Lab P1S") to every printer page.
+- Use these spec labels where the maker publishes the value: Build volume (`X × Y × Z mm`), Max speed (`N mm/s`), Max acceleration (`N mm/s²`), Max flow (`N mm³/s`), Max nozzle temperature, Max bed temperature, Motion system, Enclosure (`Enclosed` / `Open frame`), Multi-colour, Nozzle, Extruder, Filaments, Filament diameter, Screen, Camera, Connectivity, Filtration, Sensors, Size and weight, Power. Unknown values are left out, never guessed. Prices are never compared.
+
 ## Page structure
 - First sentence answers the query in bold with the keyword.
 - Printer page: who it suits → setup (high level, from the official quick start) → connecting (Wi-Fi/app/LAN/SD) → manual (say where the official manual is, e.g. "on the Bambu Lab Wiki", as plain text without a link; never copy it) → firmware/software → compare links.

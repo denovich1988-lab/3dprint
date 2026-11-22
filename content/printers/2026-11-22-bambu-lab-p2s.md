@@ -1,4 +1,5 @@
 ---
+shortName: Bambu Lab P2S
 title: Bambu Lab P2S – specs, what is new, setup and manual
 seoTitle: Bambu Lab P2S Specs, Features and Setup Guide
 description: Bambu Lab P2S explained – official specs, what changed from the P1S, the AMS 2 Pro Combo, first setup and where to find the official manual.
@@ -23,6 +24,7 @@ specs:
   - ["Sensors", "Door, filament run-out, tangle, odometry; power-loss recovery; filament cutter"]
   - ["Combo version", "Includes AMS 2 Pro with active-venting filament drying"]
   - ["Launch price (EU)", "€519 printer / €749 Combo, tax included"]
+  - ["Enclosure", "Enclosed"]
 faq:
   - q: What is the difference between the P2S and the P1S?
     a: The build volume is the same. The P2S adds a 5-inch touchscreen, a 1080p camera, a servo extruder with about 70% more force, Auto Flow Dynamics Calibration, adaptive airflow, AI error detection, a quick-swap nozzle and a 110 °C bed (the P1S bed reaches 100 °C).

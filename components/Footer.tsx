@@ -7,7 +7,7 @@ export default function Footer() {
     ['Converters', [['/3mf-to-stl/', '3MF to STL'], ['/step-to-stl/', 'STEP to STL'], ['/glb-to-stl/', 'GLB to STL'], ['/obj-to-stl/', 'OBJ to STL'], ['/stl-to-3mf/', 'STL to 3MF'], ['/converters/', 'All converters']]],
     ['Images & textures', [['/image-to-stl/', 'Image to STL'], ['/lithophane-maker/', 'Lithophane maker'], ['/svg-to-stl/', 'SVG to STL'], ['/png-to-dds/', 'PNG to DDS'], ['/dds-to-png/', 'DDS to PNG']]],
     ['Viewers', [['/3d-viewer/', '3D model viewer'], ['/stl-viewer/', 'STL viewer'], ['/3mf-viewer/', '3MF viewer'], ['/step-viewer/', 'STEP viewer'], ['/obj-viewer/', 'OBJ viewer']]],
-    ['my3dprinter.io', [['/printers/', '3D printers'], ['/blog/', 'Blog'], ['/formats/', 'File formats'], ['/about/', 'About'], ['/contact/', 'Contact']]],
+    ['my3dprinter.io', [['/printers/', '3D printers'], ['/printers/compare/', 'Compare printers'], ['/blog/', 'Blog'], ['/formats/', 'File formats'], ['/about/', 'About'], ['/contact/', 'Contact']]],
     ['Legal', [['/privacy/', 'Privacy policy'], ['/cookies/', 'Cookie policy'], ['/terms/', 'Terms of use'], ['/disclaimer/', 'Disclaimer']]],
   ];
   return (

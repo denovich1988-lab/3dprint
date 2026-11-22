@@ -1,4 +1,5 @@
 ---
+shortName: Bambu Lab P1S
 title: Bambu Lab P1S – specs, setup, manual and who it suits
 seoTitle: Bambu Lab P1S Specs, Setup and Manual Guide
 description: Bambu Lab P1S explained – official specs, what is in the box, first setup, Wi-Fi and app binding, where to find the manual, and how it compares with the P2S.
@@ -26,6 +27,7 @@ specs:
   - ["Connectivity", "Wi-Fi, Bluetooth, Bambu-Bus; micro SD card"]
   - ["Size and weight", "389 × 389 × 457 mm; 12.95 kg"]
   - ["Power", "100–240 VAC; max 1000 W at 220 V / 350 W at 110 V"]
+  - ["Enclosure", "Enclosed"]
 faq:
   - q: What is the build volume of the Bambu Lab P1S?
     a: Bambu Lab lists 256 × 256 × 256 mm.

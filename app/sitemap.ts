@@ -13,6 +13,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: abs('/formats/'), lastModified: now },
     { url: abs('/blog/'), lastModified: now },
     { url: abs('/printers/'), lastModified: now },
+    { url: abs('/printers/compare/'), lastModified: now, priority: 0.8 },
     ...TOOLS.map((t) => ({ url: abs(`/${t.slug}/`), lastModified: now, priority: 0.9 })),
     ...FORMATS.filter((f) => f.kind !== 'archive').map((f) => ({ url: abs(`/formats/${f.id}/`), lastModified: now })),
     ...listDocs('blog').map((d) => ({ url: abs(`/blog/${d.slug}/`), lastModified: d.updated || d.date })),
