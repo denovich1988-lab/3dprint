@@ -1,11 +1,11 @@
 ---
 title: Cookie policy
 seoTitle: Cookie Policy – my3dprinter.io
-description: my3dprinter.io sets no tracking or advertising cookies. Learn which strictly necessary security cookies may be used and how to control cookies.
+description: "Which cookies my3dprinter.io uses: analytics cookies from Google tags loaded through Google Tag Manager, and strictly necessary security cookies."
 date: 2026-11-22
 updated: 2026-11-22
 ---
-**my3dprinter.io does not use tracking, analytics or advertising cookies.** The only cookies you may receive are strictly necessary security cookies from our network provider.
+**my3dprinter.io uses analytics cookies set by Google tags, loaded through Google Tag Manager, and may use strictly necessary security cookies from our network provider.** We do not use advertising cookies.
 
 Last updated: 22 November 2026.
 
@@ -15,10 +15,10 @@ Last updated: 22 November 2026.
 |---|---|---|
 | Strictly necessary (security) | Possibly | Set by our network and security provider, Cloudflare, to detect bots and protect the site from abuse. They do not identify you personally |
 | Preferences | No | — |
-| Analytics | No | — |
+| Analytics | Yes | Set by Google tags loaded through Google Tag Manager to count visits and see how pages are used. Typical names start with `_ga` |
 | Advertising or tracking | No | — |
 
-Because strictly necessary cookies are needed for the site to work securely, they do not require consent under most cookie laws. We do not show a cookie banner because we do not use any optional cookies.
+Strictly necessary cookies are needed for the site to work securely. Analytics cookies are optional: you can block or delete them in your browser at any time without losing access to any tool.
 
 ## Local processing, not storage
 
@@ -30,6 +30,6 @@ You can block or delete cookies in your browser settings. Blocking security cook
 
 ## Changes
 
-If we ever add optional cookies, for example for analytics, we will update this page and ask for your consent first.
+If we add or change cookies, we will update this page and the date above.
 
 Questions: **hello@my3dprinter.io**. See also our [privacy policy](/privacy/).

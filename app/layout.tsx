@@ -23,6 +23,10 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="en">
       {/* lang is rewritten per language folder by scripts/postbuild.mjs */}
+      <head>
+        <script async src="https://www.googletagmanager.com/gtm.js?id=GTM-T7SN8RQX"></script>
+        <script dangerouslySetInnerHTML={{ __html: "window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());" }} />
+      </head>
       <body>{children}</body>
     </html>
   );

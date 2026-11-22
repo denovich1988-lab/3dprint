@@ -1,7 +1,7 @@
 ---
 title: Privacy policy
 seoTitle: Privacy Policy – my3dprinter.io
-description: How my3dprinter.io handles data. Files you open in our 3D tools are processed in your browser and never uploaded. No accounts, no tracking cookies.
+description: How my3dprinter.io handles data. Files you open in our 3D tools stay in your browser and are never uploaded. No accounts; Google analytics tags explained.
 date: 2026-11-22
 updated: 2026-11-22
 ---
@@ -15,9 +15,9 @@ Last updated: 22 November 2026.
 |---|---|
 | Are my 3D files or images uploaded? | No. They are read and converted in your browser only |
 | Do I need an account? | No. The site has no accounts or sign-in |
-| Do you use tracking or advertising cookies? | No |
-| Do you use analytics? | Not at present. If that changes, this page will be updated first |
-| Who else processes data? | Our hosting server and our network and security provider, Cloudflare, process standard request data to deliver the site |
+| Do you use analytics? | Yes. We use Google Tag Manager to load Google's measurement tags, which count visits and how pages are used |
+| Do you use advertising cookies? | No advertising is shown on the site |
+| Who else processes data? | Google (Tag Manager and analytics), our hosting server, and our network and security provider, Cloudflare |
 
 ## Files and content you open in the tools
 
@@ -34,9 +34,15 @@ Like every website, our server and network provider receive technical data neede
 
 This data is used only to deliver the site, prevent abuse and fix errors. Server logs are kept for a limited period and then deleted. We do not sell this data or use it to build profiles.
 
+## Analytics (Google Tag Manager)
+
+We use Google Tag Manager to load Google's analytics tags. They help us understand which tools and guides are used, which pages load slowly and where visitors come from, so we can improve the site. These tags may set cookies or similar identifiers in your browser and send Google information such as the pages you view, your approximate location derived from your IP address, your device and browser type, and referring pages. Google processes this data under its own privacy policy. The files you open in our tools are never part of this data: they stay in your browser.
+
+You can block analytics with your browser's privacy settings or a content blocker, or opt out of Google Analytics with Google's browser add-on.
+
 ## Cookies and local storage
 
-my3dprinter.io does not set its own cookies. Our network provider may set strictly necessary security cookies to tell people from automated attacks. See the [cookie policy](/cookies/) for details.
+my3dprinter.io uses analytics cookies set through Google Tag Manager, and our network provider may set strictly necessary security cookies to tell people from automated attacks. See the [cookie policy](/cookies/) for details.
 
 ## Emails you send us
 
@@ -48,11 +54,11 @@ The site is a general-audience tool site. We do not knowingly collect personal d
 
 ## Your rights
 
-Depending on where you live, you may have the right to ask what personal data we hold about you, to have it corrected or deleted, and to object to processing. Because we do not keep accounts or files, we usually hold no personal data beyond short-lived server logs and any emails you send. To make a request, write to hello@my3dprinter.io.
+Depending on where you live, you may have the right to ask what personal data we hold about you, to have it corrected or deleted, and to object to processing. Because we do not keep accounts or files, the personal data involved is limited to short-lived server logs, analytics data processed by Google and any emails you send. To make a request, write to hello@my3dprinter.io.
 
 ## Changes
 
-If we change how data is handled, for example by adding analytics, we will update this page and the date above before the change takes effect, and ask for consent where the law requires it.
+If we change how data is handled, we will update this page and the date above before the change takes effect, and ask for consent where the law requires it.
 
 ## Contact
 
