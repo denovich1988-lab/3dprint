@@ -25,6 +25,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       {/* lang is rewritten per language folder by scripts/postbuild.mjs */}
       <head>
         <script async src="https://www.googletagmanager.com/gtm.js?id=GTM-T7SN8RQX"></script>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3226858004021254" crossOrigin="anonymous"></script>
         <script dangerouslySetInnerHTML={{ __html: "window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());" }} />
       </head>
       <body>{children}</body>

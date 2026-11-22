@@ -1,7 +1,7 @@
 ---
 title: Privacy policy
 seoTitle: Privacy Policy – my3dprinter.io
-description: How my3dprinter.io handles data. Files you open in our 3D tools stay in your browser and are never uploaded. No accounts; Google analytics tags explained.
+description: How my3dprinter.io handles data. Files you open in our 3D tools stay in your browser. Google analytics and AdSense advertising explained.
 date: 2026-11-22
 updated: 2026-11-22
 ---
@@ -16,8 +16,8 @@ Last updated: 22 November 2026.
 | Are my 3D files or images uploaded? | No. They are read and converted in your browser only |
 | Do I need an account? | No. The site has no accounts or sign-in |
 | Do you use analytics? | Yes. We use Google Tag Manager to load Google's measurement tags, which count visits and how pages are used |
-| Do you use advertising cookies? | No advertising is shown on the site |
-| Who else processes data? | Google (Tag Manager and analytics), our hosting server, and our network and security provider, Cloudflare |
+| Do you use advertising cookies? | Yes. Ads are served by Google AdSense, which may use cookies to show and measure ads |
+| Who else processes data? | Google (Tag Manager, analytics and AdSense advertising), our hosting server, and our network and security provider, Cloudflare |
 
 ## Files and content you open in the tools
 
@@ -40,9 +40,13 @@ We use Google Tag Manager to load Google's analytics tags. They help us understa
 
 You can block analytics with your browser's privacy settings or a content blocker, or opt out of Google Analytics with Google's browser add-on.
 
+## Advertising (Google AdSense)
+
+We show ads served by Google AdSense to keep the tools free. Google and its partners may use cookies or similar identifiers to show ads based on your previous visits to this and other websites, to limit how often you see an ad and to measure ad performance. Visitors in the European Economic Area, the UK and Switzerland are asked for consent before personalised ads are used. You can turn off personalised advertising in Google's Ads Settings, or opt out of third-party vendors' use of cookies for personalised advertising at aboutads.info.
+
 ## Cookies and local storage
 
-my3dprinter.io uses analytics cookies set through Google Tag Manager, and our network provider may set strictly necessary security cookies to tell people from automated attacks. See the [cookie policy](/cookies/) for details.
+my3dprinter.io uses analytics cookies set through Google Tag Manager, advertising cookies set by Google AdSense, and our network provider may set strictly necessary security cookies to tell people from automated attacks. See the [cookie policy](/cookies/) for details.
 
 ## Emails you send us
 
