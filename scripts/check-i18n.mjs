@@ -2,7 +2,7 @@
 // Usage: node scripts/check-i18n.mjs [lang ...]   (exit 1 on problems)
 import fs from 'node:fs';
 const en = JSON.parse(fs.readFileSync('lib/i18n/en.json', 'utf8'));
-const langs = process.argv.slice(2).length ? process.argv.slice(2) : ['de', 'es', 'fr', 'it', 'ja', 'ko', 'pt', 'vi', 'th', 'zh'];
+const langs = process.argv.slice(2).length ? process.argv.slice(2) : ['de', 'es', 'fr', 'it', 'ja', 'ko', 'pt', 'vi', 'th', 'zh', 'ru'];
 const ph = (s) => (s.match(/\{\w+\}/g) || []).sort().join(',');
 let bad = 0;
 for (const l of langs) {

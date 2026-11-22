@@ -64,8 +64,8 @@ File name: `content/<printers|blog>/YYYY-MM-DD-slug.md` (date = today in Asia/Ta
 ## Daily task
 Owner's plan: **50 pages + 2 blog posts every day**, split over 5 scheduled runs (10:00, 10:40, 11:20, 12:00, 12:40 Tashkent), 10 pages each; run 1 also writes the 2 blog posts. Pages come from pages-plan.md (printer models and brand hubs first, then tools only when the engine supports them); when it runs out, the next lines of blog-keywords.md. Pull with `git pull --rebase origin main` before choosing topics and before every commit. Verify facts as above. Build, run check-seo (0 issues), check for external links, commit `Add content: <titles>`, push. Never ask for confirmation. Fewer pages is fine if facts cannot be verified; never pad.
 
-## Languages (11, same set as meshy.ai)
-- en (source) + de, es, fr, it, ja, ko, pt, vi, th, zh. Translated: home, /converters/ and every tool page (URLs `/<lang>/…`). Blog, printers, formats and legal pages stay English (no prefix).
+## Languages (12: meshy.ai set + Russian)
+- en (source) + de, es, fr, it, ja, ko, pt, vi, th, zh, ru. Translated: home, /converters/ and every tool page (URLs `/<lang>/…`). Blog, printers, formats and legal pages stay English (no prefix).
 - All UI and tool texts live in `lib/i18n/en.json`; translations in `lib/i18n/<lang>.json` with the same keys. `node scripts/check-i18n.mjs` must pass (same keys, array lengths and `{placeholders}`). Keep product, brand and format names unchanged. Titles ≤ 62 chars, descriptions 70–160 chars.
 - `scripts/gen-locales.mjs` generates `app/(i18n)/<lang>/` routes for every non-empty dictionary at build time (gitignored); hreflang, sitemap alternates and `<html lang>` are automatic.
 - When you add or change English text in en.json, add the same key to every language file.

@@ -4,7 +4,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 const root = path.join('app', '(i18n)');
 fs.rmSync(root, { recursive: true, force: true });
-const langs = ['de', 'es', 'fr', 'it', 'ja', 'ko', 'pt', 'vi', 'th', 'zh'].filter((l) => {
+const langs = ['de', 'es', 'fr', 'it', 'ja', 'ko', 'pt', 'vi', 'th', 'zh', 'ru'].filter((l) => {
   try { return Object.keys(JSON.parse(fs.readFileSync(`lib/i18n/${l}.json`, 'utf8'))).length > 0; } catch { return false; }
 });
 const files = (l) => ({
