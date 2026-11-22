@@ -4,7 +4,7 @@ seoTitle: Bambu Lab P1S vs P2S – Key Differences Explained
 description: P1S vs P2S compared on official specs – same 256 mm build volume, but the P2S adds a touchscreen, 1080p camera, servo extruder, quick-swap nozzle and 110 °C bed.
 date: 2026-11-22
 image: https://assets.animx.ai/gen/a8600779-0fcc-4dd3-88c6-21688f0415da/3e9c6b0d-f049-433e-9921-1906450d7c84/output.png
-imageAlt: Illustration of two generic enclosed desktop 3D printers side by side
+imageAlt: "Illustration of two generic enclosed desktop 3D printers side by side"
 category: Comparisons
 summary:
   - Both printers have a 256 × 256 × 256 mm build volume and a 300 °C hot end.

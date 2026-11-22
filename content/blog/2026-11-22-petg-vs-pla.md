@@ -4,7 +4,7 @@ seoTitle: PETG vs PLA – Strength, Temperature and When to Use Each
 description: PETG vs PLA compared – print temperatures, bed temperatures, heat resistance, stringing and which to choose for decorative or functional 3D prints.
 date: 2026-11-22
 image: https://assets.animx.ai/gen/a8600779-0fcc-4dd3-88c6-21688f0415da/d79aaa52-375f-442d-aca1-e25986112a8f/output.png
-imageAlt: Illustration of a PETG spool and a PLA spool side by side with printed test parts
+imageAlt: "Illustration of a PETG spool and a PLA spool side by side with printed test parts"
 category: Filament and materials
 summary:
   - PLA is easier to print and better for detailed, decorative parts.

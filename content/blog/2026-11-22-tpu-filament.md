@@ -4,7 +4,7 @@ seoTitle: TPU Filament – What Is TPU Filament and How to Print It
 description: What is TPU filament? A flexible, tough 3D printing plastic for phone cases, gaskets and tyres. Learn shore hardness, print tips and when to choose it.
 date: 2026-11-22
 image: https://assets.animx.ai/gen/a8600779-0fcc-4dd3-88c6-21688f0415da/1fa1c1c9-747b-46bb-b3a1-1254501ffb28/output.png
-imageAlt: Illustration of a flexible TPU phone case and gasket next to a spool of flexible filament
+imageAlt: "Illustration of a flexible TPU phone case and gasket next to a spool of flexible filament"
 category: Filament and materials
 summary:
   - TPU is a flexible, rubber-like thermoplastic that belongs to the TPE family of 3D printing filaments.

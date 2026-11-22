@@ -4,7 +4,7 @@ seoTitle: Bambu Lab A1 vs A1 mini – Which One to Buy?
 description: A1 vs A1 mini compared on Bambu Lab’s specs – 256 mm vs 180 mm build volume, 100 °C vs 80 °C bed, same speed and hot end. How to choose by the size of your prints.
 date: 2026-11-22
 image: https://assets.animx.ai/gen/a8600779-0fcc-4dd3-88c6-21688f0415da/7b7b99a3-d18d-4b71-826d-f386dcde6305/output.png
-imageAlt: Illustration of a full-size and a mini open-frame 3D printer side by side
+imageAlt: "Illustration of a full-size and a mini open-frame 3D printer side by side"
 category: Comparisons
 summary:
   - The A1 prints up to 256 mm per side; the A1 mini up to 180 mm.
