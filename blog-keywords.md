@@ -7,15 +7,15 @@ Tick when published: `- [x] slug | ... | blog/slug`. Mark `- [-]` with a reason 
 
 ## KD 0–5 (easiest) — 321 articles
 
-- [ ] what-to-3d-print | 3d print ideas | 52900 | 0 | cool things to 3d print; 3d printer projects; 3d printer ideas; 3d printing ideas; things to 3d print; useful things to 3d print; what can you make with a 3d printer; fun things to 3d print; best things to 3d print; 150 cool things to 3d print; stuff to 3d print; cool 3d print ideas; easy 3d printing ideas; coolest things to 3d print; what to 3d print
+- [x] what-to-3d-print | 3d print ideas | 52900 | 0 | cool things to 3d print; 3d printer projects; 3d printer ideas; 3d printing ideas; things to 3d print; useful things to 3d print; what can you make with a 3d printer; fun things to 3d print; best things to 3d print; 150 cool things to 3d print; stuff to 3d print; cool 3d print ideas; easy 3d printing ideas; coolest things to 3d print; what to 3d print | blog/what-to-3d-print
 - [ ] bambu-filament | bambu filament | 43000 | 2 | bambu lab filament; bambu labs filament
 - [ ] 3d-printed-dragon | 3d printed dragon | 34800 | 0 | 3d printed dragons; dragon 3d print; 3d print dragon; 3d printer dragon
-- [ ] 3d-printed-fidget-toys | 3d printed fidgets | 25400 | 0 | 3d printed fidget toys; 3d printed fidget toy; 3d printed fidget; 3d print fidget toys
+- [x] 3d-printed-fidget-toys | 3d printed fidgets | 25400 | 0 | 3d printed fidget toys; 3d printed fidget toy; 3d printed fidget; 3d print fidget toys | blog/3d-printed-fidget-toys
 - [x] petg-vs-pla | petg vs pla | 16300 | 3 | pla vs petg; is petg stronger than pla; pla vs petg filament; petg filament vs pla; petg vs pla filament; pla vs abs vs petg; petg vs pla strength; what is the difference between pla and petg; is petg better than pla; pla vs petg strength | blog/petg-vs-pla
 - [ ] sunlu-filament | sunlu filament | 16000 | 5 | 
 - [ ] pla-filament | pla filament | 14000 | 2 | 
-- [ ] tpu-filament | tpu filament | 10900 | 1 | what is tpu filament
-- [ ] filament-dryer | filament dryer | 10600 | 0 | 3d printer filament dryer
+- [x] tpu-filament | tpu filament | 10900 | 1 | what is tpu filament | blog/tpu-filament
+- [x] filament-dryer | filament dryer | 10600 | 0 | 3d printer filament dryer | blog/filament-dryer
 - [ ] asa-filament | asa filament | 9200 | 1 | what is asa filament
 - [x] is-pla-food-safe | is pla food safe | 8350 | 1 | is petg food safe; food safe 3d printer filament; is pla filament food safe; what filament is food safe; is petg dishwasher safe | blog/is-pla-food-safe
 - [ ] pla-vs-pla-plus | pla vs pla+ | 8250 | 0 | pla+; pla+ vs pla; pla+ vs petg; pla vs pla plus; pla plus vs pla; pla plus vs petg; what is pla+; petg vs pla+; petg vs pla plus; pla pro vs pla plus; what is pla plus; pla + vs pla
