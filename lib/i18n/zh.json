@@ -1,1 +1,675 @@
-{}
+{
+ "meta": {
+  "name": "简体中文"
+ },
+ "nav": {
+  "converters": "转换工具",
+  "viewer": "3D 查看器",
+  "imageToStl": "图片转 STL",
+  "printers": "打印机",
+  "blog": "博客",
+  "home": "my3dprinter.io 首页",
+  "language": "语言",
+  "skip": "跳到正文"
+ },
+ "footer": {
+  "tagline": "在浏览器中运行的免费工具，文件永远不会上传。",
+  "converters": "转换工具",
+  "images": "图片与纹理",
+  "viewers": "查看器",
+  "site": "my3dprinter.io",
+  "legal": "法律信息",
+  "allConverters": "全部转换工具",
+  "printers": "3D 打印机（英文）",
+  "blog": "博客（英文）",
+  "formats": "文件格式（英文）",
+  "about": "关于我们",
+  "contact": "联系我们",
+  "privacy": "隐私政策",
+  "cookies": "Cookie 政策",
+  "terms": "使用条款",
+  "disclaimer": "免责声明",
+  "base": "品牌和产品名称归其所有者所有；my3dprinter.io 是独立网站，与任何打印机厂商均无关联。",
+  "englishOnly": "英文",
+  "compare": "对比打印机"
+ },
+ "common": {
+  "home": "首页",
+  "converterSuffix": "转换器",
+  "faq": "常见问题",
+  "relatedTools": "相关工具"
+ },
+ "home": {
+  "title": "免费 3D 查看器与转换器 – STL、3MF、STEP、OBJ、GLB",
+  "description": "直接在浏览器中打开、测量和转换 3D 模型，支持 STL、3MF、STEP、OBJ、GLB、FBX 等格式。还能把图片转成 STL、制作光影浮雕灯片。完全免费，无需上传任何文件。",
+  "h1": "免费 3D 模型查看器与转换器",
+  "lead": "拖入任意 3D 文件，即可在打印平台上查看、测量尺寸，并转换给切片软件、Blender 或 AR 使用。一切都在你的浏览器里完成。",
+  "formats": "支持的格式",
+  "popular": "热门转换工具",
+  "allConverters": "全部转换工具",
+  "imagesH": "图片、标志与纹理",
+  "imgCards": [
+   [
+    "图片转 STL",
+    "把图片变成浮雕或凸起的标志，尺寸以毫米设置。"
+   ],
+   [
+    "光影浮雕制作",
+    "制作放在灯前就会亮起来的照片面板。"
+   ],
+   [
+    "SVG 转 STL",
+    "把矢量标志拉伸成招牌、钥匙扣和镂空模板。"
+   ],
+   [
+    "PNG 转 DDS",
+    "生成带 Mipmap 的 DXT1/DXT5 游戏纹理，或把 DDS 打开为 PNG。"
+   ]
+  ],
+  "viewersH": "在线 3D 查看器",
+  "guidesH": "3D 打印机与博客（英文）",
+  "whyH": "为什么在这里转换",
+  "why": [
+   [
+    "从设计上保护隐私",
+    "文件在你的设备上处理，不会上传、保存或分享。"
+   ],
+   [
+    "专为 3D 打印打造",
+    "模型放在打印平台上，显示真实毫米尺寸、体积和实心 PLA 的估算重量。"
+   ],
+   [
+    "CAD 与 AI 模型也能用",
+    "可以打开 CAD 的 STEP 和 IGES、AI 生成器的 GLB，以及切片软件的 G-code。"
+   ]
+  ],
+  "appName": "my3dprinter.io 3D 查看器与转换器",
+  "appDesc": "支持 STL、3MF、STEP、OBJ、GLB 等格式的免费浏览器 3D 模型查看器与转换器。",
+  "faq": [
+   [
+    "my3dprinter.io 免费吗？",
+    "免费。所有查看器和转换工具都可以免费使用，无需注册，也没有水印。"
+   ],
+   [
+    "我的文件会上传到服务器吗？",
+    "不会。模型通过 JavaScript 和 WebAssembly 在你的浏览器中打开和转换。文件不会离开你的电脑或手机，因此大文件也很快。"
+   ],
+   [
+    "可以打开哪些 3D 格式？",
+    "STL、3MF、OBJ、GLB、glTF、FBX、PLY、DAE、3DS、USDZ、OFF、AMF、VRML、STEP、STP、IGES、IGS 和 G-code，以及包含模型的 ZIP 文件。"
+   ],
+   [
+    "可以保存为哪些格式？",
+    "STL（二进制或 ASCII）、3MF、OBJ、GLB、glTF、PLY、USDZ、DXF 和 OFF。图片可以转成 STL、3MF、OBJ 或 GLB，纹理可以在 DDS、PNG、JPG 之间互转。"
+   ],
+   [
+    "可以转换 AI 3D 生成器生成的模型吗？",
+    "可以。Meshy、Tripo、Rodin 等工具通常导出 GLB。在这里打开 GLB，检查尺寸，再转换成 STL 或 3MF 交给切片软件。"
+   ]
+  ]
+ },
+ "converters": {
+  "title": "免费 3D 文件转换工具 – STL、3MF、STEP、OBJ、GLB 等",
+  "description": "my3dprinter.io 的全部转换工具：3D 模型、CAD、图片转 STL、SVG 和 DDS 纹理。完全免费，直接在浏览器中运行，你的文件永远不会被上传到服务器。",
+  "h1": "3D 文件转换工具",
+  "lead": "{n} 个免费工具。全部在浏览器中运行，文件留在你的设备上，大模型也无需等待上传即可完成转换。",
+  "groups": [
+   [
+    "3D 模型转换",
+    "在 STL、3MF、OBJ、GLB、glTF、FBX、PLY、STEP 等格式之间转换。"
+   ],
+   [
+    "图片与矢量转 3D",
+    "把照片、标志和 SVG 文件变成可打印的模型。"
+   ],
+   [
+    "纹理转换",
+    "在 DDS、PNG、JPG 之间转换游戏纹理。"
+   ],
+   [
+    "3D 查看器",
+    "无需安装即可打开并测量 3D 文件。"
+   ]
+  ],
+  "crumb": "转换工具"
+ },
+ "tool": {
+  "mesh": {
+   "title": "{F} 转 {T} – 免费在线转换，无需上传",
+   "h1": "{F} 转 {T} 转换器",
+   "lead": "在浏览器中把 {F} 文件转换为 {T}。先在 3D 中预览、检查尺寸，再下载。免费、无需注册，文件不会离开你的设备。",
+   "description": "在浏览器中运行的免费 {F} 转 {T} 转换器。可 3D 预览，调整比例和朝向，几秒钟就能下载 {T} 文件。全程无需上传，也无需注册账号，文件始终留在你的设备上。"
+  },
+  "viewer": {
+   "title": "{F} 查看器 – 免费在线打开 {F} 文件",
+   "h1": "{F} 查看器",
+   "lead": "无需安装即可在线查看 {F} 文件。旋转缩放，查看尺寸、三角面数和体积，需要时还能转换为其他格式。",
+   "description": "免费的在线 {F} 查看器：在浏览器中打开 .{ext} 文件，旋转模型，测量尺寸和体积，查看线框，并可转换为其他格式。无需上传文件，也无需注册账号即可使用。"
+  },
+  "special": {
+   "image-to-stl": {
+    "title": "图片转 STL – 把照片变成 3D 打印模型",
+    "h1": "图片转 STL 转换器",
+    "lead": "把 PNG 或 JPG 变成可打印的 STL。选择浮雕、光影浮雕或凸起标志，以毫米设置尺寸，模型会实时更新。",
+    "description": "免费的图片转 STL 工具：把 PNG 或 JPG 图片变成浮雕、光影浮雕灯片和标志印章。支持实时 3D 预览，尺寸以毫米设置，全程在浏览器中完成，无需上传。"
+   },
+   "png-to-stl": {
+    "title": "PNG 转 STL – 标志、浮雕与光影浮雕",
+    "h1": "PNG 转 STL 转换器",
+    "lead": "把 PNG 转成可打印的 STL。标志模式会抬高深色形状，浮雕模式把亮度变成高度，透明区域保持平整。",
+    "description": "在线把 PNG 转换为 STL：可以抬高标志、制作浮雕或光影浮雕，以毫米设置尺寸和厚度。免费使用，实时 3D 预览，文件始终留在你的设备上，不会上传。"
+   },
+   "jpg-to-stl": {
+    "title": "JPG 转 STL – 照片转 3D 打印或光影浮雕",
+    "h1": "JPG 转 STL 转换器",
+    "lead": "把 JPG 照片变成 STL。光影浮雕模式生成薄片，背光时就能看到照片；浮雕模式生成凸起的画面。",
+    "description": "免费的 JPG 转 STL 工具。用 JPG 照片制作光影浮雕和浮雕，支持实时 3D 预览。以毫米设置尺寸后即可下载 STL 文件，全程在浏览器中完成，无需上传。"
+   },
+   "jpeg-to-stl": {
+    "title": "JPEG 转 STL – 免费在线转换",
+    "h1": "JPEG 转 STL 转换器",
+    "lead": "直接在浏览器中把 JPEG 图片转换为可打印的 STL 浮雕、光影浮雕或印章。",
+    "description": "免费在线把 JPEG 转换为 STL。可制作浮雕、光影浮雕和标志印章，支持实时 3D 预览，尺寸以毫米设置。全程在浏览器中完成，无需上传任何文件。"
+   },
+   "lithophane-maker": {
+    "title": "光影浮雕制作 – 照片转光影浮雕 STL，免费",
+    "h1": "光影浮雕制作工具",
+    "lead": "用任意照片制作光影浮雕 STL。深色区域打印得更厚、挡住更多光线，把打印件放在灯前时，画面就会显现出来。",
+    "description": "免费的在线光影浮雕制作工具：把任意照片转换为光影浮雕 STL，可自由调整尺寸、厚度和细节程度。支持实时预览，无需上传文件，也无需注册账号即可使用。"
+   },
+   "png-to-obj": {
+    "title": "PNG 转 OBJ – 在线把图片转成 3D 模型",
+    "h1": "PNG 转 OBJ 转换器",
+    "lead": "把 PNG 变成用于 Blender 或游戏引擎的 3D OBJ 模型：亮度会变成实心底座上的高度。",
+    "description": "在线把 PNG 转换为 OBJ：把图片变成可调整尺寸和高度的 3D 浮雕模型。免费使用，支持实时预览，所有处理都在浏览器中完成，不会上传任何内容。"
+   },
+   "png-to-3mf": {
+    "title": "PNG 转 3MF – 生成可直接切片的 3MF",
+    "h1": "PNG 转 3MF 转换器",
+    "lead": "用 PNG 生成 3MF。3MF 会记录毫米单位，所以模型在 Bambu Studio、PrusaSlicer 或 OrcaSlicer 中会按你设定的尺寸打开。",
+    "description": "为 Bambu Studio、PrusaSlicer 和 OrcaSlicer 把 PNG 转换为 3MF。可以抬高标志或制作浮雕，尺寸以毫米设置。免费且私密，全程在你的浏览器中完成。"
+   },
+   "svg-to-stl": {
+    "title": "SVG 转 STL – 拉伸矢量图用于 3D 打印",
+    "h1": "SVG 转 STL 转换器",
+    "lead": "把 SVG 拉伸成实心 STL，用来制作招牌、标志、钥匙扣、饼干模具和镂空模板。宽度和厚度以毫米设置。",
+    "description": "免费的 SVG 转 STL 工具：把矢量标志和图形拉伸成可打印的实体。宽度和厚度以毫米设置，支持 3D 预览，全程在浏览器中完成，无需上传任何文件。"
+   },
+   "svg-to-obj": {
+    "title": "SVG 转 OBJ – 把矢量图变成 3D 模型",
+    "h1": "SVG 转 OBJ 转换器",
+    "lead": "把 SVG 图形拉伸成 3D OBJ 模型，用于 Blender、游戏或 3D 打印。",
+    "description": "在线把 SVG 转换为 OBJ：按设定的宽度和深度把矢量图形拉伸成 3D 模型。免费使用，支持实时 3D 预览，文件始终留在你的设备上，不会被上传。"
+   },
+   "png-to-dds": {
+    "title": "PNG 转 DDS – 支持 DXT1、DXT5 和 Mipmap，免费",
+    "h1": "PNG 转 DDS 转换器",
+    "lead": "把 PNG 图片转换为游戏和模组用的 DDS 纹理。需要透明选 DXT5，要最小文件选 DXT1，也可以选无压缩 RGBA，并可生成 Mipmap。",
+    "description": "适用于游戏纹理和模组的免费 PNG 转 DDS 工具。支持 DXT1、DXT5 或无压缩 RGBA，并可生成 Mipmap。直接在浏览器中运行，无需上传任何文件。"
+   },
+   "jpg-to-dds": {
+    "title": "JPG 转 DDS – 在线制作游戏纹理",
+    "h1": "JPG 转 DDS 转换器",
+    "lead": "把 JPG 图片转换为带 DXT1 或 DXT5 压缩和 Mipmap 的 DDS 纹理。",
+    "description": "在线把 JPG 转换为 DDS：为游戏和模组生成带 Mipmap 的 DXT1、DXT5 或无压缩纹理。免费使用，直接在浏览器中运行，全程无需上传任何文件。"
+   },
+   "dds-to-png": {
+    "title": "DDS 转 PNG – 在线打开 DDS 纹理",
+    "h1": "DDS 转 PNG 转换器",
+    "lead": "把游戏的 DDS 纹理转换为 PNG，并保留透明度。支持 DXT1、DXT3、DXT5 和无压缩 DDS 文件。",
+    "description": "免费的 DDS 转 PNG 工具：打开 DXT1、DXT3、DXT5 和无压缩的 DDS 纹理，并保存为带透明度的 PNG。全程在浏览器中处理，无需上传任何文件。"
+   },
+   "dds-to-jpg": {
+    "title": "DDS 转 JPG – 免费在线转换",
+    "h1": "DDS 转 JPG 转换器",
+    "lead": "在浏览器中把 DDS 纹理转换为 JPG 图片。",
+    "description": "在线把 DDS 转换为 JPG：把 DXT1、DXT3、DXT5 和无压缩的 DDS 纹理解码为 JPG 图片。免费且私密，文件始终留在你的设备上，不会离开。"
+   },
+   "3d-viewer": {
+    "title": "在线 3D 查看器 – STL、3MF、OBJ、GLB、STEP、FBX",
+    "h1": "在线 3D 模型查看器",
+    "lead": "在浏览器中打开 3D 文件：支持 STL、3MF、OBJ、GLB、glTF、FBX、STEP、PLY 等。可旋转、测量尺寸和体积、检查网格并保存 PNG。",
+    "description": "免费在线 3D 查看器，支持 STL、3MF、OBJ、GLB、FBX、STEP 和 PLY。可旋转模型、测量尺寸和体积、查看线框。文件始终留在你的设备上，不会上传。"
+   },
+   "zip-to-stl": {
+    "title": "ZIP 转 STL – 在线打开并转换压缩包中的 3D 模型",
+    "h1": "ZIP 转 STL 转换器"
+   }
+  },
+  "sectionViewers": "3D 查看器",
+  "sectionConverters": "转换工具",
+  "howH": "使用方法",
+  "howTo": "如何使用{name}",
+  "aboutPair": "关于 {F} 转 {T}",
+  "aboutFiles": "关于 {F} 文件",
+  "about3d": "3D",
+  "whatIs": "什么是 {F} 文件？",
+  "moreAbout": "了解更多 {F}（英文）",
+  "keepsH": "各格式保存的内容",
+  "usedBy": "常用软件：",
+  "steps": {
+   "viewer": [
+    "把 {F} 文件拖到查看器上，或点击“上传模型”。",
+    "用鼠标或手指旋转，用滚轮或双指缩放，切换到线框模式检查网格。",
+    "查看尺寸、三角面数和体积，保存 PNG，或把模型转换为其他格式。"
+   ],
+   "viewerAny": "3D",
+   "image": [
+    "上传一张 {img} 图片。",
+    "选择浮雕、光影浮雕或标志/印章，并以毫米设置宽度、底座和高度。修改设置时 3D 预览会同步更新。",
+    "点击“生成 {T}”，下载文件交给切片软件。"
+   ],
+   "imgPng": "PNG",
+   "imgJpg": "JPG 或 PNG",
+   "svg": [
+    "上传带填充图形的 SVG（先把文字转换为路径）。",
+    "以毫米设置宽度和厚度。",
+    "点击“生成 {T}”并下载。"
+   ],
+   "ddsEncode": [
+    "上传一张 {F} 图片。",
+    "选择 DXT5、DXT1 或无压缩，以及是否生成 Mipmap。",
+    "点击“转换为 DDS”并下载纹理。"
+   ],
+   "ddsDecode": [
+    "上传 .dds 纹理，预览会立即显示。",
+    "选择 {T} 作为输出格式。",
+    "点击转换并下载图片。"
+   ],
+   "mesh": [
+    "把 {F} 文件拖到 3D 预览上，或点击“上传模型”。",
+    "检查预览和尺寸。如果模型看起来不对，调整缩放或向上轴。",
+    "点击“转换为 {T}”，然后下载 {T} 文件。"
+   ]
+  },
+  "faq": {
+   "privacy": [
+    "我的文件会被上传吗？",
+    "不会。转换通过 JavaScript 和 WebAssembly 在你的浏览器中进行。文件从你的设备读取，结果也在你的设备上生成，不会向我们的服务器发送任何内容。"
+   ],
+   "free": [
+    "免费吗？",
+    "免费。无需注册、没有水印，我们也不设文件大小限制。超大文件只受你设备内存的限制。"
+   ],
+   "lostQ": "把 {F} 转换为 {T} 会丢失什么？",
+   "lostA": "{T} 保存的内容：{keeps}。{F} 中除此之外的信息都会被舍弃。",
+   "mesh": [
+    [
+     "为什么模型尺寸不对？",
+     "不同格式记录单位的方式不同：STL 没有单位，glTF 使用米，3MF 和 STEP 会记录单位。如果结果看起来小了或大了 1000 倍，请在“缩放”中选择其他选项（例如“米 → 毫米”）后重新转换。"
+    ],
+    [
+     "为什么模型是躺着的？",
+     "有些格式以 Y 为上（glTF、OBJ、FBX），有些以 Z 为上（STL、3MF、STEP）。“向上轴：自动”会根据目标格式旋转模型。如果想保持原始朝向，请选择“保持不变”。"
+    ]
+   ],
+   "imageBestQ": "什么样的图片效果最好？",
+   "imageBestLitho": "使用光线充足、对比清晰的照片，上传前先裁剪成想要的形状。人像和风景效果都很好；太暗的照片会变得很厚、很暗。",
+   "imageBestOther": "标志和文字请使用高对比度的 PNG（白色或透明背景上的黑色图形）。浮雕用任何照片都可以，但明暗分明的简单图片效果最清晰。",
+   "image": [
+    [
+     "光影浮雕用什么参数打印？",
+     "光影浮雕通常用白色 PLA 竖着打印，填充 100%，层高较细（0.12–0.16 毫米），这样厚度差异才明显。也请参考切片软件针对你打印机的推荐设置。"
+    ],
+    [
+     "之后还能改尺寸吗？",
+     "可以。在这里设置宽度，或在切片软件中缩放 STL。在切片软件中缩放会同时改变厚度，所以厚度最好在这里设置。"
+    ]
+   ],
+   "svg": [
+    [
+     "为什么 SVG 的部分内容不见了？",
+     "只有填充图形和带描边的线条会变成 3D。文字需要先转换为路径（Inkscape：路径 → 对象转化成路径；Illustrator：文字 → 创建轮廓）。嵌入的位图会被忽略。"
+    ],
+    [
+     "怎么做饼干模具或钥匙扣？",
+     "使用简单的轮廓。钥匙扣只需薄薄地拉伸；饼干模具可在切片软件或 CAD 中把又薄又高的壁和更宽的边缘组合起来。"
+    ]
+   ],
+   "dds": [
+    [
+     "应该选哪种 DDS 压缩？",
+     "DXT5（BC3）能保留平滑的透明度，适合大多数游戏纹理。DXT1（BC1）文件最小，但透明只有开/关两种。无压缩 RGBA 最精确，但体积大四到八倍。"
+    ],
+    [
+     "需要 Mipmap 吗？",
+     "对于在不同距离下显示的纹理，大多数游戏都需要 Mipmap，它能减少闪烁。界面图片和图标通常不需要。"
+    ],
+    [
+     "可以打开哪些 DDS 文件？",
+     "DXT1、DXT3、DXT5 和无压缩的 DDS 文件。使用新版 DX10 文件头的 BC7 文件暂不支持。"
+    ]
+   ],
+   "viewer": [
+    [
+     "查看器能打开哪些格式？",
+     "STL、3MF、OBJ、GLB、glTF、FBX、PLY、DAE、3DS、USDZ、OFF、AMF、VRML（WRL）、STEP、STP、IGES、IGS 和 G-code，以及包含模型的 ZIP 压缩包。"
+    ],
+    [
+     "测量结果有多准确？",
+     "尺寸直接来自文件坐标，并以文件自身的单位显示（大多数 3D 打印文件是毫米）。封闭（水密）网格的体积是精确的；开放网格只是估算值。"
+    ],
+    [
+     "能打开超大文件吗？",
+     "几百万个三角面的文件在大多数电脑上都能打开。由于一切都在你的设备上运行，超大的扫描数据在手机上可能会比较慢。"
+    ]
+   ]
+  }
+ },
+ "notes": {
+  "3mf-stl": [
+   "你遇到的大多数 3MF 文件都是 Bambu Studio、OrcaSlicer、PrusaSlicer 或 MakerWorld 的切片项目。平台上的每个对象都会保留；可以合并成一个 STL，也可以每个对象下载一个 STL。",
+   "打印设置、涂画的支撑、颜色涂装和平台布局只存在于 3MF 项目中。STL 只保留形状，所以导入后请在切片软件中重新设置这些参数。"
+  ],
+  "stl-3mf": [
+   "3MF 会记录单位，所以在这里转换的模型会标为毫米，在 Bambu Studio、PrusaSlicer、OrcaSlicer 和 Cura 中都以正确尺寸打开。",
+   "3MF 文件本身是压缩过的 ZIP，因此通常比同样的二进制 STL 更小。"
+  ],
+  "glb-stl": [
+   "GLB 是 AI 3D 生成器（Meshy、Tripo、Rodin 等）和网页查看器最常见的下载格式。转换成 STL 会保留形状，丢弃切片软件本来也用不到的颜色和纹理。",
+   "glTF 使用米为单位、Y 轴向上。我们会旋转模型，让它在切片软件中竖立；如果看起来非常小，请在“缩放”中选择“米 → 毫米”。",
+   "AI 生成的网格经常不封闭或自相交。打印前请在切片软件中检查模型并使用修复功能。"
+  ],
+  "step-stl": [
+   "STEP 保存的是精确的 CAD 曲面。生成 STL 时，曲面会被拆分成三角形（三角化）。我们使用精细设置，让孔和圆角保持平滑。",
+   "装配体会保留每个零件。可以把整个装配体下载为一个 STL，也可以每个零件一个。"
+  ],
+  "stp-stl": [
+   ".stp 和 .step 是同一种格式，因此和 STEP 转 STL 完全一样：精确的 CAD 曲面会被三角化为精细的网格。"
+  ],
+  "obj-stl": [
+   "来自 Blender、ZBrush 或 3D 扫描仪的 OBJ 文件通常带有纹理。STL 只保留几何形状，而这正是切片软件需要的。",
+   "OBJ 通常以 Y 为上。我们会把模型旋转为 Z 向上，让它正确地放在打印平台上。"
+  ],
+  "stl-obj": [
+   "想把打印模型导入 Blender、Maya 或游戏引擎时，用 OBJ 即可。STL 没有单位，导入后请检查比例（Blender 把 1 个单位视为 1 米）。"
+  ],
+  "fbx-obj": [
+   "FBX 常用于游戏资源和 Mixamo 角色。OBJ 会保留网格和 UV，但骨骼和动画不属于 OBJ，所以模型会以当前姿势导出。"
+  ],
+  "fbx-stl": [
+   "绑定骨骼的角色会以文件中保存的姿势导出。头发面片或扁平衣物等较薄的部分，可能需要加厚后才能打印。"
+  ],
+  "glb-obj": [
+   "当某个工具只接受 OBJ 而不接受 glTF 时很有用。几何和 UV 会保留，PBR 材质会被简化。"
+  ],
+  "gcode-stl": [
+   "G-code 记录的是打印机的运动，而不是你切片的模型。我们根据检测到的层高和 0.45 毫米的线宽，从每一条挤出线重建实体，得到足以用于预览和测量的近似模型。",
+   "如果你还有原始的 STL 或 3MF，请直接使用它，效果会干净得多。"
+  ],
+  "zip-stl": [
+   "模型网站经常把 STL 文件放在 ZIP 压缩包里提供。我们会在浏览器中打开压缩包，转换其中的第一个模型。如果 ZIP 里有多个模型，会显示使用的是哪一个。"
+  ],
+  "ply-stl": [
+   "3D 扫描仪生成的 PLY 文件可能只是点云。只有带面（三角形）的 PLY 文件才能转换为可打印的 STL。"
+  ],
+  "stl-dxf": [
+   "网格会写成 3DFACE 实体，AutoCAD、LibreCAD 和大多数 CAM 软件都能打开。由网格生成的 DXF 并不是二维图纸；激光切割仍然需要平面轮廓。"
+  ]
+ },
+ "formats": {
+  "stl": {
+   "what": "STL 是 3D 打印最常用的文件。它只把表面保存为一组三角形，没有颜色、材质或单位。所有切片软件都能打开。",
+   "usedBy": "所有切片软件（Bambu Studio、PrusaSlicer、OrcaSlicer、Cura）、Thingiverse 和 Printables 的下载，以及大多数 CAD 软件的导出。",
+   "keeps": "只有三角形几何。二进制 STL 大约只有 ASCII STL 的五分之一大小。",
+   "notes": "STL 没有单位字段。切片软件默认使用毫米，所以以米或英寸导出的模型可能显得极小或极大。"
+  },
+  "3mf": {
+   "what": "3MF 是为取代 STL 而设计的基于 ZIP 的格式。它会保存带单位的网格、颜色、多个对象，在切片项目中还会保存平台和打印设置。",
+   "usedBy": "Bambu Studio、PrusaSlicer、OrcaSlicer、Cura、Windows 3D Builder；MakerWorld 和 Printables 的项目文件。",
+   "keeps": "网格、单位（通常为毫米）、对象名称、颜色和材质、平台布局；切片项目还会加入各自的设置。",
+   "notes": "Bambu Studio 的平台设置或涂画的支撑等切片软件专有数据不属于核心标准，转换为其他格式时会被丢弃。"
+  },
+  "obj": {
+   "what": "OBJ 是几乎所有软件都支持的纯文本 3D 格式。它保存顶点、面和纹理坐标；材质放在单独的 .mtl 文件中。",
+   "usedBy": "Blender、Maya、3ds Max、ZBrush、游戏引擎、摄影测量和 3D 扫描应用。",
+   "keeps": "几何、UV 坐标、法线、分组。颜色和纹理只能通过配套的 .mtl 和图片文件保存。"
+  },
+  "glb": {
+   "what": "GLB 是 glTF 的二进制单文件版本，是网页、AR 和许多 AI 3D 生成器的 3D 标准。几何、材质和纹理都打包在一个文件里。",
+   "usedBy": "网页查看器、three.js、Babylon.js、Blender、安卓 AR，以及 Meshy、Tripo、Rodin 等 AI 模型生成器。",
+   "keeps": "网格、PBR 材质、纹理、场景层级、动画。单位为米，Y 轴向上。",
+   "notes": "3D 打印只关心形状，因此把 GLB 转换为 STL 时会丢弃材质和纹理。"
+  },
+  "gltf": {
+   "what": "glTF 是网页 3D 标准的 JSON 版本。.gltf 文件可以引用单独的 .bin 和纹理文件，也可以把它们嵌入其中。",
+   "usedBy": "网页和游戏引擎、Blender、Sketchfab、AR 工具。",
+   "keeps": "与 GLB 相同：网格、材质、纹理、动画。",
+   "notes": "如果你的 .gltf 附带 .bin 或图片文件，请一起添加，以免缺失内容。"
+  },
+  "fbx": {
+   "what": "FBX 是 Autodesk 用于动画和游戏的交换格式，可以包含网格、骨骼、动画和材质。",
+   "usedBy": "Maya、3ds Max、Unity、Unreal Engine、Mixamo、Blender。",
+   "keeps": "网格、绑定、动画、相机、材质。",
+   "notes": "FBX 是封闭格式。我们可以在浏览器中读取它；写入 FBX 需要 Autodesk 的 SDK，因此不提供 FBX 导出。"
+  },
+  "ply": {
+   "what": "PLY 是为 3D 扫描而设计的格式，保存三角形，通常还带有每个顶点的颜色。",
+   "usedBy": "3D 扫描仪、MeshLab、CloudCompare、摄影测量软件。",
+   "keeps": "顶点、面、顶点颜色和法线。有些 PLY 文件只是没有面的点云。"
+  },
+  "dae": {
+   "what": "DAE（COLLADA）是一种较老的 XML 交换格式，SketchUp 和部分游戏工具仍在导出。",
+   "usedBy": "SketchUp、Google Earth 模型、旧的游戏制作流程。",
+   "keeps": "网格、材质、场景层级、动画。"
+  },
+  "3ds": {
+   "what": "3DS 是 3D Studio 的旧格式，仍能在一些老模型库中看到。",
+   "usedBy": "3ds Max（旧版）、模型存档。",
+   "keeps": "网格、基础材质、简单层级。"
+  },
+  "usdz": {
+   "what": "USDZ 是苹果基于 Pixar USD 的 AR 格式。iPhone 和 iPad 可以直接在 AR Quick Look 中打开。",
+   "usedBy": "iOS 和 macOS 的 AR Quick Look、Reality Composer、物体捕捉应用。",
+   "keeps": "网格、PBR 材质、纹理。",
+   "notes": "浏览器加载器无法读取复杂的 USD 功能（变体、图层），简单的 USDZ 模型效果最好。"
+  },
+  "off": {
+   "what": "OFF 是一种简单的文本网格格式，用于几何研究和一些学术工具。",
+   "usedBy": "Geomview、MeshLab、CGAL、研究数据集。",
+   "keeps": "顶点和多边形面。"
+  },
+  "amf": {
+   "what": "AMF 是一种用于 3D 打印的 XML 格式，现在已基本被 3MF 取代。",
+   "usedBy": "旧版 PrusaSlicer 和 Slic3r。",
+   "keeps": "网格、材质、颜色、单位。"
+  },
+  "wrl": {
+   "what": "WRL（VRML）是早期的网页 3D 格式，一些彩色 3D 打印机和 CAD 软件仍在使用。",
+   "usedBy": "彩色粉末打印机、部分 CAD 导出。",
+   "keeps": "网格、颜色、纹理。"
+  },
+  "step": {
+   "what": "STEP 是最主要的中性 CAD 格式。与 STL 不同，它保存精确曲面（B-rep），曲线因此保持完全平滑。",
+   "usedBy": "Fusion、SolidWorks、Onshape、FreeCAD、Inventor、CATIA、厂商零件库。",
+   "keeps": "精确的实体几何、装配体、零件名称、颜色。",
+   "notes": "把 STEP 转为网格很可靠。反过来（STL 转 STEP）只是把三角形包进 STEP 文件，并不会重建平滑的 CAD 曲面。"
+  },
+  "stp": {
+   "what": ".stp 只是 STEP 文件的另一个扩展名，内容与 .step 完全相同。",
+   "usedBy": "同 STEP。",
+   "keeps": "精确的实体几何和装配体。"
+  },
+  "iges": {
+   "what": "IGES 是较老的中性 CAD 格式，常用于汽车和航空航天领域的曲面数据。",
+   "usedBy": "旧版 CAD 系统、CNC 和 CAM 工具。",
+   "keeps": "曲面和曲线，有时包含实体。"
+  },
+  "igs": {
+   "what": ".igs 是 IGES 文件的短扩展名。",
+   "usedBy": "同 IGES。",
+   "keeps": "曲面和曲线。"
+  },
+  "gcode": {
+   "what": "G-code 是切片软件发送给打印机的运动指令列表：移动到哪里、速度多快、挤出多少塑料。",
+   "usedBy": "所有 FDM 打印机；由切片软件生成。",
+   "keeps": "刀具路径、温度、速度。不包含原始模型。",
+   "notes": "由 G-code 重建的网格沿着打印线条生成，因此只是原始零件的近似。"
+  },
+  "dxf": {
+   "what": "DXF 是 AutoCAD 的交换格式。我们把 3D 网格导出为 3DFACE 实体，AutoCAD、LibreCAD 和大多数 CAM 工具都能打开。",
+   "usedBy": "AutoCAD、LibreCAD、激光切割和 CNC 软件。",
+   "keeps": "直线、多段线、3D 面、图层。"
+  },
+  "svg": {
+   "what": "SVG 是矢量图片格式。它的填充图形可以拉伸成实体，用来打印招牌、标志、饼干模具和镂空模板。",
+   "usedBy": "Inkscape、Illustrator、Figma、Cricut Design Space。",
+   "keeps": "路径、填充、描边。"
+  },
+  "png": {
+   "what": "PNG 是支持透明度的无损图片格式。亮度可以转换为高度，用来制作浮雕、光影浮雕和印章。",
+   "usedBy": "随处可见。",
+   "keeps": "像素、透明度。"
+  },
+  "jpg": {
+   "what": "JPG 是常见的照片格式。照片很适合做光影浮雕；标志用 PNG 或 SVG 会更清晰。",
+   "usedBy": "相机、手机、网页。",
+   "keeps": "像素（有损压缩）。"
+  },
+  "jpeg": {
+   "what": "JPEG 和 JPG 是同一种格式，只是扩展名不同。",
+   "usedBy": "相机、手机、网页。",
+   "keeps": "像素（有损压缩）。"
+  },
+  "dds": {
+   "what": "DDS 是游戏使用的纹理格式。它保存为 GPU 压缩的图像（DXT/BC）和 Mipmap，让纹理加载更快。",
+   "usedBy": "游戏引擎，以及 Skyrim、Fallout、Minecraft Bedrock、飞行模拟器的模组工具。",
+   "keeps": "压缩像素、Mipmap，有时还有立方体贴图。",
+   "notes": "我们支持读取 DXT1、DXT3、DXT5 和无压缩 DDS。BC7 文件（DX10 文件头）暂不支持。"
+  },
+  "zip": {
+   "what": "很多模型网站把 STL 文件打包成 ZIP 提供。我们会在浏览器中打开压缩包并使用其中的模型。",
+   "usedBy": "Thingiverse、Printables、Cults 的下载。",
+   "keeps": "任意文件。"
+  }
+ },
+ "studio": {
+  "scaleKeep": "保持尺寸",
+  "scaleM": "米 → 毫米（×1000）",
+  "scaleIn": "英寸 → 毫米（×25.4）",
+  "scaleCm": "厘米 → 毫米（×10）",
+  "scaleToM": "毫米 → 米（÷1000）",
+  "svgHere": "SVG 文件请在“SVG 转 STL”页面转换为 3D。",
+  "imgHere": "图片请在“图片转 STL”页面转换为 3D。",
+  "reading": "正在读取 {name}…",
+  "cantOpen": "无法打开此文件。",
+  "converting": "正在转换为 {fmt}…",
+  "convFail": "转换失败。",
+  "drop": "把 {fmt} 文件拖到这里",
+  "dropAny": "3D",
+  "orClick": "或点击选择 · STL、3MF、OBJ、GLB、FBX、STEP、PLY 等",
+  "dropToOpen": "松开即可打开",
+  "demoCats": "示例模型分类",
+  "demoModels": "示例模型",
+  "view": "视图",
+  "rotate": "旋转",
+  "wireframe": "线框",
+  "reset": "重置视图",
+  "savePng": "保存 PNG",
+  "size": "尺寸",
+  "triangles": "三角面",
+  "volume": "体积",
+  "solidPla": "实心 PLA",
+  "openAnother": "打开其他文件",
+  "upload": "上传模型",
+  "private": "文件在你的设备上处理，永远不会上传。",
+  "convertTo": "转换为",
+  "scale": "缩放",
+  "upAxis": "向上轴",
+  "upAuto": "自动",
+  "yToZ": "Y 向上 → Z 向上",
+  "zToY": "Z 向上 → Y 向上",
+  "keep": "保持不变",
+  "ascii": "ASCII STL（更大，可读）",
+  "separate": "每个对象一个文件（{n} 个），打包为 ZIP",
+  "convertBtn": "转换为 {fmt}",
+  "download": "下载 {name}",
+  "noChange": "不变",
+  "groups": {
+   "home": "家居",
+   "toys": "玩具",
+   "football": "足球",
+   "creators": "创作者"
+  },
+  "samples": {
+   "vase": "花瓶",
+   "planter": "花盆",
+   "mug": "马克杯",
+   "lamp": "台灯",
+   "phone-stand": "手机支架",
+   "gear": "齿轮",
+   "duck": "小黄鸭",
+   "robot": "机器人",
+   "rocket": "火箭",
+   "teddy": "泰迪熊",
+   "footballer": "前锋",
+   "goalkeeper": "守门员",
+   "football": "足球",
+   "trophy": "奖杯",
+   "streamer": "主播",
+   "gamepad": "手柄",
+   "podcast-mic": "播客麦克风",
+   "ring-light": "环形补光灯"
+  }
+ },
+ "image3d": {
+  "needSvg": "请选择 .svg 文件。",
+  "needImg": "此页面支持 PNG 和 JPG。矢量文件请使用“SVG 转 STL”。",
+  "cantRead": "无法读取这张图片。",
+  "cantBuild": "无法生成模型。",
+  "exportFail": "导出失败。",
+  "hintSvg": "填充图形会被拉伸成实体",
+  "hintImg": "亮度会变成高度",
+  "building": "正在生成…",
+  "yourImage": "你的图片",
+  "backlit": "背光效果",
+  "another": "选择其他文件",
+  "uploadSvg": "上传 SVG",
+  "uploadImg": "上传图片",
+  "private": "在你的设备上处理，不会上传任何内容。",
+  "style": "样式",
+  "relief": "浮雕",
+  "litho": "光影浮雕",
+  "stamp": "标志 / 印章",
+  "width": "宽度",
+  "base": "底座厚度",
+  "maxExtra": "最大附加厚度",
+  "reliefH": "浮雕高度",
+  "threshold": "阈值",
+  "detail": "细节（采样数）",
+  "darkThick": "深色区域更厚（光影浮雕的常规设置）",
+  "invert": "反转（浅色区域凸起）",
+  "thickness": "厚度",
+  "create": "生成 {fmt}",
+  "download": "下载 {name}",
+  "dropSvg": "把 SVG 拖到这里",
+  "dropImg": "把 PNG 或 JPG 拖到这里",
+  "downloadAs": "下载格式"
+ },
+ "dds": {
+  "cantRead": "无法读取这张图片。",
+  "pad": "不是 4 的倍数：边缘块将被填充",
+  "cantDds": "无法读取此 DDS。",
+  "convFail": "转换失败。",
+  "preview": "纹理预览",
+  "drop": "把文件拖到这里",
+  "orClick": "或点击选择",
+  "another": "选择其他文件",
+  "upload": "上传文件",
+  "private": "在你的设备上转换，不会上传任何内容。",
+  "dxt5": "DXT5 / BC3（带透明通道）",
+  "dxt1": "DXT1 / BC1（最小，1 位透明）",
+  "rgba": "无压缩 RGBA（最大，最精确）",
+  "mips": "生成 Mipmap",
+  "png": "PNG（保留透明度）",
+  "jpg": "JPG（更小，无透明度）",
+  "toDds": "转换为 DDS",
+  "toFmt": "转换为 {fmt}",
+  "compression": "压缩方式",
+  "output": "输出",
+  "download": "下载 {name}",
+  "dropImg": "把 PNG 或 JPG 拖到这里",
+  "dropDds": "把 DDS 文件拖到这里",
+  "saveAs": "保存为"
+ }
+}
