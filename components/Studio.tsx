@@ -32,6 +32,8 @@ export default function Studio({ mode = 'studio', from, to, samples = false }: P
   const [object, setObject] = useState<THREE.Object3D | null>(null);
   const [src, setSrc] = useState<{ name: string; ext: string; size: number } | null>(null);
   const [sampleId, setSampleId] = useState<string | null>(null);
+  const [group, setGroup] = useState('home');
+  const [groups, setGroups] = useState<{ id: string; label: string; items: { id: string; label: string }[] }[]>([]);
   const [busy, setBusy] = useState<string | null>(null);
   const [error, setError] = useState<string | null>(null);
   const [warnings, setWarnings] = useState<string[]>([]);
@@ -63,7 +65,12 @@ export default function Studio({ mode = 'studio', from, to, samples = false }: P
     measure(obj);
   }, [measure]);
 
-  useEffect(() => { if (samples) loadSample('vase'); }, [samples, loadSample]);
+  useEffect(() => {
+    if (!samples) return;
+    loadSample('vase');
+    import('@/lib/engine/sample').then(({ SAMPLE_GROUPS }) =>
+      setGroups(SAMPLE_GROUPS.map((g) => ({ id: g.id, label: g.label, items: g.items.map(({ id, label }) => ({ id, label })) }))));
+  }, [samples, loadSample]);
 
   const handleFiles = useCallback(async (files: FileList | File[]) => {
     const list = Array.from(files);
@@ -146,11 +153,19 @@ export default function Studio({ mode = 'studio', from, to, samples = false }: P
         {busy && <div className="stage-busy" role="status"><span className="spinner" aria-hidden />{busy}</div>}
         {drag && <div className="stage-drop">Drop to open</div>}
         <div className="stage-top">
-          {samples && (
-            <div className="chips" role="group" aria-label="Demo models">
-              {[['vase', 'Vase'], ['gear', 'Gear'], ['planter', 'Planter']].map(([id, l]) => (
-                <button key={id} type="button" className={`chip${sampleId === id ? ' on' : ''}`} onClick={() => loadSample(id)}>{l}</button>
-              ))}
+          {samples && groups.length > 0 && (
+            <div className="samples">
+              <div className="sample-tabs" role="tablist" aria-label="Demo model categories">
+                {groups.map((g) => (
+                  <button key={g.id} type="button" role="tab" aria-selected={group === g.id} className={group === g.id ? 'on' : ''}
+                    onClick={() => { setGroup(g.id); loadSample(g.items[0].id); setSpin(true); }}>{g.label}</button>
+                ))}
+              </div>
+              <div className="chips" role="group" aria-label="Demo models">
+                {groups.find((g) => g.id === group)?.items.map(({ id, label }) => (
+                  <button key={id} type="button" className={`chip${sampleId === id ? ' on' : ''}`} onClick={() => { loadSample(id); setSpin(true); }}>{label}</button>
+                ))}
+              </div>
             </div>
           )}
           {src && <span className="file-pill" title={src.name}>{src.name}</span>}

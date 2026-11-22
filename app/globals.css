@@ -178,3 +178,11 @@ h3 { font-size: 19px; margin: 0 0 8px; }
 .spec { width: 100%; border-collapse: collapse; background: #fff; font-size: 15px; }
 .spec th, .spec td { border-bottom: 1px solid var(--line); padding: 10px 12px; text-align: left; }
 .spec th { width: 40%; color: var(--muted); font-weight: 500; }
+.samples { display: flex; flex-direction: column; gap: 8px; max-width: 100%; }
+.sample-tabs { display: inline-flex; gap: 2px; padding: 3px; border-radius: 10px; background: rgba(16, 21, 28, 0.72); border: 1px solid #364150; width: max-content; max-width: 100%; overflow-x: auto; }
+.sample-tabs button { border: 0; background: transparent; color: #aeb8c3; font: 600 13px var(--display); height: 30px; padding: 0 12px; border-radius: 7px; cursor: pointer; white-space: nowrap; }
+.sample-tabs button:hover { color: #fff; }
+.sample-tabs button.on { background: var(--accent); color: #fff; }
+.sample-tabs button:focus-visible, .stage .chip:focus-visible { outline: 2px solid #fff; outline-offset: 2px; }
+.stage .chips .chip { height: 30px; padding: 0 11px; font-size: 12.5px; }
+@media (max-width: 640px) { .stage .chips { flex-wrap: nowrap; overflow-x: auto; max-width: calc(100vw - 60px); } }
