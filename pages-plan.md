@@ -32,10 +32,10 @@ Printer pages go to content/printers/YYYY-MM-DD-<slug>.md (use a clean slug like
 - [-] bambu-makerworld | bambu makerworld | 9200 | 1 | bambu labs makerworld; makerworld bambu | not a printer (Bambu Lab model-sharing site); better covered as a blog article
 - [x] ender-3d-printer | ender 3d printer | 9000 | 6 | printers/creality-ender-3d-printers
 - [x] bambu-lab-ams-lite | bambu lab ams lite | 8300 | 26 | bambu ams lite | printers/bambu-lab-ams-lite
-- [ ] creality-ender-3-v3-se | creality ender 3 v3 se | 7700 | 28 | creality ender 3 v3 se 3d printer
-- [ ] flashforge-ad5x | flashforge ad5x | 7200 | 2 | 
-- [ ] creality-k2-combo | creality k2 combo | 7200 | 1 | creality k2 combo 3d printer; creality k2
-- [ ] ender-3-v2 | ender 3 v2 | 6700 | 0 | creality ender 3 v2
+- [x] creality-ender-3-v3-se | creality ender 3 v3 se | 7700 | 28 | creality ender 3 v3 se 3d printer | printers/creality-ender-3-v3-se
+- [x] flashforge-ad5x | flashforge ad5x | 7200 | 2 | printers/flashforge-ad5x
+- [x] creality-k2-combo | creality k2 combo | 7200 | 1 | creality k2 combo 3d printer; creality k2 | printers/creality-k2-combo
+- [x] ender-3-v2 | ender 3 v2 | 6700 | 0 | creality ender 3 v2 | printers/creality-ender-3-v2
 - [ ] prusa-mini | prusa mini | 6000 | 5 | 
 - [ ] ender-3-v3 | ender 3 v3 | 5800 | 3 | 
 - [ ] toy-box-3d-printer | toy box 3d printer | 5500 | 5 | 
@@ -135,7 +135,7 @@ Manual guide pages: content/printers/YYYY-MM-DD-<slug>.md. Follow "Manual pages"
 - [x] ender-3-v2-manual | ender 3 v2 manual | 150 | 1 | creality ender 3 v2 manual | printers/ender-3-v2-manual
 - [x] prusa-mk3s-manual | prusa mk3s manual | 150 | 10 | prusa i3 mk3 manual; prusa mk3 manual; prusa mk3 assembly manual; prusa mk3s+ assembly manual pdf; prusa mk3s+ manual; prusa mk3s assembly manual | printers/prusa-mk3s-manual
 - [x] bambu-lab-p1s-manual | bambu p1s manual | 140 | 2 | bambu lab p1s manual | printers/bambu-lab-p1s-manual
-- [ ] bambu-lab-a1-manual | bambu lab a1 manual | 100 | 0 | bambu a1 manual
+- [x] bambu-lab-a1-manual | bambu lab a1 manual | 100 | 0 | bambu a1 manual | printers/bambu-lab-a1-manual
 - [ ] flashforge-adventurer-5m-manual | flashforge adventurer 5m manual | 100 | 0 | 
 - [ ] creality-k1-manual | creality k1 manual | 90 | 3 | manual k1
 - [ ] ender-3-v2-neo-manual | ender 3 v2 neo manual | 70 | 0 | creality ender 3 v2 neo manual; ender-3 v2 neo manual
