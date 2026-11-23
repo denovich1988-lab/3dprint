@@ -12,12 +12,12 @@ Printer pages go to content/printers/YYYY-MM-DD-<slug>.md (use a clean slug like
 - [x] bambu-p2s | bambu p2s | 61600 | 15 | bambu lab p2s; bambu lab p2s 3d printer; bambu labs p2s; bambu lab p2s combo; p2s bambu; bambu p2s combo; bambu lab p2s combo 3d printer | printers/bambu-lab-p2s
 - [x] bambu-lab-a1-mini | bambu lab a1 mini | 57900 | 26 | bambu lab a1 mini 3d printer; bambu a1 mini; bambu labs a1 mini; bambu lab a1 mini combo 3d printer | printers/bambu-lab-a1-mini
 - [x] bambu-lab-p1s-3d-printer | bambu lab p1s 3d printer | 54800 | 25 | bambu p1s; bambu lab p1s combo; bambu p1s combo; bambu lab ps1; p1s bambu | printers/bambu-lab-p1s
-- [ ] snapmaker-u1 | snapmaker u1 | 41100 | 11 | snapmaker u1 3d printer
+- [x] snapmaker-u1 | snapmaker u1 | 41100 | 11 | snapmaker u1 3d printer | printers/snapmaker-u1
 - [x] bambu-lab-x1-carbon | bambu lab x1 carbon | 39500 | 0 | bambu x1c; bambu lab x1; bambu x1 carbon; bambu labs x1 carbon; bambu lab x1 carbon 3d printer; bambu lab x1c; bambu lab x1 carbon combo 3d printer; bambu labs x1c | printers/bambu-lab-x1-carbon
 - [x] bambu-h2c | bambu h2c | 25700 | 7 | bambu lab h2c; bambu labs h2c; h2c bambu lab | printers/bambu-lab-h2c
-- [ ] elegoo-centauri-carbon | elegoo centauri carbon | 25200 | 4 | elegoo centauri carbon 3d printer
-- [ ] flashforge-adventurer-5m-3d-printer | flashforge adventurer 5m 3d printer | 25000 | 27 | flashforge adventurer 5m
-- [ ] toybox-3d-printer | toybox 3d printer | 23000 | 1 | 
+- [x] elegoo-centauri-carbon | elegoo centauri carbon | 25200 | 4 | elegoo centauri carbon 3d printer | printers/elegoo-centauri-carbon
+- [x] flashforge-adventurer-5m-3d-printer | flashforge adventurer 5m 3d printer | 25000 | 27 | flashforge adventurer 5m | printers/flashforge-adventurer-5m
+- [x] toybox-3d-printer | toybox 3d printer | 23000 | 1 | | printers/toybox-3d-printer
 - [x] bambu-x2d | bambu x2d | 22000 | 12 | bambu lab x2d; bambu lab x2d 3d printer; x2d bambu; bambu labs x2d; bambu lab x2d printer | printers/bambu-lab-x2d
 - [x] bambu-h2s | bambu h2s | 19900 | 3 | bambu lab h2s; h2s bambu; bambu lab h2s 3d printer | printers/bambu-lab-h2s
 - [x] bambu-h2d | bambu h2d | 18700 | 10 | bambu lab h2d 3d printer; h2d bambu | printers/bambu-lab-h2d
@@ -131,7 +131,7 @@ Printer pages go to content/printers/YYYY-MM-DD-<slug>.md (use a clean slug like
 Manual guide pages: content/printers/YYYY-MM-DD-<slug>.md. Follow "Manual pages" in CLAUDE.md. Build these right after the printer model lines above.
 
 - [x] ender-3-pro-manual | ender 3 pro manual | 240 | 1 | creality ender 3 pro manual; ender 3 pro user manual | printers/ender-3-pro-manual
-- [ ] ender-3-manual | ender 3 manual | 180 | 3 | creality ender 3 manual; ender 3 3d printer manual; ender 3d printer manual; ender 3 user manual
+- [x] ender-3-manual | ender 3 manual | 180 | 3 | creality ender 3 manual; ender 3 3d printer manual; ender 3d printer manual; ender 3 user manual | printers/ender-3-manual
 - [x] ender-3-v2-manual | ender 3 v2 manual | 150 | 1 | creality ender 3 v2 manual | printers/ender-3-v2-manual
 - [x] prusa-mk3s-manual | prusa mk3s manual | 150 | 10 | prusa i3 mk3 manual; prusa mk3 manual; prusa mk3 assembly manual; prusa mk3s+ assembly manual pdf; prusa mk3s+ manual; prusa mk3s assembly manual | printers/prusa-mk3s-manual
 - [ ] bambu-lab-p1s-manual | bambu p1s manual | 140 | 2 | bambu lab p1s manual
