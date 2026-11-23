@@ -66,7 +66,7 @@ Creality lists these changes on the Pro:
 - **C-MAG magnetic build sheet** – removable and flexible, so prints pop off easily.
 - **Larger levelling knobs.**
 
-Build volume, extruder type and screen are the same. <!--E3-->
+Build volume, extruder type and screen are the same. Our [Creality Ender 3 page](/printers/creality-ender-3/) covers the original model.
 
 ## Assembly order
 

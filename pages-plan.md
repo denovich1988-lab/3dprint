@@ -24,9 +24,9 @@ Printer pages go to content/printers/YYYY-MM-DD-<slug>.md (use a clean slug like
 - [x] bambu-ams | bambu ams | 18200 | 8 | bambu lab ams; ams bambu | printers/bambu-lab-ams
 - [x] ender-3-pro | ender 3 pro | 17800 | 4 | creality ender 3 pro; creality ender 3 pro 3d printer | printers/creality-ender-3-pro
 - [x] prusa-3d-printer | prusa 3d printer | 15100 | 16 | prusa printers | printers/prusa-3d-printers
-- [ ] ender-3 | ender 3 | 15100 | 4 | ender 3 3d printer
-- [ ] prusa-xl | prusa xl | 15000 | 3 | 
-- [ ] prusa-mk4 | prusa mk4 | 12000 | 20 | 
+- [x] ender-3 | ender 3 | 15100 | 4 | ender 3 3d printer | printers/creality-ender-3
+- [x] prusa-xl | prusa xl | 15000 | 3 | | printers/prusa-xl
+- [x] prusa-mk4 | prusa mk4 | 12000 | 20 | | printers/prusa-mk4
 - [ ] prusa-core-one | prusa core one | 12000 | 29 | 
 - [ ] anycubic-kobra-s1-combo-3d-printer | anycubic kobra s1 combo 3d printer | 9900 | 4 | anycubic kobra s1
 - [ ] bambu-makerworld | bambu makerworld | 9200 | 1 | bambu labs makerworld; makerworld bambu
@@ -61,8 +61,8 @@ Printer pages go to content/printers/YYYY-MM-DD-<slug>.md (use a clean slug like
 - [ ] creality-k1-max | creality k1 max | 3100 | 31 | 
 - [ ] flashforge-ad5x-multicolor-3d-printer | flashforge ad5x multicolor 3d printer | 3000 | 0 | 
 - [ ] bambu-lab-r1 | bambu lab r1 | 2700 |  | 
-- [ ] bambu-lab-h2d-ams-combo-3d-printer | bambu lab h2d ams combo 3d printer | 2700 | 0 | 
-- [ ] ams-3d-printer | ams 3d printer | 2700 | 1 | ams 3d printing
+- [x] bambu-lab-h2d-ams-combo-3d-printer | bambu lab h2d ams combo 3d printer | 2700 | 0 | | printers/bambu-lab-h2d
+- [x] ams-3d-printer | ams 3d printer | 2700 | 1 | ams 3d printing | printers/bambu-lab-ams
 - [ ] snapmaker-3d-printer | snapmaker 3d printer | 2600 | 3 | 
 - [ ] elegoo-neptune-3-pro | elegoo neptune 3 pro | 2600 | 0 | 
 - [ ] x1-carbon-3d-printer | x1 carbon 3d printer | 2500 | 0 | 
@@ -70,7 +70,7 @@ Printer pages go to content/printers/YYYY-MM-DD-<slug>.md (use a clean slug like
 - [ ] ender-5-plus | ender 5 plus | 2500 | 0 | 
 - [ ] ender-5 | ender 5 | 2500 | 0 | 
 - [ ] voron-2-4 | voron 2.4 | 2400 | 5 | 
-- [ ] prusa-mk4s | prusa mk4s | 2400 | 26 | 
+- [x] prusa-mk4s | prusa mk4s | 2400 | 26 | | printers/prusa-mk4
 - [ ] creality-cfs | creality cfs | 2400 | 4 | 
 - [ ] ultimaker-s5 | ultimaker s5 | 2200 | 4 | 
 - [ ] elegoo-mars-5-ultra | elegoo mars 5 ultra | 2200 | 1 | 
@@ -89,7 +89,7 @@ Printer pages go to content/printers/YYYY-MM-DD-<slug>.md (use a clean slug like
 - [ ] anycubic-kobra | anycubic kobra | 1800 | 15 | 
 - [ ] qidi-3d-printer | qidi 3d printer | 1700 | 15 | 
 - [ ] prusa-mk3 | prusa mk3 | 1700 | 11 | 
-- [ ] h2d-3d-printer | h2d 3d printer | 1700 | 0 | 
+- [x] h2d-3d-printer | h2d 3d printer | 1700 | 0 | | printers/bambu-lab-h2d
 - [ ] creality-sparkx-i7 | creality sparkx i7 | 1700 | 4 | 
 - [ ] bambu-lab-h2d-pro | bambu lab h2d pro | 1700 | 2 | 
 - [ ] anycubic-photon | anycubic photon | 1700 | 12 | 
@@ -132,8 +132,8 @@ Manual guide pages: content/printers/YYYY-MM-DD-<slug>.md. Follow "Manual pages"
 
 - [ ] ender-3-pro-manual | ender 3 pro manual | 240 | 1 | creality ender 3 pro manual; ender 3 pro user manual
 - [ ] ender-3-manual | ender 3 manual | 180 | 3 | creality ender 3 manual; ender 3 3d printer manual; ender 3d printer manual; ender 3 user manual
-- [ ] ender-3-v2-manual | ender 3 v2 manual | 150 | 1 | creality ender 3 v2 manual
-- [ ] prusa-mk3s-manual | prusa mk3s manual | 150 | 10 | prusa i3 mk3 manual; prusa mk3 manual; prusa mk3 assembly manual; prusa mk3s+ assembly manual pdf; prusa mk3s+ manual; prusa mk3s assembly manual
+- [x] ender-3-v2-manual | ender 3 v2 manual | 150 | 1 | creality ender 3 v2 manual | printers/ender-3-v2-manual
+- [x] prusa-mk3s-manual | prusa mk3s manual | 150 | 10 | prusa i3 mk3 manual; prusa mk3 manual; prusa mk3 assembly manual; prusa mk3s+ assembly manual pdf; prusa mk3s+ manual; prusa mk3s assembly manual | printers/prusa-mk3s-manual
 - [ ] bambu-lab-p1s-manual | bambu p1s manual | 140 | 2 | bambu lab p1s manual
 - [ ] bambu-lab-a1-manual | bambu lab a1 manual | 100 | 0 | bambu a1 manual
 - [ ] flashforge-adventurer-5m-manual | flashforge adventurer 5m manual | 100 | 0 | 

@@ -65,11 +65,11 @@ The larger CORE One L+ has a 300 × 300 × 330 mm build volume and a chamber hea
 
 ## Prusa XL+
 
-The XL+ is the biggest Prusa FDM printer, with a 360 mm cube build volume and an automatic toolchanger for up to five toolheads, so each material gets its own nozzle. <!--XL-->
+The XL+ is the biggest Prusa FDM printer, with a 360 mm cube build volume and an automatic toolchanger for up to five toolheads, so each material gets its own nozzle. Read our [Prusa XL page](/printers/prusa-xl/) for specs and setup.
 
 ## Original Prusa MK4S
 
-The MK4S is the latest version of Prusa's classic open-frame i3 design, with a loadcell for automatic first-layer calibration. It is sold as a kit or assembled and replaced the MK4 in 2024.<!--MK4-->
+The MK4S is the latest version of Prusa's classic open-frame i3 design, with a loadcell for automatic first-layer calibration. It is sold as a kit or assembled and replaced the MK4 in 2024 – see our [Prusa MK4 page](/printers/prusa-mk4/).
 
 ## Original Prusa MINI+
 
