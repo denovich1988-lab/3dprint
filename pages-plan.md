@@ -27,11 +27,11 @@ Printer pages go to content/printers/YYYY-MM-DD-<slug>.md (use a clean slug like
 - [x] ender-3 | ender 3 | 15100 | 4 | ender 3 3d printer | printers/creality-ender-3
 - [x] prusa-xl | prusa xl | 15000 | 3 | | printers/prusa-xl
 - [x] prusa-mk4 | prusa mk4 | 12000 | 20 | | printers/prusa-mk4
-- [ ] prusa-core-one | prusa core one | 12000 | 29 | 
-- [ ] anycubic-kobra-s1-combo-3d-printer | anycubic kobra s1 combo 3d printer | 9900 | 4 | anycubic kobra s1
-- [ ] bambu-makerworld | bambu makerworld | 9200 | 1 | bambu labs makerworld; makerworld bambu
-- [ ] ender-3d-printer | ender 3d printer | 9000 | 6 | 
-- [ ] bambu-lab-ams-lite | bambu lab ams lite | 8300 | 26 | bambu ams lite
+- [x] prusa-core-one | prusa core one | 12000 | 29 | printers/prusa-core-one
+- [x] anycubic-kobra-s1-combo-3d-printer | anycubic kobra s1 combo 3d printer | 9900 | 4 | anycubic kobra s1 | printers/anycubic-kobra-s1-combo
+- [-] bambu-makerworld | bambu makerworld | 9200 | 1 | bambu labs makerworld; makerworld bambu | not a printer (Bambu Lab model-sharing site); better covered as a blog article
+- [x] ender-3d-printer | ender 3d printer | 9000 | 6 | printers/creality-ender-3d-printers
+- [x] bambu-lab-ams-lite | bambu lab ams lite | 8300 | 26 | bambu ams lite | printers/bambu-lab-ams-lite
 - [ ] creality-ender-3-v3-se | creality ender 3 v3 se | 7700 | 28 | creality ender 3 v3 se 3d printer
 - [ ] flashforge-ad5x | flashforge ad5x | 7200 | 2 | 
 - [ ] creality-k2-combo | creality k2 combo | 7200 | 1 | creality k2 combo 3d printer; creality k2
@@ -110,7 +110,7 @@ Printer pages go to content/printers/YYYY-MM-DD-<slug>.md (use a clean slug like
 - [ ] elegoo-jupiter | elegoo jupiter | 1300 | 2 | 
 - [ ] bambu-lab-ams-hub | bambu lab ams hub | 1300 | 4 | 
 - [ ] stratasys-3d-printer | stratasys 3d printer | 1200 | 1 | 
-- [ ] prusa-core-one-plus-3d-printer | prusa core one+ 3d printer | 1200 | 14 | 
+- [x] prusa-core-one-plus-3d-printer | prusa core one+ 3d printer | 1200 | 14 | printers/prusa-core-one
 - [ ] prusa-core-one-l | prusa core one l | 1200 | 6 | 
 - [ ] flashforge-creator-pro | flashforge creator pro | 1200 | 0 | 
 - [ ] dremel-3d-printer | dremel 3d printer | 1200 | 1 | 
@@ -134,7 +134,7 @@ Manual guide pages: content/printers/YYYY-MM-DD-<slug>.md. Follow "Manual pages"
 - [x] ender-3-manual | ender 3 manual | 180 | 3 | creality ender 3 manual; ender 3 3d printer manual; ender 3d printer manual; ender 3 user manual | printers/ender-3-manual
 - [x] ender-3-v2-manual | ender 3 v2 manual | 150 | 1 | creality ender 3 v2 manual | printers/ender-3-v2-manual
 - [x] prusa-mk3s-manual | prusa mk3s manual | 150 | 10 | prusa i3 mk3 manual; prusa mk3 manual; prusa mk3 assembly manual; prusa mk3s+ assembly manual pdf; prusa mk3s+ manual; prusa mk3s assembly manual | printers/prusa-mk3s-manual
-- [ ] bambu-lab-p1s-manual | bambu p1s manual | 140 | 2 | bambu lab p1s manual
+- [x] bambu-lab-p1s-manual | bambu p1s manual | 140 | 2 | bambu lab p1s manual | printers/bambu-lab-p1s-manual
 - [ ] bambu-lab-a1-manual | bambu lab a1 manual | 100 | 0 | bambu a1 manual
 - [ ] flashforge-adventurer-5m-manual | flashforge adventurer 5m manual | 100 | 0 | 
 - [ ] creality-k1-manual | creality k1 manual | 90 | 3 | manual k1
