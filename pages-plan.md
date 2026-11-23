@@ -36,17 +36,17 @@ Printer pages go to content/printers/YYYY-MM-DD-<slug>.md (use a clean slug like
 - [x] flashforge-ad5x | flashforge ad5x | 7200 | 2 | printers/flashforge-ad5x
 - [x] creality-k2-combo | creality k2 combo | 7200 | 1 | creality k2 combo 3d printer; creality k2 | printers/creality-k2-combo
 - [x] ender-3-v2 | ender 3 v2 | 6700 | 0 | creality ender 3 v2 | printers/creality-ender-3-v2
-- [ ] prusa-mini | prusa mini | 6000 | 5 | 
-- [ ] ender-3-v3 | ender 3 v3 | 5800 | 3 | 
-- [ ] toy-box-3d-printer | toy box 3d printer | 5500 | 5 | 
-- [ ] bambu-lab-ams-2-pro-automatic-material-system | bambu lab ams 2 pro automatic material system | 5100 | 3 | 
-- [ ] bambu-a2l | bambu a2l | 4800 | 12 | bambu lab a2l
-- [ ] elegoo-centauri-carbon-2 | elegoo centauri carbon 2 | 4700 | 1 | 
-- [ ] bambu-lab-ams-2-pro | bambu lab ams 2 pro | 4500 | 4 | bambu ams 2 pro
-- [ ] creality-k2-plus-3d-printer | creality k2 plus 3d printer | 4400 | 44 | 
-- [ ] creality-k1c | creality k1c | 4400 | 7 | creality k1c 3d printer
+- [x] prusa-mini | prusa mini | 6000 | 5 | printers/prusa-mini
+- [x] ender-3-v3 | ender 3 v3 | 5800 | 3 | printers/creality-ender-3-v3
+- [x] toy-box-3d-printer | toy box 3d printer | 5500 | 5 | printers/toybox-3d-printer
+- [x] bambu-lab-ams-2-pro-automatic-material-system | bambu lab ams 2 pro automatic material system | 5100 | 3 | printers/bambu-lab-ams-2-pro
+- [x] bambu-a2l | bambu a2l | 4800 | 12 | bambu lab a2l | printers/bambu-lab-a2l
+- [x] elegoo-centauri-carbon-2 | elegoo centauri carbon 2 | 4700 | 1 | printers/elegoo-centauri-carbon-2
+- [x] bambu-lab-ams-2-pro | bambu lab ams 2 pro | 4500 | 4 | bambu ams 2 pro | printers/bambu-lab-ams-2-pro
+- [x] creality-k2-plus-3d-printer | creality k2 plus 3d printer | 4400 | 44 | printers/creality-k2-plus
+- [x] creality-k1c | creality k1c | 4400 | 7 | creality k1c 3d printer | printers/creality-k1c
 - [x] a1-mini-3d-printer | a1 mini 3d printer | 4200 | 5 |  | printers/bambu-lab-a1-mini
-- [ ] bambu-lab-ams-ht-automatic-material-system | bambu lab ams ht automatic material system | 4100 | 1 | 
+- [x] bambu-lab-ams-ht-automatic-material-system | bambu lab ams ht automatic material system | 4100 | 1 | printers/bambu-lab-ams-ht
 - [ ] prusa-indx | prusa indx | 3900 | 25 | 
 - [ ] elegoo-saturn-4-ultra | elegoo saturn 4 ultra | 3900 | 4 | 
 - [ ] creality-3d-scanner | creality 3d scanner | 3900 | 0 | creality scanner
@@ -136,8 +136,8 @@ Manual guide pages: content/printers/YYYY-MM-DD-<slug>.md. Follow "Manual pages"
 - [x] prusa-mk3s-manual | prusa mk3s manual | 150 | 10 | prusa i3 mk3 manual; prusa mk3 manual; prusa mk3 assembly manual; prusa mk3s+ assembly manual pdf; prusa mk3s+ manual; prusa mk3s assembly manual | printers/prusa-mk3s-manual
 - [x] bambu-lab-p1s-manual | bambu p1s manual | 140 | 2 | bambu lab p1s manual | printers/bambu-lab-p1s-manual
 - [x] bambu-lab-a1-manual | bambu lab a1 manual | 100 | 0 | bambu a1 manual | printers/bambu-lab-a1-manual
-- [ ] flashforge-adventurer-5m-manual | flashforge adventurer 5m manual | 100 | 0 | 
-- [ ] creality-k1-manual | creality k1 manual | 90 | 3 | manual k1
+- [x] flashforge-adventurer-5m-manual | flashforge adventurer 5m manual | 100 | 0 | printers/flashforge-adventurer-5m-manual
+- [x] creality-k1-manual | creality k1 manual | 90 | 3 | manual k1 | printers/creality-k1-manual
 - [ ] ender-3-v2-neo-manual | ender 3 v2 neo manual | 70 | 0 | creality ender 3 v2 neo manual; ender-3 v2 neo manual
 - [ ] bambu-lab-p2s-manual | bambu p2s manual | 50 | 0 | 
 - [ ] prusa-manual | prusa manual | 50 | 0 | prusa assembly manual
