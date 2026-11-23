@@ -19,11 +19,11 @@ Printer pages go to content/printers/YYYY-MM-DD-<slug>.md (use a clean slug like
 - [ ] flashforge-adventurer-5m-3d-printer | flashforge adventurer 5m 3d printer | 25000 | 27 | flashforge adventurer 5m
 - [ ] toybox-3d-printer | toybox 3d printer | 23000 | 1 | 
 - [ ] bambu-x2d | bambu x2d | 22000 | 12 | bambu lab x2d; bambu lab x2d 3d printer; x2d bambu; bambu labs x2d; bambu lab x2d printer
-- [ ] bambu-h2s | bambu h2s | 19900 | 3 | bambu lab h2s; h2s bambu; bambu lab h2s 3d printer
-- [ ] bambu-h2d | bambu h2d | 18700 | 10 | bambu lab h2d 3d printer; h2d bambu
-- [ ] bambu-ams | bambu ams | 18200 | 8 | bambu lab ams; ams bambu
-- [ ] ender-3-pro | ender 3 pro | 17800 | 4 | creality ender 3 pro; creality ender 3 pro 3d printer
-- [ ] prusa-3d-printer | prusa 3d printer | 15100 | 16 | prusa printers
+- [x] bambu-h2s | bambu h2s | 19900 | 3 | bambu lab h2s; h2s bambu; bambu lab h2s 3d printer | printers/bambu-lab-h2s
+- [x] bambu-h2d | bambu h2d | 18700 | 10 | bambu lab h2d 3d printer; h2d bambu | printers/bambu-lab-h2d
+- [x] bambu-ams | bambu ams | 18200 | 8 | bambu lab ams; ams bambu | printers/bambu-lab-ams
+- [x] ender-3-pro | ender 3 pro | 17800 | 4 | creality ender 3 pro; creality ender 3 pro 3d printer | printers/creality-ender-3-pro
+- [x] prusa-3d-printer | prusa 3d printer | 15100 | 16 | prusa printers | printers/prusa-3d-printers
 - [ ] ender-3 | ender 3 | 15100 | 4 | ender 3 3d printer
 - [ ] prusa-xl | prusa xl | 15000 | 3 | 
 - [ ] prusa-mk4 | prusa mk4 | 12000 | 20 | 
