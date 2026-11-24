@@ -74,11 +74,11 @@ Printer pages go to content/printers/YYYY-MM-DD-<slug>.md (use a clean slug like
 - [x] creality-cfs | creality cfs | 2400 | 4 | | printers/creality-cfs
 - [x] ultimaker-s5 | ultimaker s5 | 2200 | 4 | | printers/ultimaker-s5
 - [x] elegoo-mars-5-ultra | elegoo mars 5 ultra | 2200 | 1 | | printers/elegoo-mars-5-ultra
-- [ ] elegoo-3d-printer | elegoo 3d printer | 2200 | 11 | 
+- [x] elegoo-3d-printer | elegoo 3d printer | 2200 | 11 | | printers/elegoo-3d-printers
 - [x] bambu-lab-h2c-ams-combo-3d-printer | bambu lab h2c ams combo 3d printer | 2200 | 2 | | printers/bambu-lab-h2c
-- [ ] elegoo-neptune-4-max | elegoo neptune 4 max | 2100 | 0 | 
-- [ ] formlabs-form-4 | formlabs form 4 | 2000 | 9 | 
-- [ ] flashforge-adventurer-3 | flashforge adventurer 3 | 2000 | 0 | 
+- [x] elegoo-neptune-4-max | elegoo neptune 4 max | 2100 | 0 | | printers/elegoo-neptune-4-max
+- [x] formlabs-form-4 | formlabs form 4 | 2000 | 9 | | printers/formlabs-form-4
+- [x] flashforge-adventurer-3 | flashforge adventurer 3 | 2000 | 0 | | printers/flashforge-adventurer-3
 - [ ] elegoo-neptune-4 | elegoo neptune 4 | 2000 | 19 | 
 - [ ] creality-k1 | creality k1 | 2000 | 26 | 
 - [ ] prusa-i3 | prusa i3 | 1900 | 11 | 
@@ -143,7 +143,7 @@ Manual guide pages: content/printers/YYYY-MM-DD-<slug>.md. Follow "Manual pages"
 - [x] prusa-manual | prusa manual | 50 | 0 | prusa assembly manual | printers/prusa-manual
 - [x] ender-3-v3-se-manual | creality ender 3 v3 se manual | 50 | 7 | ender 3 v3 se manual | printers/ender-3-v3-se-manual
 - [x] ender-3-s1-pro-manual | ender 3 s1 pro manual | 30 | 0 | creality ender 3 s1 pro manual | printers/ender-3-s1-pro-manual
-- [ ] ender-5-pro-manual | ender 5 pro manual | 30 | 0 | 
+- [x] ender-5-pro-manual | ender 5 pro manual | 30 | 0 | | printers/ender-5-pro-manual
 - [x] creality-k1-max-manual | creality k1 max manual | 30 | 2 | k1 max manual | printers/creality-k1-max-manual
 - [ ] voron-2-4-manual | voron 2.4 manual | 30 | 7 | voron assembly manual; voron 2.4 assembly manual; voron manual
 - [ ] ender-3-s1-manual | ender 3 s1 manual | 20 | 0 | 
