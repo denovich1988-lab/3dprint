@@ -57,16 +57,16 @@ Printer pages go to content/printers/YYYY-MM-DD-<slug>.md (use a clean slug like
 - [x] p1s-3d-printer | p1s 3d printer | 3300 | 7 |  | printers/bambu-lab-p1s
 - [x] anycubic-kobra-x | anycubic kobra x | 3300 | 2 | printers/anycubic-kobra-x
 - [x] creality-k2-pro | creality k2 pro | 3200 | 3 | printers/creality-k2-pro
-- [ ] flashforge-3d-printer | flashforge 3d printer | 3100 | 1 | 
-- [ ] creality-k1-max | creality k1 max | 3100 | 31 | 
-- [ ] flashforge-ad5x-multicolor-3d-printer | flashforge ad5x multicolor 3d printer | 3000 | 0 | 
-- [ ] bambu-lab-r1 | bambu lab r1 | 2700 |  | 
+- [x] flashforge-3d-printer | flashforge 3d printer | 3100 | 1 | printers/flashforge-3d-printers
+- [x] creality-k1-max | creality k1 max | 3100 | 31 | printers/creality-k1-max
+- [x] flashforge-ad5x-multicolor-3d-printer | flashforge ad5x multicolor 3d printer | 3000 | 0 | printers/flashforge-ad5x
+- [-] bambu-lab-r1 | bambu lab r1 | 2700 | | Bambu Lab R1 is a laser cutter (announced Sep 2026), not a 3D printer
 - [x] bambu-lab-h2d-ams-combo-3d-printer | bambu lab h2d ams combo 3d printer | 2700 | 0 | | printers/bambu-lab-h2d
 - [x] ams-3d-printer | ams 3d printer | 2700 | 1 | ams 3d printing | printers/bambu-lab-ams
-- [ ] snapmaker-3d-printer | snapmaker 3d printer | 2600 | 3 | 
-- [ ] elegoo-neptune-3-pro | elegoo neptune 3 pro | 2600 | 0 | 
-- [ ] x1-carbon-3d-printer | x1 carbon 3d printer | 2500 | 0 | 
-- [ ] qidi-q2 | qidi q2 | 2500 | 0 | 
+- [x] snapmaker-3d-printer | snapmaker 3d printer | 2600 | 3 | printers/snapmaker-3d-printers
+- [x] elegoo-neptune-3-pro | elegoo neptune 3 pro | 2600 | 0 | printers/elegoo-neptune-3-pro
+- [x] x1-carbon-3d-printer | x1 carbon 3d printer | 2500 | 0 | printers/bambu-lab-x1-carbon
+- [x] qidi-q2 | qidi q2 | 2500 | 0 | printers/qidi-q2
 - [ ] ender-5-plus | ender 5 plus | 2500 | 0 | 
 - [ ] ender-5 | ender 5 | 2500 | 0 | 
 - [ ] voron-2-4 | voron 2.4 | 2400 | 5 | 
