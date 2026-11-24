@@ -67,8 +67,8 @@ Printer pages go to content/printers/YYYY-MM-DD-<slug>.md (use a clean slug like
 - [x] elegoo-neptune-3-pro | elegoo neptune 3 pro | 2600 | 0 | printers/elegoo-neptune-3-pro
 - [x] x1-carbon-3d-printer | x1 carbon 3d printer | 2500 | 0 | printers/bambu-lab-x1-carbon
 - [x] qidi-q2 | qidi q2 | 2500 | 0 | printers/qidi-q2
-- [ ] ender-5-plus | ender 5 plus | 2500 | 0 | 
-- [ ] ender-5 | ender 5 | 2500 | 0 | 
+- [x] ender-5-plus | ender 5 plus | 2500 | 0 | printers/creality-ender-5-plus
+- [x] ender-5 | ender 5 | 2500 | 0 | printers/creality-ender-5
 - [ ] voron-2-4 | voron 2.4 | 2400 | 5 | 
 - [x] prusa-mk4s | prusa mk4s | 2400 | 26 | | printers/prusa-mk4
 - [ ] creality-cfs | creality cfs | 2400 | 4 | 
@@ -140,11 +140,11 @@ Manual guide pages: content/printers/YYYY-MM-DD-<slug>.md. Follow "Manual pages"
 - [x] creality-k1-manual | creality k1 manual | 90 | 3 | manual k1 | printers/creality-k1-manual
 - [x] ender-3-v2-neo-manual | ender 3 v2 neo manual | 70 | 0 | creality ender 3 v2 neo manual; ender-3 v2 neo manual | printers/ender-3-v2-neo-manual
 - [x] bambu-lab-p2s-manual | bambu p2s manual | 50 | 0 | printers/bambu-lab-p2s-manual
-- [ ] prusa-manual | prusa manual | 50 | 0 | prusa assembly manual
-- [ ] ender-3-v3-se-manual | creality ender 3 v3 se manual | 50 | 7 | ender 3 v3 se manual
+- [x] prusa-manual | prusa manual | 50 | 0 | prusa assembly manual | printers/prusa-manual
+- [x] ender-3-v3-se-manual | creality ender 3 v3 se manual | 50 | 7 | ender 3 v3 se manual | printers/ender-3-v3-se-manual
 - [ ] ender-3-s1-pro-manual | ender 3 s1 pro manual | 30 | 0 | creality ender 3 s1 pro manual
 - [ ] ender-5-pro-manual | ender 5 pro manual | 30 | 0 | 
-- [ ] creality-k1-max-manual | creality k1 max manual | 30 | 2 | k1 max manual
+- [x] creality-k1-max-manual | creality k1 max manual | 30 | 2 | k1 max manual | printers/creality-k1-max-manual
 - [ ] voron-2-4-manual | voron 2.4 manual | 30 | 7 | voron assembly manual; voron 2.4 assembly manual; voron manual
 - [ ] ender-3-s1-manual | ender 3 s1 manual | 20 | 0 | 
 - [ ] ender-5-plus-manual | ender 5 plus manual | 20 | 0 | 
