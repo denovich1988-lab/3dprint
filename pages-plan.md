@@ -47,11 +47,11 @@ Printer pages go to content/printers/YYYY-MM-DD-<slug>.md (use a clean slug like
 - [x] creality-k1c | creality k1c | 4400 | 7 | creality k1c 3d printer | printers/creality-k1c
 - [x] a1-mini-3d-printer | a1 mini 3d printer | 4200 | 5 |  | printers/bambu-lab-a1-mini
 - [x] bambu-lab-ams-ht-automatic-material-system | bambu lab ams ht automatic material system | 4100 | 1 | printers/bambu-lab-ams-ht
-- [ ] prusa-indx | prusa indx | 3900 | 25 | 
-- [ ] elegoo-saturn-4-ultra | elegoo saturn 4 ultra | 3900 | 4 | 
+- [x] prusa-indx | prusa indx | 3900 | 25 | printers/prusa-indx
+- [x] elegoo-saturn-4-ultra | elegoo saturn 4 ultra | 3900 | 4 | printers/elegoo-saturn-4-ultra
 - [ ] creality-3d-scanner | creality 3d scanner | 3900 | 0 | creality scanner
-- [ ] flashforge-adventurer-5m-pro | flashforge adventurer 5m pro | 3400 | 1 | flashforge adventurer 5m pro 3d printer
-- [ ] ender-3-s1 | ender 3 s1 | 3400 | 0 | 
+- [x] flashforge-adventurer-5m-pro | flashforge adventurer 5m pro | 3400 | 1 | flashforge adventurer 5m pro 3d printer | printers/flashforge-adventurer-5m-pro
+- [x] ender-3-s1 | ender 3 s1 | 3400 | 0 | printers/creality-ender-3-s1
 - [ ] anycubic-3d-printer | anycubic 3d printer | 3400 | 10 | 
 - [x] a1-3d-printer | a1 3d printer | 3400 | 20 |  | printers/bambu-lab-a1
 - [x] p1s-3d-printer | p1s 3d printer | 3300 | 7 |  | printers/bambu-lab-p1s
@@ -138,7 +138,7 @@ Manual guide pages: content/printers/YYYY-MM-DD-<slug>.md. Follow "Manual pages"
 - [x] bambu-lab-a1-manual | bambu lab a1 manual | 100 | 0 | bambu a1 manual | printers/bambu-lab-a1-manual
 - [x] flashforge-adventurer-5m-manual | flashforge adventurer 5m manual | 100 | 0 | printers/flashforge-adventurer-5m-manual
 - [x] creality-k1-manual | creality k1 manual | 90 | 3 | manual k1 | printers/creality-k1-manual
-- [ ] ender-3-v2-neo-manual | ender 3 v2 neo manual | 70 | 0 | creality ender 3 v2 neo manual; ender-3 v2 neo manual
+- [x] ender-3-v2-neo-manual | ender 3 v2 neo manual | 70 | 0 | creality ender 3 v2 neo manual; ender-3 v2 neo manual | printers/ender-3-v2-neo-manual
 - [ ] bambu-lab-p2s-manual | bambu p2s manual | 50 | 0 | 
 - [ ] prusa-manual | prusa manual | 50 | 0 | prusa assembly manual
 - [ ] ender-3-v3-se-manual | creality ender 3 v3 se manual | 50 | 7 | ender 3 v3 se manual
