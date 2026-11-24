@@ -79,19 +79,19 @@ Printer pages go to content/printers/YYYY-MM-DD-<slug>.md (use a clean slug like
 - [x] elegoo-neptune-4-max | elegoo neptune 4 max | 2100 | 0 | | printers/elegoo-neptune-4-max
 - [x] formlabs-form-4 | formlabs form 4 | 2000 | 9 | | printers/formlabs-form-4
 - [x] flashforge-adventurer-3 | flashforge adventurer 3 | 2000 | 0 | | printers/flashforge-adventurer-3
-- [ ] elegoo-neptune-4 | elegoo neptune 4 | 2000 | 19 | 
-- [ ] creality-k1 | creality k1 | 2000 | 26 | 
+- [x] elegoo-neptune-4 | elegoo neptune 4 | 2000 | 19 | printers/elegoo-neptune-4
+- [x] creality-k1 | creality k1 | 2000 | 26 | printers/creality-k1
 - [ ] prusa-i3 | prusa i3 | 1900 | 11 | 
-- [ ] original-prusa-mk4s-3d-printer-kit | original prusa mk4s 3d printer kit | 1900 | 3 | 
+- [x] original-prusa-mk4s-3d-printer-kit | original prusa mk4s 3d printer kit | 1900 | 3 | printers/prusa-mk4
 - [x] p2s-3d-printer | p2s 3d printer | 1800 | 3 |  | printers/bambu-lab-p2s
-- [ ] creality-falcon | creality falcon | 1800 | 5 | 
+- [-] creality-falcon | creality falcon | 1800 | 5 | Creality Falcon is a laser engraver line, not a 3D printer
 - [ ] creality-cr-10 | creality cr-10 | 1800 | 0 | 
 - [ ] anycubic-kobra | anycubic kobra | 1800 | 15 | 
 - [ ] qidi-3d-printer | qidi 3d printer | 1700 | 15 | 
 - [ ] prusa-mk3 | prusa mk3 | 1700 | 11 | 
 - [x] h2d-3d-printer | h2d 3d printer | 1700 | 0 | | printers/bambu-lab-h2d
-- [ ] creality-sparkx-i7 | creality sparkx i7 | 1700 | 4 | 
-- [ ] bambu-lab-h2d-pro | bambu lab h2d pro | 1700 | 2 | 
+- [x] creality-sparkx-i7 | creality sparkx i7 | 1700 | 4 | printers/creality-sparkx-i7
+- [x] bambu-lab-h2d-pro | bambu lab h2d pro | 1700 | 2 | printers/bambu-lab-h2d-pro
 - [ ] anycubic-photon | anycubic photon | 1700 | 12 | 
 - [ ] sovol-sv08 | sovol sv08 | 1600 | 0 | 
 - [ ] elegoo-saturn-4-ultra-16k | elegoo saturn 4 ultra 16k | 1600 | 0 | 
@@ -145,7 +145,7 @@ Manual guide pages: content/printers/YYYY-MM-DD-<slug>.md. Follow "Manual pages"
 - [x] ender-3-s1-pro-manual | ender 3 s1 pro manual | 30 | 0 | creality ender 3 s1 pro manual | printers/ender-3-s1-pro-manual
 - [x] ender-5-pro-manual | ender 5 pro manual | 30 | 0 | | printers/ender-5-pro-manual
 - [x] creality-k1-max-manual | creality k1 max manual | 30 | 2 | k1 max manual | printers/creality-k1-max-manual
-- [ ] voron-2-4-manual | voron 2.4 manual | 30 | 7 | voron assembly manual; voron 2.4 assembly manual; voron manual
+- [x] voron-2-4-manual | voron 2.4 manual | 30 | 7 | voron assembly manual; voron 2.4 assembly manual; voron manual | printers/voron-2-4-manual
 - [ ] ender-3-s1-manual | ender 3 s1 manual | 20 | 0 | 
 - [ ] ender-5-plus-manual | ender 5 plus manual | 20 | 0 | 
 - [ ] ender-3-neo-manual | ender 3 neo manual | 20 | 0 | 
