@@ -69,13 +69,13 @@ Printer pages go to content/printers/YYYY-MM-DD-<slug>.md (use a clean slug like
 - [x] qidi-q2 | qidi q2 | 2500 | 0 | printers/qidi-q2
 - [x] ender-5-plus | ender 5 plus | 2500 | 0 | printers/creality-ender-5-plus
 - [x] ender-5 | ender 5 | 2500 | 0 | printers/creality-ender-5
-- [ ] voron-2-4 | voron 2.4 | 2400 | 5 | 
+- [x] voron-2-4 | voron 2.4 | 2400 | 5 | | printers/voron-2-4
 - [x] prusa-mk4s | prusa mk4s | 2400 | 26 | | printers/prusa-mk4
-- [ ] creality-cfs | creality cfs | 2400 | 4 | 
-- [ ] ultimaker-s5 | ultimaker s5 | 2200 | 4 | 
-- [ ] elegoo-mars-5-ultra | elegoo mars 5 ultra | 2200 | 1 | 
+- [x] creality-cfs | creality cfs | 2400 | 4 | | printers/creality-cfs
+- [x] ultimaker-s5 | ultimaker s5 | 2200 | 4 | | printers/ultimaker-s5
+- [x] elegoo-mars-5-ultra | elegoo mars 5 ultra | 2200 | 1 | | printers/elegoo-mars-5-ultra
 - [ ] elegoo-3d-printer | elegoo 3d printer | 2200 | 11 | 
-- [ ] bambu-lab-h2c-ams-combo-3d-printer | bambu lab h2c ams combo 3d printer | 2200 | 2 | 
+- [x] bambu-lab-h2c-ams-combo-3d-printer | bambu lab h2c ams combo 3d printer | 2200 | 2 | | printers/bambu-lab-h2c
 - [ ] elegoo-neptune-4-max | elegoo neptune 4 max | 2100 | 0 | 
 - [ ] formlabs-form-4 | formlabs form 4 | 2000 | 9 | 
 - [ ] flashforge-adventurer-3 | flashforge adventurer 3 | 2000 | 0 | 
@@ -142,7 +142,7 @@ Manual guide pages: content/printers/YYYY-MM-DD-<slug>.md. Follow "Manual pages"
 - [x] bambu-lab-p2s-manual | bambu p2s manual | 50 | 0 | printers/bambu-lab-p2s-manual
 - [x] prusa-manual | prusa manual | 50 | 0 | prusa assembly manual | printers/prusa-manual
 - [x] ender-3-v3-se-manual | creality ender 3 v3 se manual | 50 | 7 | ender 3 v3 se manual | printers/ender-3-v3-se-manual
-- [ ] ender-3-s1-pro-manual | ender 3 s1 pro manual | 30 | 0 | creality ender 3 s1 pro manual
+- [x] ender-3-s1-pro-manual | ender 3 s1 pro manual | 30 | 0 | creality ender 3 s1 pro manual | printers/ender-3-s1-pro-manual
 - [ ] ender-5-pro-manual | ender 5 pro manual | 30 | 0 | 
 - [x] creality-k1-max-manual | creality k1 max manual | 30 | 2 | k1 max manual | printers/creality-k1-max-manual
 - [ ] voron-2-4-manual | voron 2.4 manual | 30 | 7 | voron assembly manual; voron 2.4 assembly manual; voron manual
