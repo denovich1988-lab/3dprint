@@ -81,14 +81,14 @@ Printer pages go to content/printers/YYYY-MM-DD-<slug>.md (use a clean slug like
 - [x] flashforge-adventurer-3 | flashforge adventurer 3 | 2000 | 0 | | printers/flashforge-adventurer-3
 - [x] elegoo-neptune-4 | elegoo neptune 4 | 2000 | 19 | printers/elegoo-neptune-4
 - [x] creality-k1 | creality k1 | 2000 | 26 | printers/creality-k1
-- [ ] prusa-i3 | prusa i3 | 1900 | 11 | 
+- [x] prusa-i3 | prusa i3 | 1900 | 11 | printers/prusa-mk3
 - [x] original-prusa-mk4s-3d-printer-kit | original prusa mk4s 3d printer kit | 1900 | 3 | printers/prusa-mk4
 - [x] p2s-3d-printer | p2s 3d printer | 1800 | 3 |  | printers/bambu-lab-p2s
 - [-] creality-falcon | creality falcon | 1800 | 5 | Creality Falcon is a laser engraver line, not a 3D printer
-- [ ] creality-cr-10 | creality cr-10 | 1800 | 0 | 
-- [ ] anycubic-kobra | anycubic kobra | 1800 | 15 | 
-- [ ] qidi-3d-printer | qidi 3d printer | 1700 | 15 | 
-- [ ] prusa-mk3 | prusa mk3 | 1700 | 11 | 
+- [x] creality-cr-10 | creality cr-10 | 1800 | 0 | printers/creality-cr-10
+- [x] anycubic-kobra | anycubic kobra | 1800 | 15 | printers/anycubic-kobra
+- [x] qidi-3d-printer | qidi 3d printer | 1700 | 15 | printers/qidi-3d-printers
+- [x] prusa-mk3 | prusa mk3 | 1700 | 11 | printers/prusa-mk3
 - [x] h2d-3d-printer | h2d 3d printer | 1700 | 0 | | printers/bambu-lab-h2d
 - [x] creality-sparkx-i7 | creality sparkx i7 | 1700 | 4 | printers/creality-sparkx-i7
 - [x] bambu-lab-h2d-pro | bambu lab h2d pro | 1700 | 2 | printers/bambu-lab-h2d-pro
@@ -146,7 +146,7 @@ Manual guide pages: content/printers/YYYY-MM-DD-<slug>.md. Follow "Manual pages"
 - [x] ender-5-pro-manual | ender 5 pro manual | 30 | 0 | | printers/ender-5-pro-manual
 - [x] creality-k1-max-manual | creality k1 max manual | 30 | 2 | k1 max manual | printers/creality-k1-max-manual
 - [x] voron-2-4-manual | voron 2.4 manual | 30 | 7 | voron assembly manual; voron 2.4 assembly manual; voron manual | printers/voron-2-4-manual
-- [ ] ender-3-s1-manual | ender 3 s1 manual | 20 | 0 | 
+- [x] ender-3-s1-manual | ender 3 s1 manual | 20 | 0 | printers/ender-3-s1-manual
 - [ ] ender-5-plus-manual | ender 5 plus manual | 20 | 0 | 
 - [ ] ender-3-neo-manual | ender 3 neo manual | 20 | 0 | 
 - [ ] ender-3-max-neo-manual | ender 3 max neo manual | 20 | 0 | 
