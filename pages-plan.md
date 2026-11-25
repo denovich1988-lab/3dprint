@@ -97,14 +97,14 @@ Printer pages go to content/printers/YYYY-MM-DD-<slug>.md (use a clean slug like
 - [x] elegoo-saturn-4-ultra-16k | elegoo saturn 4 ultra 16k | 1600 | 0 | printers/elegoo-saturn-4-ultra
 - [x] bambu-lab-x1e | bambu lab x1e | 1600 | 4 | printers/bambu-lab-x1e
 - [x] anycubic-photon-mono-4-3d-printer | anycubic photon mono 4 3d printer | 1600 | 3 | printers/anycubic-photon-mono-4
-- [ ] anycubic-kobra-3 | anycubic kobra 3 | 1600 | 7 | 
+- [x] anycubic-kobra-3 | anycubic kobra 3 | 1600 | 7 | printers/anycubic-kobra-3
 - [x] prusa-mk3s | prusa mk3s | 1500 | 7 | printers/prusa-mk3
-- [ ] creality-k3 | creality k3 | 1500 | 23 | 
+- [x] creality-k3 | creality k3 | 1500 | 23 | printers/creality-k3
 - [-] creality-falcon-a1 | creality falcon a1 | 1500 | 12 | Creality Falcon A1 is a laser engraver, not a 3D printer
 - [x] h2c-3d-printer | h2c 3d printer | 1400 | 0 | printers/bambu-lab-h2c
-- [ ] creality-hi | creality hi | 1400 | 2 | 
-- [ ] creality-filament-maker | creality filament maker | 1400 | 5 | 
-- [ ] snapmaker-artisan | snapmaker artisan | 1300 | 14 | 
+- [x] creality-hi | creality hi | 1400 | 2 | printers/creality-hi
+- [-] creality-filament-maker | creality filament maker | 1400 | 5 | Filament Maker M1 is a crowdfunded recycling machine; no official specs or price published yet
+- [x] snapmaker-artisan | snapmaker artisan | 1300 | 14 | printers/snapmaker-artisan
 - [ ] ender-3-s1-pro | ender 3 s1 pro | 1300 | 0 | 
 - [ ] elegoo-orange-storm-giga | elegoo orange storm giga | 1300 | 0 | 
 - [ ] elegoo-jupiter | elegoo jupiter | 1300 | 2 | 
@@ -148,7 +148,7 @@ Manual guide pages: content/printers/YYYY-MM-DD-<slug>.md. Follow "Manual pages"
 - [x] voron-2-4-manual | voron 2.4 manual | 30 | 7 | voron assembly manual; voron 2.4 assembly manual; voron manual | printers/voron-2-4-manual
 - [x] ender-3-s1-manual | ender 3 s1 manual | 20 | 0 | printers/ender-3-s1-manual
 - [x] ender-5-plus-manual | ender 5 plus manual | 20 | 0 | printers/ender-5-plus-manual
-- [ ] ender-3-neo-manual | ender 3 neo manual | 20 | 0 | 
+- [x] ender-3-neo-manual | ender 3 neo manual | 20 | 0 | printers/ender-3-neo-manual
 - [ ] ender-3-max-neo-manual | ender 3 max neo manual | 20 | 0 | 
 - [ ] anet-a8-manual | anet a8 3d printer manual | 20 | 0 | 
 - [ ] voron-trident-manual | voron trident manual | 20 | 1 | 
