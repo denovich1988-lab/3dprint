@@ -157,7 +157,7 @@ Manual guide pages: content/printers/YYYY-MM-DD-<slug>.md. Follow "Manual pages"
 - [x] anycubic-mega-x-manual | anycubic mega x manual | 10 | 0 | printers/anycubic-mega-x-manual
 - [x] creality-sonic-pad-manual | creality sonic pad manual | 10 | 0 | printers/creality-sonic-pad-manual
 - [x] anycubic-photon-manual | anycubic photon manual | 10 | 2 | printers/anycubic-photon-manual
-- [ ] elegoo-manual | elegoo manual | 10 | 5 | 
+- [x] elegoo-manual | elegoo manual | 10 | 5 | printers/elegoo-manual
 
 ## Converters, viewers and format pages (113)
 
@@ -258,7 +258,7 @@ Manual guide pages: content/printers/YYYY-MM-DD-<slug>.md. Follow "Manual pages"
 - [-] dxf-to-jpg | dxf to jpg | 100 | 0 | engine does not support (no DXF input)
 - [x] ply-to-obj | convert ply to obj | 90 | 0 |  | /ply-to-obj/
 - [x] model-converter | model converter | 90 | 7 | /converters/
-- [ ] fbx-to-gltf | fbx to gltf | 90 | 0
+- [x] fbx-to-gltf | fbx to gltf | 90 | 0 | fbx-to-gltf
 - [x] create-stl-file-from-image | create stl file from image | 90 | 34 | /image-to-stl/
 - [x] convert-3d | convert 3d | 90 | 10 | /converters/
 - [x] turn-image-into-stl | turn image into stl | 80 | 35 | /image-to-stl/

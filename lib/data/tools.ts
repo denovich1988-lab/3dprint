@@ -122,6 +122,7 @@ export const TOOLS: Tool[] = [
   meshPair('step', 'obj', 'step to obj', 0, 0),
   meshPair('step', '3mf', 'step to 3mf', 0, 0),
   meshPair('stl', 'ply', 'stl to ply', 0, 0),
+  meshPair('fbx', 'gltf', 'fbx to gltf', 90, 0),
 
   // Image → 3D
   { slug: 'image-to-stl', kind: 'image', from: 'png', to: 'stl', keyword: 'image to stl', volume: 7500, kd: 40, mode: 'relief',
