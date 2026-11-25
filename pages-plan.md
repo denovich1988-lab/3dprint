@@ -114,11 +114,11 @@ Printer pages go to content/printers/YYYY-MM-DD-<slug>.md (use a clean slug like
 - [x] prusa-core-one-l | prusa core one l | 1200 | 6 | printers/prusa-core-one-l
 - [x] flashforge-creator-pro | flashforge creator pro | 1200 | 0 | printers/flashforge-creator-pro
 - [x] dremel-3d-printer | dremel 3d printer | 1200 | 1 | printers/dremel-3d-printers
-- [ ] bambu-lab-p1s-specs | bambu lab p1s specs | 1200 | 12 | 
-- [ ] glowforge-aura-laser-3d-printer | glowforge aura laser 3d printer | 1100 | 10 | 
-- [ ] ender-3-max | ender 3 max | 1100 | 0 | 
-- [ ] elegoo-mars | elegoo mars | 1100 | 4 | 
-- [ ] creality-space-pi | creality space pi | 1100 | 6 | 
+- [x] bambu-lab-p1s-specs | bambu lab p1s specs | 1200 | 12 | printers/bambu-lab-p1s
+- [x] glowforge-aura-laser-3d-printer | glowforge aura laser 3d printer | 1100 | 10 | printers/glowforge-aura-laser-3d-printer
+- [x] ender-3-max | ender 3 max | 1100 | 0 | printers/ender-3-max
+- [x] elegoo-mars | elegoo mars | 1100 | 4 | printers/elegoo-mars
+- [x] creality-space-pi | creality space pi | 1100 | 6 | printers/creality-space-pi
 - [ ] creality-otter | creality otter | 1100 | 1 | 
 - [ ] creality-k1-se | creality k1 se | 1100 | 0 | 
 - [ ] anycubic-photon-mono | anycubic photon mono | 1100 | 16 | 
@@ -152,7 +152,7 @@ Manual guide pages: content/printers/YYYY-MM-DD-<slug>.md. Follow "Manual pages"
 - [x] ender-3-max-neo-manual | ender 3 max neo manual | 20 | 0 | printers/ender-3-max-neo-manual
 - [-] anet-a8-manual | anet a8 3d printer manual | 20 | 0 | official manual location cannot be verified (Anet site unreachable, only third-party copies)
 - [x] voron-trident-manual | voron trident manual | 20 | 1 | printers/voron-trident-manual
-- [ ] prusa-mk4-manual | prusa mk4 manual | 20 | 3 | 
+- [x] prusa-mk4-manual | prusa mk4 manual | 20 | 3 | printers/prusa-mk4-manual
 - [ ] bambu-lab-x1-carbon-manual | bambu lab x1 carbon manual | 20 | 4 | bambu x1 carbon manual
 - [ ] anycubic-mega-x-manual | anycubic mega x manual | 10 | 0 | 
 - [ ] creality-sonic-pad-manual | creality sonic pad manual | 10 | 0 | 
