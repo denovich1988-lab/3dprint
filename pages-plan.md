@@ -109,11 +109,11 @@ Printer pages go to content/printers/YYYY-MM-DD-<slug>.md (use a clean slug like
 - [x] elegoo-orange-storm-giga | elegoo orange storm giga | 1300 | 0 | printers/elegoo-orangestorm-giga
 - [x] elegoo-jupiter | elegoo jupiter | 1300 | 2 | printers/elegoo-jupiter
 - [x] bambu-lab-ams-hub | bambu lab ams hub | 1300 | 4 | printers/bambu-lab-ams-hub
-- [ ] stratasys-3d-printer | stratasys 3d printer | 1200 | 1 | 
+- [x] stratasys-3d-printer | stratasys 3d printer | 1200 | 1 | printers/stratasys-3d-printers
 - [x] prusa-core-one-plus-3d-printer | prusa core one+ 3d printer | 1200 | 14 | printers/prusa-core-one
-- [ ] prusa-core-one-l | prusa core one l | 1200 | 6 | 
-- [ ] flashforge-creator-pro | flashforge creator pro | 1200 | 0 | 
-- [ ] dremel-3d-printer | dremel 3d printer | 1200 | 1 | 
+- [x] prusa-core-one-l | prusa core one l | 1200 | 6 | printers/prusa-core-one-l
+- [x] flashforge-creator-pro | flashforge creator pro | 1200 | 0 | printers/flashforge-creator-pro
+- [x] dremel-3d-printer | dremel 3d printer | 1200 | 1 | printers/dremel-3d-printers
 - [ ] bambu-lab-p1s-specs | bambu lab p1s specs | 1200 | 12 | 
 - [ ] glowforge-aura-laser-3d-printer | glowforge aura laser 3d printer | 1100 | 10 | 
 - [ ] ender-3-max | ender 3 max | 1100 | 0 | 
@@ -150,8 +150,8 @@ Manual guide pages: content/printers/YYYY-MM-DD-<slug>.md. Follow "Manual pages"
 - [x] ender-5-plus-manual | ender 5 plus manual | 20 | 0 | printers/ender-5-plus-manual
 - [x] ender-3-neo-manual | ender 3 neo manual | 20 | 0 | printers/ender-3-neo-manual
 - [x] ender-3-max-neo-manual | ender 3 max neo manual | 20 | 0 | printers/ender-3-max-neo-manual
-- [ ] anet-a8-manual | anet a8 3d printer manual | 20 | 0 | 
-- [ ] voron-trident-manual | voron trident manual | 20 | 1 | 
+- [-] anet-a8-manual | anet a8 3d printer manual | 20 | 0 | official manual location cannot be verified (Anet site unreachable, only third-party copies)
+- [x] voron-trident-manual | voron trident manual | 20 | 1 | printers/voron-trident-manual
 - [ ] prusa-mk4-manual | prusa mk4 manual | 20 | 3 | 
 - [ ] bambu-lab-x1-carbon-manual | bambu lab x1 carbon manual | 20 | 4 | bambu x1 carbon manual
 - [ ] anycubic-mega-x-manual | anycubic mega x manual | 10 | 0 | 
