@@ -2,6 +2,8 @@
 
 Static Next.js site (output: export). `npm run build` → `out/` → `dist/` (scripts/postbuild.mjs adds llms.txt). Then `python3 scripts/check-seo.py` must report 0 issues. Push to `main` → GitHub Actions builds and publishes the `site` branch → the promt-site server pulls it every 5 minutes (deploy/add-site.sh). Site language: **English**. Never mention any company name, address or phone number on the site (owner's rule); the operator is "my3dprinter.io", contact hello@my3dprinter.io.
 
+
+- **Competitor check (owner, 2026-11-25): before creating or changing any page type, template or article, check the top-10 SERP for its main keyword with Ahrefs (`serp-overview`) and read 2–3 top competitor pages: length, sections, FAQ count, tables. Match or beat them on completeness (never by padding). Do this every time without asking the owner.**
 ## What the site is
 1. **Tools** (lib/data/tools.ts): converters, viewers, image→3D, SVG→3D, DDS textures. Everything runs in the browser (three.js, occt-import-js for STEP/IGES, fflate). Never add server uploads or paid APIs.
 2. **Printers** (`content/printers/*.md`): one page per printer model or brand hub.
