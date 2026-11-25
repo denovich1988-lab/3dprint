@@ -123,8 +123,8 @@ Printer pages go to content/printers/YYYY-MM-DD-<slug>.md (use a clean slug like
 - [x] creality-k1-se | creality k1 se | 1100 | 0 | printers/creality-k1-se
 - [x] anycubic-photon-mono | anycubic photon mono | 1100 | 16 | printers/anycubic-photon-mono
 - [x] anycubic-kobra-3-max | anycubic kobra 3 max | 1100 | 1 | printers/anycubic-kobra-3-max
-- [ ] qidi-plus-4 | qidi plus 4 | 1000 | 3 | 
-- [ ] elegoo-mars-3 | elegoo mars 3 | 1000 | 0 | 
+- [x] qidi-plus-4 | qidi plus 4 | 1000 | 3 | printers/qidi-plus-4
+- [x] elegoo-mars-3 | elegoo mars 3 | 1000 | 0 | printers/elegoo-mars-3
 
 ## Printer manuals (Ahrefs, competitor keywords, 2026-11-22) (28)
 
@@ -154,9 +154,9 @@ Manual guide pages: content/printers/YYYY-MM-DD-<slug>.md. Follow "Manual pages"
 - [x] voron-trident-manual | voron trident manual | 20 | 1 | printers/voron-trident-manual
 - [x] prusa-mk4-manual | prusa mk4 manual | 20 | 3 | printers/prusa-mk4-manual
 - [x] bambu-lab-x1-carbon-manual | bambu lab x1 carbon manual | 20 | 4 | bambu x1 carbon manual printers/bambu-lab-x1-carbon-manual
-- [ ] anycubic-mega-x-manual | anycubic mega x manual | 10 | 0 | 
-- [ ] creality-sonic-pad-manual | creality sonic pad manual | 10 | 0 | 
-- [ ] anycubic-photon-manual | anycubic photon manual | 10 | 2 | 
+- [x] anycubic-mega-x-manual | anycubic mega x manual | 10 | 0 | printers/anycubic-mega-x-manual
+- [x] creality-sonic-pad-manual | creality sonic pad manual | 10 | 0 | printers/creality-sonic-pad-manual
+- [x] anycubic-photon-manual | anycubic photon manual | 10 | 2 | printers/anycubic-photon-manual
 - [ ] elegoo-manual | elegoo manual | 10 | 5 | 
 
 ## Converters, viewers and format pages (113)
@@ -167,110 +167,110 @@ Manual guide pages: content/printers/YYYY-MM-DD-<slug>.md. Follow "Manual pages"
 - [x] png-to-stl | png to stl | 4600 | 45 | png to stl converter; convert png to stl | /png-to-stl/
 - [x] png-to-dds | png to dds | 3950 | 0 | png to dds converter | /png-to-dds/
 - [x] step-to-stl | step to stl | 3730 | 1 | step to stl converter; stp to stl; convert step to stl; step file to stl; .step to stl; convert stp to stl; stp to stl converter; stp file to stl | /step-to-stl/
-- [ ] stl-to-step | stl to step | 3420 | 0 | stl to step converter; convert stl to step; stl to stp; stl to step file converter; stl to step file
+- [-] stl-to-step | stl to step | 3420 | 0 | stl to step converter; convert stl to step; stl to stp; stl to step file converter; stl to step file | STEP export not supported by the engine
 - [x] dds-to-png | dds to png | 3150 | 0 | dds to png converter | /dds-to-png/
 - [x] svg-to-stl | svg to stl | 2750 | 0 | convert svg to stl; svg to stl converter | /svg-to-stl/
-- [ ] png-to-dxf | png to dxf | 2750 | 0 | png to dxf converter; convert png to dxf
+- [-] png-to-dxf | png to dxf | 2750 | 0 | png to dxf converter; convert png to dxf | engine does not support (no raster-to-vector DXF)
 - [x] jpg-to-stl | jpg to stl | 2590 | 9 | jpeg to stl; jpg to stl converter; convert jpg to stl; jpeg to stl converter; jpg to stl converter free | /jpg-to-stl/
 - [x] glb-to-stl | glb to stl | 2500 | 0 | glb to stl converter; convert glb to stl | /glb-to-stl/
 - [x] stl-to-3mf | stl to 3mf | 2450 | 0 | stl to 3mf converter; convert stl to 3mf | /stl-to-3mf/
-- [ ] svg-to-dxf | svg to dxf | 2300 | 1 | 
-- [ ] glb-file | glb file | 2100 | 2 | .glb file
+- [-] svg-to-dxf | svg to dxf | 2300 | 1 | engine does not support (SVG is only extruded to STL/OBJ)
+- [x] glb-file | glb file | 2100 | 2 | .glb file | /formats/glb/
 - [x] step-viewer | stp file viewer | 2000 | 46 | stp viewer; online step file viewer; stp viewer online | /step-viewer/
 - [x] obj-to-stl | obj to stl | 1850 | 0 | obj to stl converter; convert obj to stl | /obj-to-stl/
-- [ ] step-file | stp file | 1700 | 12 | 
+- [x] step-file | stp file | 1700 | 12 | /formats/step/
 - [x] glb-to-obj | glb to obj | 1700 | 0 | glb to obj converter | /glb-to-obj/
-- [ ] 3mf-file | 3mf file | 1700 | 0 | 
+- [x] 3mf-file | 3mf file | 1700 | 0 | /formats/3mf/
 - [x] stl-to-obj | stl to obj | 1450 | 0 | stl to obj converter; convert stl to obj | /stl-to-obj/
-- [ ] glb-to-fbx | glb to fbx | 1450 | 1 | glb to fbx converter
-- [ ] stl-converter | stl converter | 1300 | 48 | 
+- [-] glb-to-fbx | glb to fbx | 1450 | 1 | glb to fbx converter | engine does not support (no FBX export)
+- [x] stl-converter | stl converter | 1300 | 48 | /converters/
 - [x] fbx-to-obj | fbx to obj | 1280 | 0 | fbx to obj converter; convert fbx to obj | /fbx-to-obj/
-- [ ] gif-to-frames | gif to frames | 1000 | 0 | 
-- [ ] jpg-to-dxf | jpg to dxf | 950 | 0 | jpeg to dxf
+- [-] gif-to-frames | gif to frames | 1000 | 0 | engine does not support (no GIF input)
+- [-] jpg-to-dxf | jpg to dxf | 950 | 0 | jpeg to dxf | engine does not support (no raster-to-vector DXF)
 - [x] gcode-to-stl | gcode to stl | 950 | 0 | gcode to stl converter; convert gcode to stl | /gcode-to-stl/
-- [ ] ai-viewer | ai file viewer | 950 | 5 | ai viewer; .ai file viewer
-- [ ] png-to-cur | png to cur | 900 | 0 | 
-- [ ] png-combiner | png combiner | 900 | 0 | 
+- [-] ai-viewer | ai file viewer | 950 | 5 | ai viewer; .ai file viewer | engine does not support (no Adobe Illustrator input)
+- [-] png-to-cur | png to cur | 900 | 0 | engine does not support (no CUR output)
+- [-] png-combiner | png combiner | 900 | 0 | engine does not support (no image merging)
 - [x] obj-viewer | obj viewer | 900 | 44 |  | /obj-viewer/
 - [x] zip-to-stl | zip to stl | 800 | 0 | zip to stl converter | /zip-to-stl/
-- [ ] merge-png | merge png | 800 | 0 | 
+- [-] merge-png | merge png | 800 | 0 | engine does not support (no image merging)
 - [x] fbx-to-stl | fbx to stl | 770 | 0 | convert fbx to stl; fbx to stl converter | /fbx-to-stl/
-- [ ] 2d-to-3d | 2d to 3d image converter | 750 | 12 | 2d to 3d converter
-- [ ] large-to-jpg | jpg large to jpg | 700 | 5 | 
-- [ ] dds-viewer | dds viewer | 690 | 0 | dds file viewer; online dds viewer
-- [ ] dxf-converter | dxf converter | 600 | 3 | 
-- [ ] dds-file | dds file | 600 | 0 | 
-- [ ] cur-to-png | cur to png | 550 | 0 | .cur to png
-- [ ] obj-to-fbx | obj to fbx | 530 | 0 | obj to fbx with textures; obj to fbx converter
-- [ ] picture-to-stl | picture to stl | 500 | 0 | 
-- [ ] image-to-dxf | image to dxf | 500 | 2 | 
+- [x] 2d-to-3d | 2d to 3d image converter | 750 | 12 | 2d to 3d converter | /image-to-stl/
+- [-] large-to-jpg | jpg large to jpg | 700 | 5 | engine does not support (no JPG re-encoding tool)
+- [x] dds-viewer | dds viewer | 690 | 0 | dds file viewer; online dds viewer | /dds-to-png/
+- [-] dxf-converter | dxf converter | 600 | 3 | engine does not support (no DXF input)
+- [x] dds-file | dds file | 600 | 0 | /formats/dds/
+- [-] cur-to-png | cur to png | 550 | 0 | .cur to png | engine does not support (no CUR input)
+- [-] obj-to-fbx | obj to fbx | 530 | 0 | obj to fbx with textures; obj to fbx converter | engine does not support (no FBX export)
+- [x] picture-to-stl | picture to stl | 500 | 0 | /image-to-stl/
+- [-] image-to-dxf | image to dxf | 500 | 2 | engine does not support (no raster-to-vector DXF)
 - [x] gltf-to-obj | gltf to obj | 500 | 0 | gltf to obj converter | /gltf-to-obj/
 - [x] dae-to-obj | dae to obj | 470 | 0 | convert dae to obj | /dae-to-obj/
-- [ ] stl-to-gcode | stl to gcode converter | 450 | 2 | 
-- [ ] gif-frame-extractor | gif frame extractor | 450 | 0 | 
-- [ ] dae-file | dae file | 450 | 0 | .dae file
+- [-] stl-to-gcode | stl to gcode converter | 450 | 2 | engine does not support (no slicing)
+- [-] gif-frame-extractor | gif frame extractor | 450 | 0 | engine does not support (no GIF input)
+- [x] dae-file | dae file | 450 | 0 | .dae file | /formats/dae/
 - [x] ply-to-stl | ply to stl | 430 | 0 | ply to stl converter; convert ply to stl | /ply-to-stl/
-- [ ] stl-file-converter | stl file converter | 400 | 34 | 
-- [ ] igs-file | igs file | 400 | 1 | 
+- [x] stl-file-converter | stl file converter | 400 | 34 | /converters/
+- [x] igs-file | igs file | 400 | 1 | /formats/igs/
 - [x] stl-to-dxf | stl to dxf | 390 | 0 | convert stl to dxf | /stl-to-dxf/
-- [ ] gltf-to-fbx | gltf to fbx | 390 | 0 | gltf to fbx converter
-- [ ] zip-to-png | zip to png | 350 | 0 | 
-- [ ] usdz | usdz | 350 | 22 | 
-- [ ] ppm-viewer | ppm viewer | 350 | 0 | 
-- [ ] png-to-3d | png to 3d model | 350 | 2 | 
-- [ ] image-to-3d | convert image to 3d model | 350 | 31 | 
-- [ ] fbx-converter | fbx converter | 350 | 2 | 
-- [ ] dae-to-fbx | dae to fbx | 350 | 0 | dae to fbx converter
-- [ ] convert-to-stl | convert to stl | 350 | 0 | 
+- [-] gltf-to-fbx | gltf to fbx | 390 | 0 | gltf to fbx converter | engine does not support (no FBX export)
+- [-] zip-to-png | zip to png | 350 | 0 | engine does not support (no image extraction from ZIP)
+- [x] usdz | usdz | 350 | 22 | /formats/usdz/
+- [-] ppm-viewer | ppm viewer | 350 | 0 | engine does not support (no PPM input)
+- [x] png-to-3d | png to 3d model | 350 | 2 | /png-to-stl/
+- [x] image-to-3d | convert image to 3d model | 350 | 31 | /image-to-stl/
+- [x] fbx-converter | fbx converter | 350 | 2 | /fbx-to-stl/
+- [-] dae-to-fbx | dae to fbx | 350 | 0 | dae to fbx converter | engine does not support (no FBX export)
+- [x] convert-to-stl | convert to stl | 350 | 0 | /converters/
 - [x] 3mf-viewer | 3mf viewer | 350 | 0 |  | /3mf-viewer/
 - [x] png-to-obj | png to obj | 340 | 0 | png to obj converter | /png-to-obj/
-- [ ] picture-to-3d | picture to 3d model converter | 300 | 12 | convert picture to 3d model
-- [ ] photo-to-stl | photo to stl | 300 | 39 | 
+- [x] picture-to-3d | picture to 3d model converter | 300 | 12 | convert picture to 3d model | /image-to-stl/
+- [x] photo-to-stl | photo to stl | 300 | 39 | /jpg-to-stl/
 - [x] gltf-to-stl | gltf to stl | 300 | 0 |  | /gltf-to-stl/
-- [ ] glb-file-format | glb file format | 300 | 6 | 
+- [x] glb-file-format | glb file format | 300 | 6 | /formats/glb/
 - [x] fbx-to-glb | fbx to glb | 300 | 0 |  | /fbx-to-glb/
-- [ ] dds-converter | dds converter | 300 | 0 | 
-- [ ] 3d-model-converter | 3d model converter | 300 | 10 | 
-- [ ] usdz-file | usdz file | 250 | 9 | 
+- [x] dds-converter | dds converter | 300 | 0 | /dds-to-png/
+- [x] 3d-model-converter | 3d model converter | 300 | 10 | /converters/
+- [x] usdz-file | usdz file | 250 | 9 | /formats/usdz/
 - [x] ply-viewer | ply viewer | 250 | 0 |  | /ply-viewer/
 - [x] obj-to-glb | obj to glb | 250 | 0 |  | /obj-to-glb/
-- [ ] obj-converter | obj converter | 250 | 0 | 
-- [ ] dxf-to-stl | dxf to stl | 250 | 0 | 
-- [ ] 3mf-to-step | 3mf to step | 250 | 0 | 
-- [ ] 3d-file-converter | 3d file converter | 250 | 18 | 
-- [ ] stl-to-fbx | stl to fbx | 200 | 0 | 
-- [ ] pdf-to-stl | pdf to stl | 200 | 0 | 
+- [x] obj-converter | obj converter | 250 | 0 | /obj-to-stl/
+- [-] dxf-to-stl | dxf to stl | 250 | 0 | engine does not support (no DXF input)
+- [-] 3mf-to-step | 3mf to step | 250 | 0 | STEP export not supported by the engine
+- [x] 3d-file-converter | 3d file converter | 250 | 18 | /converters/
+- [-] stl-to-fbx | stl to fbx | 200 | 0 | engine does not support (no FBX export)
+- [-] pdf-to-stl | pdf to stl | 200 | 0 | engine does not support (no PDF input)
 - [x] 3mf-to-obj | 3mf to obj | 200 | 0 |  | /3mf-to-obj/
-- [ ] 3d-converter | 3d converter | 200 | 36 | 
-- [ ] stl-converter-free | stl converter free | 150 | 34 | 
-- [ ] step-file-converter | step file converter | 150 | 0 | 
+- [x] 3d-converter | 3d converter | 200 | 36 | /converters/
+- [x] stl-converter-free | stl converter free | 150 | 34 | /converters/
+- [x] step-file-converter | step file converter | 150 | 0 | /step-to-stl/
 - [x] png-to-3mf | png to 3mf | 150 | 0 |  | /png-to-3mf/
-- [ ] image-to-obj | image to obj | 150 | 0 | 
+- [x] image-to-obj | image to obj | 150 | 0 | /png-to-obj/
 - [x] dae-to-stl | dae to stl | 150 | 0 |  | /dae-to-stl/
-- [ ] convert-to-obj | convert to obj | 150 | 1 | 
+- [x] convert-to-obj | convert to obj | 150 | 1 | /stl-to-obj/
 - [x] 3ds-to-obj | 3ds to obj | 110 | 0 | convert 3ds to obj | /3ds-to-obj/
 - [x] usdz-to-stl | usdz to stl | 100 | 0 |  | /usdz-to-stl/
 - [x] svg-to-obj | svg to obj | 100 | 0 |  | /svg-to-obj/
-- [ ] stl-to-png | stl to png | 100 | 0 | 
-- [ ] rar-to-stl | rar to stl | 100 | 0 | 
-- [ ] obj-to-step | obj to step | 100 | 0 | 
-- [ ] jpg-to-3d | convert jpg to 3d image online free | 100 | 38 | 
-- [ ] dxf-to-jpg | dxf to jpg | 100 | 0 | 
+- [x] stl-to-png | stl to png | 100 | 0 | /stl-viewer/
+- [-] rar-to-stl | rar to stl | 100 | 0 | engine does not support (no RAR input)
+- [-] obj-to-step | obj to step | 100 | 0 | STEP export not supported by the engine
+- [x] jpg-to-3d | convert jpg to 3d image online free | 100 | 38 | /jpg-to-stl/
+- [-] dxf-to-jpg | dxf to jpg | 100 | 0 | engine does not support (no DXF input)
 - [x] ply-to-obj | convert ply to obj | 90 | 0 |  | /ply-to-obj/
-- [ ] model-converter | model converter | 90 | 7 | 
-- [ ] fbx-to-gltf | fbx to gltf | 90 | 0 | 
-- [ ] create-stl-file-from-image | create stl file from image | 90 | 34 | 
-- [ ] convert-3d | convert 3d | 90 | 10 | 
-- [ ] turn-image-into-stl | turn image into stl | 80 | 35 | 
+- [x] model-converter | model converter | 90 | 7 | /converters/
+- [ ] fbx-to-gltf | fbx to gltf | 90 | 0
+- [x] create-stl-file-from-image | create stl file from image | 90 | 34 | /image-to-stl/
+- [x] convert-3d | convert 3d | 90 | 10 | /converters/
+- [x] turn-image-into-stl | turn image into stl | 80 | 35 | /image-to-stl/
 - [x] step-to-obj | stp to obj | 80 | 0 |  | /step-to-obj/
-- [ ] free-stl-converter | free stl converter | 80 | 48 | 
-- [ ] convert-stl | convert stl | 80 | 51 | 
-- [ ] step-converter | stp converter | 70 | 0 | 
-- [ ] pic-to-stl | pic to stl | 70 | 34 | 
-- [ ] dds-to-tga | dds to tga | 70 | 0 | 
-- [ ] usdz-to-fbx | usdz to fbx | 60 | 0 | 
-- [ ] step-to-step | step to step | 60 | 2 | 
-- [ ] gltf-converter | gltf converter | 60 | 1 | 
-- [ ] 3d-model-file-converter | 3d model file converter | 60 | 11 | 
-- [ ] obj-file-converter | obj file converter | 50 | 0 | 
+- [x] free-stl-converter | free stl converter | 80 | 48 | /converters/
+- [x] convert-stl | convert stl | 80 | 51 | /converters/
+- [x] step-converter | stp converter | 70 | 0 | /step-to-stl/
+- [x] pic-to-stl | pic to stl | 70 | 34 | /image-to-stl/
+- [-] dds-to-tga | dds to tga | 70 | 0 | engine does not support (no TGA output)
+- [-] usdz-to-fbx | usdz to fbx | 60 | 0 | engine does not support (no FBX export)
+- [-] step-to-step | step to step | 60 | 2 | no real conversion intent
+- [x] gltf-converter | gltf converter | 60 | 1 | /gltf-to-stl/
+- [x] 3d-model-file-converter | 3d model file converter | 60 | 11 | /converters/
+- [x] obj-file-converter | obj file converter | 50 | 0 | /obj-to-stl/
 - [x] igs-to-stl | igs to stl | 50 | 0 |  | /igs-to-stl/
