@@ -105,10 +105,10 @@ Printer pages go to content/printers/YYYY-MM-DD-<slug>.md (use a clean slug like
 - [x] creality-hi | creality hi | 1400 | 2 | printers/creality-hi
 - [-] creality-filament-maker | creality filament maker | 1400 | 5 | Filament Maker M1 is a crowdfunded recycling machine; no official specs or price published yet
 - [x] snapmaker-artisan | snapmaker artisan | 1300 | 14 | printers/snapmaker-artisan
-- [ ] ender-3-s1-pro | ender 3 s1 pro | 1300 | 0 | 
-- [ ] elegoo-orange-storm-giga | elegoo orange storm giga | 1300 | 0 | 
-- [ ] elegoo-jupiter | elegoo jupiter | 1300 | 2 | 
-- [ ] bambu-lab-ams-hub | bambu lab ams hub | 1300 | 4 | 
+- [x] ender-3-s1-pro | ender 3 s1 pro | 1300 | 0 | printers/creality-ender-3-s1-pro
+- [x] elegoo-orange-storm-giga | elegoo orange storm giga | 1300 | 0 | printers/elegoo-orangestorm-giga
+- [x] elegoo-jupiter | elegoo jupiter | 1300 | 2 | printers/elegoo-jupiter
+- [x] bambu-lab-ams-hub | bambu lab ams hub | 1300 | 4 | printers/bambu-lab-ams-hub
 - [ ] stratasys-3d-printer | stratasys 3d printer | 1200 | 1 | 
 - [x] prusa-core-one-plus-3d-printer | prusa core one+ 3d printer | 1200 | 14 | printers/prusa-core-one
 - [ ] prusa-core-one-l | prusa core one l | 1200 | 6 | 
@@ -149,7 +149,7 @@ Manual guide pages: content/printers/YYYY-MM-DD-<slug>.md. Follow "Manual pages"
 - [x] ender-3-s1-manual | ender 3 s1 manual | 20 | 0 | printers/ender-3-s1-manual
 - [x] ender-5-plus-manual | ender 5 plus manual | 20 | 0 | printers/ender-5-plus-manual
 - [x] ender-3-neo-manual | ender 3 neo manual | 20 | 0 | printers/ender-3-neo-manual
-- [ ] ender-3-max-neo-manual | ender 3 max neo manual | 20 | 0 | 
+- [x] ender-3-max-neo-manual | ender 3 max neo manual | 20 | 0 | printers/ender-3-max-neo-manual
 - [ ] anet-a8-manual | anet a8 3d printer manual | 20 | 0 | 
 - [ ] voron-trident-manual | voron trident manual | 20 | 1 | 
 - [ ] prusa-mk4-manual | prusa mk4 manual | 20 | 3 | 
