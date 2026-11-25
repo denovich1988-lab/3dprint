@@ -119,10 +119,10 @@ Printer pages go to content/printers/YYYY-MM-DD-<slug>.md (use a clean slug like
 - [x] ender-3-max | ender 3 max | 1100 | 0 | printers/ender-3-max
 - [x] elegoo-mars | elegoo mars | 1100 | 4 | printers/elegoo-mars
 - [x] creality-space-pi | creality space pi | 1100 | 6 | printers/creality-space-pi
-- [ ] creality-otter | creality otter | 1100 | 1 | 
-- [ ] creality-k1-se | creality k1 se | 1100 | 0 | 
-- [ ] anycubic-photon-mono | anycubic photon mono | 1100 | 16 | 
-- [ ] anycubic-kobra-3-max | anycubic kobra 3 max | 1100 | 1 | 
+- [x] creality-otter | creality otter | 1100 | 1 | printers/creality-otter
+- [x] creality-k1-se | creality k1 se | 1100 | 0 | printers/creality-k1-se
+- [x] anycubic-photon-mono | anycubic photon mono | 1100 | 16 | printers/anycubic-photon-mono
+- [x] anycubic-kobra-3-max | anycubic kobra 3 max | 1100 | 1 | printers/anycubic-kobra-3-max
 - [ ] qidi-plus-4 | qidi plus 4 | 1000 | 3 | 
 - [ ] elegoo-mars-3 | elegoo mars 3 | 1000 | 0 | 
 
@@ -153,7 +153,7 @@ Manual guide pages: content/printers/YYYY-MM-DD-<slug>.md. Follow "Manual pages"
 - [-] anet-a8-manual | anet a8 3d printer manual | 20 | 0 | official manual location cannot be verified (Anet site unreachable, only third-party copies)
 - [x] voron-trident-manual | voron trident manual | 20 | 1 | printers/voron-trident-manual
 - [x] prusa-mk4-manual | prusa mk4 manual | 20 | 3 | printers/prusa-mk4-manual
-- [ ] bambu-lab-x1-carbon-manual | bambu lab x1 carbon manual | 20 | 4 | bambu x1 carbon manual
+- [x] bambu-lab-x1-carbon-manual | bambu lab x1 carbon manual | 20 | 4 | bambu x1 carbon manual printers/bambu-lab-x1-carbon-manual
 - [ ] anycubic-mega-x-manual | anycubic mega x manual | 10 | 0 | 
 - [ ] creality-sonic-pad-manual | creality sonic pad manual | 10 | 0 | 
 - [ ] anycubic-photon-manual | anycubic photon manual | 10 | 2 | 
