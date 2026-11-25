@@ -92,16 +92,16 @@ Printer pages go to content/printers/YYYY-MM-DD-<slug>.md (use a clean slug like
 - [x] h2d-3d-printer | h2d 3d printer | 1700 | 0 | | printers/bambu-lab-h2d
 - [x] creality-sparkx-i7 | creality sparkx i7 | 1700 | 4 | printers/creality-sparkx-i7
 - [x] bambu-lab-h2d-pro | bambu lab h2d pro | 1700 | 2 | printers/bambu-lab-h2d-pro
-- [ ] anycubic-photon | anycubic photon | 1700 | 12 | 
-- [ ] sovol-sv08 | sovol sv08 | 1600 | 0 | 
-- [ ] elegoo-saturn-4-ultra-16k | elegoo saturn 4 ultra 16k | 1600 | 0 | 
-- [ ] bambu-lab-x1e | bambu lab x1e | 1600 | 4 | 
-- [ ] anycubic-photon-mono-4-3d-printer | anycubic photon mono 4 3d printer | 1600 | 3 | 
+- [x] anycubic-photon | anycubic photon | 1700 | 12 | printers/anycubic-photon
+- [x] sovol-sv08 | sovol sv08 | 1600 | 0 | printers/sovol-sv08
+- [x] elegoo-saturn-4-ultra-16k | elegoo saturn 4 ultra 16k | 1600 | 0 | printers/elegoo-saturn-4-ultra
+- [x] bambu-lab-x1e | bambu lab x1e | 1600 | 4 | printers/bambu-lab-x1e
+- [x] anycubic-photon-mono-4-3d-printer | anycubic photon mono 4 3d printer | 1600 | 3 | printers/anycubic-photon-mono-4
 - [ ] anycubic-kobra-3 | anycubic kobra 3 | 1600 | 7 | 
-- [ ] prusa-mk3s | prusa mk3s | 1500 | 7 | 
+- [x] prusa-mk3s | prusa mk3s | 1500 | 7 | printers/prusa-mk3
 - [ ] creality-k3 | creality k3 | 1500 | 23 | 
-- [ ] creality-falcon-a1 | creality falcon a1 | 1500 | 12 | 
-- [ ] h2c-3d-printer | h2c 3d printer | 1400 | 0 | 
+- [-] creality-falcon-a1 | creality falcon a1 | 1500 | 12 | Creality Falcon A1 is a laser engraver, not a 3D printer
+- [x] h2c-3d-printer | h2c 3d printer | 1400 | 0 | printers/bambu-lab-h2c
 - [ ] creality-hi | creality hi | 1400 | 2 | 
 - [ ] creality-filament-maker | creality filament maker | 1400 | 5 | 
 - [ ] snapmaker-artisan | snapmaker artisan | 1300 | 14 | 
@@ -147,7 +147,7 @@ Manual guide pages: content/printers/YYYY-MM-DD-<slug>.md. Follow "Manual pages"
 - [x] creality-k1-max-manual | creality k1 max manual | 30 | 2 | k1 max manual | printers/creality-k1-max-manual
 - [x] voron-2-4-manual | voron 2.4 manual | 30 | 7 | voron assembly manual; voron 2.4 assembly manual; voron manual | printers/voron-2-4-manual
 - [x] ender-3-s1-manual | ender 3 s1 manual | 20 | 0 | printers/ender-3-s1-manual
-- [ ] ender-5-plus-manual | ender 5 plus manual | 20 | 0 | 
+- [x] ender-5-plus-manual | ender 5 plus manual | 20 | 0 | printers/ender-5-plus-manual
 - [ ] ender-3-neo-manual | ender 3 neo manual | 20 | 0 | 
 - [ ] ender-3-max-neo-manual | ender 3 max neo manual | 20 | 0 | 
 - [ ] anet-a8-manual | anet a8 3d printer manual | 20 | 0 | 
