@@ -13,8 +13,8 @@ Tick when published: `- [x] slug | ... | blog/slug`. Mark `- [-]` with a reason 
 - [x] 3d-printed-dragon | 3d printed dragon | 34800 | 0 | 3d printed dragons; dragon 3d print; 3d print dragon; 3d printer dragon | blog/3d-printed-dragon
 - [x] 3d-printed-fidget-toys | 3d printed fidgets | 25400 | 0 | 3d printed fidget toys; 3d printed fidget toy; 3d printed fidget; 3d print fidget toys | blog/3d-printed-fidget-toys
 - [x] petg-vs-pla | petg vs pla | 16300 | 3 | pla vs petg; is petg stronger than pla; pla vs petg filament; petg filament vs pla; petg vs pla filament; pla vs abs vs petg; petg vs pla strength; what is the difference between pla and petg; is petg better than pla; pla vs petg strength | blog/petg-vs-pla
-- [ ] sunlu-filament | sunlu filament | 16000 | 5 | 
-- [ ] pla-filament | pla filament | 14000 | 2 | 
+- [x] sunlu-filament | sunlu filament | 16000 | 5 | | blog/sunlu-filament
+- [x] pla-filament | pla filament | 14000 | 2 | | blog/pla-filament
 - [x] tpu-filament | tpu filament | 10900 | 1 | what is tpu filament | blog/tpu-filament
 - [x] filament-dryer | filament dryer | 10600 | 0 | 3d printer filament dryer | blog/filament-dryer
 - [x] asa-filament | asa filament | 9200 | 1 | what is asa filament | blog/asa-filament
@@ -31,14 +31,14 @@ Tick when published: `- [x] slug | ... | blog/slug`. Mark `- [-]` with a reason 
 - [x] how-to-dry-filament | how to dry filament | 5000 | 0 | does petg need to be dried; how to dry pla filament; does pla need to be dried; how to dry filament without a dryer; what temp to dry pla; how to dry petg filament; how to dry 3d printer filament; how long to dry petg; how to dry filament in oven; how long to dry pla filament; how to dry tpu filament; how to keep filament dry | blog/how-to-dry-filament
 - [x] p1s-vs-p2s | p1s vs p2s | 4900 | 0 | p2s vs p1s | blog/bambu-lab-p1s-vs-p2s
 - [x] large-3d-printer | large 3d printer | 4600 | 1 | | blog/large-3d-printer
-- [ ] pla-vs-abs | pla vs abs | 4450 | 5 | abs vs pla; abs vs pla filament; pla vs abs filament; abs filament vs pla; is abs stronger than pla
-- [ ] abs-filament | abs filament | 4200 | 2 | what is abs filament
-- [ ] what-is-ams-in-3d-printing | what is ams in 3d printing | 4200 | 3 | what is ams 3d printing; what does ams mean in 3d printing
+- [x] pla-vs-abs | pla vs abs | 4450 | 5 | abs vs pla; abs vs pla filament; pla vs abs filament; abs filament vs pla; is abs stronger than pla | blog/pla-vs-abs
+- [x] abs-filament | abs filament | 4200 | 2 | what is abs filament | blog/abs-filament
+- [x] what-is-ams-in-3d-printing | what is ams in 3d printing | 4200 | 3 | what is ams 3d printing; what does ams mean in 3d printing | blog/what-is-ams-in-3d-printing
 - [ ] asa-vs-abs | asa vs abs | 4100 | 0 | abs vs asa; asa vs abs filament; abs vs asa filament
 - [ ] how-to-clean-a-3d-printer-nozzle | how to clean hotend nozzle bambu | 4010 | 0 | how to clean 3d printer nozzle; how to unclog 3d printer nozzle; how to clean a 3d printer nozzle; how to unclog a 3d printer nozzle; 3d printer nozzle clog
 - [ ] cheap-3d-printer | cheap 3d printer | 4000 | 5 | 3d printer cheap
-- [ ] 3d-printer-stand | 3d printer stand | 3900 | 0 | 
-- [ ] 3d-printed-chicken | 3d printed chicken | 3900 | 0 | 
+- [ ] 3d-printer-stand | 3d printer stand | 3900 | 0 |
+- [ ] 3d-printed-chicken | 3d printed chicken | 3900 | 0 |
 - [ ] petg-hf | petg hf | 3800 | 3 | what is petg hf
 - [ ] cool-3d-printed-things | cool 3d printed things | 3600 | 2 | 
 - [ ] petg-vs-abs | petg vs abs | 3500 | 1 | abs vs petg; pla vs petg vs abs; petg vs pla vs abs
