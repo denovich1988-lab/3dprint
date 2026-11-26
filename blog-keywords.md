@@ -20,17 +20,17 @@ Tick when published: `- [x] slug | ... | blog/slug`. Mark `- [-]` with a reason 
 - [x] asa-filament | asa filament | 9200 | 1 | what is asa filament | blog/asa-filament
 - [x] is-pla-food-safe | is pla food safe | 8350 | 1 | is petg food safe; food safe 3d printer filament; is pla filament food safe; what filament is food safe; is petg dishwasher safe | blog/is-pla-food-safe
 - [x] pla-vs-pla-plus | pla vs pla+ | 8250 | 0 | pla+; pla+ vs pla; pla+ vs petg; pla vs pla plus; pla plus vs pla; pla plus vs petg; what is pla+; petg vs pla+; petg vs pla plus; pla pro vs pla plus; what is pla plus; pla + vs pla | blog/pla-vs-pla-plus
-- [ ] 3d-printed-toys | 3d printed toys | 7700 | 0 | 
+- [x] 3d-printed-toys | 3d printed toys | 7700 | 0 | | blog/3d-printed-toys
 - [x] petg-filament | petg filament | 7400 | 0 | | blog/petg-filament
-- [ ] 3d-printed-animals | 3d printed animals | 7100 | 0 | 
-- [ ] klipper | klipper | 6270 | 4 | klipper 3d printer; what is klipper; what is klipper 3d printing
+- [x] 3d-printed-animals | 3d printed animals | 7100 | 0 | | blog/3d-printed-animals
+- [x] klipper | klipper | 6270 | 4 | klipper 3d printer; what is klipper; what is klipper 3d printing | blog/klipper
 - [x] 3d-printed-stuff | 3d printed stuff | 5800 | 1 | | blog/what-to-3d-print
 - [x] bambu-lab-pla-basic-filament | bambu lab pla basic filament | 5400 | 2 | | blog/bambu-lab-pla-basic-filament
-- [ ] 3d-printing-pen | 3d printing pen | 5200 | 3 | 3d printer pen
+- [x] 3d-printing-pen | 3d printing pen | 5200 | 3 | 3d printer pen | blog/3d-printing-pen
 - [x] bambu-p1s-vs-p2s | bambu p1s vs p2s | 5050 | 0 | bambu lab p1s vs p2s; bambu labs p1s vs p2s; bambu lab p2s vs p1s; bambu p2s vs p1s; p1s vs p2s bambu | blog/bambu-lab-p1s-vs-p2s
 - [x] how-to-dry-filament | how to dry filament | 5000 | 0 | does petg need to be dried; how to dry pla filament; does pla need to be dried; how to dry filament without a dryer; what temp to dry pla; how to dry petg filament; how to dry 3d printer filament; how long to dry petg; how to dry filament in oven; how long to dry pla filament; how to dry tpu filament; how to keep filament dry | blog/how-to-dry-filament
 - [x] p1s-vs-p2s | p1s vs p2s | 4900 | 0 | p2s vs p1s | blog/bambu-lab-p1s-vs-p2s
-- [ ] large-3d-printer | large 3d printer | 4600 | 1 | 
+- [x] large-3d-printer | large 3d printer | 4600 | 1 | | blog/large-3d-printer
 - [ ] pla-vs-abs | pla vs abs | 4450 | 5 | abs vs pla; abs vs pla filament; pla vs abs filament; abs filament vs pla; is abs stronger than pla
 - [ ] abs-filament | abs filament | 4200 | 2 | what is abs filament
 - [ ] what-is-ams-in-3d-printing | what is ams in 3d printing | 4200 | 3 | what is ams 3d printing; what does ams mean in 3d printing
