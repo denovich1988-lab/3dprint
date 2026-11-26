@@ -39,20 +39,20 @@ Tick when published: `- [x] slug | ... | blog/slug`. Mark `- [-]` with a reason 
 - [x] cheap-3d-printer | cheap 3d printer | 4000 | 5 | 3d printer cheap | blog/cheap-3d-printer
 - [x] 3d-printer-stand | 3d printer stand | 3900 | 0 | | blog/3d-printer-stand
 - [x] 3d-printed-chicken | 3d printed chicken | 3900 | 0 | | blog/3d-printed-chicken
-- [ ] petg-hf | petg hf | 3800 | 3 | what is petg hf
-- [ ] cool-3d-printed-things | cool 3d printed things | 3600 | 2 | 
-- [ ] petg-vs-abs | petg vs abs | 3500 | 1 | abs vs petg; pla vs petg vs abs; petg vs pla vs abs
-- [ ] multi-color-3d-printer | multi color 3d printer | 3400 | 0 | 
-- [ ] multicolor-3d-printer | multicolor 3d printer | 3300 | 0 | 
-- [ ] hobby-lobby-filament | hobby lobby filament | 3300 | 0 | hobby lobby 3d printer filament
-- [ ] how-to-use-3d-printing-in-architecture | how to use 3d printing in architecture | 3300 | 0 | 
+- [x] petg-hf | petg hf | 3800 | 3 | what is petg hf | blog/petg-hf
+- [x] cool-3d-printed-things | cool 3d printed things | 3600 | 2 |  | blog/what-to-3d-print
+- [x] petg-vs-abs | petg vs abs | 3500 | 1 | abs vs petg; pla vs petg vs abs; petg vs pla vs abs | blog/petg-vs-abs
+- [x] multi-color-3d-printer | multi color 3d printer | 3400 | 0 |  | blog/multi-color-3d-printer
+- [x] multicolor-3d-printer | multicolor 3d printer | 3300 | 0 |  | blog/multi-color-3d-printer
+- [-] hobby-lobby-filament | hobby lobby filament | 3300 | 0 | hobby lobby 3d printer filament | retailer stock and prices cannot be verified from maker sources
+- [x] how-to-use-3d-printing-in-architecture | how to use 3d printing in architecture | 3300 | 0 |  | blog/how-to-use-3d-printing-in-architecture
 - [x] what-is-petg | what is petg filament | 3150 | 1 | what is petg; what is petg filament used for; what does petg stand for | blog/petg-filament
-- [ ] prusa-connect | prusa connect | 3100 | 4 | 
-- [ ] sls-3d-printer | sls 3d printer | 3000 | 4 | sls 3d printing
-- [ ] mini-3d-printer | mini 3d printer | 2900 | 0 | 
-- [ ] filament-recycler | filament recycler | 2900 | 0 | 
-- [ ] 3d-printed-snake | 3d printed snake | 2900 | 0 | 
-- [ ] lithophane | lithophane 3d print | 2900 | 2 | 3d printed lithophane
+- [x] prusa-connect | prusa connect | 3100 | 4 |  | blog/prusa-connect
+- [x] sls-3d-printer | sls 3d printer | 3000 | 4 | sls 3d printing | blog/sls-3d-printer
+- [x] mini-3d-printer | mini 3d printer | 2900 | 0 |  | blog/mini-3d-printer
+- [x] filament-recycler | filament recycler | 2900 | 0 |  | blog/filament-recycler
+- [x] 3d-printed-snake | 3d printed snake | 2900 | 0 |  | blog/3d-printed-snake
+- [x] lithophane | lithophane 3d print | 2900 | 2 | 3d printed lithophane | blog/lithophane
 - [ ] 3d-printer-table | 3d printer table | 2900 | 0 | 
 - [ ] elegoo-filament | elegoo filament | 2800 | 3 | 
 - [ ] 3d-printed-mask | 3d printed mask | 2700 | 0 | 
