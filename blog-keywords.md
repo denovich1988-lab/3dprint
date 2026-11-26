@@ -53,17 +53,17 @@ Tick when published: `- [x] slug | ... | blog/slug`. Mark `- [-]` with a reason 
 - [x] filament-recycler | filament recycler | 2900 | 0 |  | blog/filament-recycler
 - [x] 3d-printed-snake | 3d printed snake | 2900 | 0 |  | blog/3d-printed-snake
 - [x] lithophane | lithophane 3d print | 2900 | 2 | 3d printed lithophane | blog/lithophane
-- [ ] 3d-printer-table | 3d printer table | 2900 | 0 | 
-- [ ] elegoo-filament | elegoo filament | 2800 | 3 | 
-- [ ] 3d-printed-mask | 3d printed mask | 2700 | 0 | 
-- [ ] how-to-store-filament | filament storage | 2700 | 0 | 
-- [ ] carbon-fiber-filament | carbon fiber filament | 2600 | 2 | 
-- [ ] 3d-printed-dragon-egg | 3d printed dragon egg | 2600 | 0 | 
-- [ ] 3d-printer-accessories | 3d printer accessories | 2600 | 1 | 
-- [ ] pctg-filament | pctg filament | 2500 | 1 | 
-- [ ] 3d-printer-enclosure | 3d printer enclosure | 2500 | 2 | 
-- [ ] industrial-3d-printer | industrial 3d printer | 2500 | 0 | 
-- [ ] creality-filament | creality filament | 2400 | 0 | 
+- [x] 3d-printer-table | 3d printer table | 2900 | 0 | | blog/3d-printer-stand
+- [x] elegoo-filament | elegoo filament | 2800 | 3 | | blog/elegoo-filament
+- [x] 3d-printed-mask | 3d printed mask | 2700 | 0 | | blog/3d-printed-mask
+- [x] how-to-store-filament | filament storage | 2700 | 0 | | blog/how-to-store-filament
+- [x] carbon-fiber-filament | carbon fiber filament | 2600 | 2 | | blog/carbon-fiber-filament
+- [x] 3d-printed-dragon-egg | 3d printed dragon egg | 2600 | 0 | | blog/3d-printed-dragon-egg
+- [x] 3d-printer-accessories | 3d printer accessories | 2600 | 1 | | blog/3d-printer-accessories
+- [x] pctg-filament | pctg filament | 2500 | 1 | | blog/pctg-filament
+- [x] 3d-printer-enclosure | 3d printer enclosure | 2500 | 2 | | blog/3d-printer-enclosure
+- [x] industrial-3d-printer | industrial 3d printer | 2500 | 0 | | blog/industrial-3d-printer
+- [x] creality-filament | creality filament | 2400 | 0 | | blog/creality-filament
 - [ ] fdm-3d-printer | fdm 3d printer | 2300 | 4 | 
 - [ ] 3d-print-supports | how to add supports in bambu studio | 2180 | 0 | 3d print supports; how to enable support generation bambu; how to remove 3d print supports; best way to remove supports from 3d print; 3d print with supports; 3d print supports hard to remove; 3d print tree supports; how to add manual supports in bambu studio
 - [ ] bambu-lab-p2s-price | bambu lab p2s price | 2100 | 2 | 
