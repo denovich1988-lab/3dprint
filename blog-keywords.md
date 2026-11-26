@@ -34,11 +34,11 @@ Tick when published: `- [x] slug | ... | blog/slug`. Mark `- [-]` with a reason 
 - [x] pla-vs-abs | pla vs abs | 4450 | 5 | abs vs pla; abs vs pla filament; pla vs abs filament; abs filament vs pla; is abs stronger than pla | blog/pla-vs-abs
 - [x] abs-filament | abs filament | 4200 | 2 | what is abs filament | blog/abs-filament
 - [x] what-is-ams-in-3d-printing | what is ams in 3d printing | 4200 | 3 | what is ams 3d printing; what does ams mean in 3d printing | blog/what-is-ams-in-3d-printing
-- [ ] asa-vs-abs | asa vs abs | 4100 | 0 | abs vs asa; asa vs abs filament; abs vs asa filament
-- [ ] how-to-clean-a-3d-printer-nozzle | how to clean hotend nozzle bambu | 4010 | 0 | how to clean 3d printer nozzle; how to unclog 3d printer nozzle; how to clean a 3d printer nozzle; how to unclog a 3d printer nozzle; 3d printer nozzle clog
-- [ ] cheap-3d-printer | cheap 3d printer | 4000 | 5 | 3d printer cheap
-- [ ] 3d-printer-stand | 3d printer stand | 3900 | 0 |
-- [ ] 3d-printed-chicken | 3d printed chicken | 3900 | 0 |
+- [x] asa-vs-abs | asa vs abs | 4100 | 0 | abs vs asa; asa vs abs filament; abs vs asa filament | blog/asa-vs-abs
+- [x] how-to-clean-a-3d-printer-nozzle | how to clean hotend nozzle bambu | 4010 | 0 | how to clean 3d printer nozzle; how to unclog 3d printer nozzle; how to clean a 3d printer nozzle; how to unclog a 3d printer nozzle; 3d printer nozzle clog | blog/how-to-clean-a-3d-printer-nozzle
+- [x] cheap-3d-printer | cheap 3d printer | 4000 | 5 | 3d printer cheap | blog/cheap-3d-printer
+- [x] 3d-printer-stand | 3d printer stand | 3900 | 0 | | blog/3d-printer-stand
+- [x] 3d-printed-chicken | 3d printed chicken | 3900 | 0 | | blog/3d-printed-chicken
 - [ ] petg-hf | petg hf | 3800 | 3 | what is petg hf
 - [ ] cool-3d-printed-things | cool 3d printed things | 3600 | 2 | 
 - [ ] petg-vs-abs | petg vs abs | 3500 | 1 | abs vs petg; pla vs petg vs abs; petg vs pla vs abs
