@@ -17,18 +17,18 @@ Tick when published: `- [x] slug | ... | blog/slug`. Mark `- [-]` with a reason 
 - [ ] pla-filament | pla filament | 14000 | 2 | 
 - [x] tpu-filament | tpu filament | 10900 | 1 | what is tpu filament | blog/tpu-filament
 - [x] filament-dryer | filament dryer | 10600 | 0 | 3d printer filament dryer | blog/filament-dryer
-- [ ] asa-filament | asa filament | 9200 | 1 | what is asa filament
+- [x] asa-filament | asa filament | 9200 | 1 | what is asa filament | blog/asa-filament
 - [x] is-pla-food-safe | is pla food safe | 8350 | 1 | is petg food safe; food safe 3d printer filament; is pla filament food safe; what filament is food safe; is petg dishwasher safe | blog/is-pla-food-safe
-- [ ] pla-vs-pla-plus | pla vs pla+ | 8250 | 0 | pla+; pla+ vs pla; pla+ vs petg; pla vs pla plus; pla plus vs pla; pla plus vs petg; what is pla+; petg vs pla+; petg vs pla plus; pla pro vs pla plus; what is pla plus; pla + vs pla
+- [x] pla-vs-pla-plus | pla vs pla+ | 8250 | 0 | pla+; pla+ vs pla; pla+ vs petg; pla vs pla plus; pla plus vs pla; pla plus vs petg; what is pla+; petg vs pla+; petg vs pla plus; pla pro vs pla plus; what is pla plus; pla + vs pla | blog/pla-vs-pla-plus
 - [ ] 3d-printed-toys | 3d printed toys | 7700 | 0 | 
-- [ ] petg-filament | petg filament | 7400 | 0 | 
+- [x] petg-filament | petg filament | 7400 | 0 | | blog/petg-filament
 - [ ] 3d-printed-animals | 3d printed animals | 7100 | 0 | 
 - [ ] klipper | klipper | 6270 | 4 | klipper 3d printer; what is klipper; what is klipper 3d printing
-- [ ] 3d-printed-stuff | 3d printed stuff | 5800 | 1 | 
-- [ ] bambu-lab-pla-basic-filament | bambu lab pla basic filament | 5400 | 2 | 
+- [x] 3d-printed-stuff | 3d printed stuff | 5800 | 1 | | blog/what-to-3d-print
+- [x] bambu-lab-pla-basic-filament | bambu lab pla basic filament | 5400 | 2 | | blog/bambu-lab-pla-basic-filament
 - [ ] 3d-printing-pen | 3d printing pen | 5200 | 3 | 3d printer pen
 - [x] bambu-p1s-vs-p2s | bambu p1s vs p2s | 5050 | 0 | bambu lab p1s vs p2s; bambu labs p1s vs p2s; bambu lab p2s vs p1s; bambu p2s vs p1s; p1s vs p2s bambu | blog/bambu-lab-p1s-vs-p2s
-- [ ] how-to-dry-filament | how to dry filament | 5000 | 0 | does petg need to be dried; how to dry pla filament; does pla need to be dried; how to dry filament without a dryer; what temp to dry pla; how to dry petg filament; how to dry 3d printer filament; how long to dry petg; how to dry filament in oven; how long to dry pla filament; how to dry tpu filament; how to keep filament dry
+- [x] how-to-dry-filament | how to dry filament | 5000 | 0 | does petg need to be dried; how to dry pla filament; does pla need to be dried; how to dry filament without a dryer; what temp to dry pla; how to dry petg filament; how to dry 3d printer filament; how long to dry petg; how to dry filament in oven; how long to dry pla filament; how to dry tpu filament; how to keep filament dry | blog/how-to-dry-filament
 - [x] p1s-vs-p2s | p1s vs p2s | 4900 | 0 | p2s vs p1s | blog/bambu-lab-p1s-vs-p2s
 - [ ] large-3d-printer | large 3d printer | 4600 | 1 | 
 - [ ] pla-vs-abs | pla vs abs | 4450 | 5 | abs vs pla; abs vs pla filament; pla vs abs filament; abs filament vs pla; is abs stronger than pla
@@ -46,7 +46,7 @@ Tick when published: `- [x] slug | ... | blog/slug`. Mark `- [-]` with a reason 
 - [ ] multicolor-3d-printer | multicolor 3d printer | 3300 | 0 | 
 - [ ] hobby-lobby-filament | hobby lobby filament | 3300 | 0 | hobby lobby 3d printer filament
 - [ ] how-to-use-3d-printing-in-architecture | how to use 3d printing in architecture | 3300 | 0 | 
-- [ ] what-is-petg | what is petg filament | 3150 | 1 | what is petg; what is petg filament used for; what does petg stand for
+- [x] what-is-petg | what is petg filament | 3150 | 1 | what is petg; what is petg filament used for; what does petg stand for | blog/petg-filament
 - [ ] prusa-connect | prusa connect | 3100 | 4 | 
 - [ ] sls-3d-printer | sls 3d printer | 3000 | 4 | sls 3d printing
 - [ ] mini-3d-printer | mini 3d printer | 2900 | 0 | 
