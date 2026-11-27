@@ -71,11 +71,11 @@ Tick when published: `- [x] slug | ... | blog/slug`. Mark `- [-]` with a reason 
 - [x] atomic-filament | atomic filament | 2100 | 0 | | blog/atomic-filament
 - [x] bambu-lab-pla-matte-filament | bambu lab pla matte filament | 2100 | 0 | | blog/bambu-lab-pla-matte-filament
 - [x] big-3d-printer | big 3d printer | 2000 | 2 | | blog/large-3d-printer
-- [ ] sla-3d-printer | sla 3d printer | 2000 | 2 | 
-- [ ] 3d-printed-car | 3d printed car | 2000 | 2 | 
-- [ ] esun-filament | esun filament | 2000 | 0 | 
-- [ ] 3d-printed-action-figures | 3d printed action figures | 2000 | 0 | 
-- [ ] strongest-3d-printer-filament | strongest 3d printer filament | 2000 | 1 | what is the strongest 3d printer filament
+- [x] sla-3d-printer | sla 3d printer | 2000 | 2 | | blog/sla-3d-printer
+- [x] 3d-printed-car | 3d printed car | 2000 | 2 | | blog/3d-printed-car
+- [x] esun-filament | esun filament | 2000 | 0 | | blog/esun-filament
+- [x] 3d-printed-action-figures | 3d printed action figures | 2000 | 0 | | blog/3d-printed-action-figures
+- [x] strongest-3d-printer-filament | strongest 3d printer filament | 2000 | 1 | what is the strongest 3d printer filament | blog/strongest-3d-printer-filament
 - [ ] petg-cf | petg-cf | 1900 | 2 | 
 - [ ] nylon-filament | nylon filament | 1900 | 0 | 
 - [ ] peek-filament | peek filament | 1900 | 1 | 
