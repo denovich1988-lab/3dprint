@@ -1,0 +1,232 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+4:I[2619,["2619","static/chunks/2619-3c9e02e22d10480a.js","4966","static/chunks/app/(en)/blog/%5Bslug%5D/page-6f60855278aa4f75.js"],""]
+5:I[1538,["2619","static/chunks/2619-3c9e02e22d10480a.js","90","static/chunks/app/(en)/layout-1d0e45a00e968cb3.js"],"default"]
+6:I[909,["2619","static/chunks/2619-3c9e02e22d10480a.js","90","static/chunks/app/(en)/layout-1d0e45a00e968cb3.js"],"default"]
+16:I[7150,[],""]
+:HL["/_next/static/css/93d1a12f2f4c9226.css","style"]
+0:{"P":null,"b":"rD7TGm9XF6FHQRkd5YG22","p":"","c":["","blog","petg-hf",""],"i":false,"f":[[["",{"children":["(en)",{"children":["blog",{"children":[["slug","petg-hf","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/93d1a12f2f4c9226.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","script",null,{"async":true,"src":"https://www.googletagmanager.com/gtm.js?id=GTM-T7SN8RQX"}],["$","script",null,{"async":true,"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3226858004021254","crossOrigin":"anonymous"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());"}}]]}],["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"wrap header-in","children":[["$","$L4",null,{"href":"/","className":"brand","aria-label":"my3dprinter.io home","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","nav",null,{"aria-label":"Main","className":"nav","children":[["$","$L4","/converters/",{"href":"/converters/","children":"Converters"}],["$","$L4","/3d-viewer/",{"href":"/3d-viewer/","children":"3D viewer"}],["$","$L4","/image-to-stl/",{"href":"/image-to-stl/","children":"Image to STL"}],["$","$L4","/printers/",{"href":"/printers/","children":"Printers"}],["$","$L4","/blog/",{"href":"/blog/","children":"Blog"}]]}],["$","div",null,{"className":"header-actions","children":[["$","$L5",null,{"lang":"en","langs":[{"code":"en","name":"English"},{"code":"de","name":"Deutsch"},{"code":"es","name":"Español"},{"code":"fr","name":"Français"},{"code":"it","name":"Italiano"},{"code":"ja","name":"日本語"},{"code":"ko","name":"한국어"},{"code":"pt","name":"Português"},{"code":"vi","name":"Tiếng Việt"},{"code":"th","name":"ไทย"},{"code":"zh","name":"简体中文"},{"code":"ru","name":"Русский"}],"localized":["/","/converters/","/3mf-to-stl/","/glb-to-stl/","/stl-to-3mf/","/step-to-stl/","/glb-to-obj/","/obj-to-stl/","/stl-to-obj/","/fbx-to-obj/","/gcode-to-stl/","/fbx-to-stl/","/zip-to-stl/","/stp-to-stl/","/dae-to-obj/","/gltf-to-obj/","/stl-to-dxf/","/obj-to-glb/","/gltf-to-stl/","/fbx-to-glb/","/ply-to-stl/","/3mf-to-obj/","/dae-to-stl/","/usdz-to-stl/","/ply-to-obj/","/stp-to-obj/","/3ds-to-obj/","/igs-to-stl/","/stl-to-glb/","/obj-to-3mf/","/glb-to-3mf/","/stl-to-usdz/","/glb-to-usdz/","/step-to-obj/","/step-to-3mf/","/stl-to-ply/","/fbx-to-gltf/","/image-to-stl/","/png-to-stl/","/jpg-to-stl/","/jpeg-to-stl/","/lithophane-maker/","/png-to-obj/","/png-to-3mf/","/svg-to-stl/","/svg-to-obj/","/png-to-dds/","/jpg-to-dds/","/dds-to-png/","/dds-to-jpg/","/3d-viewer/","/stl-viewer/","/3mf-viewer/","/obj-viewer/","/glb-viewer/","/step-viewer/","/ply-viewer/","/fbx-viewer/","/gltf-viewer/"],"label":"Language"}],["$","$L6",null,{"links":[["/converters/","Converters"],["/3d-viewer/","3D viewer"],["/image-to-stl/","Image to STL"],["/printers/","Printers"],["/blog/","Blog"],["/printers/compare/","Compare printers"]],"label":"Menu"}]]}]]}]}],["$","main",null,{"id":"main","className":"wrap","style":{"padding":"64px 24px"},"children":[["$","h1",null,{"children":"Page not found"}],["$","p",null,{"className":"lead","children":"This page does not exist. Try a converter or the 3D viewer."}],["$","p",null,{"children":["$","$L4",null,{"className":"btn btn-accent","href":"/converters/","children":"All converters"}]}]]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"wrap footer-grid","children":[["$","div",null,{"className":"footer-brand","children":[["$","$L4",null,{"href":"/","className":"brand","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":["$L7","$L8"]}]," ","$L9"]}],"$La"]}],["$Lb","$Lc","$Ld","$Le","$Lf"]]}],"$L10"]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["(en)","$L11",{"children":["blog","$L12",{"children":[["slug","petg-hf","d"],"$L13",{"children":["__PAGE__","$L14",{},null,false]},null,false]},null,false]},null,false]},null,false],"$L15",false]],"m":"$undefined","G":["$16",[]],"s":false,"S":true}
+1b:I[4431,[],"OutletBoundary"]
+1d:I[5278,[],"AsyncMetadataOutlet"]
+1f:I[4431,[],"ViewportBoundary"]
+21:I[4431,[],"MetadataBoundary"]
+22:"$Sreact.suspense"
+7:["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}]
+8:["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]
+9:["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]
+a:["$","p",null,{"children":"Free tools that run in your browser. Your files are never uploaded."}]
+b:["$","div","Converters",{"children":[["$","h2",null,{"children":"Converters"}],["$","ul",null,{"children":[["$","li","/3mf-to-stl/",{"children":["$","$L4",null,{"href":"/3mf-to-stl/","children":"3MF → STL"}]}],["$","li","/step-to-stl/",{"children":["$","$L4",null,{"href":"/step-to-stl/","children":"STEP → STL"}]}],["$","li","/glb-to-stl/",{"children":["$","$L4",null,{"href":"/glb-to-stl/","children":"GLB → STL"}]}],["$","li","/obj-to-stl/",{"children":["$","$L4",null,{"href":"/obj-to-stl/","children":"OBJ → STL"}]}],["$","li","/stl-to-3mf/",{"children":["$","$L4",null,{"href":"/stl-to-3mf/","children":"STL → 3MF"}]}],["$","li","/converters/",{"children":["$","$L4",null,{"href":"/converters/","children":"All converters"}]}]]}]]}]
+c:["$","div","Images & textures",{"children":[["$","h2",null,{"children":"Images & textures"}],["$","ul",null,{"children":[["$","li","/image-to-stl/",{"children":["$","$L4",null,{"href":"/image-to-stl/","children":"Image to STL"}]}],["$","li","/lithophane-maker/",{"children":["$","$L4",null,{"href":"/lithophane-maker/","children":"Lithophane maker"}]}],["$","li","/svg-to-stl/",{"children":["$","$L4",null,{"href":"/svg-to-stl/","children":"SVG → STL"}]}],["$","li","/png-to-dds/",{"children":["$","$L4",null,{"href":"/png-to-dds/","children":"PNG → DDS"}]}],["$","li","/dds-to-png/",{"children":["$","$L4",null,{"href":"/dds-to-png/","children":"DDS → PNG"}]}]]}]]}]
+d:["$","div","Viewers",{"children":[["$","h2",null,{"children":"Viewers"}],["$","ul",null,{"children":[["$","li","/3d-viewer/",{"children":["$","$L4",null,{"href":"/3d-viewer/","children":"Online 3D model viewer"}]}],["$","li","/stl-viewer/",{"children":["$","$L4",null,{"href":"/stl-viewer/","children":"STL viewer"}]}],["$","li","/3mf-viewer/",{"children":["$","$L4",null,{"href":"/3mf-viewer/","children":"3MF viewer"}]}],["$","li","/step-viewer/",{"children":["$","$L4",null,{"href":"/step-viewer/","children":"STEP viewer"}]}],["$","li","/obj-viewer/",{"children":["$","$L4",null,{"href":"/obj-viewer/","children":"OBJ viewer"}]}]]}]]}]
+e:["$","div","my3dprinter.io",{"children":[["$","h2",null,{"children":"my3dprinter.io"}],["$","ul",null,{"children":[["$","li","/printers/",{"children":["$","$L4",null,{"href":"/printers/","children":"3D printers"}]}],["$","li","/printers/compare/",{"children":["$","$L4",null,{"href":"/printers/compare/","children":"Compare printers"}]}],["$","li","/blog/",{"children":["$","$L4",null,{"href":"/blog/","children":"Blog"}]}],["$","li","/formats/",{"children":["$","$L4",null,{"href":"/formats/","children":"File formats"}]}],["$","li","/about/",{"children":["$","$L4",null,{"href":"/about/","children":"About"}]}],["$","li","/contact/",{"children":["$","$L4",null,{"href":"/contact/","children":"Contact"}]}]]}]]}]
+f:["$","div","Legal",{"children":[["$","h2",null,{"children":"Legal"}],["$","ul",null,{"children":[["$","li","/privacy/",{"children":["$","$L4",null,{"href":"/privacy/","children":"Privacy policy"}]}],["$","li","/cookies/",{"children":["$","$L4",null,{"href":"/cookies/","children":"Cookie policy"}]}],["$","li","/terms/",{"children":["$","$L4",null,{"href":"/terms/","children":"Terms of use"}]}],["$","li","/disclaimer/",{"children":["$","$L4",null,{"href":"/disclaimer/","children":"Disclaimer"}]}]]}]]}]
+10:["$","div",null,{"className":"wrap footer-base","children":["$","p",null,{"children":["© ",2026," my3dprinter.io. ","Brand and product names belong to their owners; my3dprinter.io is an independent site and is not affiliated with any printer maker."]}]}]
+11:["$","$1","c",{"children":[null,[["$","a",null,{"className":"skip","href":"#main","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"wrap header-in","children":[["$","$L4",null,{"href":"/","className":"brand","aria-label":"my3dprinter.io home","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","nav",null,{"aria-label":"Main","className":"nav","children":[["$","$L4","/converters/",{"href":"/converters/","children":"Converters"}],["$","$L4","/3d-viewer/",{"href":"/3d-viewer/","children":"3D viewer"}],["$","$L4","/image-to-stl/",{"href":"/image-to-stl/","children":"Image to STL"}],["$","$L4","/printers/",{"href":"/printers/","children":"Printers"}],["$","$L4","/blog/",{"href":"/blog/","children":"Blog"}]]}],["$","div",null,{"className":"header-actions","children":[["$","$L5",null,{"lang":"en","langs":[{"code":"en","name":"English"},{"code":"de","name":"Deutsch"},{"code":"es","name":"Español"},{"code":"fr","name":"Français"},{"code":"it","name":"Italiano"},{"code":"ja","name":"日本語"},{"code":"ko","name":"한국어"},{"code":"pt","name":"Português"},{"code":"vi","name":"Tiếng Việt"},{"code":"th","name":"ไทย"},{"code":"zh","name":"简体中文"},{"code":"ru","name":"Русский"}],"localized":"$0:f:0:1:1:props:children:1:props:children:1:props:children:props:notFound:0:0:props:children:props:children:2:props:children:0:props:localized","label":"Language"}],["$","$L6",null,{"links":[["/converters/","Converters"],["/3d-viewer/","3D viewer"],["/image-to-stl/","Image to STL"],["/printers/","Printers"],["/blog/","Blog"],["/printers/compare/","Compare printers"]],"label":"Menu"}]]}]]}]}],["$","main",null,{"id":"main","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"wrap footer-grid","children":[["$","div",null,{"className":"footer-brand","children":[["$","$L4",null,{"href":"/","className":"brand","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","p",null,{"children":"Free tools that run in your browser. Your files are never uploaded."}]]}],[["$","div","Converters",{"children":[["$","h2",null,{"children":"Converters"}],["$","ul",null,{"children":[["$","li","/3mf-to-stl/",{"children":["$","$L4",null,{"href":"/3mf-to-stl/","children":"3MF → STL"}]}],["$","li","/step-to-stl/",{"children":["$","$L4",null,{"href":"/step-to-stl/","children":"STEP → STL"}]}],["$","li","/glb-to-stl/",{"children":["$","$L4",null,{"href":"/glb-to-stl/","children":"GLB → STL"}]}],["$","li","/obj-to-stl/",{"children":["$","$L4",null,{"href":"/obj-to-stl/","children":"OBJ → STL"}]}],["$","li","/stl-to-3mf/",{"children":["$","$L4",null,{"href":"/stl-to-3mf/","children":"STL → 3MF"}]}],["$","li","/converters/",{"children":["$","$L4",null,{"href":"/converters/","children":"All converters"}]}]]}]]}],["$","div","Images & textures",{"children":[["$","h2",null,{"children":"Images & textures"}],["$","ul",null,{"children":[["$","li","/image-to-stl/",{"children":["$","$L4",null,{"href":"/image-to-stl/","children":"Image to STL"}]}],["$","li","/lithophane-maker/",{"children":["$","$L4",null,{"href":"/lithophane-maker/","children":"Lithophane maker"}]}],["$","li","/svg-to-stl/",{"children":["$","$L4",null,{"href":"/svg-to-stl/","children":"SVG → STL"}]}],["$","li","/png-to-dds/",{"children":["$","$L4",null,{"href":"/png-to-dds/","children":"PNG → DDS"}]}],["$","li","/dds-to-png/",{"children":["$","$L4",null,{"href":"/dds-to-png/","children":"DDS → PNG"}]}]]}]]}],["$","div","Viewers",{"children":[["$","h2",null,{"children":"Viewers"}],["$","ul",null,{"children":[["$","li","/3d-viewer/",{"children":["$","$L4",null,{"href":"/3d-viewer/","children":"Online 3D model viewer"}]}],["$","li","/stl-viewer/",{"children":["$","$L4",null,{"href":"/stl-viewer/","children":"STL viewer"}]}],["$","li","/3mf-viewer/",{"children":["$","$L4",null,{"href":"/3mf-viewer/","children":"3MF viewer"}]}],["$","li","/step-viewer/",{"children":["$","$L4",null,{"href":"/step-viewer/","children":"STEP viewer"}]}],["$","li","/obj-viewer/",{"children":["$","$L4",null,{"href":"/obj-viewer/","children":"OBJ viewer"}]}]]}]]}],"$L17","$L18"]]}],"$L19"]}]]]}]
+12:["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+13:["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+14:["$","$1","c",{"children":["$L1a",null,["$","$L1b",null,{"children":["$L1c",["$","$L1d",null,{"promise":"$@1e"}]]}]]}]
+15:["$","$1","h",{"children":[null,[["$","$L1f",null,{"children":"$L20"}],null],["$","$L21",null,{"children":["$","div",null,{"hidden":true,"children":["$","$22",null,{"fallback":null,"children":"$L23"}]}]}]]}]
+17:["$","div","my3dprinter.io",{"children":[["$","h2",null,{"children":"my3dprinter.io"}],["$","ul",null,{"children":[["$","li","/printers/",{"children":["$","$L4",null,{"href":"/printers/","children":"3D printers"}]}],["$","li","/printers/compare/",{"children":["$","$L4",null,{"href":"/printers/compare/","children":"Compare printers"}]}],["$","li","/blog/",{"children":["$","$L4",null,{"href":"/blog/","children":"Blog"}]}],["$","li","/formats/",{"children":["$","$L4",null,{"href":"/formats/","children":"File formats"}]}],["$","li","/about/",{"children":["$","$L4",null,{"href":"/about/","children":"About"}]}],["$","li","/contact/",{"children":["$","$L4",null,{"href":"/contact/","children":"Contact"}]}]]}]]}]
+18:["$","div","Legal",{"children":[["$","h2",null,{"children":"Legal"}],["$","ul",null,{"children":[["$","li","/privacy/",{"children":["$","$L4",null,{"href":"/privacy/","children":"Privacy policy"}]}],["$","li","/cookies/",{"children":["$","$L4",null,{"href":"/cookies/","children":"Cookie policy"}]}],["$","li","/terms/",{"children":["$","$L4",null,{"href":"/terms/","children":"Terms of use"}]}],["$","li","/disclaimer/",{"children":["$","$L4",null,{"href":"/disclaimer/","children":"Disclaimer"}]}]]}]]}]
+19:["$","div",null,{"className":"wrap footer-base","children":["$","p",null,{"children":["© ",2026," my3dprinter.io. ","Brand and product names belong to their owners; my3dprinter.io is an independent site and is not affiliated with any printer maker."]}]}]
+24:Td94,{"@context":"https://schema.org","@graph":[{"@type":"Article","headline":"PETG HF – what high-flow PETG is and how to print it","description":"What is PETG HF? Bambu Lab's high-flow PETG explained – how it differs from regular PETG, nozzle and bed temperatures, drying, plates, AMS use and 2026 availability.","datePublished":"2026-11-26","dateModified":"2026-11-26","mainEntityOfPage":"https://my3dprinter.io/blog/petg-hf/","inLanguage":"en","author":{"@type":"Organization","name":"my3dprinter.io","url":"https://my3dprinter.io"},"publisher":{"@type":"Organization","@id":"https://my3dprinter.io/#organization","name":"my3dprinter.io","url":"https://my3dprinter.io/","logo":{"@type":"ImageObject","url":"https://my3dprinter.io/icon-512.png","width":512,"height":512},"email":"hello@my3dprinter.io","description":"Free 3D file converters, viewers and 3D printer guides"},"image":"https://my3dprinter.io/images/blog/petg-hf.webp","citation":["https://us.store.bambulab.com/products/petg-hf","https://store.bblcdn.com/3a230e260a3a47c2b0db0156e07eef91.pdf","https://wiki.bambulab.com/en/filament-acc/filament/petg-hf-unfinished-drying","https://wiki.bambulab.com/en/general/filament-guide-material-table","https://forum.bambulab.com/t/introducing-the-new-bambu-lab-petg-hf/88334","https://all3dp.com/4/bambu-lab-launches-high-speed-petg-filament/","https://filamentsettings.com/filament/bambu-lab-petg-hf/","https://toolguyd.com/bambu-petg-basic-3d-printing-filaments-relaunch-2026/","https://us.elegoo.com/products/petg-hf","https://us.snapmaker.com/products/petg-hf-filament","https://help.prusa3d.com/article/petg_2059"]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://my3dprinter.io/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://my3dprinter.io/blog/"},{"@type":"ListItem","position":3,"name":"PETG HF – what high-flow PETG is and how to print it","item":"https://my3dprinter.io/blog/petg-hf/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is PETG HF?","acceptedAnswer":{"@type":"Answer","text":"PETG HF is high-flow PETG filament. It is formulated to melt quickly and flow easily through the hot end, so it can be printed at much higher volumetric flow than standard PETG. Bambu Lab made the name popular with its own PETG HF line, and other brands such as Elegoo and Snapmaker now sell PETG HF too."}},{"@type":"Question","name":"Is PETG HF better than regular PETG?","acceptedAnswer":{"@type":"Answer","text":"It is faster, not automatically better. On a fast printer, PETG HF lets you keep PETG's toughness and heat resistance while printing much faster. On a slow printer, or for parts where you print slowly anyway, standard PETG works just as well."}},{"@type":"Question","name":"Can I print PETG HF on a non-Bambu printer?","acceptedAnswer":{"@type":"Answer","text":"Yes. PETG HF is standard 1.75 mm filament. Bambu Lab's wiki provides a \"Generic PETG HF\" profile, and other slicers have PETG profiles you can start from. You only gain the speed benefit if your printer's hot end can melt plastic fast enough."}},{"@type":"Question","name":"Does PETG HF need to be dried?","acceptedAnswer":{"@type":"Answer","text":"It prints best dry. Bambu Lab recommends 65 °C for 8 hours in a dryer when the filament has absorbed moisture, and explains that water in the filament turns to steam in the nozzle, causing stringing, oozing, holes and weaker parts."}}]}]}1a:["$","div",null,{"className":"wrap","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$24"}}],"$L25","$L26","$L27"]}]
+25:["$","nav",null,{"className":"crumbs","aria-label":"Breadcrumb","children":[["$","$L4",null,{"href":"/","children":"Home"}]," / ",["$","$L4",null,{"href":"/blog/","children":"Blog"}]," / ","PETG HF – what high-flow PETG is and how to print it"]}]
+28:T27c9,<p><strong>PETG HF is high-flow PETG filament – &quot;HF&quot; stands for high flow – formulated to melt and extrude faster than standard PETG, so fast printers can print tough PETG parts at high speed without under-extrusion.</strong> Bambu Lab introduced its PETG HF line in 2024 and made the name widely known; other brands such as Elegoo and Snapmaker now sell their own PETG HF. This guide explains what is different about PETG HF, the settings Bambu Lab publishes, how to handle moisture and bed adhesion, where it beats regular PETG and what changed with availability in 2026. Facts come from Bambu Lab&#39;s store, data sheet and wiki, checked November 2026.</p>
+<h2>PETG HF at a glance</h2>
+<table>
+<thead>
+<tr>
+<th>Property</th>
+<th>Bambu Lab PETG HF</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>What &quot;HF&quot; means</td>
+<td>High flow</td>
+</tr>
+<tr>
+<td>Base material</td>
+<td>PETG (polyethylene terephthalate glycol-modified)</td>
+</tr>
+<tr>
+<td>Diameter</td>
+<td>1.75 mm</td>
+</tr>
+<tr>
+<td>Nozzle temperature</td>
+<td>230–260 °C</td>
+</tr>
+<tr>
+<td>Bed temperature</td>
+<td>65–75 °C (depends on plate)</td>
+</tr>
+<tr>
+<td>Recommended plates</td>
+<td>Textured PEI; smooth PEI with glue stick</td>
+</tr>
+<tr>
+<td>Cool Plate</td>
+<td>Not recommended for PETG</td>
+</tr>
+<tr>
+<td>Drying when damp</td>
+<td>65 °C for 8 hours</td>
+</tr>
+<tr>
+<td>AMS compatible</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Hardened nozzle</td>
+<td>Not required (no fibre filler)</td>
+</tr>
+<tr>
+<td>Enclosure</td>
+<td>Not needed; open the top cover on enclosed printers with a hot bed</td>
+</tr>
+<tr>
+<td>Profiles</td>
+<td>&quot;Bambu PETG HF&quot; and &quot;Generic PETG HF&quot; in Bambu Studio</td>
+</tr>
+<tr>
+<td>Main benefit</td>
+<td>PETG toughness at higher print speeds</td>
+</tr>
+</tbody></table>
+<h2>What is PETG HF?</h2>
+<p>Every hot end has a limit to how much plastic it can melt per second, usually given as maximum volumetric flow in cubic millimetres per second. Standard PETG is fairly viscous when molten, so on a fast printer it often becomes the bottleneck: push it too fast and the nozzle cannot keep up, which shows as thin, weak or gappy walls.</p>
+<p>High-flow filaments are formulated to melt faster and flow more easily. That raises the volumetric flow the same hot end can sustain, so the printer can use its speed. PETG HF does this for PETG; there are also high-speed PLA grades that do the same for PLA.</p>
+<p><strong>Why it matters:</strong> if you own a fast CoreXY printer and your PETG prints take far longer than your PLA prints, a high-flow PETG is the simplest way to close the gap.</p>
+<h2>PETG HF vs regular PETG</h2>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>PETG HF</th>
+<th>Standard PETG</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Purpose</td>
+<td>High-speed printing</td>
+<td>General printing</td>
+</tr>
+<tr>
+<td>Flow</td>
+<td>Designed for high volumetric flow</td>
+<td>Lower flow limit on the same hot end</td>
+</tr>
+<tr>
+<td>Bambu Lab nozzle range</td>
+<td>230–260 °C</td>
+<td>240–270 °C</td>
+</tr>
+<tr>
+<td>Bambu Lab bed range</td>
+<td>65–75 °C</td>
+<td>60–80 °C</td>
+</tr>
+<tr>
+<td>Toughness and heat resistance</td>
+<td>PETG-class</td>
+<td>PETG-class</td>
+</tr>
+<tr>
+<td>Best printers</td>
+<td>Fast enclosed or CoreXY printers</td>
+<td>Any printer with a heated bed</td>
+</tr>
+</tbody></table>
+<p>PETG HF is still PETG. It keeps the material&#39;s strengths – toughness, low warping, water resistance and a glass transition around 80 °C – and its weak points, such as stringing and very strong adhesion to smooth PEI. Our <a href="/blog/petg-filament/">PETG filament guide</a> covers the base material in detail, and <a href="/blog/petg-vs-pla/">PETG vs PLA</a> helps if you are choosing between the two families.</p>
+<p><strong>Tip:</strong> do not expect PETG HF to fix stringing or adhesion problems by itself. Those come from moisture, temperature and bed surface, not from flow.</p>
+<h2>PETG HF print settings</h2>
+<p>Start with the slicer profile. In Bambu Studio and similar slicers, choose &quot;Bambu PETG HF&quot; for Bambu Lab spools (RFID tags on Bambu spools select it automatically in an AMS) or &quot;Generic PETG HF&quot; for another brand. Then adjust only what you need:</p>
+<table>
+<thead>
+<tr>
+<th>Setting</th>
+<th>Starting point</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Nozzle</td>
+<td>230–260 °C</td>
+<td>Higher in the range for faster printing</td>
+</tr>
+<tr>
+<td>Bed</td>
+<td>65–75 °C</td>
+<td>Use the value your plate&#39;s profile sets</td>
+</tr>
+<tr>
+<td>Part cooling</td>
+<td>Moderate</td>
+<td>Less fan for stronger layers, more for detail and bridges</td>
+</tr>
+<tr>
+<td>Speed</td>
+<td>Profile default</td>
+<td>The profile&#39;s max volumetric speed sets the real limit</td>
+</tr>
+<tr>
+<td>Plate</td>
+<td>Textured PEI</td>
+<td>Glue stick on smooth PEI as a release layer</td>
+</tr>
+<tr>
+<td>Retraction</td>
+<td>Profile default</td>
+<td>Dry the filament before tuning retraction</td>
+</tr>
+</tbody></table>
+<p><strong>Max volumetric speed.</strong> The filament profile contains a maximum volumetric speed value. That number, not the speed slider, decides how fast the printer actually extrudes. If you see under-extrusion at high speed, lower this value a little; if a calibration test shows your hot end can do more, raise it carefully.</p>
+<p><strong>Enclosed printers.</strong> Bambu Lab recommends opening the top cover when the bed is above 70 °C with PETG, so heat does not build up and soften the part.</p>
+<h2>Drying PETG HF</h2>
+<p>PETG absorbs moisture from the air. Bambu Lab&#39;s wiki has a page specifically on printing PETG HF when it is not fully dried: water in the filament turns to steam in the nozzle and causes stringing, oozing, small holes and weaker parts. The wiki also warns against running the fast Bambu PETG HF profile on damp filament and describes slower, more forgiving settings if you cannot dry it.</p>
+<p>Bambu Lab&#39;s drying recommendation for PETG HF is 65 °C for 8 hours. Our guide on <a href="/blog/how-to-dry-filament/">how to dry filament</a> covers dryers, ovens and storage.</p>
+<p><strong>Tip:</strong> if PETG HF suddenly strings badly or the surface looks rough and bubbly, dry the spool before changing any settings. Store it in a sealed box with desiccant afterwards.</p>
+<h2>Bed adhesion and part removal</h2>
+<p>PETG HF behaves like other PETG on the bed:</p>
+<ol>
+<li><strong>Textured PEI</strong> is the easiest surface; parts release once the plate cools.</li>
+<li><strong>Smooth PEI</strong> needs a thin layer of glue stick, which acts as a release agent so PETG does not tear the surface.</li>
+<li><strong>Cool Plate</strong> is not recommended for PETG in Bambu Lab&#39;s table.</li>
+<li><strong>Clean the plate</strong> with dish soap and water or isopropyl alcohol so oils do not cause lifting.</li>
+</ol>
+<p><strong>Why it matters:</strong> most &quot;PETG ruined my plate&quot; stories come from smooth PEI without glue. A textured plate avoids the problem.</p>
+<h2>Using PETG HF in an AMS or other filament changer</h2>
+<p>PETG is on Bambu Lab&#39;s list of filaments supported in the AMS, and PETG HF on Bambu Lab spools carries an RFID tag so the AMS reads the type and colour. For multi-material prints, Bambu Lab also sells a support filament marketed for PLA and PETG, which can be used as a support interface for cleaner overhangs. Our explainer on <a href="/blog/what-is-ams-in-3d-printing/">what AMS is in 3D printing</a> covers which filaments work in which unit.</p>
+<p><strong>Tip:</strong> when mixing PLA and PETG in one print, keep them apart or use them only as support and interface, because the two do not bond strongly to each other.</p>
+<h2>What PETG HF is good for</h2>
+<ul>
+<li><strong>Functional parts printed fast</strong> – brackets, clips, enclosures and organisers.</li>
+<li><strong>Large parts</strong> where print time matters, such as storage bins and tool holders.</li>
+<li><strong>Outdoor or warm locations</strong> where PLA would soften, as long as the part stays below about 80 °C.</li>
+<li><strong>Watertight items</strong> such as planters, thanks to PETG&#39;s good layer bonding.</li>
+</ul>
+<p>It is less suited to fine display models, where PLA gives sharper detail, and to parts in full sun for years, where ASA is the better choice.</p>
+<h2>PETG HF availability in 2026</h2>
+<p>Bambu Lab once sold a PETG Basic line, which later disappeared from its store, and PETG HF took its place. In March 2026 Bambu launched a new PETG Basic in seven colours. According to the figures Bambu published at launch, PETG Basic is stronger than PETG HF in bending (75 vs 64 MPa in XY) and layer strength (56 vs 48 MPa in Z), and Bambu says it should be dried before use. Colour availability for PETG HF differs between regional stores and changes over time.</p>
+<p><strong>What to do:</strong> check your regional Bambu Lab store for current colours. If the colour you need is gone, a standard PETG (such as PETG Basic) or another brand&#39;s high-speed PETG can replace it; use the matching profile and run a quick flow test. Our <a href="/blog/bambu-filament/">Bambu filament guide</a> explains how the Bambu lines fit together.</p>
+<h2>Checklist for your first PETG HF print</h2>
+<ol>
+<li>Dry the spool if it has been open for a while (65 °C for 8 hours).</li>
+<li>Select the &quot;Bambu PETG HF&quot; or &quot;Generic PETG HF&quot; profile.</li>
+<li>Use a textured PEI plate, or glue stick on smooth PEI.</li>
+<li>On an enclosed printer, open the top cover for hot-bed PETG prints.</li>
+<li>Print a small test part at the profile&#39;s default speed.</li>
+<li>Only then raise speed or tune retraction.</li>
+<li>Check the model in our <a href="/3mf-viewer/">3MF viewer</a> or <a href="/stl-viewer/">STL viewer</a> before slicing.</li>
+</ol>
+<h2>Verdict</h2>
+<p>PETG HF is regular PETG tuned for speed. If you own a fast printer and print a lot of functional parts, it saves real time while keeping PETG&#39;s toughness. If your printer is slow or you mostly print small parts, standard PETG gives the same result. Either way, dry filament and the right plate matter more than the label on the spool.</p>
+26:["$","div",null,{"className":"split","children":[["$","article",null,{"className":"prose","children":[["$","h1",null,{"children":"PETG HF – what high-flow PETG is and how to print it"}],["$","figure",null,{"className":"doc-hero","children":["$","img",null,{"src":"/images/blog/petg-hf.webp","alt":"Illustration of an enclosed printer printing a tall translucent teal vase at speed with motion streaks and a glowing orange dial beside it","width":1200,"height":675,"fetchPriority":"high","decoding":"async"}]}],["$","p",null,{"className":"muted small","children":["Updated ","November 26, 2026"]}],["$","div",null,{"className":"summary-box","children":[["$","b",null,{"children":"Key points"}],["$","ul",null,{"children":[["$","li","PETG HF is a high-flow PETG – \"HF\" stands for high flow – made to melt and extrude faster, so you can print PETG at higher speeds without under-extrusion.",{"children":"PETG HF is a high-flow PETG – \"HF\" stands for high flow – made to melt and extrude faster, so you can print PETG at higher speeds without under-extrusion."}],["$","li","Bambu Lab's PETG HF uses a 230–260 °C nozzle and a 65–75 °C bed in its published settings, and Bambu recommends drying it at 65 °C for 8 hours when damp.",{"children":"Bambu Lab's PETG HF uses a 230–260 °C nozzle and a 65–75 °C bed in its published settings, and Bambu recommends drying it at 65 °C for 8 hours when damp."}],["$","li","In March 2026 Bambu Lab launched a new PETG Basic line, which Bambu rates stronger than PETG HF in bending and layer tests, so high flow is not the only PETG option in its range.",{"children":"In March 2026 Bambu Lab launched a new PETG Basic line, which Bambu rates stronger than PETG HF in bending and layer tests, so high flow is not the only PETG option in its range."}]]}]]}],null,["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$28"}}]]}],"$L29"]}]
+27:["$","section",null,{"className":"section faq","aria-labelledby":"faq-h","children":[["$","h2",null,{"id":"faq-h","children":"Questions and answers"}],["$","div",null,{"className":"faq-list","children":[["$","details","What is PETG HF?",{"children":[["$","summary",null,{"children":"What is PETG HF?"}],["$","p",null,{"children":"PETG HF is high-flow PETG filament. It is formulated to melt quickly and flow easily through the hot end, so it can be printed at much higher volumetric flow than standard PETG. Bambu Lab made the name popular with its own PETG HF line, and other brands such as Elegoo and Snapmaker now sell PETG HF too."}]]}],["$","details","Is PETG HF better than regular PETG?",{"children":[["$","summary",null,{"children":"Is PETG HF better than regular PETG?"}],["$","p",null,{"children":"It is faster, not automatically better. On a fast printer, PETG HF lets you keep PETG's toughness and heat resistance while printing much faster. On a slow printer, or for parts where you print slowly anyway, standard PETG works just as well."}]]}],["$","details","Can I print PETG HF on a non-Bambu printer?",{"children":[["$","summary",null,{"children":"Can I print PETG HF on a non-Bambu printer?"}],["$","p",null,{"children":"Yes. PETG HF is standard 1.75 mm filament. Bambu Lab's wiki provides a \"Generic PETG HF\" profile, and other slicers have PETG profiles you can start from. You only gain the speed benefit if your printer's hot end can melt plastic fast enough."}]]}],["$","details","Does PETG HF need to be dried?",{"children":[["$","summary",null,{"children":"Does PETG HF need to be dried?"}],["$","p",null,{"children":"It prints best dry. Bambu Lab recommends 65 °C for 8 hours in a dryer when the filament has absorbed moisture, and explains that water in the filament turns to steam in the nozzle, causing stringing, oozing, holes and weaker parts."}]]}]]}]]}]
+29:["$","aside",null,{"className":"aside","children":[["$","div",null,{"className":"facts","children":[["$","b",null,{"children":"Tools for this"}],["$","div",null,{"className":"tool-grid","style":{"marginTop":10,"gridTemplateColumns":"1fr"},"children":[["$","$L4","stl-viewer",{"className":"tool-link","href":"/stl-viewer/","children":"STL viewer"}],["$","$L4","3mf-viewer",{"className":"tool-link","href":"/3mf-viewer/","children":"3MF viewer"}],["$","$L4","3mf-to-stl",{"className":"tool-link","href":"/3mf-to-stl/","children":"3MF to STL converter"}]]}]]}],["$","div",null,{"className":"facts","children":[["$","b",null,{"children":"Open or convert a model"}],["$","p",null,{"className":"small","style":{"margin":"6px 0 10px"},"children":"View STL, 3MF, STEP and more in your browser."}],["$","$L4",null,{"className":"btn btn-accent","href":"/3d-viewer/","children":"3D viewer"}]]}]]}]
+20:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#10151C"}]]
+1c:null
+2a:I[622,[],"IconMark"]
+1e:{"metadata":[["$","title","0",{"children":"PETG HF – What It Is, Settings and Tips | my3dprinter.io"}],["$","meta","1",{"name":"description","content":"What is PETG HF? Bambu Lab's high-flow PETG explained – how it differs from regular PETG, nozzle and bed temperatures, drying, plates, AMS use and 2026 availability."}],["$","meta","2",{"name":"application-name","content":"my3dprinter.io"}],["$","link","3",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","4",{"name":"robots","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","5",{"rel":"canonical","href":"https://my3dprinter.io/blog/petg-hf/"}],["$","meta","6",{"name":"format-detection","content":"telephone=no"}],["$","meta","7",{"property":"og:title","content":"PETG HF – What It Is, Settings and Tips | my3dprinter.io"}],["$","meta","8",{"property":"og:description","content":"What is PETG HF? Bambu Lab's high-flow PETG explained – how it differs from regular PETG, nozzle and bed temperatures, drying, plates, AMS use and 2026 availability."}],["$","meta","9",{"property":"og:url","content":"https://my3dprinter.io/blog/petg-hf/"}],["$","meta","10",{"property":"og:site_name","content":"my3dprinter.io"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:image","content":"https://my3dprinter.io/images/blog/petg-hf.webp"}],["$","meta","13",{"property":"og:image:width","content":"1200"}],["$","meta","14",{"property":"og:image:height","content":"675"}],["$","meta","15",{"property":"og:image:alt","content":"PETG HF – What It Is, Settings and Tips"}],["$","meta","16",{"property":"og:type","content":"article"}],["$","meta","17",{"property":"article:published_time","content":"2026-11-26"}],["$","meta","18",{"property":"article:modified_time","content":"2026-11-26"}],["$","meta","19",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","20",{"name":"twitter:title","content":"PETG HF – What It Is, Settings and Tips | my3dprinter.io"}],["$","meta","21",{"name":"twitter:description","content":"What is PETG HF? Bambu Lab's high-flow PETG explained – how it differs from regular PETG, nozzle and bed temperatures, drying, plates, AMS use and 2026 availability."}],["$","meta","22",{"name":"twitter:image","content":"https://my3dprinter.io/images/blog/petg-hf.webp"}],["$","link","23",{"rel":"icon","href":"/favicon.ico","sizes":"48x48"}],["$","link","24",{"rel":"icon","href":"/icon.svg","type":"image/svg+xml"}],["$","link","25",{"rel":"icon","href":"/icon-192.png","sizes":"192x192","type":"image/png"}],["$","link","26",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","sizes":"180x180"}],["$","$L2a","27",{}]],"error":null,"digest":"$undefined"}
+23:"$1e:metadata"

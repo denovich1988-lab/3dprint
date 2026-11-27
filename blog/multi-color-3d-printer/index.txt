@@ -1,0 +1,227 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+4:I[2619,["2619","static/chunks/2619-3c9e02e22d10480a.js","4966","static/chunks/app/(en)/blog/%5Bslug%5D/page-6f60855278aa4f75.js"],""]
+5:I[1538,["2619","static/chunks/2619-3c9e02e22d10480a.js","90","static/chunks/app/(en)/layout-1d0e45a00e968cb3.js"],"default"]
+6:I[909,["2619","static/chunks/2619-3c9e02e22d10480a.js","90","static/chunks/app/(en)/layout-1d0e45a00e968cb3.js"],"default"]
+16:I[7150,[],""]
+:HL["/_next/static/css/93d1a12f2f4c9226.css","style"]
+0:{"P":null,"b":"rD7TGm9XF6FHQRkd5YG22","p":"","c":["","blog","multi-color-3d-printer",""],"i":false,"f":[[["",{"children":["(en)",{"children":["blog",{"children":[["slug","multi-color-3d-printer","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/93d1a12f2f4c9226.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","script",null,{"async":true,"src":"https://www.googletagmanager.com/gtm.js?id=GTM-T7SN8RQX"}],["$","script",null,{"async":true,"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3226858004021254","crossOrigin":"anonymous"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());"}}]]}],["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"wrap header-in","children":[["$","$L4",null,{"href":"/","className":"brand","aria-label":"my3dprinter.io home","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","nav",null,{"aria-label":"Main","className":"nav","children":[["$","$L4","/converters/",{"href":"/converters/","children":"Converters"}],["$","$L4","/3d-viewer/",{"href":"/3d-viewer/","children":"3D viewer"}],["$","$L4","/image-to-stl/",{"href":"/image-to-stl/","children":"Image to STL"}],["$","$L4","/printers/",{"href":"/printers/","children":"Printers"}],["$","$L4","/blog/",{"href":"/blog/","children":"Blog"}]]}],["$","div",null,{"className":"header-actions","children":[["$","$L5",null,{"lang":"en","langs":[{"code":"en","name":"English"},{"code":"de","name":"Deutsch"},{"code":"es","name":"Español"},{"code":"fr","name":"Français"},{"code":"it","name":"Italiano"},{"code":"ja","name":"日本語"},{"code":"ko","name":"한국어"},{"code":"pt","name":"Português"},{"code":"vi","name":"Tiếng Việt"},{"code":"th","name":"ไทย"},{"code":"zh","name":"简体中文"},{"code":"ru","name":"Русский"}],"localized":["/","/converters/","/3mf-to-stl/","/glb-to-stl/","/stl-to-3mf/","/step-to-stl/","/glb-to-obj/","/obj-to-stl/","/stl-to-obj/","/fbx-to-obj/","/gcode-to-stl/","/fbx-to-stl/","/zip-to-stl/","/stp-to-stl/","/dae-to-obj/","/gltf-to-obj/","/stl-to-dxf/","/obj-to-glb/","/gltf-to-stl/","/fbx-to-glb/","/ply-to-stl/","/3mf-to-obj/","/dae-to-stl/","/usdz-to-stl/","/ply-to-obj/","/stp-to-obj/","/3ds-to-obj/","/igs-to-stl/","/stl-to-glb/","/obj-to-3mf/","/glb-to-3mf/","/stl-to-usdz/","/glb-to-usdz/","/step-to-obj/","/step-to-3mf/","/stl-to-ply/","/fbx-to-gltf/","/image-to-stl/","/png-to-stl/","/jpg-to-stl/","/jpeg-to-stl/","/lithophane-maker/","/png-to-obj/","/png-to-3mf/","/svg-to-stl/","/svg-to-obj/","/png-to-dds/","/jpg-to-dds/","/dds-to-png/","/dds-to-jpg/","/3d-viewer/","/stl-viewer/","/3mf-viewer/","/obj-viewer/","/glb-viewer/","/step-viewer/","/ply-viewer/","/fbx-viewer/","/gltf-viewer/"],"label":"Language"}],["$","$L6",null,{"links":[["/converters/","Converters"],["/3d-viewer/","3D viewer"],["/image-to-stl/","Image to STL"],["/printers/","Printers"],["/blog/","Blog"],["/printers/compare/","Compare printers"]],"label":"Menu"}]]}]]}]}],["$","main",null,{"id":"main","className":"wrap","style":{"padding":"64px 24px"},"children":[["$","h1",null,{"children":"Page not found"}],["$","p",null,{"className":"lead","children":"This page does not exist. Try a converter or the 3D viewer."}],["$","p",null,{"children":["$","$L4",null,{"className":"btn btn-accent","href":"/converters/","children":"All converters"}]}]]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"wrap footer-grid","children":[["$","div",null,{"className":"footer-brand","children":[["$","$L4",null,{"href":"/","className":"brand","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":["$L7","$L8"]}]," ","$L9"]}],"$La"]}],["$Lb","$Lc","$Ld","$Le","$Lf"]]}],"$L10"]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["(en)","$L11",{"children":["blog","$L12",{"children":[["slug","multi-color-3d-printer","d"],"$L13",{"children":["__PAGE__","$L14",{},null,false]},null,false]},null,false]},null,false]},null,false],"$L15",false]],"m":"$undefined","G":["$16",[]],"s":false,"S":true}
+1b:I[4431,[],"OutletBoundary"]
+1d:I[5278,[],"AsyncMetadataOutlet"]
+1f:I[4431,[],"ViewportBoundary"]
+21:I[4431,[],"MetadataBoundary"]
+22:"$Sreact.suspense"
+7:["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}]
+8:["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]
+9:["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]
+a:["$","p",null,{"children":"Free tools that run in your browser. Your files are never uploaded."}]
+b:["$","div","Converters",{"children":[["$","h2",null,{"children":"Converters"}],["$","ul",null,{"children":[["$","li","/3mf-to-stl/",{"children":["$","$L4",null,{"href":"/3mf-to-stl/","children":"3MF → STL"}]}],["$","li","/step-to-stl/",{"children":["$","$L4",null,{"href":"/step-to-stl/","children":"STEP → STL"}]}],["$","li","/glb-to-stl/",{"children":["$","$L4",null,{"href":"/glb-to-stl/","children":"GLB → STL"}]}],["$","li","/obj-to-stl/",{"children":["$","$L4",null,{"href":"/obj-to-stl/","children":"OBJ → STL"}]}],["$","li","/stl-to-3mf/",{"children":["$","$L4",null,{"href":"/stl-to-3mf/","children":"STL → 3MF"}]}],["$","li","/converters/",{"children":["$","$L4",null,{"href":"/converters/","children":"All converters"}]}]]}]]}]
+c:["$","div","Images & textures",{"children":[["$","h2",null,{"children":"Images & textures"}],["$","ul",null,{"children":[["$","li","/image-to-stl/",{"children":["$","$L4",null,{"href":"/image-to-stl/","children":"Image to STL"}]}],["$","li","/lithophane-maker/",{"children":["$","$L4",null,{"href":"/lithophane-maker/","children":"Lithophane maker"}]}],["$","li","/svg-to-stl/",{"children":["$","$L4",null,{"href":"/svg-to-stl/","children":"SVG → STL"}]}],["$","li","/png-to-dds/",{"children":["$","$L4",null,{"href":"/png-to-dds/","children":"PNG → DDS"}]}],["$","li","/dds-to-png/",{"children":["$","$L4",null,{"href":"/dds-to-png/","children":"DDS → PNG"}]}]]}]]}]
+d:["$","div","Viewers",{"children":[["$","h2",null,{"children":"Viewers"}],["$","ul",null,{"children":[["$","li","/3d-viewer/",{"children":["$","$L4",null,{"href":"/3d-viewer/","children":"Online 3D model viewer"}]}],["$","li","/stl-viewer/",{"children":["$","$L4",null,{"href":"/stl-viewer/","children":"STL viewer"}]}],["$","li","/3mf-viewer/",{"children":["$","$L4",null,{"href":"/3mf-viewer/","children":"3MF viewer"}]}],["$","li","/step-viewer/",{"children":["$","$L4",null,{"href":"/step-viewer/","children":"STEP viewer"}]}],["$","li","/obj-viewer/",{"children":["$","$L4",null,{"href":"/obj-viewer/","children":"OBJ viewer"}]}]]}]]}]
+e:["$","div","my3dprinter.io",{"children":[["$","h2",null,{"children":"my3dprinter.io"}],["$","ul",null,{"children":[["$","li","/printers/",{"children":["$","$L4",null,{"href":"/printers/","children":"3D printers"}]}],["$","li","/printers/compare/",{"children":["$","$L4",null,{"href":"/printers/compare/","children":"Compare printers"}]}],["$","li","/blog/",{"children":["$","$L4",null,{"href":"/blog/","children":"Blog"}]}],["$","li","/formats/",{"children":["$","$L4",null,{"href":"/formats/","children":"File formats"}]}],["$","li","/about/",{"children":["$","$L4",null,{"href":"/about/","children":"About"}]}],["$","li","/contact/",{"children":["$","$L4",null,{"href":"/contact/","children":"Contact"}]}]]}]]}]
+f:["$","div","Legal",{"children":[["$","h2",null,{"children":"Legal"}],["$","ul",null,{"children":[["$","li","/privacy/",{"children":["$","$L4",null,{"href":"/privacy/","children":"Privacy policy"}]}],["$","li","/cookies/",{"children":["$","$L4",null,{"href":"/cookies/","children":"Cookie policy"}]}],["$","li","/terms/",{"children":["$","$L4",null,{"href":"/terms/","children":"Terms of use"}]}],["$","li","/disclaimer/",{"children":["$","$L4",null,{"href":"/disclaimer/","children":"Disclaimer"}]}]]}]]}]
+10:["$","div",null,{"className":"wrap footer-base","children":["$","p",null,{"children":["© ",2026," my3dprinter.io. ","Brand and product names belong to their owners; my3dprinter.io is an independent site and is not affiliated with any printer maker."]}]}]
+11:["$","$1","c",{"children":[null,[["$","a",null,{"className":"skip","href":"#main","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"wrap header-in","children":[["$","$L4",null,{"href":"/","className":"brand","aria-label":"my3dprinter.io home","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","nav",null,{"aria-label":"Main","className":"nav","children":[["$","$L4","/converters/",{"href":"/converters/","children":"Converters"}],["$","$L4","/3d-viewer/",{"href":"/3d-viewer/","children":"3D viewer"}],["$","$L4","/image-to-stl/",{"href":"/image-to-stl/","children":"Image to STL"}],["$","$L4","/printers/",{"href":"/printers/","children":"Printers"}],["$","$L4","/blog/",{"href":"/blog/","children":"Blog"}]]}],["$","div",null,{"className":"header-actions","children":[["$","$L5",null,{"lang":"en","langs":[{"code":"en","name":"English"},{"code":"de","name":"Deutsch"},{"code":"es","name":"Español"},{"code":"fr","name":"Français"},{"code":"it","name":"Italiano"},{"code":"ja","name":"日本語"},{"code":"ko","name":"한국어"},{"code":"pt","name":"Português"},{"code":"vi","name":"Tiếng Việt"},{"code":"th","name":"ไทย"},{"code":"zh","name":"简体中文"},{"code":"ru","name":"Русский"}],"localized":"$0:f:0:1:1:props:children:1:props:children:1:props:children:props:notFound:0:0:props:children:props:children:2:props:children:0:props:localized","label":"Language"}],["$","$L6",null,{"links":[["/converters/","Converters"],["/3d-viewer/","3D viewer"],["/image-to-stl/","Image to STL"],["/printers/","Printers"],["/blog/","Blog"],["/printers/compare/","Compare printers"]],"label":"Menu"}]]}]]}]}],["$","main",null,{"id":"main","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"wrap footer-grid","children":[["$","div",null,{"className":"footer-brand","children":[["$","$L4",null,{"href":"/","className":"brand","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","p",null,{"children":"Free tools that run in your browser. Your files are never uploaded."}]]}],[["$","div","Converters",{"children":[["$","h2",null,{"children":"Converters"}],["$","ul",null,{"children":[["$","li","/3mf-to-stl/",{"children":["$","$L4",null,{"href":"/3mf-to-stl/","children":"3MF → STL"}]}],["$","li","/step-to-stl/",{"children":["$","$L4",null,{"href":"/step-to-stl/","children":"STEP → STL"}]}],["$","li","/glb-to-stl/",{"children":["$","$L4",null,{"href":"/glb-to-stl/","children":"GLB → STL"}]}],["$","li","/obj-to-stl/",{"children":["$","$L4",null,{"href":"/obj-to-stl/","children":"OBJ → STL"}]}],["$","li","/stl-to-3mf/",{"children":["$","$L4",null,{"href":"/stl-to-3mf/","children":"STL → 3MF"}]}],["$","li","/converters/",{"children":["$","$L4",null,{"href":"/converters/","children":"All converters"}]}]]}]]}],["$","div","Images & textures",{"children":[["$","h2",null,{"children":"Images & textures"}],["$","ul",null,{"children":[["$","li","/image-to-stl/",{"children":["$","$L4",null,{"href":"/image-to-stl/","children":"Image to STL"}]}],["$","li","/lithophane-maker/",{"children":["$","$L4",null,{"href":"/lithophane-maker/","children":"Lithophane maker"}]}],["$","li","/svg-to-stl/",{"children":["$","$L4",null,{"href":"/svg-to-stl/","children":"SVG → STL"}]}],["$","li","/png-to-dds/",{"children":["$","$L4",null,{"href":"/png-to-dds/","children":"PNG → DDS"}]}],["$","li","/dds-to-png/",{"children":["$","$L4",null,{"href":"/dds-to-png/","children":"DDS → PNG"}]}]]}]]}],["$","div","Viewers",{"children":[["$","h2",null,{"children":"Viewers"}],["$","ul",null,{"children":[["$","li","/3d-viewer/",{"children":["$","$L4",null,{"href":"/3d-viewer/","children":"Online 3D model viewer"}]}],["$","li","/stl-viewer/",{"children":["$","$L4",null,{"href":"/stl-viewer/","children":"STL viewer"}]}],["$","li","/3mf-viewer/",{"children":["$","$L4",null,{"href":"/3mf-viewer/","children":"3MF viewer"}]}],["$","li","/step-viewer/",{"children":["$","$L4",null,{"href":"/step-viewer/","children":"STEP viewer"}]}],["$","li","/obj-viewer/",{"children":["$","$L4",null,{"href":"/obj-viewer/","children":"OBJ viewer"}]}]]}]]}],"$L17","$L18"]]}],"$L19"]}]]]}]
+12:["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+13:["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+14:["$","$1","c",{"children":["$L1a",null,["$","$L1b",null,{"children":["$L1c",["$","$L1d",null,{"promise":"$@1e"}]]}]]}]
+15:["$","$1","h",{"children":[null,[["$","$L1f",null,{"children":"$L20"}],null],["$","$L21",null,{"children":["$","div",null,{"hidden":true,"children":["$","$22",null,{"fallback":null,"children":"$L23"}]}]}]]}]
+17:["$","div","my3dprinter.io",{"children":[["$","h2",null,{"children":"my3dprinter.io"}],["$","ul",null,{"children":[["$","li","/printers/",{"children":["$","$L4",null,{"href":"/printers/","children":"3D printers"}]}],["$","li","/printers/compare/",{"children":["$","$L4",null,{"href":"/printers/compare/","children":"Compare printers"}]}],["$","li","/blog/",{"children":["$","$L4",null,{"href":"/blog/","children":"Blog"}]}],["$","li","/formats/",{"children":["$","$L4",null,{"href":"/formats/","children":"File formats"}]}],["$","li","/about/",{"children":["$","$L4",null,{"href":"/about/","children":"About"}]}],["$","li","/contact/",{"children":["$","$L4",null,{"href":"/contact/","children":"Contact"}]}]]}]]}]
+18:["$","div","Legal",{"children":[["$","h2",null,{"children":"Legal"}],["$","ul",null,{"children":[["$","li","/privacy/",{"children":["$","$L4",null,{"href":"/privacy/","children":"Privacy policy"}]}],["$","li","/cookies/",{"children":["$","$L4",null,{"href":"/cookies/","children":"Cookie policy"}]}],["$","li","/terms/",{"children":["$","$L4",null,{"href":"/terms/","children":"Terms of use"}]}],["$","li","/disclaimer/",{"children":["$","$L4",null,{"href":"/disclaimer/","children":"Disclaimer"}]}]]}]]}]
+19:["$","div",null,{"className":"wrap footer-base","children":["$","p",null,{"children":["© ",2026," my3dprinter.io. ","Brand and product names belong to their owners; my3dprinter.io is an independent site and is not affiliated with any printer maker."]}]}]
+24:T106d,{"@context":"https://schema.org","@graph":[{"@type":"Article","headline":"Multi color 3D printer guide – how multicolour printing works and which type to buy","description":"Multi color 3D printer guide – filament changers vs dual nozzles vs toolchangers, waste and speed trade-offs, current systems from each brand and how to choose one.","datePublished":"2026-11-26","dateModified":"2026-11-26","mainEntityOfPage":"https://my3dprinter.io/blog/multi-color-3d-printer/","inLanguage":"en","author":{"@type":"Organization","name":"my3dprinter.io","url":"https://my3dprinter.io"},"publisher":{"@type":"Organization","@id":"https://my3dprinter.io/#organization","name":"my3dprinter.io","url":"https://my3dprinter.io/","logo":{"@type":"ImageObject","url":"https://my3dprinter.io/icon-512.png","width":512,"height":512},"email":"hello@my3dprinter.io","description":"Free 3D file converters, viewers and 3D printer guides"},"image":"https://my3dprinter.io/images/blog/multi-color-3d-printer.webp","citation":["https://blog.bambulab.com/ams","https://wiki.bambulab.com/en/software/bambu-studio/reduce-wasting-during-filament-change","https://wiki.bambulab.com/en/ams-lite/manual/faq","https://blog.bambulab.com/bambu-lab-launches-h2d-to-rethink-personal-manufacturing","https://blog.bambulab.com/bambu-lab-h2c-where-multi-material-vortek-system-meets-engineering-precision","https://store.creality.com/au/products/cfs-creality-filament-system","https://www.creality.com/products/k3","https://www.prusa3d.com/en/product/original-prusa-mmu3-upgrade-kit-for-mk4s-mk3-9s-8/","https://blog.prusa3d.com/introducing-the-indx-fast-and-affordable-8-material-printing-exclusively-on-the-core-one_125242/","https://www.prusa3d.com/p/prusa-xl-business/","https://www.snapmaker.com/en-US/snapmaker-u1/specs","https://store.anycubic.com/products/kobra-x","https://store.anycubic.com/products/kobra-s1-combo","https://www.flashforge.com/products/flashforge-ad5x-multicolor-3d-printer","https://us.elegoo.com/products/centauri-carbon-2","https://qidi3d.com/collections/plus4-1/products/plus4-3d-printer","https://www.flashforge.com/blogs/news/best-multicolor-3d-printer"]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://my3dprinter.io/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://my3dprinter.io/blog/"},{"@type":"ListItem","position":3,"name":"Multi color 3D printer guide – how multicolour printing works and which type to buy","item":"https://my3dprinter.io/blog/multi-color-3d-printer/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is a multi color 3D printer?","acceptedAnswer":{"@type":"Answer","text":"It is an FDM printer that can switch between several filaments during one print, so a single model comes off the bed in more than one colour or material. It does this with a filament changer, with two nozzles, or with a toolchanger that swaps complete print heads."}},{"@type":"Question","name":"What is the best multicolor 3D printer for beginners?","acceptedAnswer":{"@type":"Answer","text":"For most beginners, a printer sold as a combo with a four-spool filament changer is the simplest start, because the slicer, printer and changer are set up to work together. Pick based on build size, enclosure and budget, then check the changer's colour limit and the materials it accepts."}},{"@type":"Question","name":"How many colours can a multi color 3D printer use?","acceptedAnswer":{"@type":"Answer","text":"Usually four per filament-changer unit. Many systems let you chain units – for example up to 16 colours with four Bambu Lab AMS or four Creality CFS units – while toolchangers are limited by the number of heads, such as five on the Prusa XL or eight with the Prusa INDX."}},{"@type":"Question","name":"Do multi color 3D printers waste filament?","acceptedAnswer":{"@type":"Answer","text":"Single-nozzle systems do, because each colour change purges the old colour out of the nozzle into a waste chute or a prime tower. Toolchangers and dual-nozzle printers waste much less because each colour has its own nozzle. Slicer settings such as flushing into infill can reduce waste on any system."}}]}]}1a:["$","div",null,{"className":"wrap","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$24"}}],"$L25","$L26","$L27"]}]
+25:["$","nav",null,{"className":"crumbs","aria-label":"Breadcrumb","children":[["$","$L4",null,{"href":"/","children":"Home"}]," / ",["$","$L4",null,{"href":"/blog/","children":"Blog"}]," / ","Multi color 3D printer guide – how multicolour printing works and which type to buy"]}]
+28:T2b57,<p><strong>A multi color 3D printer is an FDM printer that switches between several filaments during one print, using a filament changer that feeds one nozzle, two separate nozzles, or a toolchanger that swaps complete print heads.</strong> Which design you choose decides how many colours you get, how much filament each colour change wastes and how long multicolour prints take. This guide explains the three designs, compares the current multicolour systems from Bambu Lab, Creality, Prusa, Anycubic, Snapmaker, Elegoo, Flashforge and QIDI using the makers&#39; own specs, and ends with a step-by-step way to choose. We do not test printers and prices change, so we compare features, not prices. Facts checked November 2026.</p>
+<h2>Multi color 3D printer types at a glance</h2>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Filament changer (one nozzle)</th>
+<th>Dual nozzle / IDEX</th>
+<th>Toolchanger</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>How it works</td>
+<td>Several spools feed one hot end in turn</td>
+<td>Two hot ends, each with its own filament</td>
+<td>Several complete heads, swapped onto the gantry</td>
+</tr>
+<tr>
+<td>Typical colours</td>
+<td>4 per unit; up to 16–24 with chained units</td>
+<td>2 (more with a changer on each nozzle)</td>
+<td>4–8 heads</td>
+</tr>
+<tr>
+<td>Waste per colour change</td>
+<td>High – old colour is purged</td>
+<td>Low between the two nozzles</td>
+<td>Low – each colour has its own nozzle</td>
+</tr>
+<tr>
+<td>Time per change</td>
+<td>Longer – cut, retract, load, purge</td>
+<td>Short</td>
+<td>Short – a few seconds per swap</td>
+</tr>
+<tr>
+<td>Mixed materials</td>
+<td>Limited – shares one nozzle</td>
+<td>Good</td>
+<td>Very good – each head can have its own nozzle</td>
+</tr>
+<tr>
+<td>Cost</td>
+<td>Lowest</td>
+<td>Middle</td>
+<td>Highest</td>
+</tr>
+<tr>
+<td>Examples</td>
+<td>Bambu Lab AMS, Creality CFS, Prusa MMU3, Anycubic ACE Pro, Elegoo CANVAS, QIDI Box</td>
+<td>Bambu Lab H2D, Flashforge Creator Pro 2, UltiMaker S5</td>
+<td>Prusa XL, Prusa INDX, Snapmaker U1, Creality K3, Bambu Lab H2C</td>
+</tr>
+</tbody></table>
+<h2>How a filament changer works</h2>
+<p>A filament changer holds four spools (more with chained units) and pushes the selected filament to a single nozzle. For each colour change, the printer cuts the filament, pulls the old colour back to the changer, loads the new one and purges the remaining old colour out of the nozzle – into a waste chute or onto a prime tower – until the new colour runs clean. Bambu Lab&#39;s AMS is the best-known example; our explainer on <a href="/blog/what-is-ams-in-3d-printing/">what AMS is in 3D printing</a> shows the feeders, hub and buffer in detail.</p>
+<p><strong>Why it matters:</strong> this is the cheapest way to get four or more colours, and many printers are sold as combos with one included. The trade-off is purge waste and time: a print with hundreds of colour changes can waste a noticeable amount of filament and take much longer than the single-colour version.</p>
+<p><strong>Tip:</strong> in Bambu Studio, OrcaSlicer and similar slicers, you can flush into infill or into a support object instead of purging everything into the waste chute. Bambu Lab&#39;s wiki on reducing waste during filament change explains the options.</p>
+<h2>Dual nozzle and IDEX printers</h2>
+<p>A dual-nozzle printer has two hot ends with their own filament paths. Bambu Lab&#39;s H2D uses two nozzles on one toolhead and can still add AMS units for more colours. IDEX (independent dual extruder) printers such as the Flashforge Creator Pro 2 move two heads separately, so the idle head parks out of the way. The UltiMaker S5 uses two swappable print cores.</p>
+<p><strong>Why it matters:</strong> two colours or two materials – for example a body in PLA and soluble or breakaway supports in a support material – print with little waste. For more than two colours, dual-nozzle machines rely on filament changers as well.</p>
+<h2>Toolchanger printers</h2>
+<p>A toolchanger stores several complete print heads and picks the one it needs. Each colour or material stays in its own nozzle, so there is no purge of old colour, and each head can be set to a different temperature.</p>
+<ul>
+<li><strong>Prusa XL</strong> – a CoreXY toolchanger with 1, 2 or 5 toolheads and a 360 × 360 × 360 mm build volume. See our <a href="/printers/prusa-xl/">Prusa XL page</a>.</li>
+<li><strong>Prusa INDX</strong> – a toolchanger for the CORE One family with 4 or 8 passive, induction-heated tools. Prusa says a change takes about 12 seconds and primes only about 13 mg of filament. See <a href="/printers/prusa-indx/">Prusa INDX</a>.</li>
+<li><strong>Snapmaker U1</strong> – four independent toolheads on a 270 × 270 × 270 mm CoreXY printer.</li>
+<li><strong>Creality K3</strong> – four docked nozzles (Creality&#39;s KliTek system), each with its own filament path; Creality lists a nozzle swap in about 5 seconds.</li>
+<li><strong>Bambu Lab H2C</strong> – the Vortek system stores six induction-heated hot ends that swap onto the toolhead, and works with AMS 2 Pro and AMS HT units for up to 24 filaments.</li>
+</ul>
+<p><strong>Why it matters:</strong> if you print multicolour models often, the time and filament saved per change adds up. Toolchangers are also better for combining very different materials, such as PLA with TPU or PETG with a support material.</p>
+<h2>Multicolor 3D printer systems by brand</h2>
+<p>The table lists each maker&#39;s current multicolour approach as published on its own spec pages. Colour counts assume the maximum number of units the maker supports.</p>
+<table>
+<thead>
+<tr>
+<th>Printer</th>
+<th>System</th>
+<th>Colours / materials</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Bambu Lab A1 / A1 mini</td>
+<td>AMS lite (optional)</td>
+<td>Up to 4</td>
+</tr>
+<tr>
+<td>Bambu Lab X1E</td>
+<td>AMS</td>
+<td>Up to 16 with 4 AMS units</td>
+</tr>
+<tr>
+<td>Bambu Lab H2D</td>
+<td>Dual nozzle plus AMS 2 Pro / AMS HT</td>
+<td>Up to 4 AMS 2 Pro + 8 AMS HT</td>
+</tr>
+<tr>
+<td>Bambu Lab H2C</td>
+<td>Vortek, 6 swappable hot ends</td>
+<td>Up to 24 filaments with AMS units</td>
+</tr>
+<tr>
+<td>Creality K2 Plus / K2 Combo</td>
+<td>CFS</td>
+<td>4 per unit, up to 16</td>
+</tr>
+<tr>
+<td>Creality K3</td>
+<td>4-nozzle toolchanger</td>
+<td>4, more with the CFS Hub</td>
+</tr>
+<tr>
+<td>Prusa MK4S / CORE One</td>
+<td>MMU3 (optional)</td>
+<td>Up to 5</td>
+</tr>
+<tr>
+<td>Prusa CORE One</td>
+<td>INDX toolchanger (optional)</td>
+<td>Up to 8</td>
+</tr>
+<tr>
+<td>Prusa XL</td>
+<td>Toolchanger</td>
+<td>1, 2 or 5 heads</td>
+</tr>
+<tr>
+<td>Anycubic Kobra S1 Combo</td>
+<td>ACE Pro</td>
+<td>4, or 8 with two units</td>
+</tr>
+<tr>
+<td>Anycubic Kobra X</td>
+<td>Changer built into the head</td>
+<td>4, up to 19 with ACE 2 Pro units</td>
+</tr>
+<tr>
+<td>Snapmaker U1</td>
+<td>Toolchanger</td>
+<td>4 heads</td>
+</tr>
+<tr>
+<td>Elegoo Centauri Carbon 2</td>
+<td>CANVAS</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Flashforge AD5X</td>
+<td>Built-in IFS</td>
+<td>4</td>
+</tr>
+<tr>
+<td>QIDI Plus4</td>
+<td>QIDI Box</td>
+<td>4 per box, up to 16</td>
+</tr>
+</tbody></table>
+<p>Our <a href="/printers/compare/">printer comparison tool</a> lets you put any two of these side by side, including build volume, speed and enclosure.</p>
+<h2>Multicolour vs multi-material</h2>
+<p>A multicolour print uses the same material in different colours – four colours of PLA, for example. Multi-material printing mixes different plastics, such as PLA with soluble support, or a rigid body with flexible TPU grips. Single-nozzle changers handle multicolour PLA well but have limits on materials: Bambu Lab, for example, does not recommend soft TPU, damp PVA or many fibre-filled filaments in the standard AMS. Toolchangers and dual-nozzle printers are more flexible because each material has its own nozzle and temperature.</p>
+<p><strong>Tip:</strong> if you mainly want soluble or easy-release supports, a dual-nozzle printer or a toolchanger is often the better buy than a large filament changer.</p>
+<h2>What multicolour printing costs you in time and filament</h2>
+<p>On a single-nozzle system, each layer that contains two colours needs at least one change. A model with colours on every layer – a figurine with a striped pattern, for example – may need hundreds or thousands of changes. Every change adds the cut, unload, load and purge sequence, and every purge throws away some filament.</p>
+<p>Ways to reduce it:</p>
+<ol>
+<li><strong>Group colours by height.</strong> Models whose colours change by layer (a sign with coloured text on top) need far fewer changes than models with colours mixed on every layer.</li>
+<li><strong>Flush into infill or a support object</strong> in the slicer.</li>
+<li><strong>Print several copies at once</strong> – the purge is shared across all copies on the plate.</li>
+<li><strong>Choose a toolchanger</strong> if you print complex multicolour models often.</li>
+</ol>
+<h2>Files and slicing for multicolour prints</h2>
+<p>Multicolour models are usually shared as 3MF files, which store the colour assignment for each part; an STL holds only geometry, so colours must be painted in the slicer. Our <a href="/3mf-viewer/">3MF viewer</a> shows what a 3MF project contains before you open it in a slicer, and <a href="/3mf-to-stl/">3MF to STL</a> exports parts when you need plain meshes.</p>
+<p><strong>Tip:</strong> if you have no multicolour hardware, you can still print in layers of colour by adding a filament change at a set height in the slicer; the printer pauses and you swap the spool by hand.</p>
+<h2>How to choose a multi color 3D printer</h2>
+<ol>
+<li><strong>Decide how many colours you really need.</strong> Four is enough for most models; more only helps if you print complex art pieces or keep several materials loaded.</li>
+<li><strong>Decide how often you will print in colour.</strong> Occasional multicolour prints suit a filament changer; daily multicolour work justifies a toolchanger.</li>
+<li><strong>Check materials.</strong> If you want TPU, soluble supports or engineering plastics alongside PLA, prefer a dual nozzle or toolchanger, and read the changer&#39;s supported materials list.</li>
+<li><strong>Check build size and enclosure.</strong> Multicolour does not change the basics: a larger bed and an enclosure matter just as much as on a single-colour printer.</li>
+<li><strong>Check expandability.</strong> Some printers accept extra changer units later; others are fixed at four colours.</li>
+<li><strong>Check the slicer.</strong> Make sure the maker&#39;s slicer, or OrcaSlicer, supports painting colours and reducing purge.</li>
+<li><strong>Compare specs side by side</strong> with our <a href="/printers/compare/">printer comparison tool</a>.</li>
+</ol>
+<h2>Verdict</h2>
+<p>For most people, a printer sold with a four-spool filament changer is the easiest and most affordable way into multi color 3D printing. If you print multicolour or multi-material parts every day, or want to mix very different plastics, a toolchanger such as the Prusa XL, Prusa INDX, Snapmaker U1, Creality K3 or Bambu Lab H2C saves filament and time on every change.</p>
+26:["$","div",null,{"className":"split","children":[["$","article",null,{"className":"prose","children":[["$","h1",null,{"children":"Multi color 3D printer guide – how multicolour printing works and which type to buy"}],["$","figure",null,{"className":"doc-hero","children":["$","img",null,{"src":"/images/blog/multi-color-3d-printer.webp","alt":"Illustration of a toolchanger printer with parked print heads in different filament colours printing an orange, white and navy low-poly fox","width":1200,"height":675,"fetchPriority":"high","decoding":"async"}]}],["$","p",null,{"className":"muted small","children":["Updated ","November 26, 2026"]}],["$","div",null,{"className":"summary-box","children":[["$","b",null,{"children":"Key points"}],["$","ul",null,{"children":[["$","li","A multi color 3D printer uses one of three designs – a filament changer feeding one nozzle, two nozzles, or a toolchanger with several complete print heads.",{"children":"A multi color 3D printer uses one of three designs – a filament changer feeding one nozzle, two nozzles, or a toolchanger with several complete print heads."}],["$","li","Filament changers such as Bambu Lab's AMS, Creality's CFS or Prusa's MMU3 are the cheapest way to get four or more colours, but every colour change wastes purged filament and adds time.",{"children":"Filament changers such as Bambu Lab's AMS, Creality's CFS or Prusa's MMU3 are the cheapest way to get four or more colours, but every colour change wastes purged filament and adds time."}],["$","li","Toolchangers such as the Prusa XL, Prusa INDX, Snapmaker U1, Creality K3 and Bambu Lab H2C cut waste and time per change, at a higher price.",{"children":"Toolchangers such as the Prusa XL, Prusa INDX, Snapmaker U1, Creality K3 and Bambu Lab H2C cut waste and time per change, at a higher price."}]]}]]}],null,["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$28"}}]]}],"$L29"]}]
+27:["$","section",null,{"className":"section faq","aria-labelledby":"faq-h","children":[["$","h2",null,{"id":"faq-h","children":"Questions and answers"}],["$","div",null,{"className":"faq-list","children":[["$","details","What is a multi color 3D printer?",{"children":[["$","summary",null,{"children":"What is a multi color 3D printer?"}],["$","p",null,{"children":"It is an FDM printer that can switch between several filaments during one print, so a single model comes off the bed in more than one colour or material. It does this with a filament changer, with two nozzles, or with a toolchanger that swaps complete print heads."}]]}],["$","details","What is the best multicolor 3D printer for beginners?",{"children":[["$","summary",null,{"children":"What is the best multicolor 3D printer for beginners?"}],["$","p",null,{"children":"For most beginners, a printer sold as a combo with a four-spool filament changer is the simplest start, because the slicer, printer and changer are set up to work together. Pick based on build size, enclosure and budget, then check the changer's colour limit and the materials it accepts."}]]}],["$","details","How many colours can a multi color 3D printer use?",{"children":[["$","summary",null,{"children":"How many colours can a multi color 3D printer use?"}],["$","p",null,{"children":"Usually four per filament-changer unit. Many systems let you chain units – for example up to 16 colours with four Bambu Lab AMS or four Creality CFS units – while toolchangers are limited by the number of heads, such as five on the Prusa XL or eight with the Prusa INDX."}]]}],["$","details","Do multi color 3D printers waste filament?",{"children":[["$","summary",null,{"children":"Do multi color 3D printers waste filament?"}],["$","p",null,{"children":"Single-nozzle systems do, because each colour change purges the old colour out of the nozzle into a waste chute or a prime tower. Toolchangers and dual-nozzle printers waste much less because each colour has its own nozzle. Slicer settings such as flushing into infill can reduce waste on any system."}]]}]]}]]}]
+29:["$","aside",null,{"className":"aside","children":[["$","div",null,{"className":"facts","children":[["$","b",null,{"children":"Tools for this"}],["$","div",null,{"className":"tool-grid","style":{"marginTop":10,"gridTemplateColumns":"1fr"},"children":[["$","$L4","3mf-viewer",{"className":"tool-link","href":"/3mf-viewer/","children":"3MF viewer"}],["$","$L4","3mf-to-stl",{"className":"tool-link","href":"/3mf-to-stl/","children":"3MF to STL converter"}],["$","$L4","stl-viewer",{"className":"tool-link","href":"/stl-viewer/","children":"STL viewer"}]]}]]}],["$","div",null,{"className":"facts","children":[["$","b",null,{"children":"Open or convert a model"}],["$","p",null,{"className":"small","style":{"margin":"6px 0 10px"},"children":"View STL, 3MF, STEP and more in your browser."}],["$","$L4",null,{"className":"btn btn-accent","href":"/3d-viewer/","children":"3D viewer"}]]}]]}]
+20:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#10151C"}]]
+1c:null
+2a:I[622,[],"IconMark"]
+1e:{"metadata":[["$","title","0",{"children":"Multi Color 3D Printer Guide – Types and How to Choose | my3dprinter.io"}],["$","meta","1",{"name":"description","content":"Multi color 3D printer guide – filament changers vs dual nozzles vs toolchangers, waste and speed trade-offs, current systems from each brand and how to choose one."}],["$","meta","2",{"name":"application-name","content":"my3dprinter.io"}],["$","link","3",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","4",{"name":"robots","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","5",{"rel":"canonical","href":"https://my3dprinter.io/blog/multi-color-3d-printer/"}],["$","meta","6",{"name":"format-detection","content":"telephone=no"}],["$","meta","7",{"property":"og:title","content":"Multi Color 3D Printer Guide – Types and How to Choose | my3dprinter.io"}],["$","meta","8",{"property":"og:description","content":"Multi color 3D printer guide – filament changers vs dual nozzles vs toolchangers, waste and speed trade-offs, current systems from each brand and how to choose one."}],["$","meta","9",{"property":"og:url","content":"https://my3dprinter.io/blog/multi-color-3d-printer/"}],["$","meta","10",{"property":"og:site_name","content":"my3dprinter.io"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:image","content":"https://my3dprinter.io/images/blog/multi-color-3d-printer.webp"}],["$","meta","13",{"property":"og:image:width","content":"1200"}],["$","meta","14",{"property":"og:image:height","content":"675"}],["$","meta","15",{"property":"og:image:alt","content":"Multi Color 3D Printer Guide – Types and How to Choose"}],["$","meta","16",{"property":"og:type","content":"article"}],["$","meta","17",{"property":"article:published_time","content":"2026-11-26"}],["$","meta","18",{"property":"article:modified_time","content":"2026-11-26"}],["$","meta","19",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","20",{"name":"twitter:title","content":"Multi Color 3D Printer Guide – Types and How to Choose | my3dprinter.io"}],["$","meta","21",{"name":"twitter:description","content":"Multi color 3D printer guide – filament changers vs dual nozzles vs toolchangers, waste and speed trade-offs, current systems from each brand and how to choose one."}],["$","meta","22",{"name":"twitter:image","content":"https://my3dprinter.io/images/blog/multi-color-3d-printer.webp"}],["$","link","23",{"rel":"icon","href":"/favicon.ico","sizes":"48x48"}],["$","link","24",{"rel":"icon","href":"/icon.svg","type":"image/svg+xml"}],["$","link","25",{"rel":"icon","href":"/icon-192.png","sizes":"192x192","type":"image/png"}],["$","link","26",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","sizes":"180x180"}],["$","$L2a","27",{}]],"error":null,"digest":"$undefined"}
+23:"$1e:metadata"

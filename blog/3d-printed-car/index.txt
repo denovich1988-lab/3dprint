@@ -1,0 +1,245 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+4:I[2619,["2619","static/chunks/2619-3c9e02e22d10480a.js","4966","static/chunks/app/(en)/blog/%5Bslug%5D/page-6f60855278aa4f75.js"],""]
+5:I[1538,["2619","static/chunks/2619-3c9e02e22d10480a.js","90","static/chunks/app/(en)/layout-1d0e45a00e968cb3.js"],"default"]
+6:I[909,["2619","static/chunks/2619-3c9e02e22d10480a.js","90","static/chunks/app/(en)/layout-1d0e45a00e968cb3.js"],"default"]
+16:I[7150,[],""]
+:HL["/_next/static/css/93d1a12f2f4c9226.css","style"]
+0:{"P":null,"b":"rD7TGm9XF6FHQRkd5YG22","p":"","c":["","blog","3d-printed-car",""],"i":false,"f":[[["",{"children":["(en)",{"children":["blog",{"children":[["slug","3d-printed-car","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/93d1a12f2f4c9226.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","script",null,{"async":true,"src":"https://www.googletagmanager.com/gtm.js?id=GTM-T7SN8RQX"}],["$","script",null,{"async":true,"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3226858004021254","crossOrigin":"anonymous"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());"}}]]}],["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"wrap header-in","children":[["$","$L4",null,{"href":"/","className":"brand","aria-label":"my3dprinter.io home","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","nav",null,{"aria-label":"Main","className":"nav","children":[["$","$L4","/converters/",{"href":"/converters/","children":"Converters"}],["$","$L4","/3d-viewer/",{"href":"/3d-viewer/","children":"3D viewer"}],["$","$L4","/image-to-stl/",{"href":"/image-to-stl/","children":"Image to STL"}],["$","$L4","/printers/",{"href":"/printers/","children":"Printers"}],["$","$L4","/blog/",{"href":"/blog/","children":"Blog"}]]}],["$","div",null,{"className":"header-actions","children":[["$","$L5",null,{"lang":"en","langs":[{"code":"en","name":"English"},{"code":"de","name":"Deutsch"},{"code":"es","name":"Español"},{"code":"fr","name":"Français"},{"code":"it","name":"Italiano"},{"code":"ja","name":"日本語"},{"code":"ko","name":"한국어"},{"code":"pt","name":"Português"},{"code":"vi","name":"Tiếng Việt"},{"code":"th","name":"ไทย"},{"code":"zh","name":"简体中文"},{"code":"ru","name":"Русский"}],"localized":["/","/converters/","/3mf-to-stl/","/glb-to-stl/","/stl-to-3mf/","/step-to-stl/","/glb-to-obj/","/obj-to-stl/","/stl-to-obj/","/fbx-to-obj/","/gcode-to-stl/","/fbx-to-stl/","/zip-to-stl/","/stp-to-stl/","/dae-to-obj/","/gltf-to-obj/","/stl-to-dxf/","/obj-to-glb/","/gltf-to-stl/","/fbx-to-glb/","/ply-to-stl/","/3mf-to-obj/","/dae-to-stl/","/usdz-to-stl/","/ply-to-obj/","/stp-to-obj/","/3ds-to-obj/","/igs-to-stl/","/stl-to-glb/","/obj-to-3mf/","/glb-to-3mf/","/stl-to-usdz/","/glb-to-usdz/","/step-to-obj/","/step-to-3mf/","/stl-to-ply/","/fbx-to-gltf/","/image-to-stl/","/png-to-stl/","/jpg-to-stl/","/jpeg-to-stl/","/lithophane-maker/","/png-to-obj/","/png-to-3mf/","/svg-to-stl/","/svg-to-obj/","/png-to-dds/","/jpg-to-dds/","/dds-to-png/","/dds-to-jpg/","/3d-viewer/","/stl-viewer/","/3mf-viewer/","/obj-viewer/","/glb-viewer/","/step-viewer/","/ply-viewer/","/fbx-viewer/","/gltf-viewer/"],"label":"Language"}],["$","$L6",null,{"links":[["/converters/","Converters"],["/3d-viewer/","3D viewer"],["/image-to-stl/","Image to STL"],["/printers/","Printers"],["/blog/","Blog"],["/printers/compare/","Compare printers"]],"label":"Menu"}]]}]]}]}],["$","main",null,{"id":"main","className":"wrap","style":{"padding":"64px 24px"},"children":[["$","h1",null,{"children":"Page not found"}],["$","p",null,{"className":"lead","children":"This page does not exist. Try a converter or the 3D viewer."}],["$","p",null,{"children":["$","$L4",null,{"className":"btn btn-accent","href":"/converters/","children":"All converters"}]}]]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"wrap footer-grid","children":[["$","div",null,{"className":"footer-brand","children":[["$","$L4",null,{"href":"/","className":"brand","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":["$L7","$L8"]}]," ","$L9"]}],"$La"]}],["$Lb","$Lc","$Ld","$Le","$Lf"]]}],"$L10"]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["(en)","$L11",{"children":["blog","$L12",{"children":[["slug","3d-printed-car","d"],"$L13",{"children":["__PAGE__","$L14",{},null,false]},null,false]},null,false]},null,false]},null,false],"$L15",false]],"m":"$undefined","G":["$16",[]],"s":false,"S":true}
+1b:I[4431,[],"OutletBoundary"]
+1d:I[5278,[],"AsyncMetadataOutlet"]
+1f:I[4431,[],"ViewportBoundary"]
+21:I[4431,[],"MetadataBoundary"]
+22:"$Sreact.suspense"
+7:["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}]
+8:["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]
+9:["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]
+a:["$","p",null,{"children":"Free tools that run in your browser. Your files are never uploaded."}]
+b:["$","div","Converters",{"children":[["$","h2",null,{"children":"Converters"}],["$","ul",null,{"children":[["$","li","/3mf-to-stl/",{"children":["$","$L4",null,{"href":"/3mf-to-stl/","children":"3MF → STL"}]}],["$","li","/step-to-stl/",{"children":["$","$L4",null,{"href":"/step-to-stl/","children":"STEP → STL"}]}],["$","li","/glb-to-stl/",{"children":["$","$L4",null,{"href":"/glb-to-stl/","children":"GLB → STL"}]}],["$","li","/obj-to-stl/",{"children":["$","$L4",null,{"href":"/obj-to-stl/","children":"OBJ → STL"}]}],["$","li","/stl-to-3mf/",{"children":["$","$L4",null,{"href":"/stl-to-3mf/","children":"STL → 3MF"}]}],["$","li","/converters/",{"children":["$","$L4",null,{"href":"/converters/","children":"All converters"}]}]]}]]}]
+c:["$","div","Images & textures",{"children":[["$","h2",null,{"children":"Images & textures"}],["$","ul",null,{"children":[["$","li","/image-to-stl/",{"children":["$","$L4",null,{"href":"/image-to-stl/","children":"Image to STL"}]}],["$","li","/lithophane-maker/",{"children":["$","$L4",null,{"href":"/lithophane-maker/","children":"Lithophane maker"}]}],["$","li","/svg-to-stl/",{"children":["$","$L4",null,{"href":"/svg-to-stl/","children":"SVG → STL"}]}],["$","li","/png-to-dds/",{"children":["$","$L4",null,{"href":"/png-to-dds/","children":"PNG → DDS"}]}],["$","li","/dds-to-png/",{"children":["$","$L4",null,{"href":"/dds-to-png/","children":"DDS → PNG"}]}]]}]]}]
+d:["$","div","Viewers",{"children":[["$","h2",null,{"children":"Viewers"}],["$","ul",null,{"children":[["$","li","/3d-viewer/",{"children":["$","$L4",null,{"href":"/3d-viewer/","children":"Online 3D model viewer"}]}],["$","li","/stl-viewer/",{"children":["$","$L4",null,{"href":"/stl-viewer/","children":"STL viewer"}]}],["$","li","/3mf-viewer/",{"children":["$","$L4",null,{"href":"/3mf-viewer/","children":"3MF viewer"}]}],["$","li","/step-viewer/",{"children":["$","$L4",null,{"href":"/step-viewer/","children":"STEP viewer"}]}],["$","li","/obj-viewer/",{"children":["$","$L4",null,{"href":"/obj-viewer/","children":"OBJ viewer"}]}]]}]]}]
+e:["$","div","my3dprinter.io",{"children":[["$","h2",null,{"children":"my3dprinter.io"}],["$","ul",null,{"children":[["$","li","/printers/",{"children":["$","$L4",null,{"href":"/printers/","children":"3D printers"}]}],["$","li","/printers/compare/",{"children":["$","$L4",null,{"href":"/printers/compare/","children":"Compare printers"}]}],["$","li","/blog/",{"children":["$","$L4",null,{"href":"/blog/","children":"Blog"}]}],["$","li","/formats/",{"children":["$","$L4",null,{"href":"/formats/","children":"File formats"}]}],["$","li","/about/",{"children":["$","$L4",null,{"href":"/about/","children":"About"}]}],["$","li","/contact/",{"children":["$","$L4",null,{"href":"/contact/","children":"Contact"}]}]]}]]}]
+f:["$","div","Legal",{"children":[["$","h2",null,{"children":"Legal"}],["$","ul",null,{"children":[["$","li","/privacy/",{"children":["$","$L4",null,{"href":"/privacy/","children":"Privacy policy"}]}],["$","li","/cookies/",{"children":["$","$L4",null,{"href":"/cookies/","children":"Cookie policy"}]}],["$","li","/terms/",{"children":["$","$L4",null,{"href":"/terms/","children":"Terms of use"}]}],["$","li","/disclaimer/",{"children":["$","$L4",null,{"href":"/disclaimer/","children":"Disclaimer"}]}]]}]]}]
+10:["$","div",null,{"className":"wrap footer-base","children":["$","p",null,{"children":["© ",2026," my3dprinter.io. ","Brand and product names belong to their owners; my3dprinter.io is an independent site and is not affiliated with any printer maker."]}]}]
+11:["$","$1","c",{"children":[null,[["$","a",null,{"className":"skip","href":"#main","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"wrap header-in","children":[["$","$L4",null,{"href":"/","className":"brand","aria-label":"my3dprinter.io home","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","nav",null,{"aria-label":"Main","className":"nav","children":[["$","$L4","/converters/",{"href":"/converters/","children":"Converters"}],["$","$L4","/3d-viewer/",{"href":"/3d-viewer/","children":"3D viewer"}],["$","$L4","/image-to-stl/",{"href":"/image-to-stl/","children":"Image to STL"}],["$","$L4","/printers/",{"href":"/printers/","children":"Printers"}],["$","$L4","/blog/",{"href":"/blog/","children":"Blog"}]]}],["$","div",null,{"className":"header-actions","children":[["$","$L5",null,{"lang":"en","langs":[{"code":"en","name":"English"},{"code":"de","name":"Deutsch"},{"code":"es","name":"Español"},{"code":"fr","name":"Français"},{"code":"it","name":"Italiano"},{"code":"ja","name":"日本語"},{"code":"ko","name":"한국어"},{"code":"pt","name":"Português"},{"code":"vi","name":"Tiếng Việt"},{"code":"th","name":"ไทย"},{"code":"zh","name":"简体中文"},{"code":"ru","name":"Русский"}],"localized":"$0:f:0:1:1:props:children:1:props:children:1:props:children:props:notFound:0:0:props:children:props:children:2:props:children:0:props:localized","label":"Language"}],["$","$L6",null,{"links":[["/converters/","Converters"],["/3d-viewer/","3D viewer"],["/image-to-stl/","Image to STL"],["/printers/","Printers"],["/blog/","Blog"],["/printers/compare/","Compare printers"]],"label":"Menu"}]]}]]}]}],["$","main",null,{"id":"main","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"wrap footer-grid","children":[["$","div",null,{"className":"footer-brand","children":[["$","$L4",null,{"href":"/","className":"brand","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","p",null,{"children":"Free tools that run in your browser. Your files are never uploaded."}]]}],[["$","div","Converters",{"children":[["$","h2",null,{"children":"Converters"}],["$","ul",null,{"children":[["$","li","/3mf-to-stl/",{"children":["$","$L4",null,{"href":"/3mf-to-stl/","children":"3MF → STL"}]}],["$","li","/step-to-stl/",{"children":["$","$L4",null,{"href":"/step-to-stl/","children":"STEP → STL"}]}],["$","li","/glb-to-stl/",{"children":["$","$L4",null,{"href":"/glb-to-stl/","children":"GLB → STL"}]}],["$","li","/obj-to-stl/",{"children":["$","$L4",null,{"href":"/obj-to-stl/","children":"OBJ → STL"}]}],["$","li","/stl-to-3mf/",{"children":["$","$L4",null,{"href":"/stl-to-3mf/","children":"STL → 3MF"}]}],["$","li","/converters/",{"children":["$","$L4",null,{"href":"/converters/","children":"All converters"}]}]]}]]}],["$","div","Images & textures",{"children":[["$","h2",null,{"children":"Images & textures"}],["$","ul",null,{"children":[["$","li","/image-to-stl/",{"children":["$","$L4",null,{"href":"/image-to-stl/","children":"Image to STL"}]}],["$","li","/lithophane-maker/",{"children":["$","$L4",null,{"href":"/lithophane-maker/","children":"Lithophane maker"}]}],["$","li","/svg-to-stl/",{"children":["$","$L4",null,{"href":"/svg-to-stl/","children":"SVG → STL"}]}],["$","li","/png-to-dds/",{"children":["$","$L4",null,{"href":"/png-to-dds/","children":"PNG → DDS"}]}],["$","li","/dds-to-png/",{"children":["$","$L4",null,{"href":"/dds-to-png/","children":"DDS → PNG"}]}]]}]]}],["$","div","Viewers",{"children":[["$","h2",null,{"children":"Viewers"}],["$","ul",null,{"children":[["$","li","/3d-viewer/",{"children":["$","$L4",null,{"href":"/3d-viewer/","children":"Online 3D model viewer"}]}],["$","li","/stl-viewer/",{"children":["$","$L4",null,{"href":"/stl-viewer/","children":"STL viewer"}]}],["$","li","/3mf-viewer/",{"children":["$","$L4",null,{"href":"/3mf-viewer/","children":"3MF viewer"}]}],["$","li","/step-viewer/",{"children":["$","$L4",null,{"href":"/step-viewer/","children":"STEP viewer"}]}],["$","li","/obj-viewer/",{"children":["$","$L4",null,{"href":"/obj-viewer/","children":"OBJ viewer"}]}]]}]]}],"$L17","$L18"]]}],"$L19"]}]]]}]
+12:["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+13:["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+14:["$","$1","c",{"children":["$L1a",null,["$","$L1b",null,{"children":["$L1c",["$","$L1d",null,{"promise":"$@1e"}]]}]]}]
+15:["$","$1","h",{"children":[null,[["$","$L1f",null,{"children":"$L20"}],null],["$","$L21",null,{"children":["$","div",null,{"hidden":true,"children":["$","$22",null,{"fallback":null,"children":"$L23"}]}]}]]}]
+17:["$","div","my3dprinter.io",{"children":[["$","h2",null,{"children":"my3dprinter.io"}],["$","ul",null,{"children":[["$","li","/printers/",{"children":["$","$L4",null,{"href":"/printers/","children":"3D printers"}]}],["$","li","/printers/compare/",{"children":["$","$L4",null,{"href":"/printers/compare/","children":"Compare printers"}]}],["$","li","/blog/",{"children":["$","$L4",null,{"href":"/blog/","children":"Blog"}]}],["$","li","/formats/",{"children":["$","$L4",null,{"href":"/formats/","children":"File formats"}]}],["$","li","/about/",{"children":["$","$L4",null,{"href":"/about/","children":"About"}]}],["$","li","/contact/",{"children":["$","$L4",null,{"href":"/contact/","children":"Contact"}]}]]}]]}]
+18:["$","div","Legal",{"children":[["$","h2",null,{"children":"Legal"}],["$","ul",null,{"children":[["$","li","/privacy/",{"children":["$","$L4",null,{"href":"/privacy/","children":"Privacy policy"}]}],["$","li","/cookies/",{"children":["$","$L4",null,{"href":"/cookies/","children":"Cookie policy"}]}],["$","li","/terms/",{"children":["$","$L4",null,{"href":"/terms/","children":"Terms of use"}]}],["$","li","/disclaimer/",{"children":["$","$L4",null,{"href":"/disclaimer/","children":"Disclaimer"}]}]]}]]}]
+19:["$","div",null,{"className":"wrap footer-base","children":["$","p",null,{"children":["© ",2026," my3dprinter.io. ","Brand and product names belong to their owners; my3dprinter.io is an independent site and is not affiliated with any printer maker."]}]}]
+24:Tebf,{"@context":"https://schema.org","@graph":[{"@type":"Article","headline":"3D printed car – printable models, RC cars, car parts and real 3D printed cars","description":"3D printed car guide – print-in-place and RC car models, filament and settings, car accessories you can print, and real cars built with 3D printing.","datePublished":"2026-11-27","dateModified":"2026-11-27","mainEntityOfPage":"https://my3dprinter.io/blog/3d-printed-car/","inLanguage":"en","author":{"@type":"Organization","name":"my3dprinter.io","url":"https://my3dprinter.io"},"publisher":{"@type":"Organization","@id":"https://my3dprinter.io/#organization","name":"my3dprinter.io","url":"https://my3dprinter.io/","logo":{"@type":"ImageObject","url":"https://my3dprinter.io/icon-512.png","width":512,"height":512},"email":"hello@my3dprinter.io","description":"Free 3D file converters, viewers and 3D printer guides"},"image":"https://my3dprinter.io/images/blog/3d-printed-car.webp","citation":["https://venturebeat.com/business/worlds-first-3d-printed-car-takes-inaugural-drive","https://en.wikipedia.org/wiki/Strati_(automobile)","https://www.czinger.com/news/3","https://www.asme.org/Topics-Resources/Content/3D-Printing-Meets-High-Performance-in-Czinger-Hypercars","https://newsroom.bugatti.com/press-releases/world-premiere-brake-caliper-from-3-d-printer","https://www.3dnatives.com/en/3d-printed-lamborghini-120720195/","https://www.thedrive.com/news/28892/father-and-son-3d-print-lamborghini-aventador-replica-with-corvette-engine-for-20000","https://matterhackers.com/articles/how-to-3d-print-and-build-an-rc-car","https://www.printables.com/model/2714-openrc-f1-car-110-rc-car","https://wiki.bambulab.com/en/general/filament-guide-material-table"]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://my3dprinter.io/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://my3dprinter.io/blog/"},{"@type":"ListItem","position":3,"name":"3D printed car – printable models, RC cars, car parts and real 3D printed cars","item":"https://my3dprinter.io/blog/3d-printed-car/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Is it possible to 3D print a car?","acceptedAnswer":{"@type":"Answer","text":"You can print a complete toy or model car, and a radio-controlled car apart from its electronics, motor and bearings. Full-size cars have been built with printed bodies or chassis, such as the Local Motors Strati, but the engine or motor, wheels, tyres, glass and electronics still come from conventional parts."}},{"@type":"Question","name":"What is the best filament for a 3D printed car?","acceptedAnswer":{"@type":"Answer","text":"PLA is the easiest for display models and print-in-place toy cars. Use TPU for grippy, flexible tyres, PETG or nylon-based filaments for RC car parts that take crashes, and ASA for anything that stays in a real car, because PLA softens in heat."}},{"@type":"Question","name":"How much does a 3D printed car cost?","acceptedAnswer":{"@type":"Answer","text":"A small print-in-place toy car uses only a few grams of filament. A printed RC car also needs a motor, speed controller, servo, receiver, battery and transmitter, which usually cost more than the plastic. Full-size projects are a different scale; the father-and-son Lamborghini Aventador replica was reported to cost around 20,000 US dollars."}},{"@type":"Question","name":"Is it legal to 3D print a car?","acceptedAnswer":{"@type":"Answer","text":"Printing a model or RC car is legal, but check the design's licence before you sell prints. A home-built road car must meet the same registration, inspection and safety rules as any other self-built vehicle where you live, and printing does not exempt it from them."}}]}]}1a:["$","div",null,{"className":"wrap","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$24"}}],"$L25","$L26","$L27"]}]
+25:["$","nav",null,{"className":"crumbs","aria-label":"Breadcrumb","children":[["$","$L4",null,{"href":"/","children":"Home"}]," / ",["$","$L4",null,{"href":"/blog/","children":"Blog"}]," / ","3D printed car – printable models, RC cars, car parts and real 3D printed cars"]}]
+28:T3df4,<p><strong>A 3D printed car is usually a toy, scale model or radio-controlled car printed at home, but the term also covers real cars whose body or chassis was made with industrial 3D printing.</strong> Search results mix both: model libraries full of printable cars, RC car build videos, and news about printed supercars and garage-built replicas. This guide covers both sides. It explains the main types of printable car models, how to print and assemble them, which filament to use, which car accessories are worth printing, and what real-world cars actually use 3D printing for. Facts about real cars come from the manufacturers&#39; own announcements or at least two reputable reports, checked November 2026. We do not review or rank individual models or kits.</p>
+<h2>3D printed car types at a glance</h2>
+<table>
+<thead>
+<tr>
+<th>Type</th>
+<th>What you print</th>
+<th>Extra parts</th>
+<th>Difficulty</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Print-in-place toy car</td>
+<td>Whole car in one job, wheels already turn</td>
+<td>None</td>
+<td>Beginner</td>
+</tr>
+<tr>
+<td>Articulated or kinetic car</td>
+<td>Car with steering, suspension or moving parts printed in place</td>
+<td>None, or a pin or two</td>
+<td>Beginner</td>
+</tr>
+<tr>
+<td>Pullback or rubber-band car</td>
+<td>Body, chassis and gears</td>
+<td>Rubber band, spring or small pullback motor</td>
+<td>Beginner to intermediate</td>
+</tr>
+<tr>
+<td>Snap-fit or glued scale model</td>
+<td>Many parts, often split for multicolour or painting</td>
+<td>Glue, paint, sometimes screws</td>
+<td>Intermediate</td>
+</tr>
+<tr>
+<td>RC car</td>
+<td>Chassis, suspension, body, often tyres and gears</td>
+<td>Motor, speed controller (ESC), servo, receiver, battery, transmitter, screws, bearings</td>
+<td>Intermediate to advanced</td>
+</tr>
+<tr>
+<td>Car accessories and interior clips</td>
+<td>Holders, adapters, covers, organisers</td>
+<td>Sometimes magnets or screws</td>
+<td>Beginner</td>
+</tr>
+<tr>
+<td>Full-size car</td>
+<td>Body panels or structure in industrial projects</td>
+<td>Everything mechanical and electrical</td>
+<td>Industrial or long-term project</td>
+</tr>
+</tbody></table>
+<h2>Types of 3D printable car models</h2>
+<p><strong>Print-in-place cars</strong> are the most common starting point. The wheels and axles are printed already assembled, with a small gap between the moving parts, so the car rolls straight off the build plate. They print without supports and make good first prints for children – see our guide to <a href="/blog/3d-printed-toys/">3D printed toys</a> for safety and filament tips.</p>
+<p><strong>Articulated and kinetic cars</strong> add movement: steering that turns the front wheels, bouncing suspension or doors on printed hinges. They are a close cousin of the fidget designs in our <a href="/blog/3d-printed-fidget-toys/">3D printed fidget toys</a> guide and rely on the same clearances.</p>
+<p><strong>Pullback and rubber-band cars</strong> store energy in a band, spring or small bought pullback unit. Some designs print the gear train too. These are popular as school projects because you can measure how far each version travels.</p>
+<p><strong>Scale models</strong> recreate real cars as display pieces. They are usually split into many parts so you can print each in its own colour or paint it, and finer details come out better on smaller nozzles or resin printers. Designs of licensed car shapes are often shared for personal use only – check the licence (more below).</p>
+<p><strong>RC cars</strong> are the most demanding. You print the chassis, suspension arms, body and often the tyres and gears, then add bought electronics. Open-source projects have existed for years; Daniel Norée&#39;s OpenRC series, including a 1:10 Formula 1 car, is one of the best-known, and several commercial designers now sell printable RC car files too.</p>
+<h2>How to print a print-in-place toy car</h2>
+<p>Print-in-place parts only work if the gap between the axle and the wheel stays open. That makes calibration more important than fancy settings.</p>
+<ol>
+<li><strong>Print it at the size the designer intended.</strong> Scaling the model down shrinks the clearance gaps too, and the wheels fuse to the axles. Scaling up is usually safer than scaling down.</li>
+<li><strong>Get the first layer right.</strong> A squashed first layer spreads sideways (&quot;elephant&#39;s foot&quot;) and can glue the lowest part of a wheel to the body. Level the bed and do not over-squish.</li>
+<li><strong>Do not add supports</strong> unless the designer says so. Supports inside the moving gaps are almost impossible to remove.</li>
+<li><strong>Use the recommended layer height.</strong> Fine gaps often print more reliably at 0.2 mm or below.</li>
+<li><strong>Free the parts after printing.</strong> Let the print cool, then turn each wheel firmly by hand to break any thin strands. Do not use pliers on a hot print.</li>
+</ol>
+<p><strong>Tip:</strong> if wheels stay stuck, reduce flow slightly or check for over-extrusion before blaming the model. A short calibration print saves a lot of failed cars.</p>
+<h2>3D printed RC cars: what you need</h2>
+<p>A printed RC car is a real build project. The printed parts are only half the bill of materials. MatterHackers&#39; OpenRC F1 build guide lists the usual electronics: motor, electronic speed controller (ESC), steering servo, receiver, LiPo battery and a transmitter, plus metal parts such as an aluminium rod for the steering and M3 screws and nuts that sit in printed slots.</p>
+<p>Typical things to plan for:</p>
+<ul>
+<li><strong>Electronics:</strong> check the motor and battery size the design was made for. The chassis has to fit the battery, and the motor mount has to match the motor.</li>
+<li><strong>Hardware:</strong> screws, nuts and often ball bearings. Designers list exact sizes in the bill of materials; buy them before you start printing.</li>
+<li><strong>Strong parts:</strong> suspension arms, steering knuckles and gear mounts take crash loads. Many builders use tougher filaments for these – the MatterHackers build used a nylon filament for spoilers and bottom panels and PLA for display parts that needed to be stiffer.</li>
+<li><strong>Tyres:</strong> printed TPU tyres are common, because flexible filament grips better than hard plastic. Our <a href="/blog/tpu-filament/">TPU filament guide</a> covers printing it.</li>
+<li><strong>Fit:</strong> calibrate your printer so nut slots and bearing seats fit snugly. Tight slots are easier to fix than loose ones.</li>
+<li><strong>LiPo safety:</strong> charge LiPo batteries with a proper balance charger, never leave them charging unattended, and stop using any battery that swells.</li>
+</ul>
+<p><strong>Tip:</strong> print and assemble one corner of the suspension first. If the fit is wrong, you lose one part rather than a whole set.</p>
+<h2>Best filament for 3D printed cars</h2>
+<table>
+<thead>
+<tr>
+<th>Filament</th>
+<th>Best for</th>
+<th>Avoid for</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>PLA</td>
+<td>Display models, print-in-place toys, bodies of indoor RC cars</td>
+<td>Anything left in a hot car or in sunlight</td>
+</tr>
+<tr>
+<td>PETG</td>
+<td>Tougher toys, RC bodies and brackets that get knocked</td>
+<td>Very fine detail; it strings more than PLA</td>
+</tr>
+<tr>
+<td>TPU</td>
+<td>Tyres, bumpers, flexible mounts</td>
+<td>Rigid structural parts</td>
+</tr>
+<tr>
+<td>ASA</td>
+<td>Accessories that live inside a real car or outdoors</td>
+<td>Beginners without an enclosure; it warps like ABS</td>
+</tr>
+<tr>
+<td>Nylon and nylon-CF</td>
+<td>RC suspension arms, gears, crash-prone parts</td>
+<td>Printers without a dry box and, ideally, an enclosure</td>
+</tr>
+<tr>
+<td>Resin</td>
+<td>Small, highly detailed scale models</td>
+<td>Moving parts and toys that get dropped; cured resin is brittle and uncured resin needs careful handling</td>
+</tr>
+</tbody></table>
+<p>Bambu Lab&#39;s filament table advises against PLA for parts used at around 50 °C or higher, and a car parked in the sun can easily get hotter than that inside. For anything that stays in a real car, ASA is the usual choice – our <a href="/blog/asa-filament/">ASA filament guide</a> explains how to print it.</p>
+<h2>Car accessories and parts you can 3D print</h2>
+<p>Printing small parts for a real car is one of the most practical uses of a home printer. Popular, low-risk ideas include:</p>
+<ul>
+<li>Phone and dash-cam mounts that clip into air vents or existing holes</li>
+<li>Cup-holder adapters and inserts for bottles that do not fit</li>
+<li>Trim clips, cable clips and small covers that are no longer sold</li>
+<li>Seat-gap fillers, boot organisers and storage boxes</li>
+<li>Key fob shells, valve caps and badges</li>
+<li>Holders for parking discs, toll tags or garage remotes</li>
+</ul>
+<p><strong>What not to print:</strong> do not replace anything that affects safety – brake, steering, suspension or seat-belt parts, wheel spacers, or mounts for anything that could fly loose in a crash. Home-printed plastic is not tested for those loads. Also avoid printed parts near the engine or exhaust, where temperatures exceed what consumer filaments tolerate.</p>
+<p><strong>Tip:</strong> measure the original part with calipers, model it with a little extra clearance, and print a quick test in PLA to check the fit before printing the final part in ASA or PETG. Open the file in an STL viewer to check its size before slicing. For more home ideas, see <a href="/blog/what-to-3d-print/">what to 3D print</a>.</p>
+<h2>Real 3D printed cars</h2>
+<p>Real cars use 3D printing in three main ways: to print large structures (body or chassis), to print lighter metal parts, and to make prototypes and one-off replicas. A few well-documented examples:</p>
+<table>
+<thead>
+<tr>
+<th>Car or part</th>
+<th>Year</th>
+<th>What was printed</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Local Motors Strati</td>
+<td>2014</td>
+<td>Main body structure, printed in about 44 hours</td>
+<td>Reports from the IMTS show</td>
+</tr>
+<tr>
+<td>Bugatti Chiron brake caliper</td>
+<td>2018</td>
+<td>Eight-piston titanium brake caliper</td>
+<td>Bugatti press release</td>
+</tr>
+<tr>
+<td>Czinger 21C</td>
+<td>Shown 2020</td>
+<td>Chassis structures, &quot;printed and assembled&quot;</td>
+<td>Czinger</td>
+</tr>
+<tr>
+<td>Lamborghini Aventador replica (Sterling Backus)</td>
+<td>2019 onward</td>
+<td>Body panels and many interior parts on desktop printers</td>
+<td>3Dnatives, The Drive</td>
+</tr>
+</tbody></table>
+<p><strong>Local Motors Strati.</strong> At the IMTS manufacturing show in Chicago in 2014, Local Motors printed the Strati&#39;s structure from carbon-fibre-reinforced ABS on Cincinnati Incorporated&#39;s large-format BAAM printer in about 44 hours, then milled and assembled it during the show. The powertrain and mechanical parts came from a Renault Twizy, and the wheels were bought in. The company said the design cut the part count to fewer than 50.</p>
+<p><strong>Bugatti titanium brake caliper.</strong> In 2018 Bugatti announced a brake caliper printed from Ti6Al4V titanium alloy, which it called the world&#39;s largest functional titanium part made by 3D printing. Bugatti said it weighs 2.9 kg against 4.9 kg for the aluminium caliper it was designed to replace, and takes about 45 hours to print.</p>
+<p><strong>Czinger 21C.</strong> Czinger describes the 21C&#39;s chassis as &quot;computationally engineered, printed and assembled&quot; using additive-manufacturing processes developed with its sister company Divergent. The car has a hybrid powertrain with a twin-turbo V8, and production is limited to 80 cars. ASME&#39;s coverage lists printed parts such as the rear subframe, gearbox case and a combined brake caliper and knuckle.</p>
+<p><strong>Garage-built Lamborghini replica.</strong> Physicist Sterling Backus and his son built a full-size Lamborghini Aventador replica, printing body panels on desktop FDM printers mostly in PLA, with ASA and ABS for light housings and carbon-fibre nylon for stronger interior parts. The printed panels were reinforced with carbon fibre, and the car uses a Corvette engine. 3Dnatives reported about 220 spools of filament, and both 3Dnatives and The Drive reported a budget of around 20,000 US dollars.</p>
+<p><strong>Why it matters:</strong> even the &quot;3D printed&quot; cars rely on conventional engines or motors, wheels, glass, electronics and bought components. Printing is used where it saves weight, parts or tooling, not for every part.</p>
+<h2>Can you 3D print a whole car at home?</h2>
+<p>You can print a complete toy or model car at home, and most of an RC car. A drivable full-size car is a multi-year project that combines printing with composites, machining, welding and a donor drivetrain, as the Aventador replica shows. Two practical limits apply:</p>
+<ul>
+<li><strong>Size:</strong> desktop printers have build volumes measured in tens of centimetres, so large parts have to be split, printed in sections and joined.</li>
+<li><strong>Rules:</strong> a home-built road vehicle must pass the same registration and safety checks as any self-built car where you live. Printing parts does not change that.</li>
+</ul>
+<h2>Where to find 3D printed car models (and licences)</h2>
+<p>Large free model libraries such as Printables, MakerWorld and Thingiverse have thousands of car designs, from simple print-in-place racers to full RC kits; paid marketplaces and individual designers sell more complex RC models. Search for terms like &quot;print in place car&quot;, &quot;RC car&quot;, &quot;pullback car&quot; or &quot;1:10 scale&quot;.</p>
+<p>Before you print or share:</p>
+<ul>
+<li><strong>Read the licence.</strong> Many free car models are for personal use only and do not allow selling prints. Some designers allow sales with credit.</li>
+<li><strong>Watch for car brands.</strong> Models of real cars may use protected names and shapes. Personal printing is one thing; selling printed replicas with a maker&#39;s name or badge is another.</li>
+<li><strong>Check the file.</strong> Open STL or 3MF files in a viewer before slicing to check scale and whether parts are already laid out for printing. Our 3MF viewer works in the browser, with no upload.</li>
+</ul>
+<h2>Checklist: printing your first 3D printed car</h2>
+<ol>
+<li><strong>Pick the type:</strong> a print-in-place toy car for a first job, an RC car only when you are comfortable with calibration and assembly.</li>
+<li><strong>Check the licence</strong> and read the designer&#39;s notes for scale, filament and supports.</li>
+<li><strong>Check the files</strong> in a viewer and confirm the parts fit your build plate.</li>
+<li><strong>Choose filament:</strong> PLA for models and toys, TPU for tyres, PETG or nylon for crash parts, ASA for anything in a real car.</li>
+<li><strong>Calibrate:</strong> level the bed, check the first layer and print a small tolerance test if the design has moving parts.</li>
+<li><strong>Print without scaling down</strong> print-in-place parts, and avoid supports in the moving gaps.</li>
+<li><strong>Buy hardware early</strong> for RC cars: screws, bearings and electronics listed in the bill of materials.</li>
+<li><strong>Assemble step by step</strong>, test-fitting each part, and keep small parts away from children under 3.</li>
+</ol>
+<h2>Verdict</h2>
+<p>For most people a 3D printed car means a model to print, and that is easy to start with: a print-in-place car prints in one job on any home printer, and RC cars are a satisfying next step once you are ready to buy electronics and calibrate for tight fits. Use PLA for display and toys, TPU for tyres and tougher filaments for crash parts, and keep PLA out of real cars. Full-size 3D printed cars exist, but they combine printed structures with conventional engines, motors and components – printing is one tool in the build, not the whole car.</p>
+26:["$","div",null,{"className":"split","children":[["$","article",null,{"className":"prose","children":[["$","h1",null,{"children":"3D printed car – printable models, RC cars, car parts and real 3D printed cars"}],["$","figure",null,{"className":"doc-hero","children":["$","img",null,{"src":"/images/blog/3d-printed-car.webp","alt":"Illustration of a printer finishing a small orange print-in-place toy car beside a half-built RC car chassis with loose tyres","width":1200,"height":675,"fetchPriority":"high","decoding":"async"}]}],["$","p",null,{"className":"muted small","children":["Updated ","November 27, 2026"]}],["$","div",null,{"className":"summary-box","children":[["$","b",null,{"children":"Key points"}],["$","ul",null,{"children":[["$","li","Most people who search for a 3D printed car want a model to print at home, from print-in-place toy cars to radio-controlled cars that combine printed parts with a bought motor, servo and battery.",{"children":"Most people who search for a 3D printed car want a model to print at home, from print-in-place toy cars to radio-controlled cars that combine printed parts with a bought motor, servo and battery."}],["$","li","PLA suits display models and toys, TPU suits tyres, and PETG or ASA suit parts that take knocks, sunlight or the heat inside a parked car.",{"children":"PLA suits display models and toys, TPU suits tyres, and PETG or ASA suit parts that take knocks, sunlight or the heat inside a parked car."}],["$","li","No full road car is printed in one piece; the best-known examples, such as the Local Motors Strati and the Czinger 21C, print the structure and use conventional powertrains, wheels and electronics.",{"children":"No full road car is printed in one piece; the best-known examples, such as the Local Motors Strati and the Czinger 21C, print the structure and use conventional powertrains, wheels and electronics."}]]}]]}],null,["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$28"}}]]}],"$L29"]}]
+27:["$","section",null,{"className":"section faq","aria-labelledby":"faq-h","children":[["$","h2",null,{"id":"faq-h","children":"Questions and answers"}],["$","div",null,{"className":"faq-list","children":[["$","details","Is it possible to 3D print a car?",{"children":[["$","summary",null,{"children":"Is it possible to 3D print a car?"}],["$","p",null,{"children":"You can print a complete toy or model car, and a radio-controlled car apart from its electronics, motor and bearings. Full-size cars have been built with printed bodies or chassis, such as the Local Motors Strati, but the engine or motor, wheels, tyres, glass and electronics still come from conventional parts."}]]}],["$","details","What is the best filament for a 3D printed car?",{"children":[["$","summary",null,{"children":"What is the best filament for a 3D printed car?"}],["$","p",null,{"children":"PLA is the easiest for display models and print-in-place toy cars. Use TPU for grippy, flexible tyres, PETG or nylon-based filaments for RC car parts that take crashes, and ASA for anything that stays in a real car, because PLA softens in heat."}]]}],["$","details","How much does a 3D printed car cost?",{"children":[["$","summary",null,{"children":"How much does a 3D printed car cost?"}],["$","p",null,{"children":"A small print-in-place toy car uses only a few grams of filament. A printed RC car also needs a motor, speed controller, servo, receiver, battery and transmitter, which usually cost more than the plastic. Full-size projects are a different scale; the father-and-son Lamborghini Aventador replica was reported to cost around 20,000 US dollars."}]]}],["$","details","Is it legal to 3D print a car?",{"children":[["$","summary",null,{"children":"Is it legal to 3D print a car?"}],["$","p",null,{"children":"Printing a model or RC car is legal, but check the design's licence before you sell prints. A home-built road car must meet the same registration, inspection and safety rules as any other self-built vehicle where you live, and printing does not exempt it from them."}]]}]]}]]}]
+29:["$","aside",null,{"className":"aside","children":[["$","div",null,{"className":"facts","children":[["$","b",null,{"children":"Tools for this"}],["$","div",null,{"className":"tool-grid","style":{"marginTop":10,"gridTemplateColumns":"1fr"},"children":[["$","$L4","stl-viewer",{"className":"tool-link","href":"/stl-viewer/","children":"STL viewer"}],["$","$L4","3mf-viewer",{"className":"tool-link","href":"/3mf-viewer/","children":"3MF viewer"}],["$","$L4","stl-to-3mf",{"className":"tool-link","href":"/stl-to-3mf/","children":"STL to 3MF converter"}]]}]]}],["$","div",null,{"className":"facts","children":[["$","b",null,{"children":"Open or convert a model"}],["$","p",null,{"className":"small","style":{"margin":"6px 0 10px"},"children":"View STL, 3MF, STEP and more in your browser."}],["$","$L4",null,{"className":"btn btn-accent","href":"/3d-viewer/","children":"3D viewer"}]]}]]}]
+20:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#10151C"}]]
+1c:null
+2a:I[622,[],"IconMark"]
+1e:{"metadata":[["$","title","0",{"children":"3D Printed Car – Models, RC Kits, Parts and Real Cars | my3dprinter.io"}],["$","meta","1",{"name":"description","content":"3D printed car guide – print-in-place and RC car models, filament and settings, car accessories you can print, and real cars built with 3D printing."}],["$","meta","2",{"name":"application-name","content":"my3dprinter.io"}],["$","link","3",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","4",{"name":"robots","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","5",{"rel":"canonical","href":"https://my3dprinter.io/blog/3d-printed-car/"}],["$","meta","6",{"name":"format-detection","content":"telephone=no"}],["$","meta","7",{"property":"og:title","content":"3D Printed Car – Models, RC Kits, Parts and Real Cars | my3dprinter.io"}],["$","meta","8",{"property":"og:description","content":"3D printed car guide – print-in-place and RC car models, filament and settings, car accessories you can print, and real cars built with 3D printing."}],["$","meta","9",{"property":"og:url","content":"https://my3dprinter.io/blog/3d-printed-car/"}],["$","meta","10",{"property":"og:site_name","content":"my3dprinter.io"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:image","content":"https://my3dprinter.io/images/blog/3d-printed-car.webp"}],["$","meta","13",{"property":"og:image:width","content":"1200"}],["$","meta","14",{"property":"og:image:height","content":"675"}],["$","meta","15",{"property":"og:image:alt","content":"3D Printed Car – Models, RC Kits, Parts and Real Cars"}],["$","meta","16",{"property":"og:type","content":"article"}],["$","meta","17",{"property":"article:published_time","content":"2026-11-27"}],["$","meta","18",{"property":"article:modified_time","content":"2026-11-27"}],["$","meta","19",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","20",{"name":"twitter:title","content":"3D Printed Car – Models, RC Kits, Parts and Real Cars | my3dprinter.io"}],["$","meta","21",{"name":"twitter:description","content":"3D printed car guide – print-in-place and RC car models, filament and settings, car accessories you can print, and real cars built with 3D printing."}],["$","meta","22",{"name":"twitter:image","content":"https://my3dprinter.io/images/blog/3d-printed-car.webp"}],["$","link","23",{"rel":"icon","href":"/favicon.ico","sizes":"48x48"}],["$","link","24",{"rel":"icon","href":"/icon.svg","type":"image/svg+xml"}],["$","link","25",{"rel":"icon","href":"/icon-192.png","sizes":"192x192","type":"image/png"}],["$","link","26",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","sizes":"180x180"}],["$","$L2a","27",{}]],"error":null,"digest":"$undefined"}
+23:"$1e:metadata"

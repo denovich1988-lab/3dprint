@@ -1,0 +1,179 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+4:I[2619,["2619","static/chunks/2619-3c9e02e22d10480a.js","4966","static/chunks/app/(en)/blog/%5Bslug%5D/page-6f60855278aa4f75.js"],""]
+5:I[1538,["2619","static/chunks/2619-3c9e02e22d10480a.js","90","static/chunks/app/(en)/layout-1d0e45a00e968cb3.js"],"default"]
+6:I[909,["2619","static/chunks/2619-3c9e02e22d10480a.js","90","static/chunks/app/(en)/layout-1d0e45a00e968cb3.js"],"default"]
+16:I[7150,[],""]
+:HL["/_next/static/css/93d1a12f2f4c9226.css","style"]
+0:{"P":null,"b":"rD7TGm9XF6FHQRkd5YG22","p":"","c":["","blog","what-to-3d-print",""],"i":false,"f":[[["",{"children":["(en)",{"children":["blog",{"children":[["slug","what-to-3d-print","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/93d1a12f2f4c9226.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","script",null,{"async":true,"src":"https://www.googletagmanager.com/gtm.js?id=GTM-T7SN8RQX"}],["$","script",null,{"async":true,"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3226858004021254","crossOrigin":"anonymous"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());"}}]]}],["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"wrap header-in","children":[["$","$L4",null,{"href":"/","className":"brand","aria-label":"my3dprinter.io home","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","nav",null,{"aria-label":"Main","className":"nav","children":[["$","$L4","/converters/",{"href":"/converters/","children":"Converters"}],["$","$L4","/3d-viewer/",{"href":"/3d-viewer/","children":"3D viewer"}],["$","$L4","/image-to-stl/",{"href":"/image-to-stl/","children":"Image to STL"}],["$","$L4","/printers/",{"href":"/printers/","children":"Printers"}],["$","$L4","/blog/",{"href":"/blog/","children":"Blog"}]]}],["$","div",null,{"className":"header-actions","children":[["$","$L5",null,{"lang":"en","langs":[{"code":"en","name":"English"},{"code":"de","name":"Deutsch"},{"code":"es","name":"Español"},{"code":"fr","name":"Français"},{"code":"it","name":"Italiano"},{"code":"ja","name":"日本語"},{"code":"ko","name":"한국어"},{"code":"pt","name":"Português"},{"code":"vi","name":"Tiếng Việt"},{"code":"th","name":"ไทย"},{"code":"zh","name":"简体中文"},{"code":"ru","name":"Русский"}],"localized":["/","/converters/","/3mf-to-stl/","/glb-to-stl/","/stl-to-3mf/","/step-to-stl/","/glb-to-obj/","/obj-to-stl/","/stl-to-obj/","/fbx-to-obj/","/gcode-to-stl/","/fbx-to-stl/","/zip-to-stl/","/stp-to-stl/","/dae-to-obj/","/gltf-to-obj/","/stl-to-dxf/","/obj-to-glb/","/gltf-to-stl/","/fbx-to-glb/","/ply-to-stl/","/3mf-to-obj/","/dae-to-stl/","/usdz-to-stl/","/ply-to-obj/","/stp-to-obj/","/3ds-to-obj/","/igs-to-stl/","/stl-to-glb/","/obj-to-3mf/","/glb-to-3mf/","/stl-to-usdz/","/glb-to-usdz/","/step-to-obj/","/step-to-3mf/","/stl-to-ply/","/fbx-to-gltf/","/image-to-stl/","/png-to-stl/","/jpg-to-stl/","/jpeg-to-stl/","/lithophane-maker/","/png-to-obj/","/png-to-3mf/","/svg-to-stl/","/svg-to-obj/","/png-to-dds/","/jpg-to-dds/","/dds-to-png/","/dds-to-jpg/","/3d-viewer/","/stl-viewer/","/3mf-viewer/","/obj-viewer/","/glb-viewer/","/step-viewer/","/ply-viewer/","/fbx-viewer/","/gltf-viewer/"],"label":"Language"}],["$","$L6",null,{"links":[["/converters/","Converters"],["/3d-viewer/","3D viewer"],["/image-to-stl/","Image to STL"],["/printers/","Printers"],["/blog/","Blog"],["/printers/compare/","Compare printers"]],"label":"Menu"}]]}]]}]}],["$","main",null,{"id":"main","className":"wrap","style":{"padding":"64px 24px"},"children":[["$","h1",null,{"children":"Page not found"}],["$","p",null,{"className":"lead","children":"This page does not exist. Try a converter or the 3D viewer."}],["$","p",null,{"children":["$","$L4",null,{"className":"btn btn-accent","href":"/converters/","children":"All converters"}]}]]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"wrap footer-grid","children":[["$","div",null,{"className":"footer-brand","children":[["$","$L4",null,{"href":"/","className":"brand","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":["$L7","$L8"]}]," ","$L9"]}],"$La"]}],["$Lb","$Lc","$Ld","$Le","$Lf"]]}],"$L10"]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["(en)","$L11",{"children":["blog","$L12",{"children":[["slug","what-to-3d-print","d"],"$L13",{"children":["__PAGE__","$L14",{},null,false]},null,false]},null,false]},null,false]},null,false],"$L15",false]],"m":"$undefined","G":["$16",[]],"s":false,"S":true}
+1b:I[4431,[],"OutletBoundary"]
+1d:I[5278,[],"AsyncMetadataOutlet"]
+1f:I[4431,[],"ViewportBoundary"]
+21:I[4431,[],"MetadataBoundary"]
+22:"$Sreact.suspense"
+7:["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}]
+8:["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]
+9:["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]
+a:["$","p",null,{"children":"Free tools that run in your browser. Your files are never uploaded."}]
+b:["$","div","Converters",{"children":[["$","h2",null,{"children":"Converters"}],["$","ul",null,{"children":[["$","li","/3mf-to-stl/",{"children":["$","$L4",null,{"href":"/3mf-to-stl/","children":"3MF → STL"}]}],["$","li","/step-to-stl/",{"children":["$","$L4",null,{"href":"/step-to-stl/","children":"STEP → STL"}]}],["$","li","/glb-to-stl/",{"children":["$","$L4",null,{"href":"/glb-to-stl/","children":"GLB → STL"}]}],["$","li","/obj-to-stl/",{"children":["$","$L4",null,{"href":"/obj-to-stl/","children":"OBJ → STL"}]}],["$","li","/stl-to-3mf/",{"children":["$","$L4",null,{"href":"/stl-to-3mf/","children":"STL → 3MF"}]}],["$","li","/converters/",{"children":["$","$L4",null,{"href":"/converters/","children":"All converters"}]}]]}]]}]
+c:["$","div","Images & textures",{"children":[["$","h2",null,{"children":"Images & textures"}],["$","ul",null,{"children":[["$","li","/image-to-stl/",{"children":["$","$L4",null,{"href":"/image-to-stl/","children":"Image to STL"}]}],["$","li","/lithophane-maker/",{"children":["$","$L4",null,{"href":"/lithophane-maker/","children":"Lithophane maker"}]}],["$","li","/svg-to-stl/",{"children":["$","$L4",null,{"href":"/svg-to-stl/","children":"SVG → STL"}]}],["$","li","/png-to-dds/",{"children":["$","$L4",null,{"href":"/png-to-dds/","children":"PNG → DDS"}]}],["$","li","/dds-to-png/",{"children":["$","$L4",null,{"href":"/dds-to-png/","children":"DDS → PNG"}]}]]}]]}]
+d:["$","div","Viewers",{"children":[["$","h2",null,{"children":"Viewers"}],["$","ul",null,{"children":[["$","li","/3d-viewer/",{"children":["$","$L4",null,{"href":"/3d-viewer/","children":"Online 3D model viewer"}]}],["$","li","/stl-viewer/",{"children":["$","$L4",null,{"href":"/stl-viewer/","children":"STL viewer"}]}],["$","li","/3mf-viewer/",{"children":["$","$L4",null,{"href":"/3mf-viewer/","children":"3MF viewer"}]}],["$","li","/step-viewer/",{"children":["$","$L4",null,{"href":"/step-viewer/","children":"STEP viewer"}]}],["$","li","/obj-viewer/",{"children":["$","$L4",null,{"href":"/obj-viewer/","children":"OBJ viewer"}]}]]}]]}]
+e:["$","div","my3dprinter.io",{"children":[["$","h2",null,{"children":"my3dprinter.io"}],["$","ul",null,{"children":[["$","li","/printers/",{"children":["$","$L4",null,{"href":"/printers/","children":"3D printers"}]}],["$","li","/printers/compare/",{"children":["$","$L4",null,{"href":"/printers/compare/","children":"Compare printers"}]}],["$","li","/blog/",{"children":["$","$L4",null,{"href":"/blog/","children":"Blog"}]}],["$","li","/formats/",{"children":["$","$L4",null,{"href":"/formats/","children":"File formats"}]}],["$","li","/about/",{"children":["$","$L4",null,{"href":"/about/","children":"About"}]}],["$","li","/contact/",{"children":["$","$L4",null,{"href":"/contact/","children":"Contact"}]}]]}]]}]
+f:["$","div","Legal",{"children":[["$","h2",null,{"children":"Legal"}],["$","ul",null,{"children":[["$","li","/privacy/",{"children":["$","$L4",null,{"href":"/privacy/","children":"Privacy policy"}]}],["$","li","/cookies/",{"children":["$","$L4",null,{"href":"/cookies/","children":"Cookie policy"}]}],["$","li","/terms/",{"children":["$","$L4",null,{"href":"/terms/","children":"Terms of use"}]}],["$","li","/disclaimer/",{"children":["$","$L4",null,{"href":"/disclaimer/","children":"Disclaimer"}]}]]}]]}]
+10:["$","div",null,{"className":"wrap footer-base","children":["$","p",null,{"children":["© ",2026," my3dprinter.io. ","Brand and product names belong to their owners; my3dprinter.io is an independent site and is not affiliated with any printer maker."]}]}]
+11:["$","$1","c",{"children":[null,[["$","a",null,{"className":"skip","href":"#main","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"wrap header-in","children":[["$","$L4",null,{"href":"/","className":"brand","aria-label":"my3dprinter.io home","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","nav",null,{"aria-label":"Main","className":"nav","children":[["$","$L4","/converters/",{"href":"/converters/","children":"Converters"}],["$","$L4","/3d-viewer/",{"href":"/3d-viewer/","children":"3D viewer"}],["$","$L4","/image-to-stl/",{"href":"/image-to-stl/","children":"Image to STL"}],["$","$L4","/printers/",{"href":"/printers/","children":"Printers"}],["$","$L4","/blog/",{"href":"/blog/","children":"Blog"}]]}],["$","div",null,{"className":"header-actions","children":[["$","$L5",null,{"lang":"en","langs":[{"code":"en","name":"English"},{"code":"de","name":"Deutsch"},{"code":"es","name":"Español"},{"code":"fr","name":"Français"},{"code":"it","name":"Italiano"},{"code":"ja","name":"日本語"},{"code":"ko","name":"한국어"},{"code":"pt","name":"Português"},{"code":"vi","name":"Tiếng Việt"},{"code":"th","name":"ไทย"},{"code":"zh","name":"简体中文"},{"code":"ru","name":"Русский"}],"localized":"$0:f:0:1:1:props:children:1:props:children:1:props:children:props:notFound:0:0:props:children:props:children:2:props:children:0:props:localized","label":"Language"}],["$","$L6",null,{"links":[["/converters/","Converters"],["/3d-viewer/","3D viewer"],["/image-to-stl/","Image to STL"],["/printers/","Printers"],["/blog/","Blog"],["/printers/compare/","Compare printers"]],"label":"Menu"}]]}]]}]}],["$","main",null,{"id":"main","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"wrap footer-grid","children":[["$","div",null,{"className":"footer-brand","children":[["$","$L4",null,{"href":"/","className":"brand","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","p",null,{"children":"Free tools that run in your browser. Your files are never uploaded."}]]}],[["$","div","Converters",{"children":[["$","h2",null,{"children":"Converters"}],["$","ul",null,{"children":[["$","li","/3mf-to-stl/",{"children":["$","$L4",null,{"href":"/3mf-to-stl/","children":"3MF → STL"}]}],["$","li","/step-to-stl/",{"children":["$","$L4",null,{"href":"/step-to-stl/","children":"STEP → STL"}]}],["$","li","/glb-to-stl/",{"children":["$","$L4",null,{"href":"/glb-to-stl/","children":"GLB → STL"}]}],["$","li","/obj-to-stl/",{"children":["$","$L4",null,{"href":"/obj-to-stl/","children":"OBJ → STL"}]}],["$","li","/stl-to-3mf/",{"children":["$","$L4",null,{"href":"/stl-to-3mf/","children":"STL → 3MF"}]}],["$","li","/converters/",{"children":["$","$L4",null,{"href":"/converters/","children":"All converters"}]}]]}]]}],["$","div","Images & textures",{"children":[["$","h2",null,{"children":"Images & textures"}],["$","ul",null,{"children":[["$","li","/image-to-stl/",{"children":["$","$L4",null,{"href":"/image-to-stl/","children":"Image to STL"}]}],["$","li","/lithophane-maker/",{"children":["$","$L4",null,{"href":"/lithophane-maker/","children":"Lithophane maker"}]}],["$","li","/svg-to-stl/",{"children":["$","$L4",null,{"href":"/svg-to-stl/","children":"SVG → STL"}]}],["$","li","/png-to-dds/",{"children":["$","$L4",null,{"href":"/png-to-dds/","children":"PNG → DDS"}]}],["$","li","/dds-to-png/",{"children":["$","$L4",null,{"href":"/dds-to-png/","children":"DDS → PNG"}]}]]}]]}],["$","div","Viewers",{"children":[["$","h2",null,{"children":"Viewers"}],["$","ul",null,{"children":[["$","li","/3d-viewer/",{"children":["$","$L4",null,{"href":"/3d-viewer/","children":"Online 3D model viewer"}]}],["$","li","/stl-viewer/",{"children":["$","$L4",null,{"href":"/stl-viewer/","children":"STL viewer"}]}],["$","li","/3mf-viewer/",{"children":["$","$L4",null,{"href":"/3mf-viewer/","children":"3MF viewer"}]}],["$","li","/step-viewer/",{"children":["$","$L4",null,{"href":"/step-viewer/","children":"STEP viewer"}]}],["$","li","/obj-viewer/",{"children":["$","$L4",null,{"href":"/obj-viewer/","children":"OBJ viewer"}]}]]}]]}],"$L17","$L18"]]}],"$L19"]}]]]}]
+12:["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+13:["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+14:["$","$1","c",{"children":["$L1a",null,["$","$L1b",null,{"children":["$L1c",["$","$L1d",null,{"promise":"$@1e"}]]}]]}]
+15:["$","$1","h",{"children":[null,[["$","$L1f",null,{"children":"$L20"}],null],["$","$L21",null,{"children":["$","div",null,{"hidden":true,"children":["$","$22",null,{"fallback":null,"children":"$L23"}]}]}]]}]
+17:["$","div","my3dprinter.io",{"children":[["$","h2",null,{"children":"my3dprinter.io"}],["$","ul",null,{"children":[["$","li","/printers/",{"children":["$","$L4",null,{"href":"/printers/","children":"3D printers"}]}],["$","li","/printers/compare/",{"children":["$","$L4",null,{"href":"/printers/compare/","children":"Compare printers"}]}],["$","li","/blog/",{"children":["$","$L4",null,{"href":"/blog/","children":"Blog"}]}],["$","li","/formats/",{"children":["$","$L4",null,{"href":"/formats/","children":"File formats"}]}],["$","li","/about/",{"children":["$","$L4",null,{"href":"/about/","children":"About"}]}],["$","li","/contact/",{"children":["$","$L4",null,{"href":"/contact/","children":"Contact"}]}]]}]]}]
+18:["$","div","Legal",{"children":[["$","h2",null,{"children":"Legal"}],["$","ul",null,{"children":[["$","li","/privacy/",{"children":["$","$L4",null,{"href":"/privacy/","children":"Privacy policy"}]}],["$","li","/cookies/",{"children":["$","$L4",null,{"href":"/cookies/","children":"Cookie policy"}]}],["$","li","/terms/",{"children":["$","$L4",null,{"href":"/terms/","children":"Terms of use"}]}],["$","li","/disclaimer/",{"children":["$","$L4",null,{"href":"/disclaimer/","children":"Disclaimer"}]}]]}]]}]
+19:["$","div",null,{"className":"wrap footer-base","children":["$","p",null,{"children":["© ",2026," my3dprinter.io. ","Brand and product names belong to their owners; my3dprinter.io is an independent site and is not affiliated with any printer maker."]}]}]
+24:Ta36,{"@context":"https://schema.org","@graph":[{"@type":"Article","headline":"3D print ideas – useful, fun and cool things to 3D print","description":"3D print ideas for every printer, from useful home fixes to fun toys and gifts. Find what to 3D print, the best filament for each and where to get models.","datePublished":"2026-11-22","dateModified":"2026-11-22","mainEntityOfPage":"https://my3dprinter.io/blog/what-to-3d-print/","inLanguage":"en","author":{"@type":"Organization","name":"my3dprinter.io","url":"https://my3dprinter.io"},"publisher":{"@type":"Organization","@id":"https://my3dprinter.io/#organization","name":"my3dprinter.io","url":"https://my3dprinter.io/","logo":{"@type":"ImageObject","url":"https://my3dprinter.io/icon-512.png","width":512,"height":512},"email":"hello@my3dprinter.io","description":"Free 3D file converters, viewers and 3D printer guides"},"image":"https://my3dprinter.io/images/blog/what-to-3d-print.webp","citation":["https://www.printables.com/","https://makerworld.com/","https://www.thingiverse.com/"]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://my3dprinter.io/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://my3dprinter.io/blog/"},{"@type":"ListItem","position":3,"name":"3D print ideas – useful, fun and cool things to 3D print","item":"https://my3dprinter.io/blog/what-to-3d-print/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What are good 3D print ideas for beginners?","acceptedAnswer":{"@type":"Answer","text":"Start with small, flat or single-part models that print without supports, such as cable clips, bag clips, keychains, plant labels, phone stands and the calibration cube your printer came with."}},{"@type":"Question","name":"What are the most useful things to 3D print?","acceptedAnswer":{"@type":"Answer","text":"Replacement parts (knobs, clips, feet), organisers (drawer dividers, tool holders), cable management, wall hooks and custom adapters are the most useful because they fix real problems for pennies of filament."}},{"@type":"Question","name":"Where can I find things to 3D print for free?","acceptedAnswer":{"@type":"Answer","text":"Printables, MakerWorld and Thingiverse are the largest free libraries. Check each model's licence before selling prints."}},{"@type":"Question","name":"What can you make with a 3D printer?","acceptedAnswer":{"@type":"Answer","text":"Almost any small plastic object that fits the build volume, including tools, toys, gifts, cosplay props, miniatures, planters, lamps, replacement parts and prototypes."}}]}]}1a:["$","div",null,{"className":"wrap","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$24"}}],["$","nav",null,{"className":"crumbs","aria-label":"Breadcrumb","children":[["$","$L4",null,{"href":"/","children":"Home"}]," / ",["$","$L4",null,{"href":"/blog/","children":"Blog"}]," / ","3D print ideas – useful, fun and cool things to 3D print"]}],["$","div",null,{"className":"split","children":[["$","article",null,{"className":"prose","children":[["$","h1",null,{"children":"3D print ideas – useful, fun and cool things to 3D print"}],["$","figure",null,{"className":"doc-hero","children":["$","img",null,{"src":"/images/blog/what-to-3d-print.webp","alt":"Illustration of colourful 3D printed objects: vase, phone stand, clips, planter and storage bins","width":1200,"height":675,"fetchPriority":"high","decoding":"async"}]}],"$L25","$L26",null,"$L27"]}],"$L28"]}],"$L29"]}]
+25:["$","p",null,{"className":"muted small","children":["Updated ","November 22, 2026"]}]
+26:["$","div",null,{"className":"summary-box","children":[["$","b",null,{"children":"Key points"}],["$","ul",null,{"children":[["$","li","The best 3D print ideas solve a small problem you already have, such as a missing clip, a cable mess or a broken knob.",{"children":"The best 3D print ideas solve a small problem you already have, such as a missing clip, a cable mess or a broken knob."}],["$","li","PLA suits most decorative and indoor items; PETG suits outdoor and heat-exposed parts; TPU suits anything that must flex.",{"children":"PLA suits most decorative and indoor items; PETG suits outdoor and heat-exposed parts; TPU suits anything that must flex."}],["$","li","Free model libraries such as Printables, MakerWorld and Thingiverse host millions of ready-to-print designs.",{"children":"Free model libraries such as Printables, MakerWorld and Thingiverse host millions of ready-to-print designs."}]]}]]}]
+2a:T1723,<p><strong>The best 3D print ideas are small, practical objects that solve a problem you already have, plus a few fun prints to show what your printer can do.</strong> This list groups things to 3D print by purpose, with the filament that suits each and a note on difficulty, so you can pick a project that matches your printer and your skill.</p>
+<p>Every idea here is a common category on free model libraries. Search the name on Printables, MakerWorld or Thingiverse to find dozens of versions.</p>
+<h2>3D printing ideas at a glance</h2>
+<table>
+<thead>
+<tr>
+<th>Category</th>
+<th>Example prints</th>
+<th>Best filament</th>
+<th>Difficulty</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Home fixes</td>
+<td>Knobs, clips, feet, hooks</td>
+<td>PLA or PETG</td>
+<td>Easy</td>
+</tr>
+<tr>
+<td>Organisation</td>
+<td>Drawer dividers, gridfinity bins</td>
+<td>PLA</td>
+<td>Easy</td>
+</tr>
+<tr>
+<td>Desk and tech</td>
+<td>Phone stand, cable clips, headphone hook</td>
+<td>PLA</td>
+<td>Easy</td>
+</tr>
+<tr>
+<td>Kitchen helpers</td>
+<td>Bag clips, spice racks, cookie cutters</td>
+<td>PLA / PETG</td>
+<td>Easy</td>
+</tr>
+<tr>
+<td>Garden and outdoor</td>
+<td>Plant labels, hose adapters, planters</td>
+<td>PETG or ASA</td>
+<td>Medium</td>
+</tr>
+<tr>
+<td>Toys and fidgets</td>
+<td>Articulated animals, spinners, puzzles</td>
+<td>PLA</td>
+<td>Easy–Medium</td>
+</tr>
+<tr>
+<td>Gifts</td>
+<td>Lithophanes, name signs, vases</td>
+<td>PLA</td>
+<td>Easy</td>
+</tr>
+<tr>
+<td>Cosplay and props</td>
+<td>Helmets, armour, swords</td>
+<td>PLA, finished</td>
+<td>Hard</td>
+</tr>
+<tr>
+<td>Flexible parts</td>
+<td>Phone cases, gaskets, bumpers</td>
+<td>TPU</td>
+<td>Medium</td>
+</tr>
+</tbody></table>
+<h2>Useful things to 3D print at home</h2>
+<p>These prints pay for your filament quickly:</p>
+<ul>
+<li><strong>Replacement knobs and handles</strong> for appliances and furniture. Measure the shaft with calipers first.</li>
+<li><strong>Wall hooks and key holders</strong> that fit exactly where you need them.</li>
+<li><strong>Furniture feet and levellers</strong> for wobbly tables.</li>
+<li><strong>Shelf brackets and clips</strong> for glass or wooden shelves.</li>
+<li><strong>Door stops and wedges.</strong></li>
+</ul>
+<p><strong>Tip:</strong> For anything near a window, in a car or outdoors, print in PETG or ASA. PLA softens in strong sun and heat. Our <a href="/blog/petg-vs-pla/">PETG vs PLA guide</a> explains the difference.</p>
+<h2>Organisers and storage</h2>
+<ul>
+<li><strong>Drawer dividers</strong> sized to your drawers.</li>
+<li><strong>Modular storage bins</strong> (the gridfinity system is a popular standard with thousands of compatible bins).</li>
+<li><strong>Tool holders</strong> for pegboards and walls.</li>
+<li><strong>Battery and SD-card organisers.</strong></li>
+<li><strong>Filament spool holders and swatches</strong> for your own printer.</li>
+</ul>
+<h2>Desk and tech accessories</h2>
+<ul>
+<li>Phone and tablet stands</li>
+<li>Cable clips and under-desk cable trays</li>
+<li>Headphone hooks</li>
+<li>Laptop risers</li>
+<li>Controller and remote holders</li>
+<li>Monitor-mounted shelves</li>
+</ul>
+<h2>Fun things to 3D print</h2>
+<ul>
+<li><strong>Articulated animals</strong> – dragons, snakes and fish that print in one piece with moving joints.</li>
+<li><strong>Fidget toys</strong> – spinners, clickers and infinity cubes; read <a href="/blog/3d-printed-fidget-toys/">3D printed fidget toys</a>.</li>
+<li><strong>Puzzles</strong> – interlocking cubes, mazes and puzzle boxes.</li>
+<li><strong>Print-in-place mechanisms</strong> – gears, hinges and chains that come off the bed already working.</li>
+<li><strong>Miniatures and terrain</strong> for tabletop games (resin gives the most detail; FDM works for terrain).</li>
+</ul>
+<h2>3D printed gifts</h2>
+<ul>
+<li><strong>Lithophanes</strong> – a photo that appears when lit from behind. Make one from any picture with our free <a href="/lithophane-maker/">lithophane maker</a>.</li>
+<li><strong>Name signs and logos</strong> – turn an SVG into a 3D model with <a href="/svg-to-stl/">SVG to STL</a>.</li>
+<li><strong>Vases</strong> in spiral (vase) mode – one wall, fast to print, watertight with the right settings.</li>
+<li><strong>Personalised keychains and bookmarks.</strong></li>
+<li><strong>Planters</strong> with drainage trays.</li>
+</ul>
+<h2>Kitchen ideas (and a warning)</h2>
+<p>Bag clips, spice racks, utensil holders and cookie cutters are popular. Items that touch food need care: layer lines trap bacteria. Read <a href="/blog/is-pla-food-safe/">is PLA food safe?</a> before printing anything for food contact.</p>
+<h2>Things to 3D print for your printer</h2>
+<ul>
+<li>Spool holders and filament guides</li>
+<li>Tool trays that clip to the frame</li>
+<li>Nozzle and scraper holders</li>
+<li>Enclosure parts and cable chains</li>
+<li>Calibration models (temperature towers, retraction tests)</li>
+</ul>
+<h2>Turn your own ideas into prints</h2>
+<p>You do not need CAD skills for simple custom prints:</p>
+<ol>
+<li><strong>From a picture:</strong> convert a logo or drawing with <a href="/image-to-stl/">image to STL</a>.</li>
+<li><strong>From an AI 3D model:</strong> read <a href="/blog/3d-print-ai-generated-models/">how to 3D print AI-generated models</a>.</li>
+<li><strong>Check before slicing:</strong> open any file in the free <a href="/3d-viewer/">3D viewer</a> to see its size and shape.</li>
+</ol>
+<h2>What to 3D print first</h2>
+<ol>
+<li>Print the test model that came with your printer to confirm it works.</li>
+<li>Print one useful thing for your home – a hook or a clip.</li>
+<li>Print one fun thing – an articulated animal or a fidget toy.</li>
+<li>Try something custom from your own image or SVG.</li>
+</ol>
+<h2>Verdict</h2>
+<p>Start with small, useful prints that fix everyday annoyances, then mix in fun and gift projects. PLA covers most of them; switch to PETG for outdoor or warm places and TPU for anything flexible.</p>
+27:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2a"}}]
+28:["$","aside",null,{"className":"aside","children":[["$","div",null,{"className":"facts","children":[["$","b",null,{"children":"Tools for this"}],["$","div",null,{"className":"tool-grid","style":{"marginTop":10,"gridTemplateColumns":"1fr"},"children":[["$","$L4","3d-viewer",{"className":"tool-link","href":"/3d-viewer/","children":"Online 3D model viewer"}],["$","$L4","image-to-stl",{"className":"tool-link","href":"/image-to-stl/","children":"Image to STL converter"}],["$","$L4","lithophane-maker",{"className":"tool-link","href":"/lithophane-maker/","children":"Lithophane maker"}],["$","$L4","svg-to-stl",{"className":"tool-link","href":"/svg-to-stl/","children":"SVG to STL converter"}]]}]]}],["$","div",null,{"className":"facts","children":[["$","b",null,{"children":"Open or convert a model"}],["$","p",null,{"className":"small","style":{"margin":"6px 0 10px"},"children":"View STL, 3MF, STEP and more in your browser."}],["$","$L4",null,{"className":"btn btn-accent","href":"/3d-viewer/","children":"3D viewer"}]]}]]}]
+29:["$","section",null,{"className":"section faq","aria-labelledby":"faq-h","children":[["$","h2",null,{"id":"faq-h","children":"Questions and answers"}],["$","div",null,{"className":"faq-list","children":[["$","details","What are good 3D print ideas for beginners?",{"children":[["$","summary",null,{"children":"What are good 3D print ideas for beginners?"}],["$","p",null,{"children":"Start with small, flat or single-part models that print without supports, such as cable clips, bag clips, keychains, plant labels, phone stands and the calibration cube your printer came with."}]]}],["$","details","What are the most useful things to 3D print?",{"children":[["$","summary",null,{"children":"What are the most useful things to 3D print?"}],["$","p",null,{"children":"Replacement parts (knobs, clips, feet), organisers (drawer dividers, tool holders), cable management, wall hooks and custom adapters are the most useful because they fix real problems for pennies of filament."}]]}],["$","details","Where can I find things to 3D print for free?",{"children":[["$","summary",null,{"children":"Where can I find things to 3D print for free?"}],["$","p",null,{"children":"Printables, MakerWorld and Thingiverse are the largest free libraries. Check each model's licence before selling prints."}]]}],["$","details","What can you make with a 3D printer?",{"children":[["$","summary",null,{"children":"What can you make with a 3D printer?"}],["$","p",null,{"children":"Almost any small plastic object that fits the build volume, including tools, toys, gifts, cosplay props, miniatures, planters, lamps, replacement parts and prototypes."}]]}]]}]]}]
+20:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#10151C"}]]
+1c:null
+2b:I[622,[],"IconMark"]
+1e:{"metadata":[["$","title","0",{"children":"3D Print Ideas – Cool, Useful and Fun Things to 3D Print | my3dprinter.io"}],["$","meta","1",{"name":"description","content":"3D print ideas for every printer, from useful home fixes to fun toys and gifts. Find what to 3D print, the best filament for each and where to get models."}],["$","meta","2",{"name":"application-name","content":"my3dprinter.io"}],["$","link","3",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","4",{"name":"robots","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","5",{"rel":"canonical","href":"https://my3dprinter.io/blog/what-to-3d-print/"}],["$","meta","6",{"name":"format-detection","content":"telephone=no"}],["$","meta","7",{"property":"og:title","content":"3D Print Ideas – Cool, Useful and Fun Things to 3D Print | my3dprinter.io"}],["$","meta","8",{"property":"og:description","content":"3D print ideas for every printer, from useful home fixes to fun toys and gifts. Find what to 3D print, the best filament for each and where to get models."}],["$","meta","9",{"property":"og:url","content":"https://my3dprinter.io/blog/what-to-3d-print/"}],["$","meta","10",{"property":"og:site_name","content":"my3dprinter.io"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:image","content":"https://my3dprinter.io/images/blog/what-to-3d-print.webp"}],["$","meta","13",{"property":"og:image:width","content":"1200"}],["$","meta","14",{"property":"og:image:height","content":"675"}],["$","meta","15",{"property":"og:image:alt","content":"3D Print Ideas – Cool, Useful and Fun Things to 3D Print"}],["$","meta","16",{"property":"og:type","content":"article"}],["$","meta","17",{"property":"article:published_time","content":"2026-11-22"}],["$","meta","18",{"property":"article:modified_time","content":"2026-11-22"}],["$","meta","19",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","20",{"name":"twitter:title","content":"3D Print Ideas – Cool, Useful and Fun Things to 3D Print | my3dprinter.io"}],["$","meta","21",{"name":"twitter:description","content":"3D print ideas for every printer, from useful home fixes to fun toys and gifts. Find what to 3D print, the best filament for each and where to get models."}],["$","meta","22",{"name":"twitter:image","content":"https://my3dprinter.io/images/blog/what-to-3d-print.webp"}],["$","link","23",{"rel":"icon","href":"/favicon.ico","sizes":"48x48"}],["$","link","24",{"rel":"icon","href":"/icon.svg","type":"image/svg+xml"}],["$","link","25",{"rel":"icon","href":"/icon-192.png","sizes":"192x192","type":"image/png"}],["$","link","26",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","sizes":"180x180"}],["$","$L2b","27",{}]],"error":null,"digest":"$undefined"}
+23:"$1e:metadata"

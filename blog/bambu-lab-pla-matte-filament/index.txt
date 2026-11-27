@@ -1,0 +1,326 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+4:I[2619,["2619","static/chunks/2619-3c9e02e22d10480a.js","4966","static/chunks/app/(en)/blog/%5Bslug%5D/page-6f60855278aa4f75.js"],""]
+5:I[1538,["2619","static/chunks/2619-3c9e02e22d10480a.js","90","static/chunks/app/(en)/layout-1d0e45a00e968cb3.js"],"default"]
+6:I[909,["2619","static/chunks/2619-3c9e02e22d10480a.js","90","static/chunks/app/(en)/layout-1d0e45a00e968cb3.js"],"default"]
+15:I[7150,[],""]
+:HL["/_next/static/css/93d1a12f2f4c9226.css","style"]
+0:{"P":null,"b":"rD7TGm9XF6FHQRkd5YG22","p":"","c":["","blog","bambu-lab-pla-matte-filament",""],"i":false,"f":[[["",{"children":["(en)",{"children":["blog",{"children":[["slug","bambu-lab-pla-matte-filament","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/93d1a12f2f4c9226.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","script",null,{"async":true,"src":"https://www.googletagmanager.com/gtm.js?id=GTM-T7SN8RQX"}],["$","script",null,{"async":true,"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3226858004021254","crossOrigin":"anonymous"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());"}}]]}],["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"wrap header-in","children":[["$","$L4",null,{"href":"/","className":"brand","aria-label":"my3dprinter.io home","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","nav",null,{"aria-label":"Main","className":"nav","children":[["$","$L4","/converters/",{"href":"/converters/","children":"Converters"}],["$","$L4","/3d-viewer/",{"href":"/3d-viewer/","children":"3D viewer"}],["$","$L4","/image-to-stl/",{"href":"/image-to-stl/","children":"Image to STL"}],["$","$L4","/printers/",{"href":"/printers/","children":"Printers"}],["$","$L4","/blog/",{"href":"/blog/","children":"Blog"}]]}],["$","div",null,{"className":"header-actions","children":[["$","$L5",null,{"lang":"en","langs":[{"code":"en","name":"English"},{"code":"de","name":"Deutsch"},{"code":"es","name":"Español"},{"code":"fr","name":"Français"},{"code":"it","name":"Italiano"},{"code":"ja","name":"日本語"},{"code":"ko","name":"한국어"},{"code":"pt","name":"Português"},{"code":"vi","name":"Tiếng Việt"},{"code":"th","name":"ไทย"},{"code":"zh","name":"简体中文"},{"code":"ru","name":"Русский"}],"localized":["/","/converters/","/3mf-to-stl/","/glb-to-stl/","/stl-to-3mf/","/step-to-stl/","/glb-to-obj/","/obj-to-stl/","/stl-to-obj/","/fbx-to-obj/","/gcode-to-stl/","/fbx-to-stl/","/zip-to-stl/","/stp-to-stl/","/dae-to-obj/","/gltf-to-obj/","/stl-to-dxf/","/obj-to-glb/","/gltf-to-stl/","/fbx-to-glb/","/ply-to-stl/","/3mf-to-obj/","/dae-to-stl/","/usdz-to-stl/","/ply-to-obj/","/stp-to-obj/","/3ds-to-obj/","/igs-to-stl/","/stl-to-glb/","/obj-to-3mf/","/glb-to-3mf/","/stl-to-usdz/","/glb-to-usdz/","/step-to-obj/","/step-to-3mf/","/stl-to-ply/","/fbx-to-gltf/","/image-to-stl/","/png-to-stl/","/jpg-to-stl/","/jpeg-to-stl/","/lithophane-maker/","/png-to-obj/","/png-to-3mf/","/svg-to-stl/","/svg-to-obj/","/png-to-dds/","/jpg-to-dds/","/dds-to-png/","/dds-to-jpg/","/3d-viewer/","/stl-viewer/","/3mf-viewer/","/obj-viewer/","/glb-viewer/","/step-viewer/","/ply-viewer/","/fbx-viewer/","/gltf-viewer/"],"label":"Language"}],["$","$L6",null,{"links":[["/converters/","Converters"],["/3d-viewer/","3D viewer"],["/image-to-stl/","Image to STL"],["/printers/","Printers"],["/blog/","Blog"],["/printers/compare/","Compare printers"]],"label":"Menu"}]]}]]}]}],["$","main",null,{"id":"main","className":"wrap","style":{"padding":"64px 24px"},"children":[["$","h1",null,{"children":"Page not found"}],["$","p",null,{"className":"lead","children":"This page does not exist. Try a converter or the 3D viewer."}],["$","p",null,{"children":["$","$L4",null,{"className":"btn btn-accent","href":"/converters/","children":"All converters"}]}]]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"wrap footer-grid","children":[["$","div",null,{"className":"footer-brand","children":[["$","$L4",null,{"href":"/","className":"brand","children":["$L7"," ","$L8"]}],"$L9"]}],["$La","$Lb","$Lc","$Ld","$Le"]]}],"$Lf"]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["(en)","$L10",{"children":["blog","$L11",{"children":[["slug","bambu-lab-pla-matte-filament","d"],"$L12",{"children":["__PAGE__","$L13",{},null,false]},null,false]},null,false]},null,false]},null,false],"$L14",false]],"m":"$undefined","G":["$15",[]],"s":false,"S":true}
+1a:I[4431,[],"OutletBoundary"]
+1c:I[5278,[],"AsyncMetadataOutlet"]
+1e:I[4431,[],"ViewportBoundary"]
+20:I[4431,[],"MetadataBoundary"]
+21:"$Sreact.suspense"
+7:["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]
+8:["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]
+9:["$","p",null,{"children":"Free tools that run in your browser. Your files are never uploaded."}]
+a:["$","div","Converters",{"children":[["$","h2",null,{"children":"Converters"}],["$","ul",null,{"children":[["$","li","/3mf-to-stl/",{"children":["$","$L4",null,{"href":"/3mf-to-stl/","children":"3MF → STL"}]}],["$","li","/step-to-stl/",{"children":["$","$L4",null,{"href":"/step-to-stl/","children":"STEP → STL"}]}],["$","li","/glb-to-stl/",{"children":["$","$L4",null,{"href":"/glb-to-stl/","children":"GLB → STL"}]}],["$","li","/obj-to-stl/",{"children":["$","$L4",null,{"href":"/obj-to-stl/","children":"OBJ → STL"}]}],["$","li","/stl-to-3mf/",{"children":["$","$L4",null,{"href":"/stl-to-3mf/","children":"STL → 3MF"}]}],["$","li","/converters/",{"children":["$","$L4",null,{"href":"/converters/","children":"All converters"}]}]]}]]}]
+b:["$","div","Images & textures",{"children":[["$","h2",null,{"children":"Images & textures"}],["$","ul",null,{"children":[["$","li","/image-to-stl/",{"children":["$","$L4",null,{"href":"/image-to-stl/","children":"Image to STL"}]}],["$","li","/lithophane-maker/",{"children":["$","$L4",null,{"href":"/lithophane-maker/","children":"Lithophane maker"}]}],["$","li","/svg-to-stl/",{"children":["$","$L4",null,{"href":"/svg-to-stl/","children":"SVG → STL"}]}],["$","li","/png-to-dds/",{"children":["$","$L4",null,{"href":"/png-to-dds/","children":"PNG → DDS"}]}],["$","li","/dds-to-png/",{"children":["$","$L4",null,{"href":"/dds-to-png/","children":"DDS → PNG"}]}]]}]]}]
+c:["$","div","Viewers",{"children":[["$","h2",null,{"children":"Viewers"}],["$","ul",null,{"children":[["$","li","/3d-viewer/",{"children":["$","$L4",null,{"href":"/3d-viewer/","children":"Online 3D model viewer"}]}],["$","li","/stl-viewer/",{"children":["$","$L4",null,{"href":"/stl-viewer/","children":"STL viewer"}]}],["$","li","/3mf-viewer/",{"children":["$","$L4",null,{"href":"/3mf-viewer/","children":"3MF viewer"}]}],["$","li","/step-viewer/",{"children":["$","$L4",null,{"href":"/step-viewer/","children":"STEP viewer"}]}],["$","li","/obj-viewer/",{"children":["$","$L4",null,{"href":"/obj-viewer/","children":"OBJ viewer"}]}]]}]]}]
+d:["$","div","my3dprinter.io",{"children":[["$","h2",null,{"children":"my3dprinter.io"}],["$","ul",null,{"children":[["$","li","/printers/",{"children":["$","$L4",null,{"href":"/printers/","children":"3D printers"}]}],["$","li","/printers/compare/",{"children":["$","$L4",null,{"href":"/printers/compare/","children":"Compare printers"}]}],["$","li","/blog/",{"children":["$","$L4",null,{"href":"/blog/","children":"Blog"}]}],["$","li","/formats/",{"children":["$","$L4",null,{"href":"/formats/","children":"File formats"}]}],["$","li","/about/",{"children":["$","$L4",null,{"href":"/about/","children":"About"}]}],["$","li","/contact/",{"children":["$","$L4",null,{"href":"/contact/","children":"Contact"}]}]]}]]}]
+e:["$","div","Legal",{"children":[["$","h2",null,{"children":"Legal"}],["$","ul",null,{"children":[["$","li","/privacy/",{"children":["$","$L4",null,{"href":"/privacy/","children":"Privacy policy"}]}],["$","li","/cookies/",{"children":["$","$L4",null,{"href":"/cookies/","children":"Cookie policy"}]}],["$","li","/terms/",{"children":["$","$L4",null,{"href":"/terms/","children":"Terms of use"}]}],["$","li","/disclaimer/",{"children":["$","$L4",null,{"href":"/disclaimer/","children":"Disclaimer"}]}]]}]]}]
+f:["$","div",null,{"className":"wrap footer-base","children":["$","p",null,{"children":["© ",2026," my3dprinter.io. ","Brand and product names belong to their owners; my3dprinter.io is an independent site and is not affiliated with any printer maker."]}]}]
+10:["$","$1","c",{"children":[null,[["$","a",null,{"className":"skip","href":"#main","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"wrap header-in","children":[["$","$L4",null,{"href":"/","className":"brand","aria-label":"my3dprinter.io home","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","nav",null,{"aria-label":"Main","className":"nav","children":[["$","$L4","/converters/",{"href":"/converters/","children":"Converters"}],["$","$L4","/3d-viewer/",{"href":"/3d-viewer/","children":"3D viewer"}],["$","$L4","/image-to-stl/",{"href":"/image-to-stl/","children":"Image to STL"}],["$","$L4","/printers/",{"href":"/printers/","children":"Printers"}],["$","$L4","/blog/",{"href":"/blog/","children":"Blog"}]]}],["$","div",null,{"className":"header-actions","children":[["$","$L5",null,{"lang":"en","langs":[{"code":"en","name":"English"},{"code":"de","name":"Deutsch"},{"code":"es","name":"Español"},{"code":"fr","name":"Français"},{"code":"it","name":"Italiano"},{"code":"ja","name":"日本語"},{"code":"ko","name":"한국어"},{"code":"pt","name":"Português"},{"code":"vi","name":"Tiếng Việt"},{"code":"th","name":"ไทย"},{"code":"zh","name":"简体中文"},{"code":"ru","name":"Русский"}],"localized":"$0:f:0:1:1:props:children:1:props:children:1:props:children:props:notFound:0:0:props:children:props:children:2:props:children:0:props:localized","label":"Language"}],["$","$L6",null,{"links":[["/converters/","Converters"],["/3d-viewer/","3D viewer"],["/image-to-stl/","Image to STL"],["/printers/","Printers"],["/blog/","Blog"],["/printers/compare/","Compare printers"]],"label":"Menu"}]]}]]}]}],["$","main",null,{"id":"main","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"wrap footer-grid","children":[["$","div",null,{"className":"footer-brand","children":[["$","$L4",null,{"href":"/","className":"brand","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","p",null,{"children":"Free tools that run in your browser. Your files are never uploaded."}]]}],[["$","div","Converters",{"children":[["$","h2",null,{"children":"Converters"}],["$","ul",null,{"children":[["$","li","/3mf-to-stl/",{"children":["$","$L4",null,{"href":"/3mf-to-stl/","children":"3MF → STL"}]}],["$","li","/step-to-stl/",{"children":["$","$L4",null,{"href":"/step-to-stl/","children":"STEP → STL"}]}],["$","li","/glb-to-stl/",{"children":["$","$L4",null,{"href":"/glb-to-stl/","children":"GLB → STL"}]}],["$","li","/obj-to-stl/",{"children":["$","$L4",null,{"href":"/obj-to-stl/","children":"OBJ → STL"}]}],["$","li","/stl-to-3mf/",{"children":["$","$L4",null,{"href":"/stl-to-3mf/","children":"STL → 3MF"}]}],["$","li","/converters/",{"children":["$","$L4",null,{"href":"/converters/","children":"All converters"}]}]]}]]}],["$","div","Images & textures",{"children":[["$","h2",null,{"children":"Images & textures"}],["$","ul",null,{"children":[["$","li","/image-to-stl/",{"children":["$","$L4",null,{"href":"/image-to-stl/","children":"Image to STL"}]}],["$","li","/lithophane-maker/",{"children":["$","$L4",null,{"href":"/lithophane-maker/","children":"Lithophane maker"}]}],["$","li","/svg-to-stl/",{"children":["$","$L4",null,{"href":"/svg-to-stl/","children":"SVG → STL"}]}],["$","li","/png-to-dds/",{"children":["$","$L4",null,{"href":"/png-to-dds/","children":"PNG → DDS"}]}],["$","li","/dds-to-png/",{"children":["$","$L4",null,{"href":"/dds-to-png/","children":"DDS → PNG"}]}]]}]]}],["$","div","Viewers",{"children":[["$","h2",null,{"children":"Viewers"}],["$","ul",null,{"children":[["$","li","/3d-viewer/",{"children":["$","$L4",null,{"href":"/3d-viewer/","children":"Online 3D model viewer"}]}],["$","li","/stl-viewer/",{"children":["$","$L4",null,{"href":"/stl-viewer/","children":"STL viewer"}]}],["$","li","/3mf-viewer/",{"children":["$","$L4",null,{"href":"/3mf-viewer/","children":"3MF viewer"}]}],["$","li","/step-viewer/",{"children":["$","$L4",null,{"href":"/step-viewer/","children":"STEP viewer"}]}],["$","li","/obj-viewer/",{"children":["$","$L4",null,{"href":"/obj-viewer/","children":"OBJ viewer"}]}]]}]]}],"$L16","$L17"]]}],"$L18"]}]]]}]
+11:["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+12:["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+13:["$","$1","c",{"children":["$L19",null,["$","$L1a",null,{"children":["$L1b",["$","$L1c",null,{"promise":"$@1d"}]]}]]}]
+14:["$","$1","h",{"children":[null,[["$","$L1e",null,{"children":"$L1f"}],null],["$","$L20",null,{"children":["$","div",null,{"hidden":true,"children":["$","$21",null,{"fallback":null,"children":"$L22"}]}]}]]}]
+16:["$","div","my3dprinter.io",{"children":[["$","h2",null,{"children":"my3dprinter.io"}],["$","ul",null,{"children":[["$","li","/printers/",{"children":["$","$L4",null,{"href":"/printers/","children":"3D printers"}]}],["$","li","/printers/compare/",{"children":["$","$L4",null,{"href":"/printers/compare/","children":"Compare printers"}]}],["$","li","/blog/",{"children":["$","$L4",null,{"href":"/blog/","children":"Blog"}]}],["$","li","/formats/",{"children":["$","$L4",null,{"href":"/formats/","children":"File formats"}]}],["$","li","/about/",{"children":["$","$L4",null,{"href":"/about/","children":"About"}]}],["$","li","/contact/",{"children":["$","$L4",null,{"href":"/contact/","children":"Contact"}]}]]}]]}]
+17:["$","div","Legal",{"children":[["$","h2",null,{"children":"Legal"}],["$","ul",null,{"children":[["$","li","/privacy/",{"children":["$","$L4",null,{"href":"/privacy/","children":"Privacy policy"}]}],["$","li","/cookies/",{"children":["$","$L4",null,{"href":"/cookies/","children":"Cookie policy"}]}],["$","li","/terms/",{"children":["$","$L4",null,{"href":"/terms/","children":"Terms of use"}]}],["$","li","/disclaimer/",{"children":["$","$L4",null,{"href":"/disclaimer/","children":"Disclaimer"}]}]]}]]}]
+18:["$","div",null,{"className":"wrap footer-base","children":["$","p",null,{"children":["© ",2026," my3dprinter.io. ","Brand and product names belong to their owners; my3dprinter.io is an independent site and is not affiliated with any printer maker."]}]}]
+23:Td4a,{"@context":"https://schema.org","@graph":[{"@type":"Article","headline":"Bambu Lab PLA Matte filament – settings, TDS specs and printing tips","description":"Bambu Lab PLA Matte filament explained – nozzle and bed temperatures, speed, drying, TDS strength and heat values, RFID and AMS, and Matte vs PLA Basic.","datePublished":"2026-11-27","dateModified":"2026-11-27","mainEntityOfPage":"https://my3dprinter.io/blog/bambu-lab-pla-matte-filament/","inLanguage":"en","author":{"@type":"Organization","name":"my3dprinter.io","url":"https://my3dprinter.io"},"publisher":{"@type":"Organization","@id":"https://my3dprinter.io/#organization","name":"my3dprinter.io","url":"https://my3dprinter.io/","logo":{"@type":"ImageObject","url":"https://my3dprinter.io/icon-512.png","width":512,"height":512},"email":"hello@my3dprinter.io","description":"Free 3D file converters, viewers and 3D printer guides"},"image":"https://my3dprinter.io/images/blog/bambu-lab-pla-matte-filament.webp","citation":["https://us.store.bambulab.com/products/pla-matte","https://www.additive-x.com/shop/mpattachments/file/viewonline/id/513/product_id/2261","https://cdn.shopify.com/s/files/1/0380/5149/files/Bambu_PLA_Basic_Technical_Data_Sheet.pdf","https://wiki.bambulab.com/en/general/filament-guide-material-table","https://wiki.bambulab.com/en/x1/manual/compatibility-and-parameter-settings-of-filaments","https://blog.snapmaker.com/blog/pla-matte-vs-basic/"]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://my3dprinter.io/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://my3dprinter.io/blog/"},{"@type":"ListItem","position":3,"name":"Bambu Lab PLA Matte filament – settings, TDS specs and printing tips","item":"https://my3dprinter.io/blog/bambu-lab-pla-matte-filament/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What temperature should I print Bambu Lab PLA Matte filament at?","acceptedAnswer":{"@type":"Answer","text":"Bambu Lab's technical data sheet gives 190–230 °C on the nozzle and 35–45 °C on the bed, with the part-cooling fan at 100%. The test specimens on the sheet were printed at 220 °C. On a Bambu printer the RFID tag loads the built-in profile, so you rarely need to set this yourself."}},{"@type":"Question","name":"Is Bambu PLA Matte stronger than PLA Basic?","acceptedAnswer":{"@type":"Answer","text":"No. On Bambu Lab's own data sheets PLA Matte has lower tensile strength (32 vs 39 MPa in X-Y) and much lower strength across layers (25 vs 35 MPa in Z) and lower bending strength. It does stretch more before breaking in the X-Y direction, but for functional parts PLA Basic or a tougher material is the better choice."}},{"@type":"Question","name":"Does Bambu PLA Matte need to be dried?","acceptedAnswer":{"@type":"Answer","text":"Not always, but it helps if a spool has been left open. Bambu Lab recommends 50 °C for 8 hours in a blast drying oven, or 55 °C for 8 hours in an AMS 2 Pro or AMS HT, and storage below 20% relative humidity with desiccant."}},{"@type":"Question","name":"Can I use PLA Matte in the AMS lite?","acceptedAnswer":{"@type":"Answer","text":"Yes. Bambu Lab's store page lists PLA Matte as compatible with the AMS and AMS lite, and the wiki's material table marks normal PLA (which includes PLA Matte) as suitable for both. The RFID tag is read by both units."}}]}]}19:["$","div",null,{"className":"wrap","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$23"}}],"$L24","$L25","$L26"]}]
+24:["$","nav",null,{"className":"crumbs","aria-label":"Breadcrumb","children":[["$","$L4",null,{"href":"/","children":"Home"}]," / ",["$","$L4",null,{"href":"/blog/","children":"Blog"}]," / ","Bambu Lab PLA Matte filament – settings, TDS specs and printing tips"]}]
+27:T3ba9,<p><strong>Bambu Lab PLA Matte filament is Bambu Lab&#39;s 1.75 mm PLA with a flat, non-glossy surface that hides layer lines, printed at 190–230 °C on the nozzle and 35–45 °C on the bed according to Bambu Lab&#39;s data sheet.</strong> It loads and prints like ordinary PLA, and on a Bambu printer the RFID tag sets the profile for you. The trade-off is strength: Bambu Lab&#39;s own test values put it below PLA Basic, especially between layers. This guide covers the print settings, the full data-sheet figures, drying, RFID and AMS use, the colour range, how Matte compares with PLA Basic and other Bambu PLAs, and practical tips for a clean matte finish. Facts come from Bambu Lab&#39;s store page, its PLA Matte technical data sheet (V2.0) and the Bambu Lab Wiki, checked November 2026; values can change between batches, so check the label on your spool.</p>
+<h2>Bambu Lab PLA Matte at a glance</h2>
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Bambu Lab figure</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Diameter</td>
+<td>1.75 mm ± 0.03 mm</td>
+</tr>
+<tr>
+<td>Nozzle temperature</td>
+<td>190–230 °C</td>
+</tr>
+<tr>
+<td>Bed temperature</td>
+<td>35–45 °C (Cool Plate with glue; higher on PEI, see below)</td>
+</tr>
+<tr>
+<td>Print speed</td>
+<td>Under 300 mm/s (TDS); up to 270 mm/s tested on a 0.4 mm nozzle (store)</td>
+</tr>
+<tr>
+<td>Part-cooling fan</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Drying</td>
+<td>50 °C for 8 h (oven) or 55 °C for 8 h (AMS 2 Pro, AMS HT)</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>1.31 g/cm³</td>
+</tr>
+<tr>
+<td>Heat deflection</td>
+<td>52 °C at 1.8 MPa, 58 °C at 0.45 MPa</td>
+</tr>
+<tr>
+<td>Hardened nozzle needed</td>
+<td>No – Bambu Lab lists PLA for all nozzle sizes</td>
+</tr>
+<tr>
+<td>RFID / AMS</td>
+<td>RFID tag on every official spool; AMS and AMS lite compatible</td>
+</tr>
+<tr>
+<td>Formats</td>
+<td>With spool or as a refill (refills need a reusable spool)</td>
+</tr>
+</tbody></table>
+<h2>What is Bambu Lab PLA Matte filament?</h2>
+<p>PLA Matte is part of Bambu Lab&#39;s PLA family, alongside PLA Basic, Silk+, Marble, Wood, Metal and other decorative grades. Bambu Lab describes it as having a matte, non-glossy finish and a curated range of muted colours aimed at art, décor and design objects. The wiki&#39;s material table groups it with PLA Basic as &quot;normal PLA&quot;, which means the same general rules apply: no enclosure needed, no hardened nozzle, and the same AMS compatibility.</p>
+<p>The matte look changes how a print reads. Glossy PLA reflects light along every layer line, so each step of a curved surface shows. A matte surface scatters light, so the eye sees the shape rather than the layers. Matte filaments in general get this finish from additives in the plastic; Bambu Lab does not publish its formula, but the data sheet does show a higher density than PLA Basic (1.31 vs 1.24 g/cm³), which is consistent with a filled material.</p>
+<p><strong>Why it matters:</strong> the higher density means a 1 kg spool holds slightly less length. By our calculation from the published densities, 1 kg of 1.75 mm PLA Matte is roughly 320 m of filament, against roughly 335 m for PLA Basic. That is close enough not to matter for most jobs, but worth knowing if a large print is near the end of a spool.</p>
+<p>For the whole Bambu range, see our overview of <a href="/blog/bambu-filament/">Bambu filament</a>.</p>
+<h2>Bambu Lab PLA Matte print settings</h2>
+<p>Bambu Lab&#39;s technical data sheet gives one set of recommended settings. On a Bambu printer the built-in &quot;Bambu PLA Matte&quot; profile in Bambu Studio applies them when the AMS reads the RFID tag.</p>
+<table>
+<thead>
+<tr>
+<th>Setting</th>
+<th>Recommended</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Nozzle temperature</td>
+<td>190–230 °C</td>
+</tr>
+<tr>
+<td>Bed temperature</td>
+<td>35–45 °C</td>
+</tr>
+<tr>
+<td>Build plate</td>
+<td>Cool Plate, High Temperature Plate or Textured PEI Plate</td>
+</tr>
+<tr>
+<td>Plate preparation</td>
+<td>Glue (PVP glue stick)</td>
+</tr>
+<tr>
+<td>Print speed</td>
+<td>Under 300 mm/s</td>
+</tr>
+<tr>
+<td>Cooling fan</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Chamber temperature</td>
+<td>25–45 °C</td>
+</tr>
+<tr>
+<td>Retraction</td>
+<td>0.6–1.0 mm at 20–40 mm/s</td>
+</tr>
+<tr>
+<td>Max overhang</td>
+<td>55°</td>
+</tr>
+<tr>
+<td>Max bridge</td>
+<td>30 mm</td>
+</tr>
+</tbody></table>
+<p>The data sheet&#39;s test specimens were printed at 220 °C on the nozzle, 35 °C on the bed and 200 mm/s, which is a sensible middle point if you set things by hand on a non-Bambu printer.</p>
+<p><strong>Bed temperature by plate.</strong> The 35–45 °C range on the data sheet matches the Cool Plate. The wiki&#39;s material table gives 45–65 °C for normal PLA on the Smooth PEI (High Temperature) Plate and Textured PEI Plate, and marks the Engineering Plate as not recommended for PLA. The store page also lists the Cool Plate SuperTack, Smooth PEI, Textured PEI and 3D Effect plates in its compatibility table.</p>
+<p><strong>Speed.</strong> The store page quotes up to 270 mm/s, measured with a 0.4 mm nozzle, 0.4 mm line width and 0.2 mm layers; the data sheet simply says under 300 mm/s. Treat 270 mm/s as a realistic ceiling for the published finish, and slow down if you see dull or rough patches on outer walls.</p>
+<p><strong>Tip:</strong> if you print on an enclosed Bambu printer, open the door or lift the top glass for PLA Matte as for any PLA. The wiki warns that a hot chamber can soften PLA early in the hotend and cause heat creep, and the data sheet&#39;s chamber range tops out at 45 °C.</p>
+<h2>PLA Matte properties from the technical data sheet</h2>
+<p>Bambu Lab&#39;s data sheet (V2.0) lists the following, measured on specimens printed at 100% infill, then annealed and dried at 55 °C for 8 hours. Bambu Lab notes the values are for design reference and comparison only; real parts with infill and walls will differ.</p>
+<table>
+<thead>
+<tr>
+<th>Property</th>
+<th>X-Y (along layers)</th>
+<th>Z (across layers)</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Tensile strength</td>
+<td>32 ± 3 MPa</td>
+<td>25 ± 2 MPa</td>
+</tr>
+<tr>
+<td>Elongation at break</td>
+<td>32.8 ± 4.3%</td>
+<td>4.8 ± 0.6%</td>
+</tr>
+<tr>
+<td>Young&#39;s modulus</td>
+<td>1960 ± 90 MPa</td>
+<td>1670 ± 110 MPa</td>
+</tr>
+<tr>
+<td>Bending strength</td>
+<td>53 ± 2 MPa</td>
+<td>32 ± 3 MPa</td>
+</tr>
+<tr>
+<td>Bending modulus</td>
+<td>2360 ± 250 MPa</td>
+<td>2040 ± 330 MPa</td>
+</tr>
+<tr>
+<td>Impact strength (unnotched)</td>
+<td>19.2 ± 3.7 kJ/m²</td>
+<td>6.6 ± 1.1 kJ/m²</td>
+</tr>
+</tbody></table>
+<p>Thermal and physical values on the same sheet:</p>
+<ul>
+<li><strong>Glass transition:</strong> 61 °C</li>
+<li><strong>Vicat softening:</strong> 63 °C</li>
+<li><strong>Heat deflection:</strong> 52 °C at 1.8 MPa and 58 °C at 0.45 MPa</li>
+<li><strong>Melting temperature:</strong> 163 °C</li>
+<li><strong>Water absorption (saturated, 25 °C, 55% RH):</strong> 0.40%</li>
+<li><strong>Chemical resistance:</strong> not resistant to acids, alkalis or some organic solvents; resistant to most oils and greases</li>
+</ul>
+<p><strong>Why it matters:</strong> the gap between X-Y and Z is the key number. Across layers PLA Matte reaches about 25 MPa and only 4.8% elongation, so a part loaded so that layers pull apart will snap cleanly. Orient brackets, clips and hooks so the load runs along the layers. Like all PLA, it is not suited to parts that sit at around 50 °C or more – the wiki recommends PETG, ABS or ASA for those.</p>
+<h2>PLA Matte vs PLA Basic and other Bambu PLAs</h2>
+<p>Both data sheets use the same test method, so the figures compare directly.</p>
+<table>
+<thead>
+<tr>
+<th>Property</th>
+<th>PLA Matte</th>
+<th>PLA Basic</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Surface</td>
+<td>Flat, non-glossy</td>
+<td>Smooth, slightly glossy</td>
+</tr>
+<tr>
+<td>Nozzle / bed</td>
+<td>190–230 °C / 35–45 °C</td>
+<td>190–230 °C / 35–45 °C</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>1.31 g/cm³</td>
+<td>1.24 g/cm³</td>
+</tr>
+<tr>
+<td>Tensile strength X-Y / Z</td>
+<td>32 / 25 MPa</td>
+<td>39 / 35 MPa</td>
+</tr>
+<tr>
+<td>Bending strength X-Y / Z</td>
+<td>53 / 32 MPa</td>
+<td>76 / 68 MPa</td>
+</tr>
+<tr>
+<td>Elongation at break X-Y</td>
+<td>32.8%</td>
+<td>12.2%</td>
+</tr>
+<tr>
+<td>Impact strength X-Y (unnotched)</td>
+<td>19.2 kJ/m²</td>
+<td>26.6 kJ/m²</td>
+</tr>
+<tr>
+<td>Heat deflection (1.8 MPa)</td>
+<td>52 °C</td>
+<td>54 °C</td>
+</tr>
+<tr>
+<td>Vicat softening</td>
+<td>63 °C</td>
+<td>57 °C</td>
+</tr>
+</tbody></table>
+<p>In short: the two print the same way, but PLA Basic is the stronger, stiffer material, especially between layers. PLA Matte bends further before breaking along its layers and has a slightly higher Vicat point, while heat deflection is about the same. For printing day to day, the choice is mainly about looks; for anything that takes a load, Basic wins. Our <a href="/blog/bambu-lab-pla-basic-filament/">Bambu Lab PLA Basic filament</a> guide covers that grade in detail.</p>
+<p>The other Bambu PLAs sit at the decorative end too:</p>
+<ul>
+<li><strong>PLA Silk+</strong> – the opposite of Matte: a shiny, satin surface for vases and gifts.</li>
+<li><strong>PLA Marble, Wood, Metal, Sparkle</strong> – textured or effect finishes; some have their own nozzle or plate notes on their product pages.</li>
+<li><strong>PLA-CF</strong> – carbon-fibre filled and also matte-looking, but Bambu Lab requires a hardened nozzle for it.</li>
+</ul>
+<p>For how PLA compares with other materials in general, see our <a href="/blog/pla-filament/">PLA filament</a> guide.</p>
+<h2>RFID, AMS and AMS lite compatibility</h2>
+<p>Every official Bambu PLA Matte spool carries an RFID tag. When you load it into an AMS, the printer reads the material type, colour and print settings, so you load and print without choosing a profile. Bambu Lab&#39;s store page lists PLA Matte as compatible with the AMS and AMS lite, and the drying figures on the same page mention the AMS 2 Pro and AMS HT, which can dry the spool while it is loaded.</p>
+<p>Refills are sold without a spool. Bambu Lab says a refill must be fitted to a spool, such as its reusable spool, and the wiki shows how to swap one on. Follow those steps exactly so the AMS still recognises the spool afterwards.</p>
+<p><strong>Tip:</strong> PLA Matte works well as the main colour in multi-colour prints because matte surfaces hide the slight colour bleed and transition marks that glossy PLA can show. See our <a href="/printers/bambu-lab-ams-lite/">Bambu Lab AMS lite</a> page for how the unit handles spool changes.</p>
+<h2>Bambu Lab PLA Matte colours</h2>
+<p>Bambu Lab describes the PLA Matte colours as a curated range of muted, elegant shades rather than bright, saturated ones. The range covers whites and ivories, greys and charcoal, earth tones such as tans and browns, soft pastels such as pinks, and deeper blues, greens and reds. Retailer listings show names such as Ivory White, Charcoal, Desert Tan, Sakura Pink and Marine Blue. The exact list changes over time, and some colours are sold only with a spool or only as a refill, so check the store for what is current.</p>
+<p><strong>Tip:</strong> dark matte colours show dust and fingerprints less than glossy black, but they also show white stress marks where a support or a clip has been bent. Light matte colours photograph well because they do not throw reflections.</p>
+<h2>Drying and storing PLA Matte</h2>
+<p>Bambu Lab gives several drying options for PLA Matte:</p>
+<table>
+<thead>
+<tr>
+<th>Method</th>
+<th>Temperature and time</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Blast drying oven</td>
+<td>50 °C for 8 hours</td>
+</tr>
+<tr>
+<td>AMS 2 Pro or AMS HT</td>
+<td>55 °C for 8 hours</td>
+</tr>
+<tr>
+<td>X1 printer heatbed</td>
+<td>60–70 °C for 12 hours</td>
+</tr>
+<tr>
+<td>Data sheet and wiki (PLA in general)</td>
+<td>55 °C for 8 hours</td>
+</tr>
+</tbody></table>
+<p>The data sheet recommends printing and storing it below 20% relative humidity, sealed with desiccant. At 0.40% saturated water absorption PLA Matte does not take up much moisture, but a spool left open for weeks in a humid room can start to string or print with a rougher surface. Our guide to <a href="/blog/how-to-dry-filament/">how to dry filament</a> compares dryers, ovens and AMS drying.</p>
+<h2>Tips for a clean matte finish</h2>
+<ol>
+<li><strong>Use the built-in profile first.</strong> On a Bambu printer, start with the RFID profile before you tune anything. It already sets 100% fan and a suitable temperature.</li>
+<li><strong>Clean the plate.</strong> Fingerprints and grease are the usual cause of poor adhesion, so clean the plate before a long job and use a thin layer of glue on the Cool Plate as the data sheet suggests.</li>
+<li><strong>Watch the first layer.</strong> A slightly squashed first layer gives the best grip. If corners lift, raise the bed by 5 °C within the plate&#39;s range rather than changing the nozzle temperature.</li>
+<li><strong>Keep the temperature in range.</strong> Stay within 190–230 °C. If walls look weak or rough at high speed, raise the nozzle by 5–10 °C; if you see stringing, lower it by 5–10 °C before changing retraction.</li>
+<li><strong>Choose layer height for the look you want.</strong> Matte already hides lines, so 0.2 mm layers often look like finer layers on glossy PLA. Use 0.12–0.16 mm for figurines and curved surfaces.</li>
+<li><strong>Orient parts for strength.</strong> Put loads along the layers, not across them, because the Z values on the data sheet are much lower.</li>
+<li><strong>Remove supports carefully.</strong> With low elongation across layers, thin parts can snap with supports. Use tree supports or a support interface, and let the part cool before removal.</li>
+<li><strong>Open the chamber.</strong> On enclosed printers, open the door or remove the top glass to avoid heat creep.</li>
+<li><strong>Dry an old spool.</strong> If a spool has been out for a while, dry it before an important print.</li>
+</ol>
+<p>Before you start, preview the model in an STL viewer to check thin walls and the best orientation.</p>
+<h2>Who Bambu Lab PLA Matte suits</h2>
+<ul>
+<li><strong>Display models and décor:</strong> figurines, architecture models, vases and planters where a flat, painted look matters more than strength.</li>
+<li><strong>Product mock-ups and prototypes:</strong> a matte surface looks closer to injection-moulded plastic, which helps when you show a design to someone.</li>
+<li><strong>Multi-colour prints:</strong> muted colours and hidden layer lines make AMS prints look cleaner.</li>
+<li><strong>Beginners:</strong> the settings are the same as PLA Basic, so it is just as easy to print.</li>
+</ul>
+<p>It is a poor fit for clips, snap-fits, brackets and anything that sits in a hot car or near a heater. For those, use PLA Basic, PETG or a heat-resistant material.</p>
+<h2>Verdict</h2>
+<p>Bambu Lab PLA Matte prints like ordinary PLA – 190–230 °C on the nozzle, 35–45 °C on the bed, 100% fan – and gives a flat, non-glossy surface that hides layer lines well. Bambu Lab&#39;s own data sheet shows the cost: lower strength than PLA Basic, especially across layers. Use it for anything you want to look good and Basic or a tougher filament for anything that has to hold up under load.</p>
+25:["$","div",null,{"className":"split","children":[["$","article",null,{"className":"prose","children":[["$","h1",null,{"children":"Bambu Lab PLA Matte filament – settings, TDS specs and printing tips"}],["$","figure",null,{"className":"doc-hero","children":["$","img",null,{"src":"/images/blog/bambu-lab-pla-matte-filament.webp","alt":"Illustration of a desktop printer finishing a soft-grey matte vase next to a sage-green matte figurine and a dry box of pastel spools","width":1200,"height":675,"fetchPriority":"high","decoding":"async"}]}],["$","p",null,{"className":"muted small","children":["Updated ","November 27, 2026"]}],["$","div",null,{"className":"summary-box","children":[["$","b",null,{"children":"Key points"}],["$","ul",null,{"children":[["$","li","Bambu Lab's data sheet lists PLA Matte at 190–230 °C on the nozzle, 35–45 °C on the bed and under 300 mm/s, with the store page quoting up to 270 mm/s on a 0.4 mm nozzle.",{"children":"Bambu Lab's data sheet lists PLA Matte at 190–230 °C on the nozzle, 35–45 °C on the bed and under 300 mm/s, with the store page quoting up to 270 mm/s on a 0.4 mm nozzle."}],["$","li","On the data sheet PLA Matte is denser and less strong than PLA Basic (32 vs 39 MPa tensile in X-Y, 25 vs 35 MPa across layers), so it suits display parts more than load-bearing ones.",{"children":"On the data sheet PLA Matte is denser and less strong than PLA Basic (32 vs 39 MPa tensile in X-Y, 25 vs 35 MPa across layers), so it suits display parts more than load-bearing ones."}],["$","li","Every official spool has an RFID tag and Bambu Lab lists PLA Matte as compatible with the AMS and AMS lite; it dries at 50–55 °C for 8 hours.",{"children":"Every official spool has an RFID tag and Bambu Lab lists PLA Matte as compatible with the AMS and AMS lite; it dries at 50–55 °C for 8 hours."}]]}]]}],null,["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$27"}}]]}],"$L28"]}]
+26:["$","section",null,{"className":"section faq","aria-labelledby":"faq-h","children":[["$","h2",null,{"id":"faq-h","children":"Questions and answers"}],["$","div",null,{"className":"faq-list","children":[["$","details","What temperature should I print Bambu Lab PLA Matte filament at?",{"children":[["$","summary",null,{"children":"What temperature should I print Bambu Lab PLA Matte filament at?"}],["$","p",null,{"children":"Bambu Lab's technical data sheet gives 190–230 °C on the nozzle and 35–45 °C on the bed, with the part-cooling fan at 100%. The test specimens on the sheet were printed at 220 °C. On a Bambu printer the RFID tag loads the built-in profile, so you rarely need to set this yourself."}]]}],["$","details","Is Bambu PLA Matte stronger than PLA Basic?",{"children":[["$","summary",null,{"children":"Is Bambu PLA Matte stronger than PLA Basic?"}],["$","p",null,{"children":"No. On Bambu Lab's own data sheets PLA Matte has lower tensile strength (32 vs 39 MPa in X-Y) and much lower strength across layers (25 vs 35 MPa in Z) and lower bending strength. It does stretch more before breaking in the X-Y direction, but for functional parts PLA Basic or a tougher material is the better choice."}]]}],["$","details","Does Bambu PLA Matte need to be dried?",{"children":[["$","summary",null,{"children":"Does Bambu PLA Matte need to be dried?"}],["$","p",null,{"children":"Not always, but it helps if a spool has been left open. Bambu Lab recommends 50 °C for 8 hours in a blast drying oven, or 55 °C for 8 hours in an AMS 2 Pro or AMS HT, and storage below 20% relative humidity with desiccant."}]]}],["$","details","Can I use PLA Matte in the AMS lite?",{"children":[["$","summary",null,{"children":"Can I use PLA Matte in the AMS lite?"}],["$","p",null,{"children":"Yes. Bambu Lab's store page lists PLA Matte as compatible with the AMS and AMS lite, and the wiki's material table marks normal PLA (which includes PLA Matte) as suitable for both. The RFID tag is read by both units."}]]}]]}]]}]
+28:["$","aside",null,{"className":"aside","children":[["$","div",null,{"className":"facts","children":[["$","b",null,{"children":"Tools for this"}],["$","div",null,{"className":"tool-grid","style":{"marginTop":10,"gridTemplateColumns":"1fr"},"children":[["$","$L4","stl-viewer",{"className":"tool-link","href":"/stl-viewer/","children":"STL viewer"}],["$","$L4","3mf-to-stl",{"className":"tool-link","href":"/3mf-to-stl/","children":"3MF to STL converter"}],["$","$L4","3d-viewer",{"className":"tool-link","href":"/3d-viewer/","children":"Online 3D model viewer"}]]}]]}],["$","div",null,{"className":"facts","children":[["$","b",null,{"children":"Open or convert a model"}],["$","p",null,{"className":"small","style":{"margin":"6px 0 10px"},"children":"View STL, 3MF, STEP and more in your browser."}],["$","$L4",null,{"className":"btn btn-accent","href":"/3d-viewer/","children":"3D viewer"}]]}]]}]
+1f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#10151C"}]]
+1b:null
+29:I[622,[],"IconMark"]
+1d:{"metadata":[["$","title","0",{"children":"Bambu Lab PLA Matte Filament – Settings, TDS Specs, Tips | my3dprinter.io"}],["$","meta","1",{"name":"description","content":"Bambu Lab PLA Matte filament explained – nozzle and bed temperatures, speed, drying, TDS strength and heat values, RFID and AMS, and Matte vs PLA Basic."}],["$","meta","2",{"name":"application-name","content":"my3dprinter.io"}],["$","link","3",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","4",{"name":"robots","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","5",{"rel":"canonical","href":"https://my3dprinter.io/blog/bambu-lab-pla-matte-filament/"}],["$","meta","6",{"name":"format-detection","content":"telephone=no"}],["$","meta","7",{"property":"og:title","content":"Bambu Lab PLA Matte Filament – Settings, TDS Specs, Tips | my3dprinter.io"}],["$","meta","8",{"property":"og:description","content":"Bambu Lab PLA Matte filament explained – nozzle and bed temperatures, speed, drying, TDS strength and heat values, RFID and AMS, and Matte vs PLA Basic."}],["$","meta","9",{"property":"og:url","content":"https://my3dprinter.io/blog/bambu-lab-pla-matte-filament/"}],["$","meta","10",{"property":"og:site_name","content":"my3dprinter.io"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:image","content":"https://my3dprinter.io/images/blog/bambu-lab-pla-matte-filament.webp"}],["$","meta","13",{"property":"og:image:width","content":"1200"}],["$","meta","14",{"property":"og:image:height","content":"675"}],["$","meta","15",{"property":"og:image:alt","content":"Bambu Lab PLA Matte Filament – Settings, TDS Specs, Tips"}],["$","meta","16",{"property":"og:type","content":"article"}],["$","meta","17",{"property":"article:published_time","content":"2026-11-27"}],["$","meta","18",{"property":"article:modified_time","content":"2026-11-27"}],["$","meta","19",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","20",{"name":"twitter:title","content":"Bambu Lab PLA Matte Filament – Settings, TDS Specs, Tips | my3dprinter.io"}],["$","meta","21",{"name":"twitter:description","content":"Bambu Lab PLA Matte filament explained – nozzle and bed temperatures, speed, drying, TDS strength and heat values, RFID and AMS, and Matte vs PLA Basic."}],["$","meta","22",{"name":"twitter:image","content":"https://my3dprinter.io/images/blog/bambu-lab-pla-matte-filament.webp"}],["$","link","23",{"rel":"icon","href":"/favicon.ico","sizes":"48x48"}],["$","link","24",{"rel":"icon","href":"/icon.svg","type":"image/svg+xml"}],["$","link","25",{"rel":"icon","href":"/icon-192.png","sizes":"192x192","type":"image/png"}],["$","link","26",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","sizes":"180x180"}],["$","$L29","27",{}]],"error":null,"digest":"$undefined"}
+22:"$1d:metadata"

@@ -1,0 +1,217 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+4:I[2619,["2619","static/chunks/2619-3c9e02e22d10480a.js","4966","static/chunks/app/(en)/blog/%5Bslug%5D/page-6f60855278aa4f75.js"],""]
+5:I[1538,["2619","static/chunks/2619-3c9e02e22d10480a.js","90","static/chunks/app/(en)/layout-1d0e45a00e968cb3.js"],"default"]
+6:I[909,["2619","static/chunks/2619-3c9e02e22d10480a.js","90","static/chunks/app/(en)/layout-1d0e45a00e968cb3.js"],"default"]
+16:I[7150,[],""]
+:HL["/_next/static/css/93d1a12f2f4c9226.css","style"]
+0:{"P":null,"b":"rD7TGm9XF6FHQRkd5YG22","p":"","c":["","blog","klipper",""],"i":false,"f":[[["",{"children":["(en)",{"children":["blog",{"children":[["slug","klipper","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/93d1a12f2f4c9226.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","script",null,{"async":true,"src":"https://www.googletagmanager.com/gtm.js?id=GTM-T7SN8RQX"}],["$","script",null,{"async":true,"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3226858004021254","crossOrigin":"anonymous"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());"}}]]}],["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"wrap header-in","children":[["$","$L4",null,{"href":"/","className":"brand","aria-label":"my3dprinter.io home","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","nav",null,{"aria-label":"Main","className":"nav","children":[["$","$L4","/converters/",{"href":"/converters/","children":"Converters"}],["$","$L4","/3d-viewer/",{"href":"/3d-viewer/","children":"3D viewer"}],["$","$L4","/image-to-stl/",{"href":"/image-to-stl/","children":"Image to STL"}],["$","$L4","/printers/",{"href":"/printers/","children":"Printers"}],["$","$L4","/blog/",{"href":"/blog/","children":"Blog"}]]}],["$","div",null,{"className":"header-actions","children":[["$","$L5",null,{"lang":"en","langs":[{"code":"en","name":"English"},{"code":"de","name":"Deutsch"},{"code":"es","name":"Español"},{"code":"fr","name":"Français"},{"code":"it","name":"Italiano"},{"code":"ja","name":"日本語"},{"code":"ko","name":"한국어"},{"code":"pt","name":"Português"},{"code":"vi","name":"Tiếng Việt"},{"code":"th","name":"ไทย"},{"code":"zh","name":"简体中文"},{"code":"ru","name":"Русский"}],"localized":["/","/converters/","/3mf-to-stl/","/glb-to-stl/","/stl-to-3mf/","/step-to-stl/","/glb-to-obj/","/obj-to-stl/","/stl-to-obj/","/fbx-to-obj/","/gcode-to-stl/","/fbx-to-stl/","/zip-to-stl/","/stp-to-stl/","/dae-to-obj/","/gltf-to-obj/","/stl-to-dxf/","/obj-to-glb/","/gltf-to-stl/","/fbx-to-glb/","/ply-to-stl/","/3mf-to-obj/","/dae-to-stl/","/usdz-to-stl/","/ply-to-obj/","/stp-to-obj/","/3ds-to-obj/","/igs-to-stl/","/stl-to-glb/","/obj-to-3mf/","/glb-to-3mf/","/stl-to-usdz/","/glb-to-usdz/","/step-to-obj/","/step-to-3mf/","/stl-to-ply/","/fbx-to-gltf/","/image-to-stl/","/png-to-stl/","/jpg-to-stl/","/jpeg-to-stl/","/lithophane-maker/","/png-to-obj/","/png-to-3mf/","/svg-to-stl/","/svg-to-obj/","/png-to-dds/","/jpg-to-dds/","/dds-to-png/","/dds-to-jpg/","/3d-viewer/","/stl-viewer/","/3mf-viewer/","/obj-viewer/","/glb-viewer/","/step-viewer/","/ply-viewer/","/fbx-viewer/","/gltf-viewer/"],"label":"Language"}],["$","$L6",null,{"links":[["/converters/","Converters"],["/3d-viewer/","3D viewer"],["/image-to-stl/","Image to STL"],["/printers/","Printers"],["/blog/","Blog"],["/printers/compare/","Compare printers"]],"label":"Menu"}]]}]]}]}],["$","main",null,{"id":"main","className":"wrap","style":{"padding":"64px 24px"},"children":[["$","h1",null,{"children":"Page not found"}],["$","p",null,{"className":"lead","children":"This page does not exist. Try a converter or the 3D viewer."}],["$","p",null,{"children":["$","$L4",null,{"className":"btn btn-accent","href":"/converters/","children":"All converters"}]}]]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"wrap footer-grid","children":[["$","div",null,{"className":"footer-brand","children":[["$","$L4",null,{"href":"/","className":"brand","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":["$L7","$L8"]}]," ","$L9"]}],"$La"]}],["$Lb","$Lc","$Ld","$Le","$Lf"]]}],"$L10"]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["(en)","$L11",{"children":["blog","$L12",{"children":[["slug","klipper","d"],"$L13",{"children":["__PAGE__","$L14",{},null,false]},null,false]},null,false]},null,false]},null,false],"$L15",false]],"m":"$undefined","G":["$16",[]],"s":false,"S":true}
+1b:I[4431,[],"OutletBoundary"]
+1d:I[5278,[],"AsyncMetadataOutlet"]
+1f:I[4431,[],"ViewportBoundary"]
+21:I[4431,[],"MetadataBoundary"]
+22:"$Sreact.suspense"
+7:["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}]
+8:["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]
+9:["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]
+a:["$","p",null,{"children":"Free tools that run in your browser. Your files are never uploaded."}]
+b:["$","div","Converters",{"children":[["$","h2",null,{"children":"Converters"}],["$","ul",null,{"children":[["$","li","/3mf-to-stl/",{"children":["$","$L4",null,{"href":"/3mf-to-stl/","children":"3MF → STL"}]}],["$","li","/step-to-stl/",{"children":["$","$L4",null,{"href":"/step-to-stl/","children":"STEP → STL"}]}],["$","li","/glb-to-stl/",{"children":["$","$L4",null,{"href":"/glb-to-stl/","children":"GLB → STL"}]}],["$","li","/obj-to-stl/",{"children":["$","$L4",null,{"href":"/obj-to-stl/","children":"OBJ → STL"}]}],["$","li","/stl-to-3mf/",{"children":["$","$L4",null,{"href":"/stl-to-3mf/","children":"STL → 3MF"}]}],["$","li","/converters/",{"children":["$","$L4",null,{"href":"/converters/","children":"All converters"}]}]]}]]}]
+c:["$","div","Images & textures",{"children":[["$","h2",null,{"children":"Images & textures"}],["$","ul",null,{"children":[["$","li","/image-to-stl/",{"children":["$","$L4",null,{"href":"/image-to-stl/","children":"Image to STL"}]}],["$","li","/lithophane-maker/",{"children":["$","$L4",null,{"href":"/lithophane-maker/","children":"Lithophane maker"}]}],["$","li","/svg-to-stl/",{"children":["$","$L4",null,{"href":"/svg-to-stl/","children":"SVG → STL"}]}],["$","li","/png-to-dds/",{"children":["$","$L4",null,{"href":"/png-to-dds/","children":"PNG → DDS"}]}],["$","li","/dds-to-png/",{"children":["$","$L4",null,{"href":"/dds-to-png/","children":"DDS → PNG"}]}]]}]]}]
+d:["$","div","Viewers",{"children":[["$","h2",null,{"children":"Viewers"}],["$","ul",null,{"children":[["$","li","/3d-viewer/",{"children":["$","$L4",null,{"href":"/3d-viewer/","children":"Online 3D model viewer"}]}],["$","li","/stl-viewer/",{"children":["$","$L4",null,{"href":"/stl-viewer/","children":"STL viewer"}]}],["$","li","/3mf-viewer/",{"children":["$","$L4",null,{"href":"/3mf-viewer/","children":"3MF viewer"}]}],["$","li","/step-viewer/",{"children":["$","$L4",null,{"href":"/step-viewer/","children":"STEP viewer"}]}],["$","li","/obj-viewer/",{"children":["$","$L4",null,{"href":"/obj-viewer/","children":"OBJ viewer"}]}]]}]]}]
+e:["$","div","my3dprinter.io",{"children":[["$","h2",null,{"children":"my3dprinter.io"}],["$","ul",null,{"children":[["$","li","/printers/",{"children":["$","$L4",null,{"href":"/printers/","children":"3D printers"}]}],["$","li","/printers/compare/",{"children":["$","$L4",null,{"href":"/printers/compare/","children":"Compare printers"}]}],["$","li","/blog/",{"children":["$","$L4",null,{"href":"/blog/","children":"Blog"}]}],["$","li","/formats/",{"children":["$","$L4",null,{"href":"/formats/","children":"File formats"}]}],["$","li","/about/",{"children":["$","$L4",null,{"href":"/about/","children":"About"}]}],["$","li","/contact/",{"children":["$","$L4",null,{"href":"/contact/","children":"Contact"}]}]]}]]}]
+f:["$","div","Legal",{"children":[["$","h2",null,{"children":"Legal"}],["$","ul",null,{"children":[["$","li","/privacy/",{"children":["$","$L4",null,{"href":"/privacy/","children":"Privacy policy"}]}],["$","li","/cookies/",{"children":["$","$L4",null,{"href":"/cookies/","children":"Cookie policy"}]}],["$","li","/terms/",{"children":["$","$L4",null,{"href":"/terms/","children":"Terms of use"}]}],["$","li","/disclaimer/",{"children":["$","$L4",null,{"href":"/disclaimer/","children":"Disclaimer"}]}]]}]]}]
+10:["$","div",null,{"className":"wrap footer-base","children":["$","p",null,{"children":["© ",2026," my3dprinter.io. ","Brand and product names belong to their owners; my3dprinter.io is an independent site and is not affiliated with any printer maker."]}]}]
+11:["$","$1","c",{"children":[null,[["$","a",null,{"className":"skip","href":"#main","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"wrap header-in","children":[["$","$L4",null,{"href":"/","className":"brand","aria-label":"my3dprinter.io home","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","nav",null,{"aria-label":"Main","className":"nav","children":[["$","$L4","/converters/",{"href":"/converters/","children":"Converters"}],["$","$L4","/3d-viewer/",{"href":"/3d-viewer/","children":"3D viewer"}],["$","$L4","/image-to-stl/",{"href":"/image-to-stl/","children":"Image to STL"}],["$","$L4","/printers/",{"href":"/printers/","children":"Printers"}],["$","$L4","/blog/",{"href":"/blog/","children":"Blog"}]]}],["$","div",null,{"className":"header-actions","children":[["$","$L5",null,{"lang":"en","langs":[{"code":"en","name":"English"},{"code":"de","name":"Deutsch"},{"code":"es","name":"Español"},{"code":"fr","name":"Français"},{"code":"it","name":"Italiano"},{"code":"ja","name":"日本語"},{"code":"ko","name":"한국어"},{"code":"pt","name":"Português"},{"code":"vi","name":"Tiếng Việt"},{"code":"th","name":"ไทย"},{"code":"zh","name":"简体中文"},{"code":"ru","name":"Русский"}],"localized":"$0:f:0:1:1:props:children:1:props:children:1:props:children:props:notFound:0:0:props:children:props:children:2:props:children:0:props:localized","label":"Language"}],["$","$L6",null,{"links":[["/converters/","Converters"],["/3d-viewer/","3D viewer"],["/image-to-stl/","Image to STL"],["/printers/","Printers"],["/blog/","Blog"],["/printers/compare/","Compare printers"]],"label":"Menu"}]]}]]}]}],["$","main",null,{"id":"main","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"wrap footer-grid","children":[["$","div",null,{"className":"footer-brand","children":[["$","$L4",null,{"href":"/","className":"brand","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","p",null,{"children":"Free tools that run in your browser. Your files are never uploaded."}]]}],[["$","div","Converters",{"children":[["$","h2",null,{"children":"Converters"}],["$","ul",null,{"children":[["$","li","/3mf-to-stl/",{"children":["$","$L4",null,{"href":"/3mf-to-stl/","children":"3MF → STL"}]}],["$","li","/step-to-stl/",{"children":["$","$L4",null,{"href":"/step-to-stl/","children":"STEP → STL"}]}],["$","li","/glb-to-stl/",{"children":["$","$L4",null,{"href":"/glb-to-stl/","children":"GLB → STL"}]}],["$","li","/obj-to-stl/",{"children":["$","$L4",null,{"href":"/obj-to-stl/","children":"OBJ → STL"}]}],["$","li","/stl-to-3mf/",{"children":["$","$L4",null,{"href":"/stl-to-3mf/","children":"STL → 3MF"}]}],["$","li","/converters/",{"children":["$","$L4",null,{"href":"/converters/","children":"All converters"}]}]]}]]}],["$","div","Images & textures",{"children":[["$","h2",null,{"children":"Images & textures"}],["$","ul",null,{"children":[["$","li","/image-to-stl/",{"children":["$","$L4",null,{"href":"/image-to-stl/","children":"Image to STL"}]}],["$","li","/lithophane-maker/",{"children":["$","$L4",null,{"href":"/lithophane-maker/","children":"Lithophane maker"}]}],["$","li","/svg-to-stl/",{"children":["$","$L4",null,{"href":"/svg-to-stl/","children":"SVG → STL"}]}],["$","li","/png-to-dds/",{"children":["$","$L4",null,{"href":"/png-to-dds/","children":"PNG → DDS"}]}],["$","li","/dds-to-png/",{"children":["$","$L4",null,{"href":"/dds-to-png/","children":"DDS → PNG"}]}]]}]]}],["$","div","Viewers",{"children":[["$","h2",null,{"children":"Viewers"}],["$","ul",null,{"children":[["$","li","/3d-viewer/",{"children":["$","$L4",null,{"href":"/3d-viewer/","children":"Online 3D model viewer"}]}],["$","li","/stl-viewer/",{"children":["$","$L4",null,{"href":"/stl-viewer/","children":"STL viewer"}]}],["$","li","/3mf-viewer/",{"children":["$","$L4",null,{"href":"/3mf-viewer/","children":"3MF viewer"}]}],["$","li","/step-viewer/",{"children":["$","$L4",null,{"href":"/step-viewer/","children":"STEP viewer"}]}],["$","li","/obj-viewer/",{"children":["$","$L4",null,{"href":"/obj-viewer/","children":"OBJ viewer"}]}]]}]]}],"$L17","$L18"]]}],"$L19"]}]]]}]
+12:["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+13:["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+14:["$","$1","c",{"children":["$L1a",null,["$","$L1b",null,{"children":["$L1c",["$","$L1d",null,{"promise":"$@1e"}]]}]]}]
+15:["$","$1","h",{"children":[null,[["$","$L1f",null,{"children":"$L20"}],null],["$","$L21",null,{"children":["$","div",null,{"hidden":true,"children":["$","$22",null,{"fallback":null,"children":"$L23"}]}]}]]}]
+17:["$","div","my3dprinter.io",{"children":[["$","h2",null,{"children":"my3dprinter.io"}],["$","ul",null,{"children":[["$","li","/printers/",{"children":["$","$L4",null,{"href":"/printers/","children":"3D printers"}]}],["$","li","/printers/compare/",{"children":["$","$L4",null,{"href":"/printers/compare/","children":"Compare printers"}]}],["$","li","/blog/",{"children":["$","$L4",null,{"href":"/blog/","children":"Blog"}]}],["$","li","/formats/",{"children":["$","$L4",null,{"href":"/formats/","children":"File formats"}]}],["$","li","/about/",{"children":["$","$L4",null,{"href":"/about/","children":"About"}]}],["$","li","/contact/",{"children":["$","$L4",null,{"href":"/contact/","children":"Contact"}]}]]}]]}]
+18:["$","div","Legal",{"children":[["$","h2",null,{"children":"Legal"}],["$","ul",null,{"children":[["$","li","/privacy/",{"children":["$","$L4",null,{"href":"/privacy/","children":"Privacy policy"}]}],["$","li","/cookies/",{"children":["$","$L4",null,{"href":"/cookies/","children":"Cookie policy"}]}],["$","li","/terms/",{"children":["$","$L4",null,{"href":"/terms/","children":"Terms of use"}]}],["$","li","/disclaimer/",{"children":["$","$L4",null,{"href":"/disclaimer/","children":"Disclaimer"}]}]]}]]}]
+19:["$","div",null,{"className":"wrap footer-base","children":["$","p",null,{"children":["© ",2026," my3dprinter.io. ","Brand and product names belong to their owners; my3dprinter.io is an independent site and is not affiliated with any printer maker."]}]}]
+24:Tb94,{"@context":"https://schema.org","@graph":[{"@type":"Article","headline":"Klipper – what Klipper 3D printer firmware is and how it works","description":"What is Klipper? The open-source 3D printer firmware explained: host and MCU design, input shaping, pressure advance, printer.cfg, Mainsail and Fluidd.","datePublished":"2026-11-26","dateModified":"2026-11-26","mainEntityOfPage":"https://my3dprinter.io/blog/klipper/","inLanguage":"en","author":{"@type":"Organization","name":"my3dprinter.io","url":"https://my3dprinter.io"},"publisher":{"@type":"Organization","@id":"https://my3dprinter.io/#organization","name":"my3dprinter.io","url":"https://my3dprinter.io/","logo":{"@type":"ImageObject","url":"https://my3dprinter.io/icon-512.png","width":512,"height":512},"email":"hello@my3dprinter.io","description":"Free 3D file converters, viewers and 3D printer guides"},"image":"https://my3dprinter.io/images/blog/klipper.webp","citation":["https://www.klipper3d.org/Features.html","https://www.klipper3d.org/Installation.html","https://www.klipper3d.org/FAQ.html","https://www.klipper3d.org/Resonance_Compensation.html","https://www.klipper3d.org/Pressure_Advance.html","https://moonraker.readthedocs.io/en/latest/","https://en.wikipedia.org/wiki/Klipper_(firmware)"]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://my3dprinter.io/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://my3dprinter.io/blog/"},{"@type":"ListItem","position":3,"name":"Klipper – what Klipper 3D printer firmware is and how it works","item":"https://my3dprinter.io/blog/klipper/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is Klipper 3D printing?","acceptedAnswer":{"@type":"Answer","text":"Klipper is open-source 3D printer firmware. A Linux computer, usually a Raspberry Pi or a computer built into the printer, plans the movements, and the printer's control board carries out precisely timed step commands."}},{"@type":"Question","name":"Do I need a Raspberry Pi to run Klipper?","acceptedAnswer":{"@type":"Answer","text":"You need a Linux computer of some kind. The Klipper FAQ recommends a Raspberry Pi Zero 2 W, 3, 4 or 5, and says Klipper also runs on other single-board computers and x86 machines. Printers that ship with Klipper-based firmware have this computer built in."}},{"@type":"Question","name":"Is a Klipper 3D printer faster than one running Marlin?","acceptedAnswer":{"@type":"Answer","text":"Not automatically. Klipper's host computer and input shaping make higher speeds and accelerations practical, but the real limit is the frame, motion system, hot end and cooling of the printer."}},{"@type":"Question","name":"Do I have to use OctoPrint with Klipper?","acceptedAnswer":{"@type":"Answer","text":"No. The Klipper FAQ says Klipper does not depend on OctoPrint. Most setups use Mainsail or Fluidd, which talk to Klipper through the Moonraker API server."}}]}]}1a:["$","div",null,{"className":"wrap","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$24"}}],["$","nav",null,{"className":"crumbs","aria-label":"Breadcrumb","children":[["$","$L4",null,{"href":"/","children":"Home"}]," / ",["$","$L4",null,{"href":"/blog/","children":"Blog"}]," / ","Klipper – what Klipper 3D printer firmware is and how it works"]}],"$L25","$L26"]}]
+27:T3366,<p><strong>Klipper is open-source 3D printer firmware that moves the heavy maths of motion planning off the printer&#39;s small control board and onto a Linux computer, such as a Raspberry Pi, which then sends precisely timed step commands back to the board.</strong> That split is what makes features like input shaping and pressure advance practical, and it is why so many fast printers now ship with Klipper or a maker&#39;s own Klipper-based system. This guide explains what Klipper is, how a Klipper 3D printer is put together, what its main features do, how setup works and how it compares with Marlin. Facts are from the official Klipper and Moonraker documentation and the makers&#39; own pages, checked November 2026.</p>
+<h2>Klipper at a glance</h2>
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Klipper</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>What it is</td>
+<td>Open-source 3D printer firmware (GPL-3.0 licence)</td>
+</tr>
+<tr>
+<td>Where it runs</td>
+<td>Host software on a Linux computer plus a small firmware on the printer&#39;s micro-controller (MCU)</td>
+</tr>
+<tr>
+<td>Recommended host</td>
+<td>Raspberry Pi Zero 2 W, 3, 4 or 5; other single-board computers and x86 PCs also work</td>
+</tr>
+<tr>
+<td>Supported boards</td>
+<td>ARM, AVR, PRU and other micro-controllers</td>
+</tr>
+<tr>
+<td>Supported kinematics</td>
+<td>Cartesian, delta, CoreXY, CoreXZ, hybrid CoreXY and hybrid CoreXZ, among others</td>
+</tr>
+<tr>
+<td>Settings</td>
+<td>One editable text file, <code>printer.cfg</code></td>
+</tr>
+<tr>
+<td>Key features</td>
+<td>Input shaping, smooth pressure advance, high-precision step timing, multi-MCU support</td>
+</tr>
+<tr>
+<td>Web interfaces</td>
+<td>Mainsail, Fluidd, OctoPrint and others; Mainsail and Fluidd use the Moonraker API</td>
+</tr>
+</tbody></table>
+<h2>What is Klipper and how does it work?</h2>
+<p>Classic firmware such as Marlin runs entirely on the printer&#39;s control board. That board has to read G-code, plan every move, calculate acceleration and send step pulses to the motors, all on a small micro-controller.</p>
+<p>Klipper splits that job in two:</p>
+<ul>
+<li><strong>The host (Klippy).</strong> A Linux computer reads the G-code, plans the movements and works out exactly when each motor step has to happen. The Klipper documentation says the host software only needs Python on a Linux or similar computer.</li>
+<li><strong>The micro-controller (MCU).</strong> The printer&#39;s control board runs a small Klipper firmware that receives those timed commands and carries them out. The Klipper features page says each stepper event is scheduled with a precision of 25 microseconds or better.</li>
+</ul>
+<p>Because the hard work happens on a much more powerful computer, the printer can use calculations that would be too heavy for an 8-bit or slow 32-bit board. Klipper can also drive several control boards at once, which is useful on printers with a separate toolhead board.</p>
+<p><strong>Tip:</strong> if a printer &quot;runs Klipper&quot;, there is always a Linux computer somewhere. On a DIY build it is usually a Raspberry Pi; on a ready-made printer it is built into the mainboard or the touchscreen.</p>
+<h2>What makes a Klipper 3D printer different</h2>
+<p>A Klipper 3D printer is any printer whose firmware is Klipper or built on Klipper. In practice there are three kinds:</p>
+<ol>
+<li><strong>Printers that ship with Klipper-based firmware.</strong> Creality&#39;s K1 series runs Creality OS, which Creality says is based on Klipper (see our <a href="/printers/creality-k1/">Creality K1 page</a>). Elegoo sells the <a href="/printers/elegoo-neptune-4/">Neptune 4</a> with Klipper pre-installed. QIDI printers run a customised Klipper with QIDI&#39;s own Moonraker and Fluidd builds, as covered on our QIDI printers hub. Sovol&#39;s SV08 and Snapmaker&#39;s U1 also use Klipper-based firmware.</li>
+<li><strong>Kit and DIY printers designed around Klipper.</strong> The Voron printers are the best-known example; the <a href="/printers/voron-2-4/">Voron 2.4</a> runs Klipper on a Raspberry Pi as standard.</li>
+<li><strong>Older printers converted to Klipper.</strong> An Ender-3 or similar printer can run Klipper if you add a host computer and flash its board. Creality also sold the Sonic Pad, a touchscreen computer that sets this up for supported Creality printers; see our <a href="/printers/creality-sonic-pad-manual/">Creality Sonic Pad manual guide</a>.</li>
+</ol>
+<p><strong>Why it matters:</strong> maker versions of Klipper are often locked down or customised. QIDI, for example, advises against updating or modifying Klipper yourself. If you want full access to <code>printer.cfg</code> and macros, check how open the maker&#39;s system is before you buy.</p>
+<h2>Input shaping</h2>
+<p>Input shaping reduces ringing, also called ghosting: the faint echo of edges and holes that appears on walls when the printer changes direction quickly. The Klipper documentation describes it as an open-loop technique that creates a command signal designed to cancel its own vibrations.</p>
+<p>There are two ways to tune it:</p>
+<ul>
+<li><strong>Test print.</strong> Print the ringing tower model with the <code>TUNING_TOWER</code> command, which raises acceleration every 5 mm. Count the ripples, calculate the resonance frequency for X and Y, and enter it.</li>
+<li><strong>Accelerometer.</strong> Fit an accelerometer, measure the resonances and let Klipper choose the shaper automatically. Some ready-made printers, such as the Creality K1 with its built-in G-sensor, do this during self-test. The docs note that adding your own accelerometer involves some crimping and soldering.</li>
+</ul>
+<p>The settings go in an <code>[input_shaper]</code> section: <code>shaper_freq_x</code>, <code>shaper_freq_y</code> and <code>shaper_type</code>. Klipper offers ZV, MZV, ZVD, EI, 2HUMP_EI and 3HUMP_EI; the documentation suggests trying MZV first, then EI, and notes that EI often suits bed-slingers and delta printers.</p>
+<p><strong>Tip:</strong> the Klipper docs say to fix mechanical causes first. Loose belts, a wobbly frame or a loose toolhead will cause ringing that no shaper can fully remove.</p>
+<h2>Pressure advance</h2>
+<p>Molten plastic in the nozzle is under pressure, so it keeps flowing a little after the extruder slows and lags a little when it speeds up. The result is bulging corners, thin starts and ooze. Pressure advance adjusts the extruder to account for this. The Klipper documentation says it reduces ooze during non-extruding moves and reduces blobbing at corners, and that Klipper&#39;s version avoids instant extruder speed changes.</p>
+<p>To tune it, print a hollow square tower while the value rises with height:</p>
+<table>
+<thead>
+<tr>
+<th>Extruder type</th>
+<th>Tuning tower factor in the Klipper docs</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Direct drive</td>
+<td><code>FACTOR=.005</code></td>
+</tr>
+<tr>
+<td>Bowden</td>
+<td><code>FACTOR=.020</code></td>
+</tr>
+</tbody></table>
+<p>Pick the height with the sharpest corners, calculate the value and set <code>pressure_advance</code> in the <code>[extruder]</code> section. The docs give typical values between 0.050 and 1.000, with the high end usually only on Bowden extruders.</p>
+<p><strong>Tip:</strong> pressure advance depends on the filament and nozzle. A value tuned for PLA may be off for PETG or TPU, so retune when you change material type.</p>
+<h2>printer.cfg, macros and the web interface</h2>
+<p>Every Klipper setting – board pins, motor directions, bed size, probe offsets, heaters, input shaper and pressure advance – lives in one text file, <code>printer.cfg</code>. To change something, you edit the line in the web interface and send <code>RESTART</code>. You do not recompile or reflash firmware for a setting change. The same file can hold G-code macros, such as a custom start routine or a filament change sequence.</p>
+<p>Klipper itself has no screen or web page. You control it through a front end:</p>
+<table>
+<thead>
+<tr>
+<th>Front end</th>
+<th>What it does</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Moonraker</td>
+<td>A Python web server that exposes an API for client apps to talk to Klipper; it sits between Klipper and the interfaces below</td>
+</tr>
+<tr>
+<td>Mainsail</td>
+<td>Browser interface for printing, file upload, config editing and webcams; MainsailOS is a ready-made Raspberry Pi image</td>
+</tr>
+<tr>
+<td>Fluidd</td>
+<td>Another browser interface with similar features, often installed with the KIAUH script</td>
+</tr>
+<tr>
+<td>OctoPrint</td>
+<td>Works with Klipper, but the Klipper FAQ says it is not required</td>
+</tr>
+</tbody></table>
+<p>The Klipper installation guide says the best choices are front ends that get their data through the Moonraker API.</p>
+<h2>How to install Klipper: the main steps</h2>
+<p>This is the high-level process from the official installation guide. Follow the guide itself for the commands for your board.</p>
+<ol>
+<li><strong>Prepare the host.</strong> Flash a Linux image to a Raspberry Pi or similar computer. Common choices in the Klipper guide are MainsailOS (for Mainsail), OctoPi (for OctoPrint) or a plain image with the KIAUH script (for Fluidd).</li>
+<li><strong>Find a config file.</strong> Klipper&#39;s config folder has example files for many printers and control boards. Start from the one that matches yours.</li>
+<li><strong>Build the MCU firmware.</strong> Run <code>make menuconfig</code>, choose the options listed at the top of your example config, then run <code>make</code>.</li>
+<li><strong>Flash the board.</strong> Many boards are flashed from an SD card; others with <code>make flash</code> over USB. The guide notes that some SD-card boards need a new file name each time.</li>
+<li><strong>Find the serial port.</strong> Connect the board to the host by USB and run <code>ls /dev/serial/by-id/*</code>. Put the result in the <code>serial:</code> line of the <code>[mcu]</code> section.</li>
+<li><strong>Copy the config.</strong> Save it as <code>printer.cfg</code> on the host, through the web interface editor, SFTP or SSH.</li>
+<li><strong>Check it.</strong> Send <code>RESTART</code>, then <code>STATUS</code>. If the printer reports ready, go through the Klipper config checks: heaters, endstops, motor directions, probe and PID tuning, then input shaping and pressure advance.</li>
+</ol>
+<p><strong>Tip:</strong> errors are written to <code>klippy.log</code>, usually in <code>~/printer_data/logs/</code>. Read it first when Klipper refuses to start.</p>
+<h2>Klipper vs Marlin</h2>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Klipper</th>
+<th>Marlin</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Where motion is planned</td>
+<td>On a Linux host computer</td>
+<td>On the printer&#39;s control board</td>
+</tr>
+<tr>
+<td>Extra hardware</td>
+<td>Needs a host computer</td>
+<td>None</td>
+</tr>
+<tr>
+<td>Changing settings</td>
+<td>Edit <code>printer.cfg</code>, restart</td>
+<td>Many settings need a rebuild and reflash; some can be saved from the screen</td>
+</tr>
+<tr>
+<td>Input shaping and pressure advance</td>
+<td>Built in, tuned with test prints or an accelerometer</td>
+<td>Depends on the Marlin version and how it was built</td>
+</tr>
+<tr>
+<td>Interface</td>
+<td>Web interface (Mainsail, Fluidd) or a touchscreen</td>
+<td>Printer screen, optionally OctoPrint</td>
+</tr>
+<tr>
+<td>Best for</td>
+<td>Fast CoreXY printers, tinkerers, multi-board setups</td>
+<td>Simple setups that just work from the printer&#39;s screen</td>
+</tr>
+</tbody></table>
+<p>The Klipper FAQ notes that Marlin can typically step at around 10,000 steps per second in practice, which is one reason Klipper suits fast machines. But firmware is only one part of speed: the frame, belts, hot end flow and part cooling decide how fast a printer can really go.</p>
+<h2>Should you use Klipper?</h2>
+<p>Klipper makes the most sense if your printer already ships with it, if you are building a Voron-style machine, or if you enjoy tuning and want input shaping and pressure advance on an older printer. Converting a printer costs a host computer and an afternoon of setup, and you will edit text files rather than tap menus.</p>
+<p>If your printer prints well and you do not want to tinker, staying on the stock firmware is a reasonable choice. Before converting, check that an example config exists for your board, and keep a copy of the original firmware so you can flash it back.</p>
+<p>Whichever firmware you run, slicing is the same: the slicer makes G-code and Klipper prints it. If you want to inspect a sliced file before printing, our <a href="/gcode-to-stl/">G-code to STL converter</a> turns it back into a 3D preview.</p>
+<h2>Verdict</h2>
+<p>Klipper is firmware that uses a Linux computer to plan the printer&#39;s moves and a control board to carry them out. That design brings precise step timing, input shaping, pressure advance and a single editable <code>printer.cfg</code>. Many current fast printers from Creality, Elegoo, QIDI, Sovol and others ship with a Klipper-based system, and Voron builds run it as standard. For a stock printer that already works, it is an optional upgrade for people who like to tune; for a fast CoreXY build, it is the usual choice.</p>
+25:["$","div",null,{"className":"split","children":[["$","article",null,{"className":"prose","children":[["$","h1",null,{"children":"Klipper – what Klipper 3D printer firmware is and how it works"}],["$","figure",null,{"className":"doc-hero","children":["$","img",null,{"src":"/images/blog/klipper.webp","alt":"Illustration of an open-frame CoreXY printer linked by cable to a small single-board computer, with wave lines around a sharp test cube","width":1200,"height":675,"fetchPriority":"high","decoding":"async"}]}],["$","p",null,{"className":"muted small","children":["Updated ","November 26, 2026"]}],["$","div",null,{"className":"summary-box","children":[["$","b",null,{"children":"Key points"}],["$","ul",null,{"children":[["$","li","Klipper is open-source 3D printer firmware that runs its motion planning on a Linux computer such as a Raspberry Pi and sends timed step commands to the printer's control board.",{"children":"Klipper is open-source 3D printer firmware that runs its motion planning on a Linux computer such as a Raspberry Pi and sends timed step commands to the printer's control board."}],["$","li","Its best-known features are input shaping, which reduces ringing, and pressure advance, which reduces blobs at corners and ooze during travel moves.",{"children":"Its best-known features are input shaping, which reduces ringing, and pressure advance, which reduces blobs at corners and ooze during travel moves."}],["$","li","All settings live in one text file, printer.cfg, so changing a setting means editing a line and restarting rather than rebuilding firmware.",{"children":"All settings live in one text file, printer.cfg, so changing a setting means editing a line and restarting rather than rebuilding firmware."}]]}]]}],null,["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$27"}}]]}],"$L28"]}]
+26:["$","section",null,{"className":"section faq","aria-labelledby":"faq-h","children":[["$","h2",null,{"id":"faq-h","children":"Questions and answers"}],["$","div",null,{"className":"faq-list","children":[["$","details","What is Klipper 3D printing?",{"children":[["$","summary",null,{"children":"What is Klipper 3D printing?"}],["$","p",null,{"children":"Klipper is open-source 3D printer firmware. A Linux computer, usually a Raspberry Pi or a computer built into the printer, plans the movements, and the printer's control board carries out precisely timed step commands."}]]}],["$","details","Do I need a Raspberry Pi to run Klipper?",{"children":[["$","summary",null,{"children":"Do I need a Raspberry Pi to run Klipper?"}],["$","p",null,{"children":"You need a Linux computer of some kind. The Klipper FAQ recommends a Raspberry Pi Zero 2 W, 3, 4 or 5, and says Klipper also runs on other single-board computers and x86 machines. Printers that ship with Klipper-based firmware have this computer built in."}]]}],["$","details","Is a Klipper 3D printer faster than one running Marlin?",{"children":[["$","summary",null,{"children":"Is a Klipper 3D printer faster than one running Marlin?"}],["$","p",null,{"children":"Not automatically. Klipper's host computer and input shaping make higher speeds and accelerations practical, but the real limit is the frame, motion system, hot end and cooling of the printer."}]]}],["$","details","Do I have to use OctoPrint with Klipper?",{"children":[["$","summary",null,{"children":"Do I have to use OctoPrint with Klipper?"}],["$","p",null,{"children":"No. The Klipper FAQ says Klipper does not depend on OctoPrint. Most setups use Mainsail or Fluidd, which talk to Klipper through the Moonraker API server."}]]}]]}]]}]
+28:["$","aside",null,{"className":"aside","children":[["$","div",null,{"className":"facts","children":[["$","b",null,{"children":"Tools for this"}],["$","div",null,{"className":"tool-grid","style":{"marginTop":10,"gridTemplateColumns":"1fr"},"children":[["$","$L4","gcode-to-stl",{"className":"tool-link","href":"/gcode-to-stl/","children":"G-code to STL converter"}],["$","$L4","stl-viewer",{"className":"tool-link","href":"/stl-viewer/","children":"STL viewer"}],["$","$L4","3d-viewer",{"className":"tool-link","href":"/3d-viewer/","children":"Online 3D model viewer"}]]}]]}],["$","div",null,{"className":"facts","children":[["$","b",null,{"children":"Open or convert a model"}],["$","p",null,{"className":"small","style":{"margin":"6px 0 10px"},"children":"View STL, 3MF, STEP and more in your browser."}],["$","$L4",null,{"className":"btn btn-accent","href":"/3d-viewer/","children":"3D viewer"}]]}]]}]
+20:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#10151C"}]]
+1c:null
+29:I[622,[],"IconMark"]
+1e:{"metadata":[["$","title","0",{"children":"Klipper – What Klipper 3D Printer Firmware Is and Does | my3dprinter.io"}],["$","meta","1",{"name":"description","content":"What is Klipper? The open-source 3D printer firmware explained: host and MCU design, input shaping, pressure advance, printer.cfg, Mainsail and Fluidd."}],["$","meta","2",{"name":"application-name","content":"my3dprinter.io"}],["$","link","3",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","4",{"name":"robots","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","5",{"rel":"canonical","href":"https://my3dprinter.io/blog/klipper/"}],["$","meta","6",{"name":"format-detection","content":"telephone=no"}],["$","meta","7",{"property":"og:title","content":"Klipper – What Klipper 3D Printer Firmware Is and Does | my3dprinter.io"}],["$","meta","8",{"property":"og:description","content":"What is Klipper? The open-source 3D printer firmware explained: host and MCU design, input shaping, pressure advance, printer.cfg, Mainsail and Fluidd."}],["$","meta","9",{"property":"og:url","content":"https://my3dprinter.io/blog/klipper/"}],["$","meta","10",{"property":"og:site_name","content":"my3dprinter.io"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:image","content":"https://my3dprinter.io/images/blog/klipper.webp"}],["$","meta","13",{"property":"og:image:width","content":"1200"}],["$","meta","14",{"property":"og:image:height","content":"675"}],["$","meta","15",{"property":"og:image:alt","content":"Klipper – What Klipper 3D Printer Firmware Is and Does"}],["$","meta","16",{"property":"og:type","content":"article"}],["$","meta","17",{"property":"article:published_time","content":"2026-11-26"}],["$","meta","18",{"property":"article:modified_time","content":"2026-11-26"}],["$","meta","19",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","20",{"name":"twitter:title","content":"Klipper – What Klipper 3D Printer Firmware Is and Does | my3dprinter.io"}],["$","meta","21",{"name":"twitter:description","content":"What is Klipper? The open-source 3D printer firmware explained: host and MCU design, input shaping, pressure advance, printer.cfg, Mainsail and Fluidd."}],["$","meta","22",{"name":"twitter:image","content":"https://my3dprinter.io/images/blog/klipper.webp"}],["$","link","23",{"rel":"icon","href":"/favicon.ico","sizes":"48x48"}],["$","link","24",{"rel":"icon","href":"/icon.svg","type":"image/svg+xml"}],["$","link","25",{"rel":"icon","href":"/icon-192.png","sizes":"192x192","type":"image/png"}],["$","link","26",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","sizes":"180x180"}],["$","$L29","27",{}]],"error":null,"digest":"$undefined"}
+23:"$1e:metadata"

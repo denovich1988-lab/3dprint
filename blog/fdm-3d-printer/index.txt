@@ -1,0 +1,289 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+4:I[2619,["2619","static/chunks/2619-3c9e02e22d10480a.js","4966","static/chunks/app/(en)/blog/%5Bslug%5D/page-6f60855278aa4f75.js"],""]
+5:I[1538,["2619","static/chunks/2619-3c9e02e22d10480a.js","90","static/chunks/app/(en)/layout-1d0e45a00e968cb3.js"],"default"]
+6:I[909,["2619","static/chunks/2619-3c9e02e22d10480a.js","90","static/chunks/app/(en)/layout-1d0e45a00e968cb3.js"],"default"]
+16:I[7150,[],""]
+:HL["/_next/static/css/93d1a12f2f4c9226.css","style"]
+0:{"P":null,"b":"rD7TGm9XF6FHQRkd5YG22","p":"","c":["","blog","fdm-3d-printer",""],"i":false,"f":[[["",{"children":["(en)",{"children":["blog",{"children":[["slug","fdm-3d-printer","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/93d1a12f2f4c9226.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","script",null,{"async":true,"src":"https://www.googletagmanager.com/gtm.js?id=GTM-T7SN8RQX"}],["$","script",null,{"async":true,"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3226858004021254","crossOrigin":"anonymous"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());"}}]]}],["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"wrap header-in","children":[["$","$L4",null,{"href":"/","className":"brand","aria-label":"my3dprinter.io home","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","nav",null,{"aria-label":"Main","className":"nav","children":[["$","$L4","/converters/",{"href":"/converters/","children":"Converters"}],["$","$L4","/3d-viewer/",{"href":"/3d-viewer/","children":"3D viewer"}],["$","$L4","/image-to-stl/",{"href":"/image-to-stl/","children":"Image to STL"}],["$","$L4","/printers/",{"href":"/printers/","children":"Printers"}],["$","$L4","/blog/",{"href":"/blog/","children":"Blog"}]]}],["$","div",null,{"className":"header-actions","children":[["$","$L5",null,{"lang":"en","langs":[{"code":"en","name":"English"},{"code":"de","name":"Deutsch"},{"code":"es","name":"Español"},{"code":"fr","name":"Français"},{"code":"it","name":"Italiano"},{"code":"ja","name":"日本語"},{"code":"ko","name":"한국어"},{"code":"pt","name":"Português"},{"code":"vi","name":"Tiếng Việt"},{"code":"th","name":"ไทย"},{"code":"zh","name":"简体中文"},{"code":"ru","name":"Русский"}],"localized":["/","/converters/","/3mf-to-stl/","/glb-to-stl/","/stl-to-3mf/","/step-to-stl/","/glb-to-obj/","/obj-to-stl/","/stl-to-obj/","/fbx-to-obj/","/gcode-to-stl/","/fbx-to-stl/","/zip-to-stl/","/stp-to-stl/","/dae-to-obj/","/gltf-to-obj/","/stl-to-dxf/","/obj-to-glb/","/gltf-to-stl/","/fbx-to-glb/","/ply-to-stl/","/3mf-to-obj/","/dae-to-stl/","/usdz-to-stl/","/ply-to-obj/","/stp-to-obj/","/3ds-to-obj/","/igs-to-stl/","/stl-to-glb/","/obj-to-3mf/","/glb-to-3mf/","/stl-to-usdz/","/glb-to-usdz/","/step-to-obj/","/step-to-3mf/","/stl-to-ply/","/fbx-to-gltf/","/image-to-stl/","/png-to-stl/","/jpg-to-stl/","/jpeg-to-stl/","/lithophane-maker/","/png-to-obj/","/png-to-3mf/","/svg-to-stl/","/svg-to-obj/","/png-to-dds/","/jpg-to-dds/","/dds-to-png/","/dds-to-jpg/","/3d-viewer/","/stl-viewer/","/3mf-viewer/","/obj-viewer/","/glb-viewer/","/step-viewer/","/ply-viewer/","/fbx-viewer/","/gltf-viewer/"],"label":"Language"}],["$","$L6",null,{"links":[["/converters/","Converters"],["/3d-viewer/","3D viewer"],["/image-to-stl/","Image to STL"],["/printers/","Printers"],["/blog/","Blog"],["/printers/compare/","Compare printers"]],"label":"Menu"}]]}]]}]}],["$","main",null,{"id":"main","className":"wrap","style":{"padding":"64px 24px"},"children":[["$","h1",null,{"children":"Page not found"}],["$","p",null,{"className":"lead","children":"This page does not exist. Try a converter or the 3D viewer."}],["$","p",null,{"children":["$","$L4",null,{"className":"btn btn-accent","href":"/converters/","children":"All converters"}]}]]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"wrap footer-grid","children":[["$","div",null,{"className":"footer-brand","children":[["$","$L4",null,{"href":"/","className":"brand","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":["$L7","$L8"]}]," ","$L9"]}],"$La"]}],["$Lb","$Lc","$Ld","$Le","$Lf"]]}],"$L10"]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["(en)","$L11",{"children":["blog","$L12",{"children":[["slug","fdm-3d-printer","d"],"$L13",{"children":["__PAGE__","$L14",{},null,false]},null,false]},null,false]},null,false]},null,false],"$L15",false]],"m":"$undefined","G":["$16",[]],"s":false,"S":true}
+1b:I[4431,[],"OutletBoundary"]
+1d:I[5278,[],"AsyncMetadataOutlet"]
+1f:I[4431,[],"ViewportBoundary"]
+21:I[4431,[],"MetadataBoundary"]
+22:"$Sreact.suspense"
+7:["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}]
+8:["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]
+9:["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]
+a:["$","p",null,{"children":"Free tools that run in your browser. Your files are never uploaded."}]
+b:["$","div","Converters",{"children":[["$","h2",null,{"children":"Converters"}],["$","ul",null,{"children":[["$","li","/3mf-to-stl/",{"children":["$","$L4",null,{"href":"/3mf-to-stl/","children":"3MF → STL"}]}],["$","li","/step-to-stl/",{"children":["$","$L4",null,{"href":"/step-to-stl/","children":"STEP → STL"}]}],["$","li","/glb-to-stl/",{"children":["$","$L4",null,{"href":"/glb-to-stl/","children":"GLB → STL"}]}],["$","li","/obj-to-stl/",{"children":["$","$L4",null,{"href":"/obj-to-stl/","children":"OBJ → STL"}]}],["$","li","/stl-to-3mf/",{"children":["$","$L4",null,{"href":"/stl-to-3mf/","children":"STL → 3MF"}]}],["$","li","/converters/",{"children":["$","$L4",null,{"href":"/converters/","children":"All converters"}]}]]}]]}]
+c:["$","div","Images & textures",{"children":[["$","h2",null,{"children":"Images & textures"}],["$","ul",null,{"children":[["$","li","/image-to-stl/",{"children":["$","$L4",null,{"href":"/image-to-stl/","children":"Image to STL"}]}],["$","li","/lithophane-maker/",{"children":["$","$L4",null,{"href":"/lithophane-maker/","children":"Lithophane maker"}]}],["$","li","/svg-to-stl/",{"children":["$","$L4",null,{"href":"/svg-to-stl/","children":"SVG → STL"}]}],["$","li","/png-to-dds/",{"children":["$","$L4",null,{"href":"/png-to-dds/","children":"PNG → DDS"}]}],["$","li","/dds-to-png/",{"children":["$","$L4",null,{"href":"/dds-to-png/","children":"DDS → PNG"}]}]]}]]}]
+d:["$","div","Viewers",{"children":[["$","h2",null,{"children":"Viewers"}],["$","ul",null,{"children":[["$","li","/3d-viewer/",{"children":["$","$L4",null,{"href":"/3d-viewer/","children":"Online 3D model viewer"}]}],["$","li","/stl-viewer/",{"children":["$","$L4",null,{"href":"/stl-viewer/","children":"STL viewer"}]}],["$","li","/3mf-viewer/",{"children":["$","$L4",null,{"href":"/3mf-viewer/","children":"3MF viewer"}]}],["$","li","/step-viewer/",{"children":["$","$L4",null,{"href":"/step-viewer/","children":"STEP viewer"}]}],["$","li","/obj-viewer/",{"children":["$","$L4",null,{"href":"/obj-viewer/","children":"OBJ viewer"}]}]]}]]}]
+e:["$","div","my3dprinter.io",{"children":[["$","h2",null,{"children":"my3dprinter.io"}],["$","ul",null,{"children":[["$","li","/printers/",{"children":["$","$L4",null,{"href":"/printers/","children":"3D printers"}]}],["$","li","/printers/compare/",{"children":["$","$L4",null,{"href":"/printers/compare/","children":"Compare printers"}]}],["$","li","/blog/",{"children":["$","$L4",null,{"href":"/blog/","children":"Blog"}]}],["$","li","/formats/",{"children":["$","$L4",null,{"href":"/formats/","children":"File formats"}]}],["$","li","/about/",{"children":["$","$L4",null,{"href":"/about/","children":"About"}]}],["$","li","/contact/",{"children":["$","$L4",null,{"href":"/contact/","children":"Contact"}]}]]}]]}]
+f:["$","div","Legal",{"children":[["$","h2",null,{"children":"Legal"}],["$","ul",null,{"children":[["$","li","/privacy/",{"children":["$","$L4",null,{"href":"/privacy/","children":"Privacy policy"}]}],["$","li","/cookies/",{"children":["$","$L4",null,{"href":"/cookies/","children":"Cookie policy"}]}],["$","li","/terms/",{"children":["$","$L4",null,{"href":"/terms/","children":"Terms of use"}]}],["$","li","/disclaimer/",{"children":["$","$L4",null,{"href":"/disclaimer/","children":"Disclaimer"}]}]]}]]}]
+10:["$","div",null,{"className":"wrap footer-base","children":["$","p",null,{"children":["© ",2026," my3dprinter.io. ","Brand and product names belong to their owners; my3dprinter.io is an independent site and is not affiliated with any printer maker."]}]}]
+11:["$","$1","c",{"children":[null,[["$","a",null,{"className":"skip","href":"#main","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"wrap header-in","children":[["$","$L4",null,{"href":"/","className":"brand","aria-label":"my3dprinter.io home","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","nav",null,{"aria-label":"Main","className":"nav","children":[["$","$L4","/converters/",{"href":"/converters/","children":"Converters"}],["$","$L4","/3d-viewer/",{"href":"/3d-viewer/","children":"3D viewer"}],["$","$L4","/image-to-stl/",{"href":"/image-to-stl/","children":"Image to STL"}],["$","$L4","/printers/",{"href":"/printers/","children":"Printers"}],["$","$L4","/blog/",{"href":"/blog/","children":"Blog"}]]}],["$","div",null,{"className":"header-actions","children":[["$","$L5",null,{"lang":"en","langs":[{"code":"en","name":"English"},{"code":"de","name":"Deutsch"},{"code":"es","name":"Español"},{"code":"fr","name":"Français"},{"code":"it","name":"Italiano"},{"code":"ja","name":"日本語"},{"code":"ko","name":"한국어"},{"code":"pt","name":"Português"},{"code":"vi","name":"Tiếng Việt"},{"code":"th","name":"ไทย"},{"code":"zh","name":"简体中文"},{"code":"ru","name":"Русский"}],"localized":"$0:f:0:1:1:props:children:1:props:children:1:props:children:props:notFound:0:0:props:children:props:children:2:props:children:0:props:localized","label":"Language"}],["$","$L6",null,{"links":[["/converters/","Converters"],["/3d-viewer/","3D viewer"],["/image-to-stl/","Image to STL"],["/printers/","Printers"],["/blog/","Blog"],["/printers/compare/","Compare printers"]],"label":"Menu"}]]}]]}]}],["$","main",null,{"id":"main","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"wrap footer-grid","children":[["$","div",null,{"className":"footer-brand","children":[["$","$L4",null,{"href":"/","className":"brand","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","p",null,{"children":"Free tools that run in your browser. Your files are never uploaded."}]]}],[["$","div","Converters",{"children":[["$","h2",null,{"children":"Converters"}],["$","ul",null,{"children":[["$","li","/3mf-to-stl/",{"children":["$","$L4",null,{"href":"/3mf-to-stl/","children":"3MF → STL"}]}],["$","li","/step-to-stl/",{"children":["$","$L4",null,{"href":"/step-to-stl/","children":"STEP → STL"}]}],["$","li","/glb-to-stl/",{"children":["$","$L4",null,{"href":"/glb-to-stl/","children":"GLB → STL"}]}],["$","li","/obj-to-stl/",{"children":["$","$L4",null,{"href":"/obj-to-stl/","children":"OBJ → STL"}]}],["$","li","/stl-to-3mf/",{"children":["$","$L4",null,{"href":"/stl-to-3mf/","children":"STL → 3MF"}]}],["$","li","/converters/",{"children":["$","$L4",null,{"href":"/converters/","children":"All converters"}]}]]}]]}],["$","div","Images & textures",{"children":[["$","h2",null,{"children":"Images & textures"}],["$","ul",null,{"children":[["$","li","/image-to-stl/",{"children":["$","$L4",null,{"href":"/image-to-stl/","children":"Image to STL"}]}],["$","li","/lithophane-maker/",{"children":["$","$L4",null,{"href":"/lithophane-maker/","children":"Lithophane maker"}]}],["$","li","/svg-to-stl/",{"children":["$","$L4",null,{"href":"/svg-to-stl/","children":"SVG → STL"}]}],["$","li","/png-to-dds/",{"children":["$","$L4",null,{"href":"/png-to-dds/","children":"PNG → DDS"}]}],["$","li","/dds-to-png/",{"children":["$","$L4",null,{"href":"/dds-to-png/","children":"DDS → PNG"}]}]]}]]}],["$","div","Viewers",{"children":[["$","h2",null,{"children":"Viewers"}],["$","ul",null,{"children":[["$","li","/3d-viewer/",{"children":["$","$L4",null,{"href":"/3d-viewer/","children":"Online 3D model viewer"}]}],["$","li","/stl-viewer/",{"children":["$","$L4",null,{"href":"/stl-viewer/","children":"STL viewer"}]}],["$","li","/3mf-viewer/",{"children":["$","$L4",null,{"href":"/3mf-viewer/","children":"3MF viewer"}]}],["$","li","/step-viewer/",{"children":["$","$L4",null,{"href":"/step-viewer/","children":"STEP viewer"}]}],["$","li","/obj-viewer/",{"children":["$","$L4",null,{"href":"/obj-viewer/","children":"OBJ viewer"}]}]]}]]}],"$L17","$L18"]]}],"$L19"]}]]]}]
+12:["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+13:["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+14:["$","$1","c",{"children":["$L1a",null,["$","$L1b",null,{"children":["$L1c",["$","$L1d",null,{"promise":"$@1e"}]]}]]}]
+15:["$","$1","h",{"children":[null,[["$","$L1f",null,{"children":"$L20"}],null],["$","$L21",null,{"children":["$","div",null,{"hidden":true,"children":["$","$22",null,{"fallback":null,"children":"$L23"}]}]}]]}]
+17:["$","div","my3dprinter.io",{"children":[["$","h2",null,{"children":"my3dprinter.io"}],["$","ul",null,{"children":[["$","li","/printers/",{"children":["$","$L4",null,{"href":"/printers/","children":"3D printers"}]}],["$","li","/printers/compare/",{"children":["$","$L4",null,{"href":"/printers/compare/","children":"Compare printers"}]}],["$","li","/blog/",{"children":["$","$L4",null,{"href":"/blog/","children":"Blog"}]}],["$","li","/formats/",{"children":["$","$L4",null,{"href":"/formats/","children":"File formats"}]}],["$","li","/about/",{"children":["$","$L4",null,{"href":"/about/","children":"About"}]}],["$","li","/contact/",{"children":["$","$L4",null,{"href":"/contact/","children":"Contact"}]}]]}]]}]
+18:["$","div","Legal",{"children":[["$","h2",null,{"children":"Legal"}],["$","ul",null,{"children":[["$","li","/privacy/",{"children":["$","$L4",null,{"href":"/privacy/","children":"Privacy policy"}]}],["$","li","/cookies/",{"children":["$","$L4",null,{"href":"/cookies/","children":"Cookie policy"}]}],["$","li","/terms/",{"children":["$","$L4",null,{"href":"/terms/","children":"Terms of use"}]}],["$","li","/disclaimer/",{"children":["$","$L4",null,{"href":"/disclaimer/","children":"Disclaimer"}]}]]}]]}]
+19:["$","div",null,{"className":"wrap footer-base","children":["$","p",null,{"children":["© ",2026," my3dprinter.io. ","Brand and product names belong to their owners; my3dprinter.io is an independent site and is not affiliated with any printer maker."]}]}]
+24:Te16,{"@context":"https://schema.org","@graph":[{"@type":"Article","headline":"FDM 3D printer – what it is, how it works and how to choose one","description":"FDM 3D printer explained: how filament printing works, extruder and hotend, bedslinger vs CoreXY vs delta, materials, FDM vs SLA vs SLS and what to look for.","datePublished":"2026-11-27","dateModified":"2026-11-27","mainEntityOfPage":"https://my3dprinter.io/blog/fdm-3d-printer/","inLanguage":"en","author":{"@type":"Organization","name":"my3dprinter.io","url":"https://my3dprinter.io"},"publisher":{"@type":"Organization","@id":"https://my3dprinter.io/#organization","name":"my3dprinter.io","url":"https://my3dprinter.io/","logo":{"@type":"ImageObject","url":"https://my3dprinter.io/icon-512.png","width":512,"height":512},"email":"hello@my3dprinter.io","description":"Free 3D file converters, viewers and 3D printer guides"},"image":"https://my3dprinter.io/images/blog/fdm-3d-printer.webp","citation":["https://en.wikipedia.org/wiki/Fused_deposition_modeling","https://en.wikipedia.org/wiki/S._Scott_Crump","https://formlabs.com/blog/fdm-vs-sla-vs-sls-how-to-choose-the-right-3d-printing-technology/","https://help.prusa3d.com/article/types-of-printers-and-their-differences_112464","https://help.prusa3d.com/en/article/glossary-i3-series_125064","https://wiki.polymaker.com/the-basics/fun-3d-printing-facts/cartesian-vs.-corexy-vs.-delta","https://wiki.bambulab.com/en/general/filament-guide-material-table","https://www.3djake.com/3d-printers-and-more/fdm-printers"]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://my3dprinter.io/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://my3dprinter.io/blog/"},{"@type":"ListItem","position":3,"name":"FDM 3D printer – what it is, how it works and how to choose one","item":"https://my3dprinter.io/blog/fdm-3d-printer/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is an FDM 3D printer?","acceptedAnswer":{"@type":"Answer","text":"An FDM 3D printer is a machine that pushes plastic filament through a heated nozzle and draws each layer of a part on a build plate, then moves up and draws the next layer. It follows instructions (G-code) made by a slicer from a 3D model such as an STL or 3MF file. Most home and hobby 3D printers work this way."}},{"@type":"Question","name":"What does FDM stand for?","acceptedAnswer":{"@type":"Answer","text":"FDM stands for fused deposition modeling. The name is a trademark of Stratasys, whose co-founder Scott Crump developed the process in the late 1980s. Other makers and the RepRap community use the generic name fused filament fabrication (FFF) for the same process, so FDM and FFF printers work the same way."}},{"@type":"Question","name":"Are FDM and PLA the same?","acceptedAnswer":{"@type":"Answer","text":"No. FDM is the printing process, and PLA is one of the materials it can use. PLA is the most common filament for FDM printers because it prints at low temperatures and warps little, but the same printer can usually also print PETG and TPU, and with the right setup ABS, ASA, nylon and composites."}},{"@type":"Question","name":"Which is better, FDM or SLA?","acceptedAnswer":{"@type":"Answer","text":"Neither is better overall. FDM suits larger, functional parts in many plastics with little cleanup and no liquid resin. SLA and other resin printers produce much finer detail and smoother surfaces, which suits miniatures, jewellery and dental models, but the resin must be handled with gloves and every print needs washing and post-curing."}}]}]}1a:["$","div",null,{"className":"wrap","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$24"}}],"$L25","$L26","$L27"]}]
+25:["$","nav",null,{"className":"crumbs","aria-label":"Breadcrumb","children":[["$","$L4",null,{"href":"/","children":"Home"}]," / ",["$","$L4",null,{"href":"/blog/","children":"Blog"}]," / ","FDM 3D printer – what it is, how it works and how to choose one"]}]
+28:T3d1a,<p><strong>An FDM 3D printer builds objects by melting plastic filament in a heated nozzle and laying it down in thin lines, one layer on top of the next, until the part is complete.</strong> It is the most common type of 3D printer at home, in schools and in workshops, because the machines and materials are affordable and there is no liquid resin or loose powder to handle. This guide explains what FDM means, how the process works step by step, the main parts of the printer, the three common motion systems (bedslinger, CoreXY and delta), which materials you can print, how FDM compares with SLA and SLS, and what to look for when you buy one. Facts come from manufacturer documentation (Prusa Knowledge Base, Bambu Lab Wiki, Formlabs) and the published history of the process, checked November 2026. We do not test or rank printers.</p>
+<h2>FDM 3D printer at a glance</h2>
+<table>
+<thead>
+<tr>
+<th>Question</th>
+<th>Short answer</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>What FDM stands for</td>
+<td>Fused deposition modeling (a Stratasys trademark); generic name: fused filament fabrication (FFF)</td>
+</tr>
+<tr>
+<td>What it prints with</td>
+<td>Thermoplastic filament on a spool, most often 1.75 mm diameter</td>
+</tr>
+<tr>
+<td>How it builds a part</td>
+<td>A heated nozzle extrudes melted plastic line by line; the bed or head moves up one layer at a time</td>
+</tr>
+<tr>
+<td>Common materials</td>
+<td>PLA, PETG, TPU, ABS, ASA; nylon, PC and fibre-filled composites on capable machines</td>
+</tr>
+<tr>
+<td>Common motion systems</td>
+<td>Cartesian bedslinger, CoreXY, delta (and less common designs such as CoreXZ and polar)</td>
+</tr>
+<tr>
+<td>Strengths</td>
+<td>Low running cost, large build volumes possible, many materials, simple post-processing</td>
+</tr>
+<tr>
+<td>Weaknesses</td>
+<td>Visible layer lines, less fine detail than resin, weaker between layers than along them</td>
+</tr>
+<tr>
+<td>Files it uses</td>
+<td>A 3D model (STL, 3MF, OBJ, STEP) sliced into G-code</td>
+</tr>
+<tr>
+<td>Main alternatives</td>
+<td>SLA/MSLA (resin) and SLS (powder)</td>
+</tr>
+</tbody></table>
+<h2>What is FDM in 3D printing?</h2>
+<p>FDM is short for <strong>fused deposition modeling</strong>. Scott Crump, co-founder of Stratasys, developed the process in the late 1980s, and Stratasys still holds the trademark on the name &quot;FDM&quot;. When the key patents expired around 2009, the open-source RepRap project and a wave of hobby companies started building cheap filament printers. Because they could not use the trademarked name, RepRap adopted <strong>fused filament fabrication (FFF)</strong> as a free, generic term.</p>
+<p>In practice FDM and FFF describe the same process, and most people say &quot;FDM printer&quot; for any filament printer, whatever the brand. Standards bodies group it under the broader category of material extrusion. Prusa&#39;s glossary, for example, defines FFF as the general term for this kind of printing and lists FDM as the other common name.</p>
+<p><strong>Tip:</strong> when you read &quot;FFF printer&quot; on a spec sheet, it is not a different technology – it is an FDM-style filament printer.</p>
+<h2>How an FDM 3D printer works</h2>
+<ol>
+<li><strong>Model.</strong> You start with a 3D model, usually an STL or 3MF file you design yourself or download. You can check a file in a viewer before printing.</li>
+<li><strong>Slicing.</strong> A slicer program (for example PrusaSlicer, Bambu Studio, OrcaSlicer, Cura or Creality Print) cuts the model into horizontal layers and works out each nozzle path, plus walls, infill and supports. It saves the result as G-code – a list of moves, temperatures and fan speeds.</li>
+<li><strong>Heating.</strong> The printer heats the nozzle to the filament&#39;s printing temperature and, in most cases, heats the bed so the first layer sticks.</li>
+<li><strong>Extruding.</strong> A motor-driven gear in the extruder grips the filament and pushes it into the hotend, where it melts and squeezes out of the nozzle as a thin bead.</li>
+<li><strong>Drawing each layer.</strong> The motion system moves the nozzle relative to the bed to trace the outline and fill of the current layer. A part-cooling fan blows on the fresh plastic so it sets quickly.</li>
+<li><strong>Stacking layers.</strong> When a layer is done, the bed drops (or the head rises) by one layer height and the next layer is drawn on top, fusing to the one below.</li>
+<li><strong>Finishing.</strong> After the print cools you remove it from the build plate and break off any support material. Most parts need little or no further work.</li>
+</ol>
+<p>The nozzle size and layer height set how fine the print looks. A 0.4 mm nozzle is the usual default on consumer printers (Bambu Lab&#39;s A1 and P1S, for example, ship with 0.4 mm nozzles and offer 0.2, 0.6 and 0.8 mm options). Smaller nozzles and thinner layers give more detail but take longer; larger ones print faster and stronger but coarser.</p>
+<h2>Parts of an FDM printer</h2>
+<table>
+<thead>
+<tr>
+<th>Part</th>
+<th>What it does</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Spool holder or filament system</td>
+<td>Holds the filament; multi-material units such as an AMS feed several spools in turn</td>
+</tr>
+<tr>
+<td>Extruder</td>
+<td>Gear and motor that grip the filament and push it forward; it can also pull it back (retraction)</td>
+</tr>
+<tr>
+<td>Hotend</td>
+<td>Heater block, temperature sensor, heatbreak and nozzle; melts the filament</td>
+</tr>
+<tr>
+<td>Nozzle</td>
+<td>Brass, stainless or hardened steel tip that sets the bead width</td>
+</tr>
+<tr>
+<td>Heated bed and build plate</td>
+<td>Surface the part sticks to; often a removable, flexible steel sheet with a textured or smooth coating</td>
+</tr>
+<tr>
+<td>Motion system</td>
+<td>Stepper motors, belts, rails or rods and lead screws that move the head and bed</td>
+</tr>
+<tr>
+<td>Cooling fans</td>
+<td>Part-cooling fan to set the plastic; hotend fan to keep the cold side of the hotend cool</td>
+</tr>
+<tr>
+<td>Mainboard and firmware</td>
+<td>Read the G-code and control motors, heaters and sensors (Marlin, Prusa firmware or <a href="/blog/klipper/">Klipper</a>)</td>
+</tr>
+<tr>
+<td>Sensors</td>
+<td>Bed-levelling probe, filament run-out sensor and, on newer printers, cameras and nozzle-clog detection</td>
+</tr>
+<tr>
+<td>Frame and enclosure</td>
+<td>Hold everything square; an enclosure keeps the air around the print warm and still</td>
+</tr>
+</tbody></table>
+<p><strong>Direct drive vs Bowden.</strong> On a direct-drive printer the extruder sits on the print head, right above the hotend, which gives better control of soft filaments such as TPU. On a Bowden printer the extruder is mounted on the frame and pushes filament through a long tube, which keeps the head light. Prusa notes that delta printers need a Bowden extruder, and that this limits which filaments they handle well.</p>
+<p><strong>Tip:</strong> the cheapest wear part is the nozzle. Fibre-filled filaments (carbon fibre, glass fibre) wear out brass nozzles quickly, so use a hardened steel nozzle for them.</p>
+<h2>FDM motion systems: bedslinger, CoreXY and delta</h2>
+<p>How the printer moves the nozzle relative to the part has a large effect on speed, footprint and whether an enclosure is easy to add.</p>
+<table>
+<thead>
+<tr>
+<th>Motion system</th>
+<th>How it moves</th>
+<th>Pros</th>
+<th>Cons</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Cartesian bedslinger</td>
+<td>Bed moves front to back (Y); head moves left to right (X) and up (Z)</td>
+<td>Simple, well documented, easy to find parts and fixes</td>
+<td>Heavy moving bed limits speed on tall or heavy parts; footprint much larger than build volume</td>
+</tr>
+<tr>
+<td>CoreXY</td>
+<td>Two long belts move the head in X and Y together; the bed only moves down in Z</td>
+<td>Light moving parts allow high speed; more of the footprint is usable; easy to enclose</td>
+<td>Long belts need correct tension; frame must be stiff and square</td>
+</tr>
+<tr>
+<td>Delta</td>
+<td>Three arms on vertical towers move a light head; the bed stays still</td>
+<td>Fast, smooth moves; tall, round build space</td>
+<td>Round, often small bed; harder calibration and repairs; Bowden only</td>
+</tr>
+<tr>
+<td>Polar and others</td>
+<td>Rotating bed or mixed designs such as CoreXZ</td>
+<td>Specialised advantages</td>
+<td>Less common, fewer parts and guides</td>
+</tr>
+</tbody></table>
+<p>The Prusa MK4 and Bambu Lab A1 are well-known bedslingers; the Prusa Core One, Bambu Lab P1S and Creality K2 Plus are CoreXY machines. Most new enclosed, high-speed printers use CoreXY, while open-frame bedslingers remain common at entry-level prices. You can line up motion systems and build volumes side by side in our <a href="/printers/compare/">printer comparison tool</a>.</p>
+<p><strong>Tip:</strong> if you plan to print ABS or ASA regularly, a CoreXY printer with a built-in enclosure saves you from adding one later.</p>
+<h2>What materials can an FDM 3D printer use?</h2>
+<p>The range of filaments is FDM&#39;s biggest advantage. Bambu Lab&#39;s filament guide splits them by how demanding they are:</p>
+<ul>
+<li><strong>Easy on any printer:</strong> PLA (the default for beginners: low warping, no heated chamber needed), PETG (tougher and more heat-resistant than PLA, a little stringy) and TPU (flexible, best on direct-drive printers).</li>
+<li><strong>Need an enclosure:</strong> ABS and ASA (stronger heat resistance; ASA also resists UV outdoors), PC and nylon (PA). Bambu Lab marks these as not recommended on open-frame printers because they warp and split without warm, still air.</li>
+<li><strong>Need a hardened nozzle:</strong> carbon-fibre and glass-fibre filled versions of PLA, PETG, nylon and others. They are stiffer but abrasive.</li>
+<li><strong>Industrial only:</strong> high-temperature plastics such as PEEK and PEI (ULTEM) need very hot nozzles and heated chambers found on professional machines.</li>
+</ul>
+<p>Most filaments, especially nylon, PETG and TPU, absorb moisture from the air, which causes stringing and weak prints, so keep spools dry.</p>
+<p><strong>Tip:</strong> start with PLA. When you need a part that survives a hot car or outdoor sun, move to PETG or ASA rather than buying a new printer.</p>
+<h2>FDM vs SLA vs SLS</h2>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>FDM (filament)</th>
+<th>SLA / MSLA (resin)</th>
+<th>SLS (powder)</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>How it works</td>
+<td>Melted plastic extruded through a nozzle</td>
+<td>UV light cures liquid resin layer by layer</td>
+<td>Laser fuses nylon or similar powder</td>
+</tr>
+<tr>
+<td>Detail and surface</td>
+<td>Visible layer lines, coarser detail</td>
+<td>Very fine detail, smooth surface</td>
+<td>Fine detail, slightly grainy matte surface</td>
+</tr>
+<tr>
+<td>Strength</td>
+<td>Weaker between layers (anisotropic)</td>
+<td>Fairly uniform in all directions</td>
+<td>Fairly uniform; strong functional parts</td>
+</tr>
+<tr>
+<td>Supports</td>
+<td>Needed for overhangs</td>
+<td>Needed</td>
+<td>Not needed: loose powder supports the part</td>
+</tr>
+<tr>
+<td>Post-processing</td>
+<td>Remove supports; optional sanding</td>
+<td>Wash in alcohol, then UV-cure; wear gloves</td>
+<td>Remove and recover powder, blast clean</td>
+</tr>
+<tr>
+<td>Materials</td>
+<td>Wide range of thermoplastics</td>
+<td>Photopolymer resins</td>
+<td>Mainly nylons and TPU-type powders</td>
+</tr>
+<tr>
+<td>Typical users</td>
+<td>Home, education, workshops, prototyping</td>
+<td>Miniatures, jewellery, dental, detailed prototypes</td>
+<td>Engineering and small-batch production</td>
+</tr>
+</tbody></table>
+<p>Formlabs, which makes both resin and powder printers, sums FDM up as the low-cost, easy option for simple parts, with the trade-off of lower detail and more visible layer lines. Prusa&#39;s overview gives resin layer heights of 25–100 microns and notes that uncured resin is toxic, so it should not touch skin and its vapours should not be inhaled. SLS machines are mostly industrial and far more expensive; see our <a href="/blog/sls-3d-printer/">SLS 3D printer guide</a> for how that process works.</p>
+<p><strong>Which is better, FDM or SLA?</strong> For brackets, enclosures, tools, cosplay pieces and anything large or functional, FDM is usually the better fit. For tiny, highly detailed models, resin wins. Many makers end up owning one of each.</p>
+<h2>Pros and cons of FDM 3D printers</h2>
+<p><strong>Advantages</strong></p>
+<ul>
+<li>Lowest entry cost and cheapest material per part of the three main technologies.</li>
+<li>Clean workflow: no resin, solvents or loose powder; prints are ready after support removal.</li>
+<li>Broad choice of plastics, from easy PLA to flexible TPU and fibre-reinforced nylon.</li>
+<li>Large build volumes are possible at reasonable cost – see our <a href="/blog/large-3d-printer/">large 3D printer guide</a>.</li>
+<li>Multi-colour and multi-material printing is now common on consumer machines.</li>
+<li>Easy to repair and upgrade, with a large community and many open-source designs.</li>
+</ul>
+<p><strong>Disadvantages</strong></p>
+<ul>
+<li>Layer lines are visible, and small text or fine textures lose detail.</li>
+<li>Parts are weakest between layers, which matters for loaded parts; orient them so the load runs along the layers.</li>
+<li>Overhangs need supports, which leave marks.</li>
+<li>Warp-prone materials need an enclosure and a well-prepared bed.</li>
+<li>FDM parts are generally not watertight without design and setting changes or sealing.</li>
+</ul>
+<h2>How to choose an FDM 3D printer – checklist</h2>
+<ol>
+<li><strong>Decide what you will print.</strong> Mostly PLA and PETG toys, organisers and household parts – any modern printer will do. Regular ABS, ASA or nylon – choose an enclosed printer.</li>
+<li><strong>Pick a build volume.</strong> Around 250 × 250 mm covers most projects; go smaller for a desk or larger for helmets and cosplay. Check the Z height too.</li>
+<li><strong>Choose a motion system.</strong> Bedslinger for a low budget and open-frame simplicity; CoreXY for speed and an easy enclosure.</li>
+<li><strong>Check the convenience features.</strong> Automatic bed levelling, a removable flexible build plate, filament run-out sensor and a direct-drive extruder save a lot of frustration for beginners.</li>
+<li><strong>Think about colour.</strong> If you want multi-colour prints, check whether the printer supports a filament changer and how much filament it purges per colour change.</li>
+<li><strong>Look at the software.</strong> A well-maintained slicer with good profiles matters as much as the hardware. Check whether the printer works offline over SD card or LAN if you do not want a cloud account.</li>
+<li><strong>Check temperatures and nozzle options.</strong> A hotter nozzle and a hardened nozzle option open up engineering and fibre-filled filaments later.</li>
+<li><strong>Plan the space.</strong> Allow room for the bed to travel on a bedslinger, a sturdy table, a spool and ventilation for fumes.</li>
+<li><strong>Set the budget.</strong> Our <a href="/blog/cheap-3d-printer/">cheap 3D printer guide</a> explains what budget models include and what they leave out.</li>
+</ol>
+<h2>Verdict</h2>
+<p>An FDM 3D printer is the most practical first 3D printer for most people: it is affordable to buy and run, prints useful parts in many plastics, and needs no messy post-processing. Choose a bedslinger if you want the lowest cost and print mainly PLA and PETG, or an enclosed CoreXY printer if you want more speed and plan to use ABS, ASA or nylon. If you need fine detail above everything else, look at resin printing instead; for strong, support-free production parts, SLS is the professional option.</p>
+26:["$","div",null,{"className":"split","children":[["$","article",null,{"className":"prose","children":[["$","h1",null,{"children":"FDM 3D printer – what it is, how it works and how to choose one"}],["$","figure",null,{"className":"doc-hero","children":["$","img",null,{"src":"/images/blog/fdm-3d-printer.webp","alt":"Illustration of a generic CoreXY print head laying a glowing orange filament line onto a half-finished part on a textured build plate","width":1200,"height":675,"fetchPriority":"high","decoding":"async"}]}],["$","p",null,{"className":"muted small","children":["Updated ","November 27, 2026"]}],["$","div",null,{"className":"summary-box","children":[["$","b",null,{"children":"Key points"}],["$","ul",null,{"children":[["$","li","An FDM 3D printer melts plastic filament in a heated nozzle and lays it down line by line and layer by layer to build a part from a sliced 3D model.",{"children":"An FDM 3D printer melts plastic filament in a heated nozzle and lays it down line by line and layer by layer to build a part from a sliced 3D model."}],["$","li","FDM is a Stratasys trademark; the same process is generically called fused filament fabrication (FFF), the term the open-source RepRap project adopted.",{"children":"FDM is a Stratasys trademark; the same process is generically called fused filament fabrication (FFF), the term the open-source RepRap project adopted."}],["$","li","FDM is the cheapest and easiest way into 3D printing and handles many plastics, but layer lines are visible and parts are weaker between layers than along them.",{"children":"FDM is the cheapest and easiest way into 3D printing and handles many plastics, but layer lines are visible and parts are weaker between layers than along them."}]]}]]}],null,["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$28"}}]]}],"$L29"]}]
+27:["$","section",null,{"className":"section faq","aria-labelledby":"faq-h","children":[["$","h2",null,{"id":"faq-h","children":"Questions and answers"}],["$","div",null,{"className":"faq-list","children":[["$","details","What is an FDM 3D printer?",{"children":[["$","summary",null,{"children":"What is an FDM 3D printer?"}],["$","p",null,{"children":"An FDM 3D printer is a machine that pushes plastic filament through a heated nozzle and draws each layer of a part on a build plate, then moves up and draws the next layer. It follows instructions (G-code) made by a slicer from a 3D model such as an STL or 3MF file. Most home and hobby 3D printers work this way."}]]}],["$","details","What does FDM stand for?",{"children":[["$","summary",null,{"children":"What does FDM stand for?"}],["$","p",null,{"children":"FDM stands for fused deposition modeling. The name is a trademark of Stratasys, whose co-founder Scott Crump developed the process in the late 1980s. Other makers and the RepRap community use the generic name fused filament fabrication (FFF) for the same process, so FDM and FFF printers work the same way."}]]}],["$","details","Are FDM and PLA the same?",{"children":[["$","summary",null,{"children":"Are FDM and PLA the same?"}],["$","p",null,{"children":"No. FDM is the printing process, and PLA is one of the materials it can use. PLA is the most common filament for FDM printers because it prints at low temperatures and warps little, but the same printer can usually also print PETG and TPU, and with the right setup ABS, ASA, nylon and composites."}]]}],["$","details","Which is better, FDM or SLA?",{"children":[["$","summary",null,{"children":"Which is better, FDM or SLA?"}],["$","p",null,{"children":"Neither is better overall. FDM suits larger, functional parts in many plastics with little cleanup and no liquid resin. SLA and other resin printers produce much finer detail and smoother surfaces, which suits miniatures, jewellery and dental models, but the resin must be handled with gloves and every print needs washing and post-curing."}]]}]]}]]}]
+29:["$","aside",null,{"className":"aside","children":[["$","div",null,{"className":"facts","children":[["$","b",null,{"children":"Tools for this"}],["$","div",null,{"className":"tool-grid","style":{"marginTop":10,"gridTemplateColumns":"1fr"},"children":[["$","$L4","stl-viewer",{"className":"tool-link","href":"/stl-viewer/","children":"STL viewer"}],["$","$L4","3mf-to-stl",{"className":"tool-link","href":"/3mf-to-stl/","children":"3MF to STL converter"}],["$","$L4","3d-viewer",{"className":"tool-link","href":"/3d-viewer/","children":"Online 3D model viewer"}]]}]]}],["$","div",null,{"className":"facts","children":[["$","b",null,{"children":"Open or convert a model"}],["$","p",null,{"className":"small","style":{"margin":"6px 0 10px"},"children":"View STL, 3MF, STEP and more in your browser."}],["$","$L4",null,{"className":"btn btn-accent","href":"/3d-viewer/","children":"3D viewer"}]]}]]}]
+20:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#10151C"}]]
+1c:null
+2a:I[622,[],"IconMark"]
+1e:{"metadata":[["$","title","0",{"children":"FDM 3D Printer – How It Works, Parts and How to Choose | my3dprinter.io"}],["$","meta","1",{"name":"description","content":"FDM 3D printer explained: how filament printing works, extruder and hotend, bedslinger vs CoreXY vs delta, materials, FDM vs SLA vs SLS and what to look for."}],["$","meta","2",{"name":"application-name","content":"my3dprinter.io"}],["$","link","3",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","4",{"name":"robots","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","5",{"rel":"canonical","href":"https://my3dprinter.io/blog/fdm-3d-printer/"}],["$","meta","6",{"name":"format-detection","content":"telephone=no"}],["$","meta","7",{"property":"og:title","content":"FDM 3D Printer – How It Works, Parts and How to Choose | my3dprinter.io"}],["$","meta","8",{"property":"og:description","content":"FDM 3D printer explained: how filament printing works, extruder and hotend, bedslinger vs CoreXY vs delta, materials, FDM vs SLA vs SLS and what to look for."}],["$","meta","9",{"property":"og:url","content":"https://my3dprinter.io/blog/fdm-3d-printer/"}],["$","meta","10",{"property":"og:site_name","content":"my3dprinter.io"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:image","content":"https://my3dprinter.io/images/blog/fdm-3d-printer.webp"}],["$","meta","13",{"property":"og:image:width","content":"1200"}],["$","meta","14",{"property":"og:image:height","content":"675"}],["$","meta","15",{"property":"og:image:alt","content":"FDM 3D Printer – How It Works, Parts and How to Choose"}],["$","meta","16",{"property":"og:type","content":"article"}],["$","meta","17",{"property":"article:published_time","content":"2026-11-27"}],["$","meta","18",{"property":"article:modified_time","content":"2026-11-27"}],["$","meta","19",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","20",{"name":"twitter:title","content":"FDM 3D Printer – How It Works, Parts and How to Choose | my3dprinter.io"}],["$","meta","21",{"name":"twitter:description","content":"FDM 3D printer explained: how filament printing works, extruder and hotend, bedslinger vs CoreXY vs delta, materials, FDM vs SLA vs SLS and what to look for."}],["$","meta","22",{"name":"twitter:image","content":"https://my3dprinter.io/images/blog/fdm-3d-printer.webp"}],["$","link","23",{"rel":"icon","href":"/favicon.ico","sizes":"48x48"}],["$","link","24",{"rel":"icon","href":"/icon.svg","type":"image/svg+xml"}],["$","link","25",{"rel":"icon","href":"/icon-192.png","sizes":"192x192","type":"image/png"}],["$","link","26",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","sizes":"180x180"}],["$","$L2a","27",{}]],"error":null,"digest":"$undefined"}
+23:"$1e:metadata"

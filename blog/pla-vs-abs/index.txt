@@ -1,0 +1,255 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+4:I[2619,["2619","static/chunks/2619-3c9e02e22d10480a.js","4966","static/chunks/app/(en)/blog/%5Bslug%5D/page-6f60855278aa4f75.js"],""]
+5:I[1538,["2619","static/chunks/2619-3c9e02e22d10480a.js","90","static/chunks/app/(en)/layout-1d0e45a00e968cb3.js"],"default"]
+6:I[909,["2619","static/chunks/2619-3c9e02e22d10480a.js","90","static/chunks/app/(en)/layout-1d0e45a00e968cb3.js"],"default"]
+16:I[7150,[],""]
+:HL["/_next/static/css/93d1a12f2f4c9226.css","style"]
+0:{"P":null,"b":"rD7TGm9XF6FHQRkd5YG22","p":"","c":["","blog","pla-vs-abs",""],"i":false,"f":[[["",{"children":["(en)",{"children":["blog",{"children":[["slug","pla-vs-abs","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/93d1a12f2f4c9226.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","script",null,{"async":true,"src":"https://www.googletagmanager.com/gtm.js?id=GTM-T7SN8RQX"}],["$","script",null,{"async":true,"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3226858004021254","crossOrigin":"anonymous"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());"}}]]}],["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"wrap header-in","children":[["$","$L4",null,{"href":"/","className":"brand","aria-label":"my3dprinter.io home","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","nav",null,{"aria-label":"Main","className":"nav","children":[["$","$L4","/converters/",{"href":"/converters/","children":"Converters"}],["$","$L4","/3d-viewer/",{"href":"/3d-viewer/","children":"3D viewer"}],["$","$L4","/image-to-stl/",{"href":"/image-to-stl/","children":"Image to STL"}],["$","$L4","/printers/",{"href":"/printers/","children":"Printers"}],["$","$L4","/blog/",{"href":"/blog/","children":"Blog"}]]}],["$","div",null,{"className":"header-actions","children":[["$","$L5",null,{"lang":"en","langs":[{"code":"en","name":"English"},{"code":"de","name":"Deutsch"},{"code":"es","name":"Español"},{"code":"fr","name":"Français"},{"code":"it","name":"Italiano"},{"code":"ja","name":"日本語"},{"code":"ko","name":"한국어"},{"code":"pt","name":"Português"},{"code":"vi","name":"Tiếng Việt"},{"code":"th","name":"ไทย"},{"code":"zh","name":"简体中文"},{"code":"ru","name":"Русский"}],"localized":["/","/converters/","/3mf-to-stl/","/glb-to-stl/","/stl-to-3mf/","/step-to-stl/","/glb-to-obj/","/obj-to-stl/","/stl-to-obj/","/fbx-to-obj/","/gcode-to-stl/","/fbx-to-stl/","/zip-to-stl/","/stp-to-stl/","/dae-to-obj/","/gltf-to-obj/","/stl-to-dxf/","/obj-to-glb/","/gltf-to-stl/","/fbx-to-glb/","/ply-to-stl/","/3mf-to-obj/","/dae-to-stl/","/usdz-to-stl/","/ply-to-obj/","/stp-to-obj/","/3ds-to-obj/","/igs-to-stl/","/stl-to-glb/","/obj-to-3mf/","/glb-to-3mf/","/stl-to-usdz/","/glb-to-usdz/","/step-to-obj/","/step-to-3mf/","/stl-to-ply/","/fbx-to-gltf/","/image-to-stl/","/png-to-stl/","/jpg-to-stl/","/jpeg-to-stl/","/lithophane-maker/","/png-to-obj/","/png-to-3mf/","/svg-to-stl/","/svg-to-obj/","/png-to-dds/","/jpg-to-dds/","/dds-to-png/","/dds-to-jpg/","/3d-viewer/","/stl-viewer/","/3mf-viewer/","/obj-viewer/","/glb-viewer/","/step-viewer/","/ply-viewer/","/fbx-viewer/","/gltf-viewer/"],"label":"Language"}],["$","$L6",null,{"links":[["/converters/","Converters"],["/3d-viewer/","3D viewer"],["/image-to-stl/","Image to STL"],["/printers/","Printers"],["/blog/","Blog"],["/printers/compare/","Compare printers"]],"label":"Menu"}]]}]]}]}],["$","main",null,{"id":"main","className":"wrap","style":{"padding":"64px 24px"},"children":[["$","h1",null,{"children":"Page not found"}],["$","p",null,{"className":"lead","children":"This page does not exist. Try a converter or the 3D viewer."}],["$","p",null,{"children":["$","$L4",null,{"className":"btn btn-accent","href":"/converters/","children":"All converters"}]}]]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"wrap footer-grid","children":[["$","div",null,{"className":"footer-brand","children":[["$","$L4",null,{"href":"/","className":"brand","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":["$L7","$L8"]}]," ","$L9"]}],"$La"]}],["$Lb","$Lc","$Ld","$Le","$Lf"]]}],"$L10"]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["(en)","$L11",{"children":["blog","$L12",{"children":[["slug","pla-vs-abs","d"],"$L13",{"children":["__PAGE__","$L14",{},null,false]},null,false]},null,false]},null,false]},null,false],"$L15",false]],"m":"$undefined","G":["$16",[]],"s":false,"S":true}
+1b:I[4431,[],"OutletBoundary"]
+1d:I[5278,[],"AsyncMetadataOutlet"]
+1f:I[4431,[],"ViewportBoundary"]
+21:I[4431,[],"MetadataBoundary"]
+22:"$Sreact.suspense"
+7:["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}]
+8:["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]
+9:["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]
+a:["$","p",null,{"children":"Free tools that run in your browser. Your files are never uploaded."}]
+b:["$","div","Converters",{"children":[["$","h2",null,{"children":"Converters"}],["$","ul",null,{"children":[["$","li","/3mf-to-stl/",{"children":["$","$L4",null,{"href":"/3mf-to-stl/","children":"3MF → STL"}]}],["$","li","/step-to-stl/",{"children":["$","$L4",null,{"href":"/step-to-stl/","children":"STEP → STL"}]}],["$","li","/glb-to-stl/",{"children":["$","$L4",null,{"href":"/glb-to-stl/","children":"GLB → STL"}]}],["$","li","/obj-to-stl/",{"children":["$","$L4",null,{"href":"/obj-to-stl/","children":"OBJ → STL"}]}],["$","li","/stl-to-3mf/",{"children":["$","$L4",null,{"href":"/stl-to-3mf/","children":"STL → 3MF"}]}],["$","li","/converters/",{"children":["$","$L4",null,{"href":"/converters/","children":"All converters"}]}]]}]]}]
+c:["$","div","Images & textures",{"children":[["$","h2",null,{"children":"Images & textures"}],["$","ul",null,{"children":[["$","li","/image-to-stl/",{"children":["$","$L4",null,{"href":"/image-to-stl/","children":"Image to STL"}]}],["$","li","/lithophane-maker/",{"children":["$","$L4",null,{"href":"/lithophane-maker/","children":"Lithophane maker"}]}],["$","li","/svg-to-stl/",{"children":["$","$L4",null,{"href":"/svg-to-stl/","children":"SVG → STL"}]}],["$","li","/png-to-dds/",{"children":["$","$L4",null,{"href":"/png-to-dds/","children":"PNG → DDS"}]}],["$","li","/dds-to-png/",{"children":["$","$L4",null,{"href":"/dds-to-png/","children":"DDS → PNG"}]}]]}]]}]
+d:["$","div","Viewers",{"children":[["$","h2",null,{"children":"Viewers"}],["$","ul",null,{"children":[["$","li","/3d-viewer/",{"children":["$","$L4",null,{"href":"/3d-viewer/","children":"Online 3D model viewer"}]}],["$","li","/stl-viewer/",{"children":["$","$L4",null,{"href":"/stl-viewer/","children":"STL viewer"}]}],["$","li","/3mf-viewer/",{"children":["$","$L4",null,{"href":"/3mf-viewer/","children":"3MF viewer"}]}],["$","li","/step-viewer/",{"children":["$","$L4",null,{"href":"/step-viewer/","children":"STEP viewer"}]}],["$","li","/obj-viewer/",{"children":["$","$L4",null,{"href":"/obj-viewer/","children":"OBJ viewer"}]}]]}]]}]
+e:["$","div","my3dprinter.io",{"children":[["$","h2",null,{"children":"my3dprinter.io"}],["$","ul",null,{"children":[["$","li","/printers/",{"children":["$","$L4",null,{"href":"/printers/","children":"3D printers"}]}],["$","li","/printers/compare/",{"children":["$","$L4",null,{"href":"/printers/compare/","children":"Compare printers"}]}],["$","li","/blog/",{"children":["$","$L4",null,{"href":"/blog/","children":"Blog"}]}],["$","li","/formats/",{"children":["$","$L4",null,{"href":"/formats/","children":"File formats"}]}],["$","li","/about/",{"children":["$","$L4",null,{"href":"/about/","children":"About"}]}],["$","li","/contact/",{"children":["$","$L4",null,{"href":"/contact/","children":"Contact"}]}]]}]]}]
+f:["$","div","Legal",{"children":[["$","h2",null,{"children":"Legal"}],["$","ul",null,{"children":[["$","li","/privacy/",{"children":["$","$L4",null,{"href":"/privacy/","children":"Privacy policy"}]}],["$","li","/cookies/",{"children":["$","$L4",null,{"href":"/cookies/","children":"Cookie policy"}]}],["$","li","/terms/",{"children":["$","$L4",null,{"href":"/terms/","children":"Terms of use"}]}],["$","li","/disclaimer/",{"children":["$","$L4",null,{"href":"/disclaimer/","children":"Disclaimer"}]}]]}]]}]
+10:["$","div",null,{"className":"wrap footer-base","children":["$","p",null,{"children":["© ",2026," my3dprinter.io. ","Brand and product names belong to their owners; my3dprinter.io is an independent site and is not affiliated with any printer maker."]}]}]
+11:["$","$1","c",{"children":[null,[["$","a",null,{"className":"skip","href":"#main","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"wrap header-in","children":[["$","$L4",null,{"href":"/","className":"brand","aria-label":"my3dprinter.io home","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","nav",null,{"aria-label":"Main","className":"nav","children":[["$","$L4","/converters/",{"href":"/converters/","children":"Converters"}],["$","$L4","/3d-viewer/",{"href":"/3d-viewer/","children":"3D viewer"}],["$","$L4","/image-to-stl/",{"href":"/image-to-stl/","children":"Image to STL"}],["$","$L4","/printers/",{"href":"/printers/","children":"Printers"}],["$","$L4","/blog/",{"href":"/blog/","children":"Blog"}]]}],["$","div",null,{"className":"header-actions","children":[["$","$L5",null,{"lang":"en","langs":[{"code":"en","name":"English"},{"code":"de","name":"Deutsch"},{"code":"es","name":"Español"},{"code":"fr","name":"Français"},{"code":"it","name":"Italiano"},{"code":"ja","name":"日本語"},{"code":"ko","name":"한국어"},{"code":"pt","name":"Português"},{"code":"vi","name":"Tiếng Việt"},{"code":"th","name":"ไทย"},{"code":"zh","name":"简体中文"},{"code":"ru","name":"Русский"}],"localized":"$0:f:0:1:1:props:children:1:props:children:1:props:children:props:notFound:0:0:props:children:props:children:2:props:children:0:props:localized","label":"Language"}],["$","$L6",null,{"links":[["/converters/","Converters"],["/3d-viewer/","3D viewer"],["/image-to-stl/","Image to STL"],["/printers/","Printers"],["/blog/","Blog"],["/printers/compare/","Compare printers"]],"label":"Menu"}]]}]]}]}],["$","main",null,{"id":"main","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"wrap footer-grid","children":[["$","div",null,{"className":"footer-brand","children":[["$","$L4",null,{"href":"/","className":"brand","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","p",null,{"children":"Free tools that run in your browser. Your files are never uploaded."}]]}],[["$","div","Converters",{"children":[["$","h2",null,{"children":"Converters"}],["$","ul",null,{"children":[["$","li","/3mf-to-stl/",{"children":["$","$L4",null,{"href":"/3mf-to-stl/","children":"3MF → STL"}]}],["$","li","/step-to-stl/",{"children":["$","$L4",null,{"href":"/step-to-stl/","children":"STEP → STL"}]}],["$","li","/glb-to-stl/",{"children":["$","$L4",null,{"href":"/glb-to-stl/","children":"GLB → STL"}]}],["$","li","/obj-to-stl/",{"children":["$","$L4",null,{"href":"/obj-to-stl/","children":"OBJ → STL"}]}],["$","li","/stl-to-3mf/",{"children":["$","$L4",null,{"href":"/stl-to-3mf/","children":"STL → 3MF"}]}],["$","li","/converters/",{"children":["$","$L4",null,{"href":"/converters/","children":"All converters"}]}]]}]]}],["$","div","Images & textures",{"children":[["$","h2",null,{"children":"Images & textures"}],["$","ul",null,{"children":[["$","li","/image-to-stl/",{"children":["$","$L4",null,{"href":"/image-to-stl/","children":"Image to STL"}]}],["$","li","/lithophane-maker/",{"children":["$","$L4",null,{"href":"/lithophane-maker/","children":"Lithophane maker"}]}],["$","li","/svg-to-stl/",{"children":["$","$L4",null,{"href":"/svg-to-stl/","children":"SVG → STL"}]}],["$","li","/png-to-dds/",{"children":["$","$L4",null,{"href":"/png-to-dds/","children":"PNG → DDS"}]}],["$","li","/dds-to-png/",{"children":["$","$L4",null,{"href":"/dds-to-png/","children":"DDS → PNG"}]}]]}]]}],["$","div","Viewers",{"children":[["$","h2",null,{"children":"Viewers"}],["$","ul",null,{"children":[["$","li","/3d-viewer/",{"children":["$","$L4",null,{"href":"/3d-viewer/","children":"Online 3D model viewer"}]}],["$","li","/stl-viewer/",{"children":["$","$L4",null,{"href":"/stl-viewer/","children":"STL viewer"}]}],["$","li","/3mf-viewer/",{"children":["$","$L4",null,{"href":"/3mf-viewer/","children":"3MF viewer"}]}],["$","li","/step-viewer/",{"children":["$","$L4",null,{"href":"/step-viewer/","children":"STEP viewer"}]}],["$","li","/obj-viewer/",{"children":["$","$L4",null,{"href":"/obj-viewer/","children":"OBJ viewer"}]}]]}]]}],"$L17","$L18"]]}],"$L19"]}]]]}]
+12:["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+13:["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+14:["$","$1","c",{"children":["$L1a",null,["$","$L1b",null,{"children":["$L1c",["$","$L1d",null,{"promise":"$@1e"}]]}]]}]
+15:["$","$1","h",{"children":[null,[["$","$L1f",null,{"children":"$L20"}],null],["$","$L21",null,{"children":["$","div",null,{"hidden":true,"children":["$","$22",null,{"fallback":null,"children":"$L23"}]}]}]]}]
+17:["$","div","my3dprinter.io",{"children":[["$","h2",null,{"children":"my3dprinter.io"}],["$","ul",null,{"children":[["$","li","/printers/",{"children":["$","$L4",null,{"href":"/printers/","children":"3D printers"}]}],["$","li","/printers/compare/",{"children":["$","$L4",null,{"href":"/printers/compare/","children":"Compare printers"}]}],["$","li","/blog/",{"children":["$","$L4",null,{"href":"/blog/","children":"Blog"}]}],["$","li","/formats/",{"children":["$","$L4",null,{"href":"/formats/","children":"File formats"}]}],["$","li","/about/",{"children":["$","$L4",null,{"href":"/about/","children":"About"}]}],["$","li","/contact/",{"children":["$","$L4",null,{"href":"/contact/","children":"Contact"}]}]]}]]}]
+18:["$","div","Legal",{"children":[["$","h2",null,{"children":"Legal"}],["$","ul",null,{"children":[["$","li","/privacy/",{"children":["$","$L4",null,{"href":"/privacy/","children":"Privacy policy"}]}],["$","li","/cookies/",{"children":["$","$L4",null,{"href":"/cookies/","children":"Cookie policy"}]}],["$","li","/terms/",{"children":["$","$L4",null,{"href":"/terms/","children":"Terms of use"}]}],["$","li","/disclaimer/",{"children":["$","$L4",null,{"href":"/disclaimer/","children":"Disclaimer"}]}]]}]]}]
+19:["$","div",null,{"className":"wrap footer-base","children":["$","p",null,{"children":["© ",2026," my3dprinter.io. ","Brand and product names belong to their owners; my3dprinter.io is an independent site and is not affiliated with any printer maker."]}]}]
+24:Td0f,{"@context":"https://schema.org","@graph":[{"@type":"Article","headline":"PLA vs ABS – differences, strength and which filament to choose","description":"PLA vs ABS compared – print and bed temperatures, strength and toughness, heat resistance, warping, fumes, enclosure needs and which filament fits your parts.","datePublished":"2026-11-26","dateModified":"2026-11-26","mainEntityOfPage":"https://my3dprinter.io/blog/pla-vs-abs/","inLanguage":"en","author":{"@type":"Organization","name":"my3dprinter.io","url":"https://my3dprinter.io"},"publisher":{"@type":"Organization","@id":"https://my3dprinter.io/#organization","name":"my3dprinter.io","url":"https://my3dprinter.io/","logo":{"@type":"ImageObject","url":"https://my3dprinter.io/icon-512.png","width":512,"height":512},"email":"hello@my3dprinter.io","description":"Free 3D file converters, viewers and 3D printer guides"},"image":"https://my3dprinter.io/images/blog/pla-vs-abs.webp","citation":["https://help.prusa3d.com/en/article/abs_2058","https://help.prusa3d.com/en/article/pla_2062","https://wiki.bambulab.com/en/general/filament-guide-material-table","https://wiki.bambulab.com/en/x1/manual/compatibility-and-parameter-settings-of-filaments","https://wiki.polymaker.com/the-basics/3d-printing-materials/abs","https://hubs.com/knowledge-base/pla-vs-abs-whats-difference","https://www.3ds.com/make/solutions/blog/pla-vs-abs"]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://my3dprinter.io/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://my3dprinter.io/blog/"},{"@type":"ListItem","position":3,"name":"PLA vs ABS – differences, strength and which filament to choose","item":"https://my3dprinter.io/blog/pla-vs-abs/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Is ABS stronger than PLA?","acceptedAnswer":{"@type":"Answer","text":"It depends on what you mean by strength. PLA is stiffer and its tensile strength is similar to or higher than ABS in published comparisons, but it is brittle and snaps. ABS is tougher – it takes impacts and flexes before breaking – and it keeps its strength at temperatures where PLA softens."}},{"@type":"Question","name":"Which is better, ABS or PLA?","acceptedAnswer":{"@type":"Answer","text":"For beginners, decorative prints, prototypes and indoor parts, PLA is better because it is far easier to print. For functional parts that get warm or take knocks – car interior parts, electronics housings, tool holders – ABS is better, as long as you have an enclosed printer and good ventilation."}},{"@type":"Question","name":"Can you print ABS on a printer made for PLA?","acceptedAnswer":{"@type":"Answer","text":"Only if the printer has a heated bed that reaches about 90–100 °C and a hotend that handles 240–260 °C or more. Without an enclosure, ABS warps and splits on all but small parts, so an open-frame PLA printer is a poor fit for regular ABS printing."}},{"@type":"Question","name":"Does ABS look better than PLA?","acceptedAnswer":{"@type":"Answer","text":"They look different rather than better. PLA usually prints with a glossier surface and crisper fine detail, while ABS has a more matte finish. ABS can be sanded and smoothed with acetone vapour to a glossy, injection-moulded look, which standard PLA cannot."}}]}]}1a:["$","div",null,{"className":"wrap","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$24"}}],"$L25","$L26","$L27"]}]
+25:["$","nav",null,{"className":"crumbs","aria-label":"Breadcrumb","children":[["$","$L4",null,{"href":"/","children":"Home"}]," / ",["$","$L4",null,{"href":"/blog/","children":"Blog"}]," / ","PLA vs ABS – differences, strength and which filament to choose"]}]
+28:T30fc,<p><strong>PLA vs ABS comes down to ease versus heat and toughness: PLA is the easier filament and the better choice for detailed, decorative and indoor prints, while ABS is tougher and survives far more heat, but it warps, gives off fumes and needs an enclosed printer.</strong> If you are new to 3D printing or print on an open-frame machine, start with PLA. If a part has to sit in a warm car, near a motor or take repeated knocks, ABS is worth the extra effort. This guide compares the two side by side – temperatures, strength, heat resistance, warping, fumes, finish and moisture – and ends with a quick way to choose. Facts come from Prusa, Bambu Lab and Polymaker documentation plus published material comparisons, checked November 2026. Settings vary by brand, so always check your spool label.</p>
+<h2>PLA vs ABS at a glance</h2>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>PLA</th>
+<th>ABS</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Full name</td>
+<td>Polylactic acid</td>
+<td>Acrylonitrile butadiene styrene</td>
+</tr>
+<tr>
+<td>Made from</td>
+<td>Plant-based starches (e.g. corn, sugarcane)</td>
+<td>Petroleum-based</td>
+</tr>
+<tr>
+<td>Nozzle temperature</td>
+<td>About 190–240 °C</td>
+<td>About 220–280 °C (typically 240–260 °C)</td>
+</tr>
+<tr>
+<td>Bed temperature</td>
+<td>About 35–65 °C</td>
+<td>About 80–110 °C (typically 90–100 °C)</td>
+</tr>
+<tr>
+<td>Enclosure</td>
+<td>Not needed; open the door on enclosed printers</td>
+<td>Recommended or required</td>
+</tr>
+<tr>
+<td>Warping</td>
+<td>Low</td>
+<td>High (shrinks about 1–2 %)</td>
+</tr>
+<tr>
+<td>Heat resistance</td>
+<td>Softens around 55–60 °C</td>
+<td>Glass transition around 100–105 °C</td>
+</tr>
+<tr>
+<td>Stiffness</td>
+<td>High</td>
+<td>Lower – flexes more</td>
+</tr>
+<tr>
+<td>Toughness / impact</td>
+<td>Brittle – snaps</td>
+<td>Tough – bends before breaking</td>
+</tr>
+<tr>
+<td>Fumes</td>
+<td>Mild</td>
+<td>Noticeable; styrene, ventilate</td>
+</tr>
+<tr>
+<td>UV / outdoor use</td>
+<td>Poor</td>
+<td>Poor – yellows and turns brittle</td>
+</tr>
+<tr>
+<td>Acetone smoothing</td>
+<td>No</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Drying (Bambu Lab)</td>
+<td>55 °C for 8 h</td>
+<td>80 °C for 8 h</td>
+</tr>
+<tr>
+<td>Best for</td>
+<td>Models, prototypes, décor, toys</td>
+<td>Functional, heat-exposed, impact-loaded parts</td>
+</tr>
+</tbody></table>
+<h2>What is PLA?</h2>
+<p>PLA (polylactic acid) is a thermoplastic made from plant starches. It melts at low temperatures, barely shrinks as it cools, and prints with sharp detail and clean overhangs. Prusa lists low cost and easy printing as its main strengths and recommends it for concept models, prototypes and low-wear toys. Its weak points are brittleness and poor resistance to heat and UV light – Prusa says it softens and deforms above about 60 °C, and Bambu Lab advises against using PLA where temperatures reach around 50 °C or more. Our <a href="/blog/pla-filament/">PLA filament guide</a> covers settings and brands in detail.</p>
+<h2>What is ABS?</h2>
+<p>ABS (acrylonitrile butadiene styrene) is the petroleum-based plastic used in LEGO bricks, car trim and appliance housings. Polymaker&#39;s wiki gives it a glass transition temperature of about 100 °C. In 3D printing it is valued for toughness, heat resistance and easy post-processing: it sands well, glues and smooths with acetone. The cost is a harder print – it needs high temperatures, an enclosure to stop warping, and ventilation for its fumes. See our full <a href="/blog/abs-filament/">ABS filament guide</a> for settings and tips.</p>
+<h2>Print temperatures and settings: ABS vs PLA filament</h2>
+<p>Maker ranges for the same material overlap but are not identical:</p>
+<table>
+<thead>
+<tr>
+<th>Source</th>
+<th>PLA nozzle / bed</th>
+<th>ABS nozzle / bed</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Bambu Lab material table</td>
+<td>190–240 °C / 35–65 °C</td>
+<td>240–280 °C / 90–100 °C</td>
+</tr>
+<tr>
+<td>Prusa material guides</td>
+<td>215 °C first layer, 210 °C after / 60 °C</td>
+<td>255 °C / 100 °C (80–110 °C)</td>
+</tr>
+<tr>
+<td>Polymaker wiki (general)</td>
+<td>–</td>
+<td>220–260 °C, some blends 240–280 °C / 90–110 °C</td>
+</tr>
+</tbody></table>
+<p>Other practical differences:</p>
+<ul>
+<li><strong>Build plate:</strong> Bambu Lab rates its Cool Plate for PLA but not for ABS; ABS goes on an engineering, smooth PEI or textured PEI plate. Prusa recommends smooth or powder-coated PEI with glue stick for ABS.</li>
+<li><strong>Cooling:</strong> PLA likes strong part cooling. ABS prints with the fan low or off, because fast cooling causes cracks between layers.</li>
+<li><strong>Hotend:</strong> Polymaker recommends an all-metal hotend for printing above 240 °C, which matters for ABS on older printers.</li>
+<li><strong>Door and lid:</strong> on an enclosed printer, Bambu Lab recommends opening the front door and removing the top glass for PLA when the bed is above 45 °C, to avoid heat creep and clogs. For ABS the lid stays on.</li>
+</ul>
+<p><strong>Tip:</strong> always start from the slicer profile for your filament brand and adjust in 5 °C steps.</p>
+<h2>Is ABS stronger than PLA?</h2>
+<p>This is the most common question in the PLA vs ABS debate, and the honest answer is: in some ways yes, in others no.</p>
+<ul>
+<li><strong>Tensile strength and stiffness:</strong> PLA is stiffer, and its tensile strength is similar to or higher than ABS. The Protolabs Network (Hubs) comparison table lists PLA higher on tensile strength, and Dassault Systèmes describes the two as similar. Bambu Lab&#39;s own material table rates its PLA and ABS equally for tensile strength.</li>
+<li><strong>Toughness and impact:</strong> ABS clearly wins. It bends and deforms before breaking, while PLA tends to snap. Bambu Lab rates ABS higher than PLA for impact resistance, and Polymaker describes PLA as rigid but brittle.</li>
+<li><strong>Strength under heat:</strong> ABS keeps its shape at temperatures where PLA has already softened, so in a warm environment ABS is effectively much stronger.</li>
+<li><strong>Layer bonding:</strong> ABS can split between layers if it cools too fast. A warm enclosure gives strong layer bonding; an open, draughty printer does not.</li>
+</ul>
+<p><strong>What it means:</strong> for a bracket that carries a static load indoors, PLA is often fine. For a clip that flexes, a part that may be dropped or anything that gets warm, ABS is the better choice.</p>
+<h2>Heat resistance</h2>
+<p>Heat is where ABS has the biggest advantage. PLA has a glass transition around 60 °C, so it can sag in a car on a sunny day, near a radiator or next to a hot motor. ABS has a glass transition around 100–105 °C according to Polymaker, Hubs and Dassault Systèmes. That makes ABS suitable for car interior parts, appliance parts and enclosures around electronics that run warm.</p>
+<p><strong>Tip:</strong> if heat resistance is the only reason you are considering ABS, PETG sits in between and prints without an enclosure – see our <a href="/blog/petg-vs-pla/">PETG vs PLA comparison</a>.</p>
+<h2>Warping and enclosure needs</h2>
+<p>ABS shrinks noticeably as it cools – Prusa puts the shrinkage at about 1–2 %. When the lower layers cool faster than the top, corners lift off the bed and tall parts split. Prusa says ABS should be printed inside an enclosure with a higher ambient temperature, and Bambu Lab recommends an enclosed printer and does not recommend open-frame printers for ABS.</p>
+<p>PLA shrinks very little and prints happily on open-frame printers. On enclosed printers it can actually suffer from too much heat, which is why Bambu Lab suggests opening the door for PLA.</p>
+<p><strong>Without an enclosure:</strong> you can print small ABS parts with a brim and a draft shield (a thin wall around the part, set in the slicer&#39;s skirt and brim options), but large ABS parts will be unreliable. Printers such as the Bambu Lab P1S are enclosed for this reason; compare enclosure specs in our <a href="/printers/compare/">printer comparison tool</a>.</p>
+<h2>Fumes and safety</h2>
+<p>ABS gives off a strong smell while printing. Prusa warns of potentially dangerous styrene fumes, Bambu Lab lists pungent fumes as a drawback, and Polymaker says ABS emits VOCs and needs ventilation or filtration. Print ABS in a well-ventilated room – not a bedroom – or use an enclosed printer with a carbon filter, and avoid blowing air directly over the print.</p>
+<p>PLA is much milder to print, but every melted plastic releases some particles, so a ventilated room is still a good habit. Neither material should be assumed to be food-safe as printed – see our guide on whether PLA is food safe for why.</p>
+<h2>Surface finish and post-processing</h2>
+<p>PLA usually prints with a slightly glossy surface and crisp fine detail. ABS prints with a more matte finish. Where ABS pulls ahead is after printing:</p>
+<ul>
+<li><strong>Acetone smoothing:</strong> ABS dissolves in acetone, so acetone vapour gives a smooth, glossy surface and hides layer lines. Prusa lists acetone smoothing and gluing as ABS advantages. Standard PLA does not smooth this way.</li>
+<li><strong>Sanding:</strong> ABS sands easily, wet or dry. Prusa notes that sanding PLA needs water cooling (wet sanding) because the heat from friction softens it.</li>
+<li><strong>Gluing:</strong> ABS parts can be welded together with acetone or an ABS–acetone slurry.</li>
+</ul>
+<p>Acetone is highly flammable – Polymaker stresses using it with great care, away from any ignition source.</p>
+<h2>Moisture and storage</h2>
+<p>Both filaments absorb some moisture, which causes popping, stringing and rough surfaces. Bambu Lab recommends drying PLA at 55 °C for 8 hours and ABS at 80 °C for 8 hours in a drying oven. Store both sealed with desiccant. Our how to dry filament guide covers ovens, dryers and dry boxes.</p>
+<h2>Outdoor use and UV</h2>
+<p>Neither is a good long-term outdoor material. Prusa says PLA degrades under UV light, and that ABS parts yellow and become more brittle outdoors over time. For parts that live in the sun, ASA is the usual answer – it prints like ABS but resists UV. See our <a href="/blog/asa-filament/">ASA filament guide</a> and the <a href="/blog/asa-vs-abs/">ASA vs ABS comparison</a>.</p>
+<h2>Typical uses of PLA vs ABS</h2>
+<table>
+<thead>
+<tr>
+<th>Use</th>
+<th>Better choice</th>
+<th>Why</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Figures, décor, cosplay props</td>
+<td>PLA</td>
+<td>Detail, easy to print, many colours</td>
+</tr>
+<tr>
+<td>Visual prototypes</td>
+<td>PLA</td>
+<td>Fast, cheap, accurate</td>
+</tr>
+<tr>
+<td>Kids&#39; toys and low-wear parts</td>
+<td>PLA</td>
+<td>Easy and low-odour to print</td>
+</tr>
+<tr>
+<td>Car interior clips and mounts</td>
+<td>ABS</td>
+<td>Heat resistance</td>
+</tr>
+<tr>
+<td>Electronics housings near heat</td>
+<td>ABS</td>
+<td>Heat and impact resistance</td>
+</tr>
+<tr>
+<td>Jigs, fixtures, tool holders</td>
+<td>ABS</td>
+<td>Toughness, takes knocks</td>
+</tr>
+<tr>
+<td>Parts you want to acetone-smooth</td>
+<td>ABS</td>
+<td>Dissolves in acetone</td>
+</tr>
+<tr>
+<td>Parts outdoors in the sun</td>
+<td>Neither – use ASA</td>
+<td>UV resistance</td>
+</tr>
+</tbody></table>
+<h2>How to choose: a quick checklist</h2>
+<ol>
+<li><strong>Will the part get warmer than about 50 °C</strong> (car, near a motor, sunny window)? If yes, rule out PLA.</li>
+<li><strong>Will it take impacts or flex repeatedly?</strong> If yes, lean towards ABS (or PETG).</li>
+<li><strong>Do you have an enclosed printer?</strong> If not, choose PLA – or PETG if you need more toughness.</li>
+<li><strong>Can you ventilate the room?</strong> If not, avoid ABS.</li>
+<li><strong>Does it need fine detail or a lot of colours?</strong> PLA is easier for both.</li>
+<li><strong>Will it live outdoors?</strong> Choose ASA instead of either.</li>
+<li><strong>Want a glossy, smoothed finish?</strong> ABS with acetone vapour.</li>
+</ol>
+<p>Before you print, check the model for thin walls and large flat bases in our <a href="/stl-viewer/">STL viewer</a> – both make ABS warping worse.</p>
+<h2>Verdict</h2>
+<p>For most people and most prints, PLA is the right choice: it is easier, more forgiving, prints on any printer and gives better detail. ABS earns its place for functional parts that must handle heat and impacts, and for anything you want to acetone-smooth – but only if you have an enclosed printer and good ventilation. If you need something tougher than PLA without an enclosure, look at PETG; if the part goes outdoors, use ASA.</p>
+26:["$","div",null,{"className":"split","children":[["$","article",null,{"className":"prose","children":[["$","h1",null,{"children":"PLA vs ABS – differences, strength and which filament to choose"}],["$","figure",null,{"className":"doc-hero","children":["$","img",null,{"src":"/images/blog/pla-vs-abs.webp","alt":"Illustration of glossy pastel PLA prints on one side of a workbench and matte grey ABS parts with a heat gun on the other","width":1200,"height":675,"fetchPriority":"high","decoding":"async"}]}],["$","p",null,{"className":"muted small","children":["Updated ","November 26, 2026"]}],["$","div",null,{"className":"summary-box","children":[["$","b",null,{"children":"Key points"}],["$","ul",null,{"children":[["$","li","PLA is easier to print – lower temperatures, little warping, no enclosure – and gives sharper detail, so it suits most decorative and indoor parts.",{"children":"PLA is easier to print – lower temperatures, little warping, no enclosure – and gives sharper detail, so it suits most decorative and indoor parts."}],["$","li","ABS is tougher and handles much more heat (glass transition around 100–105 °C versus about 60 °C for PLA), but it warps, smells and needs an enclosed printer.",{"children":"ABS is tougher and handles much more heat (glass transition around 100–105 °C versus about 60 °C for PLA), but it warps, smells and needs an enclosed printer."}],["$","li","ABS is not simply \"stronger\" – PLA is stiffer with similar or higher tensile strength, while ABS absorbs impacts and bends before it breaks.",{"children":"ABS is not simply \"stronger\" – PLA is stiffer with similar or higher tensile strength, while ABS absorbs impacts and bends before it breaks."}]]}]]}],null,["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$28"}}]]}],"$L29"]}]
+27:["$","section",null,{"className":"section faq","aria-labelledby":"faq-h","children":[["$","h2",null,{"id":"faq-h","children":"Questions and answers"}],["$","div",null,{"className":"faq-list","children":[["$","details","Is ABS stronger than PLA?",{"children":[["$","summary",null,{"children":"Is ABS stronger than PLA?"}],["$","p",null,{"children":"It depends on what you mean by strength. PLA is stiffer and its tensile strength is similar to or higher than ABS in published comparisons, but it is brittle and snaps. ABS is tougher – it takes impacts and flexes before breaking – and it keeps its strength at temperatures where PLA softens."}]]}],["$","details","Which is better, ABS or PLA?",{"children":[["$","summary",null,{"children":"Which is better, ABS or PLA?"}],["$","p",null,{"children":"For beginners, decorative prints, prototypes and indoor parts, PLA is better because it is far easier to print. For functional parts that get warm or take knocks – car interior parts, electronics housings, tool holders – ABS is better, as long as you have an enclosed printer and good ventilation."}]]}],["$","details","Can you print ABS on a printer made for PLA?",{"children":[["$","summary",null,{"children":"Can you print ABS on a printer made for PLA?"}],["$","p",null,{"children":"Only if the printer has a heated bed that reaches about 90–100 °C and a hotend that handles 240–260 °C or more. Without an enclosure, ABS warps and splits on all but small parts, so an open-frame PLA printer is a poor fit for regular ABS printing."}]]}],["$","details","Does ABS look better than PLA?",{"children":[["$","summary",null,{"children":"Does ABS look better than PLA?"}],["$","p",null,{"children":"They look different rather than better. PLA usually prints with a glossier surface and crisper fine detail, while ABS has a more matte finish. ABS can be sanded and smoothed with acetone vapour to a glossy, injection-moulded look, which standard PLA cannot."}]]}]]}]]}]
+29:["$","aside",null,{"className":"aside","children":[["$","div",null,{"className":"facts","children":[["$","b",null,{"children":"Tools for this"}],["$","div",null,{"className":"tool-grid","style":{"marginTop":10,"gridTemplateColumns":"1fr"},"children":[["$","$L4","stl-viewer",{"className":"tool-link","href":"/stl-viewer/","children":"STL viewer"}],["$","$L4","3mf-to-stl",{"className":"tool-link","href":"/3mf-to-stl/","children":"3MF to STL converter"}],["$","$L4","3d-viewer",{"className":"tool-link","href":"/3d-viewer/","children":"Online 3D model viewer"}]]}]]}],["$","div",null,{"className":"facts","children":[["$","b",null,{"children":"Open or convert a model"}],["$","p",null,{"className":"small","style":{"margin":"6px 0 10px"},"children":"View STL, 3MF, STEP and more in your browser."}],["$","$L4",null,{"className":"btn btn-accent","href":"/3d-viewer/","children":"3D viewer"}]]}]]}]
+20:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#10151C"}]]
+1c:null
+2a:I[622,[],"IconMark"]
+1e:{"metadata":[["$","title","0",{"children":"PLA vs ABS – Strength, Heat and Which Filament to Use | my3dprinter.io"}],["$","meta","1",{"name":"description","content":"PLA vs ABS compared – print and bed temperatures, strength and toughness, heat resistance, warping, fumes, enclosure needs and which filament fits your parts."}],["$","meta","2",{"name":"application-name","content":"my3dprinter.io"}],["$","link","3",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","4",{"name":"robots","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","5",{"rel":"canonical","href":"https://my3dprinter.io/blog/pla-vs-abs/"}],["$","meta","6",{"name":"format-detection","content":"telephone=no"}],["$","meta","7",{"property":"og:title","content":"PLA vs ABS – Strength, Heat and Which Filament to Use | my3dprinter.io"}],["$","meta","8",{"property":"og:description","content":"PLA vs ABS compared – print and bed temperatures, strength and toughness, heat resistance, warping, fumes, enclosure needs and which filament fits your parts."}],["$","meta","9",{"property":"og:url","content":"https://my3dprinter.io/blog/pla-vs-abs/"}],["$","meta","10",{"property":"og:site_name","content":"my3dprinter.io"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:image","content":"https://my3dprinter.io/images/blog/pla-vs-abs.webp"}],["$","meta","13",{"property":"og:image:width","content":"1200"}],["$","meta","14",{"property":"og:image:height","content":"675"}],["$","meta","15",{"property":"og:image:alt","content":"PLA vs ABS – Strength, Heat and Which Filament to Use"}],["$","meta","16",{"property":"og:type","content":"article"}],["$","meta","17",{"property":"article:published_time","content":"2026-11-26"}],["$","meta","18",{"property":"article:modified_time","content":"2026-11-26"}],["$","meta","19",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","20",{"name":"twitter:title","content":"PLA vs ABS – Strength, Heat and Which Filament to Use | my3dprinter.io"}],["$","meta","21",{"name":"twitter:description","content":"PLA vs ABS compared – print and bed temperatures, strength and toughness, heat resistance, warping, fumes, enclosure needs and which filament fits your parts."}],["$","meta","22",{"name":"twitter:image","content":"https://my3dprinter.io/images/blog/pla-vs-abs.webp"}],["$","link","23",{"rel":"icon","href":"/favicon.ico","sizes":"48x48"}],["$","link","24",{"rel":"icon","href":"/icon.svg","type":"image/svg+xml"}],["$","link","25",{"rel":"icon","href":"/icon-192.png","sizes":"192x192","type":"image/png"}],["$","link","26",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","sizes":"180x180"}],["$","$L2a","27",{}]],"error":null,"digest":"$undefined"}
+23:"$1e:metadata"

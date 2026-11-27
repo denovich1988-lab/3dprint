@@ -1,0 +1,267 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+4:I[2619,["2619","static/chunks/2619-3c9e02e22d10480a.js","4966","static/chunks/app/(en)/blog/%5Bslug%5D/page-6f60855278aa4f75.js"],""]
+5:I[1538,["2619","static/chunks/2619-3c9e02e22d10480a.js","90","static/chunks/app/(en)/layout-1d0e45a00e968cb3.js"],"default"]
+6:I[909,["2619","static/chunks/2619-3c9e02e22d10480a.js","90","static/chunks/app/(en)/layout-1d0e45a00e968cb3.js"],"default"]
+16:I[7150,[],""]
+:HL["/_next/static/css/93d1a12f2f4c9226.css","style"]
+0:{"P":null,"b":"rD7TGm9XF6FHQRkd5YG22","p":"","c":["","blog","3d-printed-dragon-egg",""],"i":false,"f":[[["",{"children":["(en)",{"children":["blog",{"children":[["slug","3d-printed-dragon-egg","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/93d1a12f2f4c9226.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","script",null,{"async":true,"src":"https://www.googletagmanager.com/gtm.js?id=GTM-T7SN8RQX"}],["$","script",null,{"async":true,"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3226858004021254","crossOrigin":"anonymous"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());"}}]]}],["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"wrap header-in","children":[["$","$L4",null,{"href":"/","className":"brand","aria-label":"my3dprinter.io home","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","nav",null,{"aria-label":"Main","className":"nav","children":[["$","$L4","/converters/",{"href":"/converters/","children":"Converters"}],["$","$L4","/3d-viewer/",{"href":"/3d-viewer/","children":"3D viewer"}],["$","$L4","/image-to-stl/",{"href":"/image-to-stl/","children":"Image to STL"}],["$","$L4","/printers/",{"href":"/printers/","children":"Printers"}],["$","$L4","/blog/",{"href":"/blog/","children":"Blog"}]]}],["$","div",null,{"className":"header-actions","children":[["$","$L5",null,{"lang":"en","langs":[{"code":"en","name":"English"},{"code":"de","name":"Deutsch"},{"code":"es","name":"Español"},{"code":"fr","name":"Français"},{"code":"it","name":"Italiano"},{"code":"ja","name":"日本語"},{"code":"ko","name":"한국어"},{"code":"pt","name":"Português"},{"code":"vi","name":"Tiếng Việt"},{"code":"th","name":"ไทย"},{"code":"zh","name":"简体中文"},{"code":"ru","name":"Русский"}],"localized":["/","/converters/","/3mf-to-stl/","/glb-to-stl/","/stl-to-3mf/","/step-to-stl/","/glb-to-obj/","/obj-to-stl/","/stl-to-obj/","/fbx-to-obj/","/gcode-to-stl/","/fbx-to-stl/","/zip-to-stl/","/stp-to-stl/","/dae-to-obj/","/gltf-to-obj/","/stl-to-dxf/","/obj-to-glb/","/gltf-to-stl/","/fbx-to-glb/","/ply-to-stl/","/3mf-to-obj/","/dae-to-stl/","/usdz-to-stl/","/ply-to-obj/","/stp-to-obj/","/3ds-to-obj/","/igs-to-stl/","/stl-to-glb/","/obj-to-3mf/","/glb-to-3mf/","/stl-to-usdz/","/glb-to-usdz/","/step-to-obj/","/step-to-3mf/","/stl-to-ply/","/fbx-to-gltf/","/image-to-stl/","/png-to-stl/","/jpg-to-stl/","/jpeg-to-stl/","/lithophane-maker/","/png-to-obj/","/png-to-3mf/","/svg-to-stl/","/svg-to-obj/","/png-to-dds/","/jpg-to-dds/","/dds-to-png/","/dds-to-jpg/","/3d-viewer/","/stl-viewer/","/3mf-viewer/","/obj-viewer/","/glb-viewer/","/step-viewer/","/ply-viewer/","/fbx-viewer/","/gltf-viewer/"],"label":"Language"}],["$","$L6",null,{"links":[["/converters/","Converters"],["/3d-viewer/","3D viewer"],["/image-to-stl/","Image to STL"],["/printers/","Printers"],["/blog/","Blog"],["/printers/compare/","Compare printers"]],"label":"Menu"}]]}]]}]}],["$","main",null,{"id":"main","className":"wrap","style":{"padding":"64px 24px"},"children":[["$","h1",null,{"children":"Page not found"}],["$","p",null,{"className":"lead","children":"This page does not exist. Try a converter or the 3D viewer."}],["$","p",null,{"children":["$","$L4",null,{"className":"btn btn-accent","href":"/converters/","children":"All converters"}]}]]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"wrap footer-grid","children":[["$","div",null,{"className":"footer-brand","children":[["$","$L4",null,{"href":"/","className":"brand","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":["$L7","$L8"]}]," ","$L9"]}],"$La"]}],["$Lb","$Lc","$Ld","$Le","$Lf"]]}],"$L10"]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["(en)","$L11",{"children":["blog","$L12",{"children":[["slug","3d-printed-dragon-egg","d"],"$L13",{"children":["__PAGE__","$L14",{},null,false]},null,false]},null,false]},null,false]},null,false],"$L15",false]],"m":"$undefined","G":["$16",[]],"s":false,"S":true}
+1b:I[4431,[],"OutletBoundary"]
+1d:I[5278,[],"AsyncMetadataOutlet"]
+1f:I[4431,[],"ViewportBoundary"]
+21:I[4431,[],"MetadataBoundary"]
+22:"$Sreact.suspense"
+7:["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}]
+8:["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]
+9:["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]
+a:["$","p",null,{"children":"Free tools that run in your browser. Your files are never uploaded."}]
+b:["$","div","Converters",{"children":[["$","h2",null,{"children":"Converters"}],["$","ul",null,{"children":[["$","li","/3mf-to-stl/",{"children":["$","$L4",null,{"href":"/3mf-to-stl/","children":"3MF → STL"}]}],["$","li","/step-to-stl/",{"children":["$","$L4",null,{"href":"/step-to-stl/","children":"STEP → STL"}]}],["$","li","/glb-to-stl/",{"children":["$","$L4",null,{"href":"/glb-to-stl/","children":"GLB → STL"}]}],["$","li","/obj-to-stl/",{"children":["$","$L4",null,{"href":"/obj-to-stl/","children":"OBJ → STL"}]}],["$","li","/stl-to-3mf/",{"children":["$","$L4",null,{"href":"/stl-to-3mf/","children":"STL → 3MF"}]}],["$","li","/converters/",{"children":["$","$L4",null,{"href":"/converters/","children":"All converters"}]}]]}]]}]
+c:["$","div","Images & textures",{"children":[["$","h2",null,{"children":"Images & textures"}],["$","ul",null,{"children":[["$","li","/image-to-stl/",{"children":["$","$L4",null,{"href":"/image-to-stl/","children":"Image to STL"}]}],["$","li","/lithophane-maker/",{"children":["$","$L4",null,{"href":"/lithophane-maker/","children":"Lithophane maker"}]}],["$","li","/svg-to-stl/",{"children":["$","$L4",null,{"href":"/svg-to-stl/","children":"SVG → STL"}]}],["$","li","/png-to-dds/",{"children":["$","$L4",null,{"href":"/png-to-dds/","children":"PNG → DDS"}]}],["$","li","/dds-to-png/",{"children":["$","$L4",null,{"href":"/dds-to-png/","children":"DDS → PNG"}]}]]}]]}]
+d:["$","div","Viewers",{"children":[["$","h2",null,{"children":"Viewers"}],["$","ul",null,{"children":[["$","li","/3d-viewer/",{"children":["$","$L4",null,{"href":"/3d-viewer/","children":"Online 3D model viewer"}]}],["$","li","/stl-viewer/",{"children":["$","$L4",null,{"href":"/stl-viewer/","children":"STL viewer"}]}],["$","li","/3mf-viewer/",{"children":["$","$L4",null,{"href":"/3mf-viewer/","children":"3MF viewer"}]}],["$","li","/step-viewer/",{"children":["$","$L4",null,{"href":"/step-viewer/","children":"STEP viewer"}]}],["$","li","/obj-viewer/",{"children":["$","$L4",null,{"href":"/obj-viewer/","children":"OBJ viewer"}]}]]}]]}]
+e:["$","div","my3dprinter.io",{"children":[["$","h2",null,{"children":"my3dprinter.io"}],["$","ul",null,{"children":[["$","li","/printers/",{"children":["$","$L4",null,{"href":"/printers/","children":"3D printers"}]}],["$","li","/printers/compare/",{"children":["$","$L4",null,{"href":"/printers/compare/","children":"Compare printers"}]}],["$","li","/blog/",{"children":["$","$L4",null,{"href":"/blog/","children":"Blog"}]}],["$","li","/formats/",{"children":["$","$L4",null,{"href":"/formats/","children":"File formats"}]}],["$","li","/about/",{"children":["$","$L4",null,{"href":"/about/","children":"About"}]}],["$","li","/contact/",{"children":["$","$L4",null,{"href":"/contact/","children":"Contact"}]}]]}]]}]
+f:["$","div","Legal",{"children":[["$","h2",null,{"children":"Legal"}],["$","ul",null,{"children":[["$","li","/privacy/",{"children":["$","$L4",null,{"href":"/privacy/","children":"Privacy policy"}]}],["$","li","/cookies/",{"children":["$","$L4",null,{"href":"/cookies/","children":"Cookie policy"}]}],["$","li","/terms/",{"children":["$","$L4",null,{"href":"/terms/","children":"Terms of use"}]}],["$","li","/disclaimer/",{"children":["$","$L4",null,{"href":"/disclaimer/","children":"Disclaimer"}]}]]}]]}]
+10:["$","div",null,{"className":"wrap footer-base","children":["$","p",null,{"children":["© ",2026," my3dprinter.io. ","Brand and product names belong to their owners; my3dprinter.io is an independent site and is not affiliated with any printer maker."]}]}]
+11:["$","$1","c",{"children":[null,[["$","a",null,{"className":"skip","href":"#main","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"wrap header-in","children":[["$","$L4",null,{"href":"/","className":"brand","aria-label":"my3dprinter.io home","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","nav",null,{"aria-label":"Main","className":"nav","children":[["$","$L4","/converters/",{"href":"/converters/","children":"Converters"}],["$","$L4","/3d-viewer/",{"href":"/3d-viewer/","children":"3D viewer"}],["$","$L4","/image-to-stl/",{"href":"/image-to-stl/","children":"Image to STL"}],["$","$L4","/printers/",{"href":"/printers/","children":"Printers"}],["$","$L4","/blog/",{"href":"/blog/","children":"Blog"}]]}],["$","div",null,{"className":"header-actions","children":[["$","$L5",null,{"lang":"en","langs":[{"code":"en","name":"English"},{"code":"de","name":"Deutsch"},{"code":"es","name":"Español"},{"code":"fr","name":"Français"},{"code":"it","name":"Italiano"},{"code":"ja","name":"日本語"},{"code":"ko","name":"한국어"},{"code":"pt","name":"Português"},{"code":"vi","name":"Tiếng Việt"},{"code":"th","name":"ไทย"},{"code":"zh","name":"简体中文"},{"code":"ru","name":"Русский"}],"localized":"$0:f:0:1:1:props:children:1:props:children:1:props:children:props:notFound:0:0:props:children:props:children:2:props:children:0:props:localized","label":"Language"}],["$","$L6",null,{"links":[["/converters/","Converters"],["/3d-viewer/","3D viewer"],["/image-to-stl/","Image to STL"],["/printers/","Printers"],["/blog/","Blog"],["/printers/compare/","Compare printers"]],"label":"Menu"}]]}]]}]}],["$","main",null,{"id":"main","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"wrap footer-grid","children":[["$","div",null,{"className":"footer-brand","children":[["$","$L4",null,{"href":"/","className":"brand","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","p",null,{"children":"Free tools that run in your browser. Your files are never uploaded."}]]}],[["$","div","Converters",{"children":[["$","h2",null,{"children":"Converters"}],["$","ul",null,{"children":[["$","li","/3mf-to-stl/",{"children":["$","$L4",null,{"href":"/3mf-to-stl/","children":"3MF → STL"}]}],["$","li","/step-to-stl/",{"children":["$","$L4",null,{"href":"/step-to-stl/","children":"STEP → STL"}]}],["$","li","/glb-to-stl/",{"children":["$","$L4",null,{"href":"/glb-to-stl/","children":"GLB → STL"}]}],["$","li","/obj-to-stl/",{"children":["$","$L4",null,{"href":"/obj-to-stl/","children":"OBJ → STL"}]}],["$","li","/stl-to-3mf/",{"children":["$","$L4",null,{"href":"/stl-to-3mf/","children":"STL → 3MF"}]}],["$","li","/converters/",{"children":["$","$L4",null,{"href":"/converters/","children":"All converters"}]}]]}]]}],["$","div","Images & textures",{"children":[["$","h2",null,{"children":"Images & textures"}],["$","ul",null,{"children":[["$","li","/image-to-stl/",{"children":["$","$L4",null,{"href":"/image-to-stl/","children":"Image to STL"}]}],["$","li","/lithophane-maker/",{"children":["$","$L4",null,{"href":"/lithophane-maker/","children":"Lithophane maker"}]}],["$","li","/svg-to-stl/",{"children":["$","$L4",null,{"href":"/svg-to-stl/","children":"SVG → STL"}]}],["$","li","/png-to-dds/",{"children":["$","$L4",null,{"href":"/png-to-dds/","children":"PNG → DDS"}]}],["$","li","/dds-to-png/",{"children":["$","$L4",null,{"href":"/dds-to-png/","children":"DDS → PNG"}]}]]}]]}],["$","div","Viewers",{"children":[["$","h2",null,{"children":"Viewers"}],["$","ul",null,{"children":[["$","li","/3d-viewer/",{"children":["$","$L4",null,{"href":"/3d-viewer/","children":"Online 3D model viewer"}]}],["$","li","/stl-viewer/",{"children":["$","$L4",null,{"href":"/stl-viewer/","children":"STL viewer"}]}],["$","li","/3mf-viewer/",{"children":["$","$L4",null,{"href":"/3mf-viewer/","children":"3MF viewer"}]}],["$","li","/step-viewer/",{"children":["$","$L4",null,{"href":"/step-viewer/","children":"STEP viewer"}]}],["$","li","/obj-viewer/",{"children":["$","$L4",null,{"href":"/obj-viewer/","children":"OBJ viewer"}]}]]}]]}],"$L17","$L18"]]}],"$L19"]}]]]}]
+12:["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+13:["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+14:["$","$1","c",{"children":["$L1a",null,["$","$L1b",null,{"children":["$L1c",["$","$L1d",null,{"promise":"$@1e"}]]}]]}]
+15:["$","$1","h",{"children":[null,[["$","$L1f",null,{"children":"$L20"}],null],["$","$L21",null,{"children":["$","div",null,{"hidden":true,"children":["$","$22",null,{"fallback":null,"children":"$L23"}]}]}]]}]
+17:["$","div","my3dprinter.io",{"children":[["$","h2",null,{"children":"my3dprinter.io"}],["$","ul",null,{"children":[["$","li","/printers/",{"children":["$","$L4",null,{"href":"/printers/","children":"3D printers"}]}],["$","li","/printers/compare/",{"children":["$","$L4",null,{"href":"/printers/compare/","children":"Compare printers"}]}],["$","li","/blog/",{"children":["$","$L4",null,{"href":"/blog/","children":"Blog"}]}],["$","li","/formats/",{"children":["$","$L4",null,{"href":"/formats/","children":"File formats"}]}],["$","li","/about/",{"children":["$","$L4",null,{"href":"/about/","children":"About"}]}],["$","li","/contact/",{"children":["$","$L4",null,{"href":"/contact/","children":"Contact"}]}]]}]]}]
+18:["$","div","Legal",{"children":[["$","h2",null,{"children":"Legal"}],["$","ul",null,{"children":[["$","li","/privacy/",{"children":["$","$L4",null,{"href":"/privacy/","children":"Privacy policy"}]}],["$","li","/cookies/",{"children":["$","$L4",null,{"href":"/cookies/","children":"Cookie policy"}]}],["$","li","/terms/",{"children":["$","$L4",null,{"href":"/terms/","children":"Terms of use"}]}],["$","li","/disclaimer/",{"children":["$","$L4",null,{"href":"/disclaimer/","children":"Disclaimer"}]}]]}]]}]
+19:["$","div",null,{"className":"wrap footer-base","children":["$","p",null,{"children":["© ",2026," my3dprinter.io. ","Brand and product names belong to their owners; my3dprinter.io is an independent site and is not affiliated with any printer maker."]}]}]
+24:Tec2,{"@context":"https://schema.org","@graph":[{"@type":"Article","headline":"3D printed dragon egg – types, print settings and gift ideas","description":"3D printed dragon egg guide: scaled, opening, print-in-place, box and lamp eggs, plus clearances, supports, silk and glow filament, finishing and gift ideas.","datePublished":"2026-11-26","dateModified":"2026-11-26","mainEntityOfPage":"https://my3dprinter.io/blog/3d-printed-dragon-egg/","inLanguage":"en","author":{"@type":"Organization","name":"my3dprinter.io","url":"https://my3dprinter.io"},"publisher":{"@type":"Organization","@id":"https://my3dprinter.io/#organization","name":"my3dprinter.io","url":"https://my3dprinter.io/","logo":{"@type":"ImageObject","url":"https://my3dprinter.io/icon-512.png","width":512,"height":512},"email":"hello@my3dprinter.io","description":"Free 3D file converters, viewers and 3D printer guides"},"image":"https://my3dprinter.io/images/blog/3d-printed-dragon-egg.webp","citation":["https://all3dp.com/2/3d-printed-dragon-best-curated-models/","https://all3dp.com/2/3d-printed-joints-the-basics/","https://help.prusa3d.com/article/modeling-with-3d-printing-in-mind_164135","https://wiki.bambulab.com/en/software/bambu-studio/parameter/elephant-foot","https://qidi3d.com/blogs/print-lab/glow-in-dark-filament-tips","https://www.myminifactory.com/object/3d-print-flexi-cherry-blossom-dragon-egg-print-in-place-462252","https://makerworld.com/en/models/102934-large-threaded-dragon-egg","https://makerworld.com/en/models/1509519-dragon-egg-lamp","https://www.sovol3d.com/blogs/news/print-in-place-3d-printing-how-to-design-hinges-joints-and-moving-parts-that-actually-work"]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://my3dprinter.io/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://my3dprinter.io/blog/"},{"@type":"ListItem","position":3,"name":"3D printed dragon egg – types, print settings and gift ideas","item":"https://my3dprinter.io/blog/3d-printed-dragon-egg/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How do you make a 3D printed dragon egg?","acceptedAnswer":{"@type":"Answer","text":"Choose a dragon egg model, read the designer's notes, and slice it at its original size. Print-in-place and hinged eggs go on the plate without supports; solid eggs usually print upright with a brim or a flat base. Use PLA, ideally silk or multi-colour, then free any moving parts gently and add paint if you like."}},{"@type":"Question","name":"Does a 3D printed dragon egg need supports?","acceptedAnswer":{"@type":"Answer","text":"Print-in-place and articulated eggs are designed to print without supports, and supports would jam the hinges. Solid eggs printed upright usually need none either, because the egg's curve is a gentle overhang, but a brim or a printed stand helps the narrow base stay put. Detailed eggs with a dragon sculpted inside may need supports, so check the notes."}},{"@type":"Question","name":"What filament is best for dragon eggs?","acceptedAnswer":{"@type":"Answer","text":"PLA is the easiest. Silk PLA gives a shiny, metallic look on the scales, gradient and multi-colour PLA change colour up the egg, and glow-in-the-dark PLA glows after charging under light. Glow filament is abrasive, so a hardened steel nozzle is a good idea for regular use."}},{"@type":"Question","name":"Why won't my print-in-place dragon egg open?","acceptedAnswer":{"@type":"Answer","text":"Usually the gaps between the segments have closed. Common causes are a squashed first layer (elephant's foot), over-extrusion, very thick layers, or scaling the model down. Turn on elephant foot compensation, calibrate flow, use 0.2 mm layers or thinner and print at the designed size."}}]}]}1a:["$","div",null,{"className":"wrap","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$24"}}],"$L25","$L26","$L27"]}]
+25:["$","nav",null,{"className":"crumbs","aria-label":"Breadcrumb","children":[["$","$L4",null,{"href":"/","children":"Home"}]," / ",["$","$L4",null,{"href":"/blog/","children":"Blog"}]," / ","3D printed dragon egg – types, print settings and gift ideas"]}]
+28:T31e8,<p><strong>A 3D printed dragon egg is a printed egg covered in dragon scales – it can be a solid ornament, an egg that opens to reveal a baby dragon, a print-in-place hinged egg, a box with a hidden compartment or a glowing lamp.</strong> Dragon eggs are a favourite fantasy print because they look impressive on a shelf, make easy gifts and show off silk and multi-colour filament better than almost anything else. This guide explains the main types of 3D printed dragon eggs, the slicer settings that keep hinges and threads working, filament choices, finishing and gift ideas. Settings are based on printing guides from printer makers and model libraries, checked November 2026.</p>
+<h2>3D printed dragon egg at a glance</h2>
+<table>
+<thead>
+<tr>
+<th>Type</th>
+<th>What it is</th>
+<th>Supports</th>
+<th>Difficulty</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Solid scaled egg</td>
+<td>A display egg with sculpted scales</td>
+<td>Usually none; brim or stand for the base</td>
+<td>Easy</td>
+</tr>
+<tr>
+<td>Two-part egg with dragon</td>
+<td>Shell splits, small dragon inside</td>
+<td>Depends on the dragon; sometimes pre-supported</td>
+<td>Easy to medium</td>
+</tr>
+<tr>
+<td>Print-in-place opening egg</td>
+<td>Hinged segments that open like petals or plates</td>
+<td>None</td>
+<td>Medium</td>
+</tr>
+<tr>
+<td>Flexi dragon with egg</td>
+<td>Articulated dragon that curls into a printed egg</td>
+<td>None</td>
+<td>Easy to medium</td>
+</tr>
+<tr>
+<td>Threaded or box egg</td>
+<td>Screw-on or lift-off lid with a hidden space</td>
+<td>Usually none</td>
+<td>Easy</td>
+</tr>
+<tr>
+<td>Lamp or lithophane egg</td>
+<td>Thin shell lit from inside by an LED</td>
+<td>Usually none</td>
+<td>Medium</td>
+</tr>
+<tr>
+<td>Nesting eggs</td>
+<td>Eggs that split and fit inside one another</td>
+<td>Usually none</td>
+<td>Easy</td>
+</tr>
+</tbody></table>
+<h2>Types of 3D printed dragon eggs</h2>
+<h3>Solid scaled eggs</h3>
+<p>The simplest type: an egg-shaped model with overlapping scales, printed in one piece. They print quickly, need no assembly and are perfect for trying out a new silk or gradient filament. Some designs come with a separate stand, claw or nest so the egg does not roll.</p>
+<h3>Opening eggs with a dragon inside</h3>
+<p>Two-part eggs split along a jagged &quot;cracked&quot; line, with a tiny dragon printed separately or as part of the lower shell. All3DP&#39;s roundup of dragon models includes this type, noting that the hatchling can be printed on its own or attached to the bottom half. These make great surprise gifts.</p>
+<h3>Print-in-place articulated eggs</h3>
+<p>These eggs are made of hinged segments that print already connected. When you push the segments, they fold open like petals or armour plates to show what is inside – often a small dragon or an empty space for a gift. Because the hinges are printed with tiny gaps, they need careful printing (see the settings below).</p>
+<h3>Flexi dragons with eggs</h3>
+<p>Many articulated &quot;flexi&quot; dragon designs come with a matching egg that the dragon curls up inside – on model libraries such as MyMiniFactory you will find several &quot;dragon &amp; egg&quot; print-in-place sets. If you enjoy these, our <a href="/blog/3d-printed-dragon/">3D printed dragon guide</a> covers articulated dragons in detail.</p>
+<h3>Box, threaded and hidden-compartment eggs</h3>
+<p>These eggs have a screw-on or lift-off top, turning the egg into a box for jewellery, dice, sweets or a gift card. Threaded designs need accurate printing so the threads engage smoothly.</p>
+<h3>Lamp and lithophane eggs</h3>
+<p>Dragon egg lamps are thin shells designed to be lit from inside by an LED tea light or LED strip, so the scales glow. Some use a lithophane effect, where thinner areas let more light through. You can make your own flat or curved panels with our <a href="/lithophane-maker/">lithophane maker</a>, and our <a href="/blog/lithophane/">lithophane guide</a> explains thickness and lighting.</p>
+<p><strong>Tip:</strong> always use LED lights inside printed eggs. PLA softens at fairly low temperatures, and a hot bulb or real candle can warp the shell or start a fire.</p>
+<h3>Nesting and miniature eggs</h3>
+<p>Sets of eggs that split into halves and nest inside each other, or tiny eggs sized for tabletop games, desk decorations and party favours.</p>
+<h2>Where to find dragon egg models</h2>
+<p>Model libraries such as Printables, MakerWorld, Thingiverse, Cults and MyMiniFactory list hundreds of dragon eggs. Search for &quot;dragon egg&quot;, &quot;print-in-place dragon egg&quot;, &quot;dragon egg box&quot; or &quot;dragon egg lamp&quot;.</p>
+<ul>
+<li><strong>Read the print notes.</strong> Designers usually state layer height, supports and the scale they tested.</li>
+<li><strong>Check the makes.</strong> Photos from other people show whether hinges open on ordinary printers.</li>
+<li><strong>Check the licence.</strong> Many designs are for personal use; only sell prints of models whose licence allows it.</li>
+<li><strong>Check the size.</strong> Open the file in our STL viewer to see its height in millimetres and how many parts it has.</li>
+</ul>
+<h2>How print-in-place dragon egg hinges work</h2>
+<p>A print-in-place hinge is a pin inside a socket with a small gap all round. The printer builds both at once, and the gap keeps them from fusing. Prusa recommends a clearance of at least 0.3 mm for movable parts, and All3DP gives about 0.3 mm as a value that suits most printers.</p>
+<p><strong>Why it matters:</strong> the gap is part of the model, not a slicer setting. Anything that fills it – a squashed first layer, over-extrusion, stringing, supports or scaling the model down – will lock the hinge.</p>
+<h2>Print settings for a 3D printed dragon egg</h2>
+<table>
+<thead>
+<tr>
+<th>Setting</th>
+<th>Suggested starting point</th>
+<th>Why</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Scale</td>
+<td>100% for print-in-place and threaded eggs</td>
+<td>Scaling down shrinks hinge gaps and thread clearances</td>
+</tr>
+<tr>
+<td>Layer height</td>
+<td>0.12–0.2 mm</td>
+<td>Thinner layers show scales better and keep gaps open</td>
+</tr>
+<tr>
+<td>Supports</td>
+<td>Off for print-in-place; follow the notes for sculpted dragons</td>
+<td>Supports jam hinges</td>
+</tr>
+<tr>
+<td>First layer</td>
+<td>Slow, not over-squished</td>
+<td>Most fused hinges start at the first layer</td>
+</tr>
+<tr>
+<td>Elephant foot compensation</td>
+<td>On</td>
+<td>Keeps the first layer out of the gaps</td>
+</tr>
+<tr>
+<td>Brim or stand</td>
+<td>Brim for upright eggs with a small contact area</td>
+<td>Stops a tall egg from tipping</td>
+</tr>
+<tr>
+<td>Walls</td>
+<td>2–3; more for lamp shells only if the designer suggests it</td>
+<td>Thin shells let light through on lamps</td>
+</tr>
+<tr>
+<td>Seam</td>
+<td>Aligned at the back or hidden in a scale edge</td>
+<td>Keeps the front clean</td>
+</tr>
+</tbody></table>
+<p>Bambu Studio has <strong>Elephant foot compensation</strong> under Process → Quality, and other slicers have an equivalent setting.</p>
+<h3>Orientation</h3>
+<ul>
+<li><strong>Solid eggs</strong> usually print upright on a small flat base. The egg&#39;s curve is a gentle overhang, so it rarely needs supports, but the small footprint benefits from a brim.</li>
+<li><strong>Two-part eggs</strong> print each half with the cut face down, which gives a flat, stable base and no supports.</li>
+<li><strong>Print-in-place eggs</strong> must print in the orientation the designer chose; rotating them can put hinges in a position that needs supports.</li>
+</ul>
+<p><strong>Tip:</strong> if you rescale a solid egg, that is fine – it has no moving parts. Only keep print-in-place, hinged and threaded eggs at 100%.</p>
+<h2>Best filament for a 3D printed dragon egg</h2>
+<ul>
+<li><strong>PLA</strong> – the easy default; prints scales sharply. Our PLA filament guide covers settings.</li>
+<li><strong>Silk PLA</strong> – a glossy, metallic sheen that makes scales look like polished metal. It can be a little weaker, so open hinges gently.</li>
+<li><strong>Gradient and rainbow PLA</strong> – colours shift from the base to the tip without any colour changes.</li>
+<li><strong>Dual- and tri-colour (coextruded) silk</strong> – shows different colours depending on the viewing angle, which suits scale patterns.</li>
+<li><strong>Multi-colour printing</strong> – printers with automatic filament systems can colour scales, the hatchling and the shell separately. See our guide to <a href="/blog/multi-color-3d-printer/">multi-colour 3D printers</a>.</li>
+<li><strong>Glow-in-the-dark PLA</strong> – glows after charging under light. QIDI notes glow filament is abrasive and recommends a hardened steel nozzle; it also suggests thicker walls (3–4 perimeters) for a brighter glow.</li>
+<li><strong>Translucent PLA or PETG</strong> – good for lamp eggs, as light passes through the shell.</li>
+</ul>
+<h2>Finishing a dragon egg</h2>
+<ul>
+<li><strong>Remove brim and stringing</strong> with flush cutters or a hobby knife.</li>
+<li><strong>Free hinges</strong> by moving each segment gently, a little at a time, before opening the egg fully.</li>
+<li><strong>Dry brush</strong> a lighter metallic paint over a dark base to pick out the edges of the scales.</li>
+<li><strong>Wash</strong> with thinned dark paint to deepen the gaps between scales.</li>
+<li><strong>Gild</strong> scale tips with metallic paint or rub-on wax for an &quot;ancient treasure&quot; look.</li>
+<li><strong>Seal</strong> painted eggs with a clear coat.</li>
+<li><strong>Add a stand</strong> – a printed claw, nest or ring stops the egg rolling.</li>
+</ul>
+<h2>Ideas for 3D printed dragon egg gifts</h2>
+<ul>
+<li><strong>Surprise eggs</strong> with a small flexi dragon inside.</li>
+<li><strong>Gift boxes</strong> – put jewellery, a ring, dice or a gift card inside a threaded or hinged egg.</li>
+<li><strong>Night lights</strong> – a translucent or lithophane egg over an LED tea light.</li>
+<li><strong>Fantasy room decor</strong> – a set of eggs in a printed nest on a bookshelf.</li>
+<li><strong>Tabletop gaming</strong> – small eggs as tokens or dice holders.</li>
+<li><strong>Easter or party favours</strong> – mini eggs print quickly and use little filament.</li>
+<li><strong>Personalised eggs</strong> – add a name to the stand or base.</li>
+</ul>
+<p>For more gift ideas, see our list of <a href="/blog/3d-printed-toys/">3D printed toys</a>.</p>
+<h2>How to print a dragon egg, step by step</h2>
+<ol>
+<li><strong>Choose a model</strong> with good makes and clear notes, and check its licence.</li>
+<li><strong>Check the size</strong> in a viewer and decide whether it fits your bed.</li>
+<li><strong>Slice</strong> at 100% for hinged or threaded eggs, with supports only if the designer asks for them.</li>
+<li><strong>Turn on elephant foot compensation</strong> and add a brim for upright eggs.</li>
+<li><strong>Load your filament</strong> – silk, gradient, multi-colour or glow.</li>
+<li><strong>Watch the first layer</strong>; it decides whether hinges move.</li>
+<li><strong>Let the plate cool</strong>, then remove the egg in one piece.</li>
+<li><strong>Free the hinges</strong> gently, then paint, seal or add a light if you like.</li>
+</ol>
+<h2>Troubleshooting dragon egg prints</h2>
+<table>
+<thead>
+<tr>
+<th>Problem</th>
+<th>Likely cause</th>
+<th>Fix</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Hinges fused</td>
+<td>Elephant&#39;s foot, over-extrusion, scaled down</td>
+<td>Elephant foot compensation, calibrate flow, print at 100%</td>
+</tr>
+<tr>
+<td>Egg tips over mid-print</td>
+<td>Small contact area</td>
+<td>Brim, slower first layer, or a version with a flat base</td>
+</tr>
+<tr>
+<td>Thread will not screw on</td>
+<td>Over-extrusion or scaled model</td>
+<td>Print at 100%, calibrate flow, clean the threads with a knife</td>
+</tr>
+<tr>
+<td>Stringing between scales</td>
+<td>Damp filament or low retraction</td>
+<td>Dry the filament and tune retraction</td>
+</tr>
+<tr>
+<td>Glow is dim</td>
+<td>Thin walls, weak charge</td>
+<td>More walls; charge under bright or UV light</td>
+</tr>
+<tr>
+<td>Silk egg cracks when opened</td>
+<td>Weaker layer bonding</td>
+<td>Slightly higher nozzle temperature, open gently</td>
+</tr>
+</tbody></table>
+<h2>Safety notes</h2>
+<p>Small eggs, hatchlings and hinge pieces can be choking hazards, so keep them away from young children and pets. Use only LED lights inside lamp eggs, never candles or hot bulbs.</p>
+<h2>Verdict</h2>
+<p>A 3D printed dragon egg is one of the most rewarding fantasy prints: a solid scaled egg is a perfect first try, while print-in-place and hidden-box eggs make memorable gifts. Keep moving designs at their original size, print without supports, get the first layer right and choose silk, gradient or glow filament to make the scales stand out.</p>
+26:["$","div",null,{"className":"split","children":[["$","article",null,{"className":"prose","children":[["$","h1",null,{"children":"3D printed dragon egg – types, print settings and gift ideas"}],["$","figure",null,{"className":"doc-hero","children":["$","img",null,{"src":"/images/blog/3d-printed-dragon-egg.webp","alt":"Illustration of a scaled dragon egg opened into hinged segments revealing a small curled baby dragon on a mossy shelf under warm lamp light","width":1200,"height":675,"fetchPriority":"high","decoding":"async"}]}],["$","p",null,{"className":"muted small","children":["Updated ","November 26, 2026"]}],["$","div",null,{"className":"summary-box","children":[["$","b",null,{"children":"Key points"}],["$","ul",null,{"children":[["$","li","A 3D printed dragon egg can be a solid scaled ornament, an egg that opens to reveal a baby dragon, a print-in-place hinged egg, a threaded box or a lamp.",{"children":"A 3D printed dragon egg can be a solid scaled ornament, an egg that opens to reveal a baby dragon, a print-in-place hinged egg, a threaded box or a lamp."}],["$","li","Print-in-place eggs and hinges rely on small gaps of around 0.3 mm built into the model, so print them at their original size, without supports, and with a clean first layer.",{"children":"Print-in-place eggs and hinges rely on small gaps of around 0.3 mm built into the model, so print them at their original size, without supports, and with a clean first layer."}],["$","li","Silk, gradient, multi-colour and glow filaments make dragon eggs look striking straight off the printer, and paint or dry brushing brings out the scales.",{"children":"Silk, gradient, multi-colour and glow filaments make dragon eggs look striking straight off the printer, and paint or dry brushing brings out the scales."}]]}]]}],null,["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$28"}}]]}],"$L29"]}]
+27:["$","section",null,{"className":"section faq","aria-labelledby":"faq-h","children":[["$","h2",null,{"id":"faq-h","children":"Questions and answers"}],["$","div",null,{"className":"faq-list","children":[["$","details","How do you make a 3D printed dragon egg?",{"children":[["$","summary",null,{"children":"How do you make a 3D printed dragon egg?"}],["$","p",null,{"children":"Choose a dragon egg model, read the designer's notes, and slice it at its original size. Print-in-place and hinged eggs go on the plate without supports; solid eggs usually print upright with a brim or a flat base. Use PLA, ideally silk or multi-colour, then free any moving parts gently and add paint if you like."}]]}],["$","details","Does a 3D printed dragon egg need supports?",{"children":[["$","summary",null,{"children":"Does a 3D printed dragon egg need supports?"}],["$","p",null,{"children":"Print-in-place and articulated eggs are designed to print without supports, and supports would jam the hinges. Solid eggs printed upright usually need none either, because the egg's curve is a gentle overhang, but a brim or a printed stand helps the narrow base stay put. Detailed eggs with a dragon sculpted inside may need supports, so check the notes."}]]}],["$","details","What filament is best for dragon eggs?",{"children":[["$","summary",null,{"children":"What filament is best for dragon eggs?"}],["$","p",null,{"children":"PLA is the easiest. Silk PLA gives a shiny, metallic look on the scales, gradient and multi-colour PLA change colour up the egg, and glow-in-the-dark PLA glows after charging under light. Glow filament is abrasive, so a hardened steel nozzle is a good idea for regular use."}]]}],["$","details","Why won't my print-in-place dragon egg open?",{"children":[["$","summary",null,{"children":"Why won't my print-in-place dragon egg open?"}],["$","p",null,{"children":"Usually the gaps between the segments have closed. Common causes are a squashed first layer (elephant's foot), over-extrusion, very thick layers, or scaling the model down. Turn on elephant foot compensation, calibrate flow, use 0.2 mm layers or thinner and print at the designed size."}]]}]]}]]}]
+29:["$","aside",null,{"className":"aside","children":[["$","div",null,{"className":"facts","children":[["$","b",null,{"children":"Tools for this"}],["$","div",null,{"className":"tool-grid","style":{"marginTop":10,"gridTemplateColumns":"1fr"},"children":[["$","$L4","stl-viewer",{"className":"tool-link","href":"/stl-viewer/","children":"STL viewer"}],["$","$L4","3d-viewer",{"className":"tool-link","href":"/3d-viewer/","children":"Online 3D model viewer"}],["$","$L4","lithophane-maker",{"className":"tool-link","href":"/lithophane-maker/","children":"Lithophane maker"}]]}]]}],["$","div",null,{"className":"facts","children":[["$","b",null,{"children":"Open or convert a model"}],["$","p",null,{"className":"small","style":{"margin":"6px 0 10px"},"children":"View STL, 3MF, STEP and more in your browser."}],["$","$L4",null,{"className":"btn btn-accent","href":"/3d-viewer/","children":"3D viewer"}]]}]]}]
+20:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#10151C"}]]
+1c:null
+2a:I[622,[],"IconMark"]
+1e:{"metadata":[["$","title","0",{"children":"3D Printed Dragon Egg – Types, Settings, Filament and Ideas | my3dprinter.io"}],["$","meta","1",{"name":"description","content":"3D printed dragon egg guide: scaled, opening, print-in-place, box and lamp eggs, plus clearances, supports, silk and glow filament, finishing and gift ideas."}],["$","meta","2",{"name":"application-name","content":"my3dprinter.io"}],["$","link","3",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","4",{"name":"robots","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","5",{"rel":"canonical","href":"https://my3dprinter.io/blog/3d-printed-dragon-egg/"}],["$","meta","6",{"name":"format-detection","content":"telephone=no"}],["$","meta","7",{"property":"og:title","content":"3D Printed Dragon Egg – Types, Settings, Filament and Ideas | my3dprinter.io"}],["$","meta","8",{"property":"og:description","content":"3D printed dragon egg guide: scaled, opening, print-in-place, box and lamp eggs, plus clearances, supports, silk and glow filament, finishing and gift ideas."}],["$","meta","9",{"property":"og:url","content":"https://my3dprinter.io/blog/3d-printed-dragon-egg/"}],["$","meta","10",{"property":"og:site_name","content":"my3dprinter.io"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:image","content":"https://my3dprinter.io/images/blog/3d-printed-dragon-egg.webp"}],["$","meta","13",{"property":"og:image:width","content":"1200"}],["$","meta","14",{"property":"og:image:height","content":"675"}],["$","meta","15",{"property":"og:image:alt","content":"3D Printed Dragon Egg – Types, Settings, Filament and Ideas"}],["$","meta","16",{"property":"og:type","content":"article"}],["$","meta","17",{"property":"article:published_time","content":"2026-11-26"}],["$","meta","18",{"property":"article:modified_time","content":"2026-11-26"}],["$","meta","19",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","20",{"name":"twitter:title","content":"3D Printed Dragon Egg – Types, Settings, Filament and Ideas | my3dprinter.io"}],["$","meta","21",{"name":"twitter:description","content":"3D printed dragon egg guide: scaled, opening, print-in-place, box and lamp eggs, plus clearances, supports, silk and glow filament, finishing and gift ideas."}],["$","meta","22",{"name":"twitter:image","content":"https://my3dprinter.io/images/blog/3d-printed-dragon-egg.webp"}],["$","link","23",{"rel":"icon","href":"/favicon.ico","sizes":"48x48"}],["$","link","24",{"rel":"icon","href":"/icon.svg","type":"image/svg+xml"}],["$","link","25",{"rel":"icon","href":"/icon-192.png","sizes":"192x192","type":"image/png"}],["$","link","26",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","sizes":"180x180"}],["$","$L2a","27",{}]],"error":null,"digest":"$undefined"}
+23:"$1e:metadata"

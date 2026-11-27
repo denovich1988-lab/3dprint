@@ -1,0 +1,369 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+4:I[2619,["2619","static/chunks/2619-3c9e02e22d10480a.js","4966","static/chunks/app/(en)/blog/%5Bslug%5D/page-6f60855278aa4f75.js"],""]
+5:I[1538,["2619","static/chunks/2619-3c9e02e22d10480a.js","90","static/chunks/app/(en)/layout-1d0e45a00e968cb3.js"],"default"]
+6:I[909,["2619","static/chunks/2619-3c9e02e22d10480a.js","90","static/chunks/app/(en)/layout-1d0e45a00e968cb3.js"],"default"]
+16:I[7150,[],""]
+:HL["/_next/static/css/93d1a12f2f4c9226.css","style"]
+0:{"P":null,"b":"rD7TGm9XF6FHQRkd5YG22","p":"","c":["","blog","petg-cf",""],"i":false,"f":[[["",{"children":["(en)",{"children":["blog",{"children":[["slug","petg-cf","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/93d1a12f2f4c9226.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","script",null,{"async":true,"src":"https://www.googletagmanager.com/gtm.js?id=GTM-T7SN8RQX"}],["$","script",null,{"async":true,"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3226858004021254","crossOrigin":"anonymous"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());"}}]]}],["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"wrap header-in","children":[["$","$L4",null,{"href":"/","className":"brand","aria-label":"my3dprinter.io home","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","nav",null,{"aria-label":"Main","className":"nav","children":[["$","$L4","/converters/",{"href":"/converters/","children":"Converters"}],["$","$L4","/3d-viewer/",{"href":"/3d-viewer/","children":"3D viewer"}],["$","$L4","/image-to-stl/",{"href":"/image-to-stl/","children":"Image to STL"}],["$","$L4","/printers/",{"href":"/printers/","children":"Printers"}],["$","$L4","/blog/",{"href":"/blog/","children":"Blog"}]]}],["$","div",null,{"className":"header-actions","children":[["$","$L5",null,{"lang":"en","langs":[{"code":"en","name":"English"},{"code":"de","name":"Deutsch"},{"code":"es","name":"Español"},{"code":"fr","name":"Français"},{"code":"it","name":"Italiano"},{"code":"ja","name":"日本語"},{"code":"ko","name":"한국어"},{"code":"pt","name":"Português"},{"code":"vi","name":"Tiếng Việt"},{"code":"th","name":"ไทย"},{"code":"zh","name":"简体中文"},{"code":"ru","name":"Русский"}],"localized":["/","/converters/","/3mf-to-stl/","/glb-to-stl/","/stl-to-3mf/","/step-to-stl/","/glb-to-obj/","/obj-to-stl/","/stl-to-obj/","/fbx-to-obj/","/gcode-to-stl/","/fbx-to-stl/","/zip-to-stl/","/stp-to-stl/","/dae-to-obj/","/gltf-to-obj/","/stl-to-dxf/","/obj-to-glb/","/gltf-to-stl/","/fbx-to-glb/","/ply-to-stl/","/3mf-to-obj/","/dae-to-stl/","/usdz-to-stl/","/ply-to-obj/","/stp-to-obj/","/3ds-to-obj/","/igs-to-stl/","/stl-to-glb/","/obj-to-3mf/","/glb-to-3mf/","/stl-to-usdz/","/glb-to-usdz/","/step-to-obj/","/step-to-3mf/","/stl-to-ply/","/fbx-to-gltf/","/image-to-stl/","/png-to-stl/","/jpg-to-stl/","/jpeg-to-stl/","/lithophane-maker/","/png-to-obj/","/png-to-3mf/","/svg-to-stl/","/svg-to-obj/","/png-to-dds/","/jpg-to-dds/","/dds-to-png/","/dds-to-jpg/","/3d-viewer/","/stl-viewer/","/3mf-viewer/","/obj-viewer/","/glb-viewer/","/step-viewer/","/ply-viewer/","/fbx-viewer/","/gltf-viewer/"],"label":"Language"}],["$","$L6",null,{"links":[["/converters/","Converters"],["/3d-viewer/","3D viewer"],["/image-to-stl/","Image to STL"],["/printers/","Printers"],["/blog/","Blog"],["/printers/compare/","Compare printers"]],"label":"Menu"}]]}]]}]}],["$","main",null,{"id":"main","className":"wrap","style":{"padding":"64px 24px"},"children":[["$","h1",null,{"children":"Page not found"}],["$","p",null,{"className":"lead","children":"This page does not exist. Try a converter or the 3D viewer."}],["$","p",null,{"children":["$","$L4",null,{"className":"btn btn-accent","href":"/converters/","children":"All converters"}]}]]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"wrap footer-grid","children":[["$","div",null,{"className":"footer-brand","children":[["$","$L4",null,{"href":"/","className":"brand","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":["$L7","$L8"]}]," ","$L9"]}],"$La"]}],["$Lb","$Lc","$Ld","$Le","$Lf"]]}],"$L10"]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["(en)","$L11",{"children":["blog","$L12",{"children":[["slug","petg-cf","d"],"$L13",{"children":["__PAGE__","$L14",{},null,false]},null,false]},null,false]},null,false]},null,false],"$L15",false]],"m":"$undefined","G":["$16",[]],"s":false,"S":true}
+1b:I[4431,[],"OutletBoundary"]
+1d:I[5278,[],"AsyncMetadataOutlet"]
+1f:I[4431,[],"ViewportBoundary"]
+21:I[4431,[],"MetadataBoundary"]
+22:"$Sreact.suspense"
+7:["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}]
+8:["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]
+9:["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]
+a:["$","p",null,{"children":"Free tools that run in your browser. Your files are never uploaded."}]
+b:["$","div","Converters",{"children":[["$","h2",null,{"children":"Converters"}],["$","ul",null,{"children":[["$","li","/3mf-to-stl/",{"children":["$","$L4",null,{"href":"/3mf-to-stl/","children":"3MF → STL"}]}],["$","li","/step-to-stl/",{"children":["$","$L4",null,{"href":"/step-to-stl/","children":"STEP → STL"}]}],["$","li","/glb-to-stl/",{"children":["$","$L4",null,{"href":"/glb-to-stl/","children":"GLB → STL"}]}],["$","li","/obj-to-stl/",{"children":["$","$L4",null,{"href":"/obj-to-stl/","children":"OBJ → STL"}]}],["$","li","/stl-to-3mf/",{"children":["$","$L4",null,{"href":"/stl-to-3mf/","children":"STL → 3MF"}]}],["$","li","/converters/",{"children":["$","$L4",null,{"href":"/converters/","children":"All converters"}]}]]}]]}]
+c:["$","div","Images & textures",{"children":[["$","h2",null,{"children":"Images & textures"}],["$","ul",null,{"children":[["$","li","/image-to-stl/",{"children":["$","$L4",null,{"href":"/image-to-stl/","children":"Image to STL"}]}],["$","li","/lithophane-maker/",{"children":["$","$L4",null,{"href":"/lithophane-maker/","children":"Lithophane maker"}]}],["$","li","/svg-to-stl/",{"children":["$","$L4",null,{"href":"/svg-to-stl/","children":"SVG → STL"}]}],["$","li","/png-to-dds/",{"children":["$","$L4",null,{"href":"/png-to-dds/","children":"PNG → DDS"}]}],["$","li","/dds-to-png/",{"children":["$","$L4",null,{"href":"/dds-to-png/","children":"DDS → PNG"}]}]]}]]}]
+d:["$","div","Viewers",{"children":[["$","h2",null,{"children":"Viewers"}],["$","ul",null,{"children":[["$","li","/3d-viewer/",{"children":["$","$L4",null,{"href":"/3d-viewer/","children":"Online 3D model viewer"}]}],["$","li","/stl-viewer/",{"children":["$","$L4",null,{"href":"/stl-viewer/","children":"STL viewer"}]}],["$","li","/3mf-viewer/",{"children":["$","$L4",null,{"href":"/3mf-viewer/","children":"3MF viewer"}]}],["$","li","/step-viewer/",{"children":["$","$L4",null,{"href":"/step-viewer/","children":"STEP viewer"}]}],["$","li","/obj-viewer/",{"children":["$","$L4",null,{"href":"/obj-viewer/","children":"OBJ viewer"}]}]]}]]}]
+e:["$","div","my3dprinter.io",{"children":[["$","h2",null,{"children":"my3dprinter.io"}],["$","ul",null,{"children":[["$","li","/printers/",{"children":["$","$L4",null,{"href":"/printers/","children":"3D printers"}]}],["$","li","/printers/compare/",{"children":["$","$L4",null,{"href":"/printers/compare/","children":"Compare printers"}]}],["$","li","/blog/",{"children":["$","$L4",null,{"href":"/blog/","children":"Blog"}]}],["$","li","/formats/",{"children":["$","$L4",null,{"href":"/formats/","children":"File formats"}]}],["$","li","/about/",{"children":["$","$L4",null,{"href":"/about/","children":"About"}]}],["$","li","/contact/",{"children":["$","$L4",null,{"href":"/contact/","children":"Contact"}]}]]}]]}]
+f:["$","div","Legal",{"children":[["$","h2",null,{"children":"Legal"}],["$","ul",null,{"children":[["$","li","/privacy/",{"children":["$","$L4",null,{"href":"/privacy/","children":"Privacy policy"}]}],["$","li","/cookies/",{"children":["$","$L4",null,{"href":"/cookies/","children":"Cookie policy"}]}],["$","li","/terms/",{"children":["$","$L4",null,{"href":"/terms/","children":"Terms of use"}]}],["$","li","/disclaimer/",{"children":["$","$L4",null,{"href":"/disclaimer/","children":"Disclaimer"}]}]]}]]}]
+10:["$","div",null,{"className":"wrap footer-base","children":["$","p",null,{"children":["© ",2026," my3dprinter.io. ","Brand and product names belong to their owners; my3dprinter.io is an independent site and is not affiliated with any printer maker."]}]}]
+11:["$","$1","c",{"children":[null,[["$","a",null,{"className":"skip","href":"#main","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"wrap header-in","children":[["$","$L4",null,{"href":"/","className":"brand","aria-label":"my3dprinter.io home","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","nav",null,{"aria-label":"Main","className":"nav","children":[["$","$L4","/converters/",{"href":"/converters/","children":"Converters"}],["$","$L4","/3d-viewer/",{"href":"/3d-viewer/","children":"3D viewer"}],["$","$L4","/image-to-stl/",{"href":"/image-to-stl/","children":"Image to STL"}],["$","$L4","/printers/",{"href":"/printers/","children":"Printers"}],["$","$L4","/blog/",{"href":"/blog/","children":"Blog"}]]}],["$","div",null,{"className":"header-actions","children":[["$","$L5",null,{"lang":"en","langs":[{"code":"en","name":"English"},{"code":"de","name":"Deutsch"},{"code":"es","name":"Español"},{"code":"fr","name":"Français"},{"code":"it","name":"Italiano"},{"code":"ja","name":"日本語"},{"code":"ko","name":"한국어"},{"code":"pt","name":"Português"},{"code":"vi","name":"Tiếng Việt"},{"code":"th","name":"ไทย"},{"code":"zh","name":"简体中文"},{"code":"ru","name":"Русский"}],"localized":"$0:f:0:1:1:props:children:1:props:children:1:props:children:props:notFound:0:0:props:children:props:children:2:props:children:0:props:localized","label":"Language"}],["$","$L6",null,{"links":[["/converters/","Converters"],["/3d-viewer/","3D viewer"],["/image-to-stl/","Image to STL"],["/printers/","Printers"],["/blog/","Blog"],["/printers/compare/","Compare printers"]],"label":"Menu"}]]}]]}]}],["$","main",null,{"id":"main","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"wrap footer-grid","children":[["$","div",null,{"className":"footer-brand","children":[["$","$L4",null,{"href":"/","className":"brand","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","p",null,{"children":"Free tools that run in your browser. Your files are never uploaded."}]]}],[["$","div","Converters",{"children":[["$","h2",null,{"children":"Converters"}],["$","ul",null,{"children":[["$","li","/3mf-to-stl/",{"children":["$","$L4",null,{"href":"/3mf-to-stl/","children":"3MF → STL"}]}],["$","li","/step-to-stl/",{"children":["$","$L4",null,{"href":"/step-to-stl/","children":"STEP → STL"}]}],["$","li","/glb-to-stl/",{"children":["$","$L4",null,{"href":"/glb-to-stl/","children":"GLB → STL"}]}],["$","li","/obj-to-stl/",{"children":["$","$L4",null,{"href":"/obj-to-stl/","children":"OBJ → STL"}]}],["$","li","/stl-to-3mf/",{"children":["$","$L4",null,{"href":"/stl-to-3mf/","children":"STL → 3MF"}]}],["$","li","/converters/",{"children":["$","$L4",null,{"href":"/converters/","children":"All converters"}]}]]}]]}],["$","div","Images & textures",{"children":[["$","h2",null,{"children":"Images & textures"}],["$","ul",null,{"children":[["$","li","/image-to-stl/",{"children":["$","$L4",null,{"href":"/image-to-stl/","children":"Image to STL"}]}],["$","li","/lithophane-maker/",{"children":["$","$L4",null,{"href":"/lithophane-maker/","children":"Lithophane maker"}]}],["$","li","/svg-to-stl/",{"children":["$","$L4",null,{"href":"/svg-to-stl/","children":"SVG → STL"}]}],["$","li","/png-to-dds/",{"children":["$","$L4",null,{"href":"/png-to-dds/","children":"PNG → DDS"}]}],["$","li","/dds-to-png/",{"children":["$","$L4",null,{"href":"/dds-to-png/","children":"DDS → PNG"}]}]]}]]}],["$","div","Viewers",{"children":[["$","h2",null,{"children":"Viewers"}],["$","ul",null,{"children":[["$","li","/3d-viewer/",{"children":["$","$L4",null,{"href":"/3d-viewer/","children":"Online 3D model viewer"}]}],["$","li","/stl-viewer/",{"children":["$","$L4",null,{"href":"/stl-viewer/","children":"STL viewer"}]}],["$","li","/3mf-viewer/",{"children":["$","$L4",null,{"href":"/3mf-viewer/","children":"3MF viewer"}]}],["$","li","/step-viewer/",{"children":["$","$L4",null,{"href":"/step-viewer/","children":"STEP viewer"}]}],["$","li","/obj-viewer/",{"children":["$","$L4",null,{"href":"/obj-viewer/","children":"OBJ viewer"}]}]]}]]}],"$L17","$L18"]]}],"$L19"]}]]]}]
+12:["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+13:["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+14:["$","$1","c",{"children":["$L1a",null,["$","$L1b",null,{"children":["$L1c",["$","$L1d",null,{"promise":"$@1e"}]]}]]}]
+15:["$","$1","h",{"children":[null,[["$","$L1f",null,{"children":"$L20"}],null],["$","$L21",null,{"children":["$","div",null,{"hidden":true,"children":["$","$22",null,{"fallback":null,"children":"$L23"}]}]}]]}]
+17:["$","div","my3dprinter.io",{"children":[["$","h2",null,{"children":"my3dprinter.io"}],["$","ul",null,{"children":[["$","li","/printers/",{"children":["$","$L4",null,{"href":"/printers/","children":"3D printers"}]}],["$","li","/printers/compare/",{"children":["$","$L4",null,{"href":"/printers/compare/","children":"Compare printers"}]}],["$","li","/blog/",{"children":["$","$L4",null,{"href":"/blog/","children":"Blog"}]}],["$","li","/formats/",{"children":["$","$L4",null,{"href":"/formats/","children":"File formats"}]}],["$","li","/about/",{"children":["$","$L4",null,{"href":"/about/","children":"About"}]}],["$","li","/contact/",{"children":["$","$L4",null,{"href":"/contact/","children":"Contact"}]}]]}]]}]
+18:["$","div","Legal",{"children":[["$","h2",null,{"children":"Legal"}],["$","ul",null,{"children":[["$","li","/privacy/",{"children":["$","$L4",null,{"href":"/privacy/","children":"Privacy policy"}]}],["$","li","/cookies/",{"children":["$","$L4",null,{"href":"/cookies/","children":"Cookie policy"}]}],["$","li","/terms/",{"children":["$","$L4",null,{"href":"/terms/","children":"Terms of use"}]}],["$","li","/disclaimer/",{"children":["$","$L4",null,{"href":"/disclaimer/","children":"Disclaimer"}]}]]}]]}]
+19:["$","div",null,{"className":"wrap footer-base","children":["$","p",null,{"children":["© ",2026," my3dprinter.io. ","Brand and product names belong to their owners; my3dprinter.io is an independent site and is not affiliated with any printer maker."]}]}]
+24:Te62,{"@context":"https://schema.org","@graph":[{"@type":"Article","headline":"PETG-CF filament – what carbon fiber PETG is, settings and when to use it","description":"PETG-CF explained – how carbon fiber PETG differs from plain PETG, makers' nozzle and bed temperatures, hardened nozzle, drying, uses and limits.","datePublished":"2026-11-27","dateModified":"2026-11-27","mainEntityOfPage":"https://my3dprinter.io/blog/petg-cf/","inLanguage":"en","author":{"@type":"Organization","name":"my3dprinter.io","url":"https://my3dprinter.io"},"publisher":{"@type":"Organization","@id":"https://my3dprinter.io/#organization","name":"my3dprinter.io","url":"https://my3dprinter.io/","logo":{"@type":"ImageObject","url":"https://my3dprinter.io/icon-512.png","width":512,"height":512},"email":"hello@my3dprinter.io","description":"Free 3D file converters, viewers and 3D printer guides"},"image":"https://my3dprinter.io/images/blog/petg-cf.webp","citation":["https://cdn.shopify.com/s/files/1/0380/5149/files/Bambu_PETG-CF_Technical_Data_Sheet.pdf","https://wiki.bambulab.com/en/general/filament-guide-material-table","https://us.store.bambulab.com/products/petg-cf","https://www.prusa3d.com/product/prusament-petg-carbon-fiber-black-1kg/","https://help.prusa3d.com/article/composite-materials-filled-with-carbon-kevlar-or-glass_167387","https://wiki.polymaker.com/polymaker-products/polymaker-filaments/fiberon-tm/fiberon-tm-petg-rcf08","https://polymaker.com/product/fiberon-petg-rcf08/","https://www.esun3d.com/epetg-cf-product/","https://esun3dstore.com/blog/detail/the-carbon-fiber-material-family-expands-introducing-petg-cf"]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://my3dprinter.io/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://my3dprinter.io/blog/"},{"@type":"ListItem","position":3,"name":"PETG-CF filament – what carbon fiber PETG is, settings and when to use it","item":"https://my3dprinter.io/blog/petg-cf/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is PETG-CF good for?","acceptedAnswer":{"@type":"Answer","text":"Stiff functional parts that should not flex or creep much, such as brackets, jigs, fixtures, tool holders, drone and RC parts, and enclosures. Polymaker lists prototyping, jigs and fixtures for its PETG-rCF08, and eSUN names tooling fixtures and prototypes. It is a poor choice for parts that must bend or take sharp impacts."}},{"@type":"Question","name":"Is PETG-CF better than PETG?","acceptedAnswer":{"@type":"Answer","text":"It is stiffer and holds its shape better, but it is not better at everything. Prusa says its PETG Carbon Fiber has a higher modulus but lower toughness than regular Prusament PETG, and fibres generally reduce impact resistance and layer adhesion. Heat resistance barely changes – Bambu Lab lists a 68 °C heat deflection temperature (1.8 MPa) for its PETG-CF."}},{"@type":"Question","name":"Does PETG-CF need a hardened nozzle?","acceptedAnswer":{"@type":"Answer","text":"Yes. Bambu Lab's material table marks a hardened nozzle as required for PETG-CF, Prusa says its PETG Carbon Fiber requires one because the fibres can damage a brass nozzle, and Polymaker gives the same rule for its Fiberon PETG-rCF08."}},{"@type":"Question","name":"What is better, PLA-CF or PETG-CF?","acceptedAnswer":{"@type":"Answer","text":"PETG-CF is the better choice for parts that get warm, sit outdoors or need some toughness, because PETG softens at a higher temperature than PLA. PLA-CF prints cooler (Bambu Lab lists 210–240 °C) on almost any bed and gives crisper detail, so it suits indoor parts that only need stiffness."}}]}]}1a:["$","div",null,{"className":"wrap","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$24"}}],"$L25","$L26","$L27"]}]
+25:["$","nav",null,{"className":"crumbs","aria-label":"Breadcrumb","children":[["$","$L4",null,{"href":"/","children":"Home"}]," / ",["$","$L4",null,{"href":"/blog/","children":"Blog"}]," / ","PETG-CF filament – what carbon fiber PETG is, settings and when to use it"]}]
+28:T41de,<p><strong>PETG-CF is PETG filament filled with short chopped carbon fibres, giving stiffer, more dimensionally stable parts with a matte finish while printing almost as easily as plain PETG – but it needs a hardened nozzle.</strong> It is one of the most popular &quot;first&quot; carbon fiber filaments because it does not need an enclosure or very high temperatures. This guide covers what PETG-CF is, how it differs from PETG and from other carbon fiber filaments, the print settings that Bambu Lab, Prusa, Polymaker and eSUN publish for their own PETG carbon fiber, nozzles, drying, good uses and the limits you should know. Facts come from the makers&#39; own product pages, data sheets and wikis (Bambu Lab data sheet and material table, Prusa product page and knowledge base, Polymaker wiki, eSUN product page and store blog), checked November 2026. We have not tested these filaments and do not rate them; your spool label and slicer profile come first.</p>
+<h2>PETG-CF at a glance</h2>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>PETG-CF (from makers&#39; pages)</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>What it is</td>
+<td>PETG + short chopped carbon fibres</td>
+</tr>
+<tr>
+<td>Fibre content</td>
+<td>Rarely published; Polymaker states 8 % (recycled fibre) for PETG-rCF08</td>
+</tr>
+<tr>
+<td>Nozzle temperature</td>
+<td>About 240–275 °C depending on brand</td>
+</tr>
+<tr>
+<td>Bed temperature</td>
+<td>About 60–100 °C depending on brand</td>
+</tr>
+<tr>
+<td>Nozzle</td>
+<td>Hardened / wear-resistant required; avoid 0.2 mm</td>
+</tr>
+<tr>
+<td>Enclosure</td>
+<td>Not required (Bambu Lab recommends an enclosed printer; Polymaker says keep the door open)</td>
+</tr>
+<tr>
+<td>Part cooling</td>
+<td>Low: 0–60 % (Bambu Lab), max 50 % (Polymaker)</td>
+</tr>
+<tr>
+<td>Heat deflection</td>
+<td>68 °C at 1.8 MPa (Bambu Lab); 68.6 °C at 0.45 MPa (Polymaker); up to 70 °C (eSUN)</td>
+</tr>
+<tr>
+<td>Drying</td>
+<td>About 65–70 °C for 8 hours</td>
+</tr>
+<tr>
+<td>Finish</td>
+<td>Matte, hides layer lines</td>
+</tr>
+<tr>
+<td>Best for</td>
+<td>Stiff brackets, jigs, fixtures, mounts, outdoor functional parts</td>
+</tr>
+</tbody></table>
+<h2>What is PETG-CF filament?</h2>
+<p>PETG-CF (also sold as &quot;PETG carbon fiber&quot;, &quot;CF-PETG&quot; or &quot;carbon fiber PETG&quot;) starts with ordinary PETG – the tough, glossy co-polyester used for functional parts – and mixes in short, chopped carbon fibres. These are not continuous strands like a carbon fibre tube; they are tiny pieces spread through the plastic. Makers seldom say how much fibre they add. Of the brands checked here, only Polymaker states a figure in its product name: Fiberon PETG-rCF08 contains 8 % recycled carbon fibre. Prusa says the fibres in Prusament PETG Carbon Fiber come from recycled industrial waste or end-of-life carbon composites.</p>
+<p>The fibres change three things:</p>
+<ul>
+<li><strong>Stiffness.</strong> The part bends less under load. eSUN&#39;s store blog reports a flexural modulus of 2,500 MPa for its PETG-CF, which it describes as about three times standard PETG.</li>
+<li><strong>Dimensional stability.</strong> Fibres reduce shrinkage, so parts warp less and come out closer to size. Prusa lists better dimensional stability during printing.</li>
+<li><strong>Surface.</strong> Prints have a matte, slightly textured look that hides layer lines. Prusa calls its black version a &quot;matt black surface&quot;; eSUN describes a frosted texture.</li>
+</ul>
+<p><strong>Why it matters:</strong> PETG-CF is not &quot;PETG made stronger in every way&quot;. It trades some toughness for stiffness and accuracy, which is exactly what brackets and fixtures need – and the opposite of what a snap-fit clip needs.</p>
+<h2>PETG-CF vs PETG: what changes</h2>
+<p>The base plastic is the same, so chemical resistance, low odour and heat resistance stay close to plain PETG. What changes is mechanical behaviour and printing hardware.</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>PETG</th>
+<th>PETG-CF</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Stiffness</td>
+<td>Moderate, flexes a little</td>
+<td>Higher (makers report large gains in flexural modulus)</td>
+</tr>
+<tr>
+<td>Toughness / impact</td>
+<td>Good</td>
+<td>Lower – Prusa lists lower toughness than regular PETG</td>
+</tr>
+<tr>
+<td>Layer adhesion</td>
+<td>Good</td>
+<td>Usually lower (Prusa says fibres reduce layer-to-layer adhesion)</td>
+</tr>
+<tr>
+<td>Surface</td>
+<td>Glossy</td>
+<td>Matte, hides layer lines</td>
+</tr>
+<tr>
+<td>Stringing</td>
+<td>Common</td>
+<td>Prusa and Bambu Lab claim less stringing</td>
+</tr>
+<tr>
+<td>Nozzle</td>
+<td>Brass is fine</td>
+<td>Hardened nozzle required</td>
+</tr>
+<tr>
+<td>Bambu Lab nozzle / bed range</td>
+<td>240–270 °C / 60–80 °C</td>
+<td>240–270 °C / 60–80 °C</td>
+</tr>
+<tr>
+<td>Heat resistance</td>
+<td>Baseline</td>
+<td>Close to PETG (Bambu Lab: 68 °C HDT at 1.8 MPa)</td>
+</tr>
+<tr>
+<td>Bambu Lab AMS lite</td>
+<td>Compatible</td>
+<td>Not recommended</td>
+</tr>
+</tbody></table>
+<p>In Bambu Lab&#39;s material table the temperature and bed ranges for PETG and PETG-CF are identical, and so is the drying recommendation. The real differences are the nozzle and how the part behaves.</p>
+<p><strong>Tip:</strong> if you already print PETG well, start PETG-CF from your PETG profile, switch to the maker&#39;s PETG-CF profile or ranges, fit a hardened nozzle and slow down slightly. Our <a href="/blog/petg-filament/">PETG filament guide</a> covers the base material in detail.</p>
+<h2>PETG carbon fiber vs PLA-CF, PET-CF and PA-CF</h2>
+<p>PETG-CF is the middle option in the carbon fiber family. Bambu Lab&#39;s material table gives a clear side-by-side of its own grades:</p>
+<table>
+<thead>
+<tr>
+<th>Material</th>
+<th>Nozzle</th>
+<th>Bed</th>
+<th>Drying</th>
+<th>Enclosure</th>
+<th>AMS</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>PLA-CF</td>
+<td>210–240 °C</td>
+<td>35–65 °C</td>
+<td>55 °C, 8 h</td>
+<td>Open or enclosed</td>
+<td>Bambu PLA-CF only</td>
+</tr>
+<tr>
+<td>PETG-CF</td>
+<td>240–270 °C</td>
+<td>60–80 °C</td>
+<td>70 °C, 8 h</td>
+<td>Enclosed recommended</td>
+<td>AMS yes, AMS lite not recommended</td>
+</tr>
+<tr>
+<td>PET-CF</td>
+<td>260–300 °C</td>
+<td>80–100 °C</td>
+<td>80 °C, 8–12 h</td>
+<td>Enclosed recommended</td>
+<td>Not compatible</td>
+</tr>
+<tr>
+<td>PA-CF (nylon)</td>
+<td>260–300 °C</td>
+<td>90–110 °C</td>
+<td>80 °C, 8–12 h</td>
+<td>Enclosed recommended</td>
+<td>Bambu PA-CF / PAHT-CF only</td>
+</tr>
+</tbody></table>
+<ul>
+<li><strong>PLA-CF</strong> is the easiest and gives the best detail, but it softens at PLA temperatures, so it is for indoor parts.</li>
+<li><strong>PETG-CF</strong> adds PETG&#39;s better heat and weather tolerance and some toughness without needing very high temperatures or a heated chamber.</li>
+<li><strong>PET-CF</strong> (not the same as PETG-CF) and <strong>PA-CF</strong> handle much more heat and load, but need hotter nozzles, hot beds, thorough drying and usually an enclosed printer.</li>
+</ul>
+<p><strong>Why it matters:</strong> choose PETG-CF when PLA-CF would soften or crack but you do not have, or do not want to deal with, an enclosed high-temperature setup. For the whole family, see our <a href="/blog/carbon-fiber-filament/">carbon fiber filament guide</a>.</p>
+<h2>PETG-CF settings from the makers</h2>
+<p>Each maker publishes slightly different starting values. Use the one for the spool you actually have.</p>
+<table>
+<thead>
+<tr>
+<th>Brand / product</th>
+<th>Nozzle</th>
+<th>Bed</th>
+<th>Speed</th>
+<th>Cooling</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Bambu Lab PETG-CF</td>
+<td>240–270 °C</td>
+<td>65–75 °C (data sheet); 60–80 °C (wiki)</td>
+<td>&lt; 200 mm/s</td>
+<td>0–60 %</td>
+<td>Engineering, High Temp or Textured PEI plate with PVP glue; chamber 35–50 °C</td>
+</tr>
+<tr>
+<td>Prusament PETG Carbon Fiber</td>
+<td>265 ± 10 °C</td>
+<td>90 ± 10 °C</td>
+<td>Not listed</td>
+<td>Not listed</td>
+<td>Textured or satin powder-coated sheet</td>
+</tr>
+<tr>
+<td>Polymaker Fiberon PETG-rCF08</td>
+<td>240–270 °C</td>
+<td>60–70 °C</td>
+<td>30–300 mm/s</td>
+<td>0 %, max 50 %</td>
+<td>No enclosure needed; keep enclosure door open</td>
+</tr>
+<tr>
+<td>eSUN ePETG-CF</td>
+<td>Not listed on product page</td>
+<td>Not listed</td>
+<td>Not listed</td>
+<td>Not listed</td>
+<td>Hardened steel nozzle recommended; dry 65 °C, 8 h+</td>
+</tr>
+</tbody></table>
+<p>A few points from these pages:</p>
+<ul>
+<li><strong>Prusa runs hotter.</strong> Prusament&#39;s 265 °C nozzle and 90 °C bed are higher than the Bambu Lab and Polymaker ranges. Prusa&#39;s composites article says fibre-filled filaments generally print slightly hotter than the unfilled version.</li>
+<li><strong>Bambu Lab&#39;s two sources differ a little.</strong> Its data sheet gives a 65–75 °C bed; the wiki material table gives 60–80 °C. Both overlap at about 70 °C.</li>
+<li><strong>Low fan.</strong> Both Bambu Lab and Polymaker keep part cooling low; Polymaker advises lowering the fan further if layers separate.</li>
+<li><strong>eSUN</strong> does not publish temperatures on its product page; use the label on the spool or the slicer profile.</li>
+</ul>
+<p><strong>Tip:</strong> print a temperature tower at the start of a new spool, moving in 5 °C steps. Hardened nozzles often transfer heat a little less well than brass, so you may land near the top of the range.</p>
+<h2>Hardened nozzle: why PETG-CF needs one</h2>
+<p>Carbon fibres are abrasive. Prusa warns they &quot;may damage a regular brass nozzle&quot;, and Bambu Lab&#39;s material table marks a hardened nozzle as required for PETG-CF. Bambu Lab&#39;s product page also says a stainless steel nozzle is not recommended. Polymaker requires a hardened nozzle for its PETG-rCF08 too.</p>
+<p>Nozzle size matters as well:</p>
+<ul>
+<li><strong>Avoid 0.2 mm.</strong> Bambu Lab says 0.2 mm nozzles are not compatible with its PETG-CF.</li>
+<li><strong>0.4 mm is the minimum Prusa recommends</strong> for composites, with layers of at least 0.2 mm.</li>
+<li><strong>0.4 or 0.6 mm</strong> – Bambu Lab&#39;s wiki says 0.6 mm is the first choice for most fibre-filled filaments, while 0.4 mm is preferred for its own PETG-CF and PLA-CF.</li>
+</ul>
+<p>Remember that the extruder gears can wear too on long runs of abrasive filament; check whether your printer maker sells hardened gears.</p>
+<p><strong>Why it matters:</strong> a worn brass nozzle grows wider over time, so extrusion becomes inaccurate and surfaces get rough before you notice the cause. If you have already run CF through a brass nozzle, our guide on <a href="/blog/how-to-clean-a-3d-printer-nozzle/">how to clean a 3D printer nozzle</a> explains how to inspect it.</p>
+<h2>Drying and storing PETG-CF</h2>
+<p>PETG absorbs moisture from the air, and the fibres do not stop that. The makers&#39; figures:</p>
+<table>
+<thead>
+<tr>
+<th>Source</th>
+<th>Drying temperature</th>
+<th>Time</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Bambu Lab data sheet</td>
+<td>65 °C</td>
+<td>8 h</td>
+</tr>
+<tr>
+<td>Bambu Lab wiki (blast oven)</td>
+<td>70 °C</td>
+<td>8 h</td>
+</tr>
+<tr>
+<td>eSUN store blog</td>
+<td>65 °C</td>
+<td>at least 8 h</td>
+</tr>
+<tr>
+<td>Polymaker product page</td>
+<td>Dry only if the filament has absorbed moisture</td>
+<td>Not stated</td>
+</tr>
+</tbody></table>
+<p>Bambu Lab&#39;s data sheet asks for printing and storage below 20 % relative humidity, sealed with desiccant, and gives a saturated water absorption of 0.30 % at 25 °C and 55 % RH. Wet PETG-CF shows the same signs as wet PETG: popping or hissing at the nozzle, extra stringing, rough or bubbly surfaces and weaker layers.</p>
+<p><strong>Tip:</strong> do not dry above the maker&#39;s temperature – PETG&#39;s glass transition is about 80 °C and the spool or filament can deform. Our guide on <a href="/blog/how-to-dry-filament/">how to dry filament</a> covers dryers, ovens and dry boxes.</p>
+<h2>What PETG-CF is good for</h2>
+<p>Makers position PETG-CF for practical, stiff parts:</p>
+<ul>
+<li><strong>Jigs, fixtures and tooling</strong> – named by Polymaker and eSUN.</li>
+<li><strong>Prototypes and functional parts</strong> – Polymaker describes PETG-rCF08 for fast, low-creep prototypes.</li>
+<li><strong>Brackets, mounts and enclosures</strong> that should not sag or flex.</li>
+<li><strong>Drone and RC parts</strong>, camera mounts and tool holders where low weight and stiffness matter.</li>
+<li><strong>Outdoor items</strong> – eSUN lists outdoor use, building on PETG&#39;s weather tolerance.</li>
+<li><strong>Parts that should look finished</strong> – the matte surface hides layer lines with no post-processing.</li>
+</ul>
+<p><strong>Tip:</strong> orient the part so the main load runs along the layers. Bambu Lab&#39;s data sheet lists tensile strength of 59 MPa in the X-Y direction but 38 MPa in Z, and impact strength of 41.2 kJ/m² in X-Y versus 10.7 kJ/m² in Z – layer direction matters more than the material name.</p>
+<h2>PETG-CF limitations</h2>
+<ul>
+<li><strong>Not more heat resistant than PETG in practice.</strong> Heat deflection figures are about 68–70 °C. For hot car interiors or near motors, look at ASA, PET-CF, PC or nylon grades.</li>
+<li><strong>Lower toughness.</strong> Fibres make parts stiffer but more brittle; snap-fits, living hinges and parts that get dropped are better in plain PETG.</li>
+<li><strong>Weaker layer bonds.</strong> Parts are noticeably weaker between layers than along them.</li>
+<li><strong>Less fine detail.</strong> Prusa says its PETG Carbon Fiber gives worse detail than PLA, and the larger nozzles CF prefers limit small features.</li>
+<li><strong>Hardware wear and cost of entry.</strong> You need a hardened nozzle, and Bambu Lab does not recommend PETG-CF in the AMS lite.</li>
+<li><strong>Not all &quot;CF&quot; grades are structural.</strong> Prusa&#39;s composites article notes that the carbon in Prusament PETG Carbon Fiber Black is added mainly for appearance, even though its product page lists a higher modulus than regular PETG. Do not assume the fibres turn PETG into an engineering material.</li>
+</ul>
+<h2>Troubleshooting PETG-CF</h2>
+<p><strong>Clogs or under-extrusion</strong></p>
+<ul>
+<li>Causes: nozzle too small, fibres bunching, first layer too close, temperature too low.</li>
+<li>Fixes in order: use 0.4 mm or larger, raise the nozzle temperature 5–10 °C, increase first-layer height or Z-offset slightly, run a cold pull.</li>
+<li>Prevention: avoid 0.2 mm nozzles and layers under 0.2 mm, as Prusa advises.</li>
+</ul>
+<p><strong>Weak layers or parts that split</strong></p>
+<ul>
+<li>Causes: too much part cooling, too cool, wet filament.</li>
+<li>Fixes in order: lower the fan (Polymaker: no more than 50 %), raise temperature, dry the spool.</li>
+<li>Prevention: keep the spool sealed with desiccant and print with low cooling.</li>
+</ul>
+<p><strong>Rough surface, popping, stringing</strong></p>
+<ul>
+<li>Causes: moisture, worn nozzle, temperature too high.</li>
+<li>Fixes in order: dry at 65–70 °C for 8 hours, check the nozzle for wear, then lower temperature in 5 °C steps.</li>
+<li>Prevention: store below 20 % RH as Bambu Lab recommends.</li>
+</ul>
+<p><strong>Part sticks too hard to the bed</strong></p>
+<ul>
+<li>Causes: PETG bonds strongly to smooth PEI.</li>
+<li>Fixes: use glue as a release layer (Bambu Lab specifies PVP glue) or a textured plate.</li>
+</ul>
+<h2>Checklist: your first PETG-CF print</h2>
+<ol>
+<li><strong>Fit a hardened nozzle</strong>, 0.4 mm or larger – never 0.2 mm.</li>
+<li><strong>Dry the spool</strong> at 65–70 °C for about 8 hours if it has been open.</li>
+<li><strong>Load the maker&#39;s PETG-CF profile</strong> in your slicer, or set the nozzle and bed to the middle of the ranges in the table above.</li>
+<li><strong>Set part cooling low</strong> – 0–60 % on Bambu Lab&#39;s guidance, at most 50 % on Polymaker&#39;s.</li>
+<li><strong>Prepare the bed</strong> with glue or a textured sheet so parts release cleanly.</li>
+<li><strong>Orient the part</strong> so loads run along the layers, not across them.</li>
+<li><strong>Run a temperature tower and flow test</strong>, then fine-tune in 5 °C steps.</li>
+<li><strong>Check the model before slicing</strong> – our <a href="/stl-viewer/">STL viewer</a> shows scale and orientation in the browser.</li>
+</ol>
+<h2>Verdict</h2>
+<p>PETG-CF is the easiest way to get stiff, accurate, matte-looking functional parts beyond PLA-CF without moving to an enclosed high-temperature setup. It prints at PETG temperatures, warps little and strings less, but it needs a hardened nozzle, it is less tough than plain PETG, and it does not handle much more heat. Choose it for brackets, jigs, fixtures, mounts and outdoor functional parts; stay with plain PETG for anything that must flex or survive impacts, and move to PET-CF or nylon grades for real heat and load.</p>
+26:["$","div",null,{"className":"split","children":[["$","article",null,{"className":"prose","children":[["$","h1",null,{"children":"PETG-CF filament – what carbon fiber PETG is, settings and when to use it"}],["$","figure",null,{"className":"doc-hero","children":["$","img",null,{"src":"/images/blog/petg-cf.webp","alt":"Illustration of a hardened steel nozzle printing a charcoal carbon-textured bracket beside a dark grey speckled spool, finished clips and a wrench","width":1200,"height":675,"fetchPriority":"high","decoding":"async"}]}],["$","p",null,{"className":"muted small","children":["Updated ","November 27, 2026"]}],["$","div",null,{"className":"summary-box","children":[["$","b",null,{"children":"Key points"}],["$","ul",null,{"children":[["$","li","PETG-CF is PETG filled with short chopped carbon fibres, which make parts stiffer, more dimensionally stable and matte, while keeping PETG's easy printing.",{"children":"PETG-CF is PETG filled with short chopped carbon fibres, which make parts stiffer, more dimensionally stable and matte, while keeping PETG's easy printing."}],["$","li","Bambu Lab, Prusa and Polymaker all require a hardened (wear-resistant) nozzle for their PETG-CF, and Bambu Lab advises against 0.2 mm nozzles for fibre-filled filaments.",{"children":"Bambu Lab, Prusa and Polymaker all require a hardened (wear-resistant) nozzle for their PETG-CF, and Bambu Lab advises against 0.2 mm nozzles for fibre-filled filaments."}],["$","li","Makers' starting ranges sit at about 240–275 °C at the nozzle and 60–100 °C on the bed, depending on the brand, with drying at about 65–70 °C for 8 hours.",{"children":"Makers' starting ranges sit at about 240–275 °C at the nozzle and 60–100 °C on the bed, depending on the brand, with drying at about 65–70 °C for 8 hours."}]]}]]}],null,["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$28"}}]]}],"$L29"]}]
+27:["$","section",null,{"className":"section faq","aria-labelledby":"faq-h","children":[["$","h2",null,{"id":"faq-h","children":"Questions and answers"}],["$","div",null,{"className":"faq-list","children":[["$","details","What is PETG-CF good for?",{"children":[["$","summary",null,{"children":"What is PETG-CF good for?"}],["$","p",null,{"children":"Stiff functional parts that should not flex or creep much, such as brackets, jigs, fixtures, tool holders, drone and RC parts, and enclosures. Polymaker lists prototyping, jigs and fixtures for its PETG-rCF08, and eSUN names tooling fixtures and prototypes. It is a poor choice for parts that must bend or take sharp impacts."}]]}],["$","details","Is PETG-CF better than PETG?",{"children":[["$","summary",null,{"children":"Is PETG-CF better than PETG?"}],["$","p",null,{"children":"It is stiffer and holds its shape better, but it is not better at everything. Prusa says its PETG Carbon Fiber has a higher modulus but lower toughness than regular Prusament PETG, and fibres generally reduce impact resistance and layer adhesion. Heat resistance barely changes – Bambu Lab lists a 68 °C heat deflection temperature (1.8 MPa) for its PETG-CF."}]]}],["$","details","Does PETG-CF need a hardened nozzle?",{"children":[["$","summary",null,{"children":"Does PETG-CF need a hardened nozzle?"}],["$","p",null,{"children":"Yes. Bambu Lab's material table marks a hardened nozzle as required for PETG-CF, Prusa says its PETG Carbon Fiber requires one because the fibres can damage a brass nozzle, and Polymaker gives the same rule for its Fiberon PETG-rCF08."}]]}],["$","details","What is better, PLA-CF or PETG-CF?",{"children":[["$","summary",null,{"children":"What is better, PLA-CF or PETG-CF?"}],["$","p",null,{"children":"PETG-CF is the better choice for parts that get warm, sit outdoors or need some toughness, because PETG softens at a higher temperature than PLA. PLA-CF prints cooler (Bambu Lab lists 210–240 °C) on almost any bed and gives crisper detail, so it suits indoor parts that only need stiffness."}]]}]]}]]}]
+29:["$","aside",null,{"className":"aside","children":[["$","div",null,{"className":"facts","children":[["$","b",null,{"children":"Tools for this"}],["$","div",null,{"className":"tool-grid","style":{"marginTop":10,"gridTemplateColumns":"1fr"},"children":[["$","$L4","stl-viewer",{"className":"tool-link","href":"/stl-viewer/","children":"STL viewer"}],["$","$L4","3d-viewer",{"className":"tool-link","href":"/3d-viewer/","children":"Online 3D model viewer"}],["$","$L4","3mf-to-stl",{"className":"tool-link","href":"/3mf-to-stl/","children":"3MF to STL converter"}]]}]]}],["$","div",null,{"className":"facts","children":[["$","b",null,{"children":"Open or convert a model"}],["$","p",null,{"className":"small","style":{"margin":"6px 0 10px"},"children":"View STL, 3MF, STEP and more in your browser."}],["$","$L4",null,{"className":"btn btn-accent","href":"/3d-viewer/","children":"3D viewer"}]]}]]}]
+20:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#10151C"}]]
+1c:null
+2a:I[622,[],"IconMark"]
+1e:{"metadata":[["$","title","0",{"children":"PETG-CF Filament – Settings, Nozzle and Uses | my3dprinter.io"}],["$","meta","1",{"name":"description","content":"PETG-CF explained – how carbon fiber PETG differs from plain PETG, makers' nozzle and bed temperatures, hardened nozzle, drying, uses and limits."}],["$","meta","2",{"name":"application-name","content":"my3dprinter.io"}],["$","link","3",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","4",{"name":"robots","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","5",{"rel":"canonical","href":"https://my3dprinter.io/blog/petg-cf/"}],["$","meta","6",{"name":"format-detection","content":"telephone=no"}],["$","meta","7",{"property":"og:title","content":"PETG-CF Filament – Settings, Nozzle and Uses | my3dprinter.io"}],["$","meta","8",{"property":"og:description","content":"PETG-CF explained – how carbon fiber PETG differs from plain PETG, makers' nozzle and bed temperatures, hardened nozzle, drying, uses and limits."}],["$","meta","9",{"property":"og:url","content":"https://my3dprinter.io/blog/petg-cf/"}],["$","meta","10",{"property":"og:site_name","content":"my3dprinter.io"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:image","content":"https://my3dprinter.io/images/blog/petg-cf.webp"}],["$","meta","13",{"property":"og:image:width","content":"1200"}],["$","meta","14",{"property":"og:image:height","content":"675"}],["$","meta","15",{"property":"og:image:alt","content":"PETG-CF Filament – Settings, Nozzle and Uses"}],["$","meta","16",{"property":"og:type","content":"article"}],["$","meta","17",{"property":"article:published_time","content":"2026-11-27"}],["$","meta","18",{"property":"article:modified_time","content":"2026-11-27"}],["$","meta","19",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","20",{"name":"twitter:title","content":"PETG-CF Filament – Settings, Nozzle and Uses | my3dprinter.io"}],["$","meta","21",{"name":"twitter:description","content":"PETG-CF explained – how carbon fiber PETG differs from plain PETG, makers' nozzle and bed temperatures, hardened nozzle, drying, uses and limits."}],["$","meta","22",{"name":"twitter:image","content":"https://my3dprinter.io/images/blog/petg-cf.webp"}],["$","link","23",{"rel":"icon","href":"/favicon.ico","sizes":"48x48"}],["$","link","24",{"rel":"icon","href":"/icon.svg","type":"image/svg+xml"}],["$","link","25",{"rel":"icon","href":"/icon-192.png","sizes":"192x192","type":"image/png"}],["$","link","26",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","sizes":"180x180"}],["$","$L2a","27",{}]],"error":null,"digest":"$undefined"}
+23:"$1e:metadata"

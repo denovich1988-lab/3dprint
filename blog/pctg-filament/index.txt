@@ -1,0 +1,305 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+4:I[2619,["2619","static/chunks/2619-3c9e02e22d10480a.js","4966","static/chunks/app/(en)/blog/%5Bslug%5D/page-6f60855278aa4f75.js"],""]
+5:I[1538,["2619","static/chunks/2619-3c9e02e22d10480a.js","90","static/chunks/app/(en)/layout-1d0e45a00e968cb3.js"],"default"]
+6:I[909,["2619","static/chunks/2619-3c9e02e22d10480a.js","90","static/chunks/app/(en)/layout-1d0e45a00e968cb3.js"],"default"]
+16:I[7150,[],""]
+:HL["/_next/static/css/93d1a12f2f4c9226.css","style"]
+0:{"P":null,"b":"rD7TGm9XF6FHQRkd5YG22","p":"","c":["","blog","pctg-filament",""],"i":false,"f":[[["",{"children":["(en)",{"children":["blog",{"children":[["slug","pctg-filament","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/93d1a12f2f4c9226.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","script",null,{"async":true,"src":"https://www.googletagmanager.com/gtm.js?id=GTM-T7SN8RQX"}],["$","script",null,{"async":true,"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3226858004021254","crossOrigin":"anonymous"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());"}}]]}],["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"wrap header-in","children":[["$","$L4",null,{"href":"/","className":"brand","aria-label":"my3dprinter.io home","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","nav",null,{"aria-label":"Main","className":"nav","children":[["$","$L4","/converters/",{"href":"/converters/","children":"Converters"}],["$","$L4","/3d-viewer/",{"href":"/3d-viewer/","children":"3D viewer"}],["$","$L4","/image-to-stl/",{"href":"/image-to-stl/","children":"Image to STL"}],["$","$L4","/printers/",{"href":"/printers/","children":"Printers"}],["$","$L4","/blog/",{"href":"/blog/","children":"Blog"}]]}],["$","div",null,{"className":"header-actions","children":[["$","$L5",null,{"lang":"en","langs":[{"code":"en","name":"English"},{"code":"de","name":"Deutsch"},{"code":"es","name":"Español"},{"code":"fr","name":"Français"},{"code":"it","name":"Italiano"},{"code":"ja","name":"日本語"},{"code":"ko","name":"한국어"},{"code":"pt","name":"Português"},{"code":"vi","name":"Tiếng Việt"},{"code":"th","name":"ไทย"},{"code":"zh","name":"简体中文"},{"code":"ru","name":"Русский"}],"localized":["/","/converters/","/3mf-to-stl/","/glb-to-stl/","/stl-to-3mf/","/step-to-stl/","/glb-to-obj/","/obj-to-stl/","/stl-to-obj/","/fbx-to-obj/","/gcode-to-stl/","/fbx-to-stl/","/zip-to-stl/","/stp-to-stl/","/dae-to-obj/","/gltf-to-obj/","/stl-to-dxf/","/obj-to-glb/","/gltf-to-stl/","/fbx-to-glb/","/ply-to-stl/","/3mf-to-obj/","/dae-to-stl/","/usdz-to-stl/","/ply-to-obj/","/stp-to-obj/","/3ds-to-obj/","/igs-to-stl/","/stl-to-glb/","/obj-to-3mf/","/glb-to-3mf/","/stl-to-usdz/","/glb-to-usdz/","/step-to-obj/","/step-to-3mf/","/stl-to-ply/","/fbx-to-gltf/","/image-to-stl/","/png-to-stl/","/jpg-to-stl/","/jpeg-to-stl/","/lithophane-maker/","/png-to-obj/","/png-to-3mf/","/svg-to-stl/","/svg-to-obj/","/png-to-dds/","/jpg-to-dds/","/dds-to-png/","/dds-to-jpg/","/3d-viewer/","/stl-viewer/","/3mf-viewer/","/obj-viewer/","/glb-viewer/","/step-viewer/","/ply-viewer/","/fbx-viewer/","/gltf-viewer/"],"label":"Language"}],["$","$L6",null,{"links":[["/converters/","Converters"],["/3d-viewer/","3D viewer"],["/image-to-stl/","Image to STL"],["/printers/","Printers"],["/blog/","Blog"],["/printers/compare/","Compare printers"]],"label":"Menu"}]]}]]}]}],["$","main",null,{"id":"main","className":"wrap","style":{"padding":"64px 24px"},"children":[["$","h1",null,{"children":"Page not found"}],["$","p",null,{"className":"lead","children":"This page does not exist. Try a converter or the 3D viewer."}],["$","p",null,{"children":["$","$L4",null,{"className":"btn btn-accent","href":"/converters/","children":"All converters"}]}]]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"wrap footer-grid","children":[["$","div",null,{"className":"footer-brand","children":[["$","$L4",null,{"href":"/","className":"brand","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":["$L7","$L8"]}]," ","$L9"]}],"$La"]}],["$Lb","$Lc","$Ld","$Le","$Lf"]]}],"$L10"]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["(en)","$L11",{"children":["blog","$L12",{"children":[["slug","pctg-filament","d"],"$L13",{"children":["__PAGE__","$L14",{},null,false]},null,false]},null,false]},null,false]},null,false],"$L15",false]],"m":"$undefined","G":["$16",[]],"s":false,"S":true}
+1b:I[4431,[],"OutletBoundary"]
+1d:I[5278,[],"AsyncMetadataOutlet"]
+1f:I[4431,[],"ViewportBoundary"]
+21:I[4431,[],"MetadataBoundary"]
+22:"$Sreact.suspense"
+7:["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}]
+8:["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]
+9:["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]
+a:["$","p",null,{"children":"Free tools that run in your browser. Your files are never uploaded."}]
+b:["$","div","Converters",{"children":[["$","h2",null,{"children":"Converters"}],["$","ul",null,{"children":[["$","li","/3mf-to-stl/",{"children":["$","$L4",null,{"href":"/3mf-to-stl/","children":"3MF → STL"}]}],["$","li","/step-to-stl/",{"children":["$","$L4",null,{"href":"/step-to-stl/","children":"STEP → STL"}]}],["$","li","/glb-to-stl/",{"children":["$","$L4",null,{"href":"/glb-to-stl/","children":"GLB → STL"}]}],["$","li","/obj-to-stl/",{"children":["$","$L4",null,{"href":"/obj-to-stl/","children":"OBJ → STL"}]}],["$","li","/stl-to-3mf/",{"children":["$","$L4",null,{"href":"/stl-to-3mf/","children":"STL → 3MF"}]}],["$","li","/converters/",{"children":["$","$L4",null,{"href":"/converters/","children":"All converters"}]}]]}]]}]
+c:["$","div","Images & textures",{"children":[["$","h2",null,{"children":"Images & textures"}],["$","ul",null,{"children":[["$","li","/image-to-stl/",{"children":["$","$L4",null,{"href":"/image-to-stl/","children":"Image to STL"}]}],["$","li","/lithophane-maker/",{"children":["$","$L4",null,{"href":"/lithophane-maker/","children":"Lithophane maker"}]}],["$","li","/svg-to-stl/",{"children":["$","$L4",null,{"href":"/svg-to-stl/","children":"SVG → STL"}]}],["$","li","/png-to-dds/",{"children":["$","$L4",null,{"href":"/png-to-dds/","children":"PNG → DDS"}]}],["$","li","/dds-to-png/",{"children":["$","$L4",null,{"href":"/dds-to-png/","children":"DDS → PNG"}]}]]}]]}]
+d:["$","div","Viewers",{"children":[["$","h2",null,{"children":"Viewers"}],["$","ul",null,{"children":[["$","li","/3d-viewer/",{"children":["$","$L4",null,{"href":"/3d-viewer/","children":"Online 3D model viewer"}]}],["$","li","/stl-viewer/",{"children":["$","$L4",null,{"href":"/stl-viewer/","children":"STL viewer"}]}],["$","li","/3mf-viewer/",{"children":["$","$L4",null,{"href":"/3mf-viewer/","children":"3MF viewer"}]}],["$","li","/step-viewer/",{"children":["$","$L4",null,{"href":"/step-viewer/","children":"STEP viewer"}]}],["$","li","/obj-viewer/",{"children":["$","$L4",null,{"href":"/obj-viewer/","children":"OBJ viewer"}]}]]}]]}]
+e:["$","div","my3dprinter.io",{"children":[["$","h2",null,{"children":"my3dprinter.io"}],["$","ul",null,{"children":[["$","li","/printers/",{"children":["$","$L4",null,{"href":"/printers/","children":"3D printers"}]}],["$","li","/printers/compare/",{"children":["$","$L4",null,{"href":"/printers/compare/","children":"Compare printers"}]}],["$","li","/blog/",{"children":["$","$L4",null,{"href":"/blog/","children":"Blog"}]}],["$","li","/formats/",{"children":["$","$L4",null,{"href":"/formats/","children":"File formats"}]}],["$","li","/about/",{"children":["$","$L4",null,{"href":"/about/","children":"About"}]}],["$","li","/contact/",{"children":["$","$L4",null,{"href":"/contact/","children":"Contact"}]}]]}]]}]
+f:["$","div","Legal",{"children":[["$","h2",null,{"children":"Legal"}],["$","ul",null,{"children":[["$","li","/privacy/",{"children":["$","$L4",null,{"href":"/privacy/","children":"Privacy policy"}]}],["$","li","/cookies/",{"children":["$","$L4",null,{"href":"/cookies/","children":"Cookie policy"}]}],["$","li","/terms/",{"children":["$","$L4",null,{"href":"/terms/","children":"Terms of use"}]}],["$","li","/disclaimer/",{"children":["$","$L4",null,{"href":"/disclaimer/","children":"Disclaimer"}]}]]}]]}]
+10:["$","div",null,{"className":"wrap footer-base","children":["$","p",null,{"children":["© ",2026," my3dprinter.io. ","Brand and product names belong to their owners; my3dprinter.io is an independent site and is not affiliated with any printer maker."]}]}]
+11:["$","$1","c",{"children":[null,[["$","a",null,{"className":"skip","href":"#main","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"wrap header-in","children":[["$","$L4",null,{"href":"/","className":"brand","aria-label":"my3dprinter.io home","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","nav",null,{"aria-label":"Main","className":"nav","children":[["$","$L4","/converters/",{"href":"/converters/","children":"Converters"}],["$","$L4","/3d-viewer/",{"href":"/3d-viewer/","children":"3D viewer"}],["$","$L4","/image-to-stl/",{"href":"/image-to-stl/","children":"Image to STL"}],["$","$L4","/printers/",{"href":"/printers/","children":"Printers"}],["$","$L4","/blog/",{"href":"/blog/","children":"Blog"}]]}],["$","div",null,{"className":"header-actions","children":[["$","$L5",null,{"lang":"en","langs":[{"code":"en","name":"English"},{"code":"de","name":"Deutsch"},{"code":"es","name":"Español"},{"code":"fr","name":"Français"},{"code":"it","name":"Italiano"},{"code":"ja","name":"日本語"},{"code":"ko","name":"한국어"},{"code":"pt","name":"Português"},{"code":"vi","name":"Tiếng Việt"},{"code":"th","name":"ไทย"},{"code":"zh","name":"简体中文"},{"code":"ru","name":"Русский"}],"localized":"$0:f:0:1:1:props:children:1:props:children:1:props:children:props:notFound:0:0:props:children:props:children:2:props:children:0:props:localized","label":"Language"}],["$","$L6",null,{"links":[["/converters/","Converters"],["/3d-viewer/","3D viewer"],["/image-to-stl/","Image to STL"],["/printers/","Printers"],["/blog/","Blog"],["/printers/compare/","Compare printers"]],"label":"Menu"}]]}]]}]}],["$","main",null,{"id":"main","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"wrap footer-grid","children":[["$","div",null,{"className":"footer-brand","children":[["$","$L4",null,{"href":"/","className":"brand","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","p",null,{"children":"Free tools that run in your browser. Your files are never uploaded."}]]}],[["$","div","Converters",{"children":[["$","h2",null,{"children":"Converters"}],["$","ul",null,{"children":[["$","li","/3mf-to-stl/",{"children":["$","$L4",null,{"href":"/3mf-to-stl/","children":"3MF → STL"}]}],["$","li","/step-to-stl/",{"children":["$","$L4",null,{"href":"/step-to-stl/","children":"STEP → STL"}]}],["$","li","/glb-to-stl/",{"children":["$","$L4",null,{"href":"/glb-to-stl/","children":"GLB → STL"}]}],["$","li","/obj-to-stl/",{"children":["$","$L4",null,{"href":"/obj-to-stl/","children":"OBJ → STL"}]}],["$","li","/stl-to-3mf/",{"children":["$","$L4",null,{"href":"/stl-to-3mf/","children":"STL → 3MF"}]}],["$","li","/converters/",{"children":["$","$L4",null,{"href":"/converters/","children":"All converters"}]}]]}]]}],["$","div","Images & textures",{"children":[["$","h2",null,{"children":"Images & textures"}],["$","ul",null,{"children":[["$","li","/image-to-stl/",{"children":["$","$L4",null,{"href":"/image-to-stl/","children":"Image to STL"}]}],["$","li","/lithophane-maker/",{"children":["$","$L4",null,{"href":"/lithophane-maker/","children":"Lithophane maker"}]}],["$","li","/svg-to-stl/",{"children":["$","$L4",null,{"href":"/svg-to-stl/","children":"SVG → STL"}]}],["$","li","/png-to-dds/",{"children":["$","$L4",null,{"href":"/png-to-dds/","children":"PNG → DDS"}]}],["$","li","/dds-to-png/",{"children":["$","$L4",null,{"href":"/dds-to-png/","children":"DDS → PNG"}]}]]}]]}],["$","div","Viewers",{"children":[["$","h2",null,{"children":"Viewers"}],["$","ul",null,{"children":[["$","li","/3d-viewer/",{"children":["$","$L4",null,{"href":"/3d-viewer/","children":"Online 3D model viewer"}]}],["$","li","/stl-viewer/",{"children":["$","$L4",null,{"href":"/stl-viewer/","children":"STL viewer"}]}],["$","li","/3mf-viewer/",{"children":["$","$L4",null,{"href":"/3mf-viewer/","children":"3MF viewer"}]}],["$","li","/step-viewer/",{"children":["$","$L4",null,{"href":"/step-viewer/","children":"STEP viewer"}]}],["$","li","/obj-viewer/",{"children":["$","$L4",null,{"href":"/obj-viewer/","children":"OBJ viewer"}]}]]}]]}],"$L17","$L18"]]}],"$L19"]}]]]}]
+12:["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+13:["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+14:["$","$1","c",{"children":["$L1a",null,["$","$L1b",null,{"children":["$L1c",["$","$L1d",null,{"promise":"$@1e"}]]}]]}]
+15:["$","$1","h",{"children":[null,[["$","$L1f",null,{"children":"$L20"}],null],["$","$L21",null,{"children":["$","div",null,{"hidden":true,"children":["$","$22",null,{"fallback":null,"children":"$L23"}]}]}]]}]
+17:["$","div","my3dprinter.io",{"children":[["$","h2",null,{"children":"my3dprinter.io"}],["$","ul",null,{"children":[["$","li","/printers/",{"children":["$","$L4",null,{"href":"/printers/","children":"3D printers"}]}],["$","li","/printers/compare/",{"children":["$","$L4",null,{"href":"/printers/compare/","children":"Compare printers"}]}],["$","li","/blog/",{"children":["$","$L4",null,{"href":"/blog/","children":"Blog"}]}],["$","li","/formats/",{"children":["$","$L4",null,{"href":"/formats/","children":"File formats"}]}],["$","li","/about/",{"children":["$","$L4",null,{"href":"/about/","children":"About"}]}],["$","li","/contact/",{"children":["$","$L4",null,{"href":"/contact/","children":"Contact"}]}]]}]]}]
+18:["$","div","Legal",{"children":[["$","h2",null,{"children":"Legal"}],["$","ul",null,{"children":[["$","li","/privacy/",{"children":["$","$L4",null,{"href":"/privacy/","children":"Privacy policy"}]}],["$","li","/cookies/",{"children":["$","$L4",null,{"href":"/cookies/","children":"Cookie policy"}]}],["$","li","/terms/",{"children":["$","$L4",null,{"href":"/terms/","children":"Terms of use"}]}],["$","li","/disclaimer/",{"children":["$","$L4",null,{"href":"/disclaimer/","children":"Disclaimer"}]}]]}]]}]
+19:["$","div",null,{"className":"wrap footer-base","children":["$","p",null,{"children":["© ",2026," my3dprinter.io. ","Brand and product names belong to their owners; my3dprinter.io is an independent site and is not affiliated with any printer maker."]}]}]
+24:Tdaf,{"@context":"https://schema.org","@graph":[{"@type":"Article","headline":"PCTG filament – what it is, how it differs from PETG and how to print it","description":"PCTG filament explained – what the copolyester is, how it compares with PETG, makers' nozzle, bed, cooling and drying settings, clear prints and best uses.","datePublished":"2026-11-26","dateModified":"2026-11-26","mainEntityOfPage":"https://my3dprinter.io/blog/pctg-filament/","inLanguage":"en","author":{"@type":"Organization","name":"my3dprinter.io","url":"https://my3dprinter.io"},"publisher":{"@type":"Organization","@id":"https://my3dprinter.io/#organization","name":"my3dprinter.io","url":"https://my3dprinter.io/","logo":{"@type":"ImageObject","url":"https://my3dprinter.io/icon-512.png","width":512,"height":512},"email":"hello@my3dprinter.io","description":"Free 3D file converters, viewers and 3D printer guides"},"image":"https://my3dprinter.io/images/blog/pctg-filament.webp","citation":["https://www.3dfuel.com/blogs/news/what-is-pctg-filament-benefits-uses-comparison","https://support.3dfuel.com/hc/en-us/articles/22046343945495-Pro-PCTG-Print-Profiles","https://fiberlogy.com/en/fiberlogy-filaments/pctg/","https://123-3d.nl/pdf/Spectrum_PCTG_Premium_TDS_EN.pdf","https://cdn.shopify.com/s/files/1/0260/7421/files/Push_Plastic_PCTG_TDS.pdf","https://hackaday.com/2026/09/07/comparing-petg-and-pctg-filaments/","https://wiki.bambulab.com/en/general/filament-guide-material-table","https://help.prusa3d.com/article/petg_2059"]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://my3dprinter.io/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://my3dprinter.io/blog/"},{"@type":"ListItem","position":3,"name":"PCTG filament – what it is, how it differs from PETG and how to print it","item":"https://my3dprinter.io/blog/pctg-filament/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is PCTG filament good for?","acceptedAnswer":{"@type":"Answer","text":"Functional parts that take knocks or flex – clips, enclosures, brackets, jigs, RC and drone parts, automotive interior parts – and clear prints such as covers, lamp shades and containers. Makers list good chemical resistance, so it also suits cases and housings that meet oils, alcohol or cleaners."}},{"@type":"Question","name":"What's the difference between PETG and PCTG?","acceptedAnswer":{"@type":"Answer","text":"Both are glycol-modified copolyesters. In PETG less than half of the glycol is replaced by CHDM; in PCTG more than half is. That makes PCTG more ductile and impact-resistant, and makers claim slightly better heat and chemical resistance. PCTG prints a little hotter and with less cooling."}},{"@type":"Question","name":"Is PCTG filament hard to print?","acceptedAnswer":{"@type":"Answer","text":"No harder than PETG on most printers. It needs a hot end that reaches about 260–270 °C, a heated bed and a textured PEI plate or a release layer, because it sticks very hard to smooth PEI and glass. No enclosure or hardened nozzle is needed for plain PCTG."}},{"@type":"Question","name":"Is PCTG food safe?","acceptedAnswer":{"@type":"Answer","text":"Some makers, such as Fiberlogy, describe their PCTG as suitable for food contact. A printed part is a different matter – layer lines trap bacteria and the nozzle and printer parts can contaminate it – so treat printed PCTG like any other printed plastic and seal or avoid it for food use."}}]}]}1a:["$","div",null,{"className":"wrap","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$24"}}],"$L25","$L26","$L27"]}]
+25:["$","nav",null,{"className":"crumbs","aria-label":"Breadcrumb","children":[["$","$L4",null,{"href":"/","children":"Home"}]," / ",["$","$L4",null,{"href":"/blog/","children":"Blog"}]," / ","PCTG filament – what it is, how it differs from PETG and how to print it"]}]
+28:T318c,<p><strong>PCTG filament is a glycol-modified copolyester – a close relative of PETG – that prints at similar temperatures but gives tougher, more ductile and often clearer parts, which is why it is sold as an upgrade for functional PETG prints.</strong> It runs on any printer that can print PETG with a little more heat, needs no enclosure and no hardened nozzle, and suits parts that have to take knocks. This guide explains what PCTG is, how it really differs from PETG, the settings makers publish, how to get clear prints and where it makes sense. Settings and figures come from the data sheets and pages of 3D-Fuel, Fiberlogy, Spectrum Filaments and Push Plastic, plus the Bambu Lab wiki and Prusa&#39;s knowledge base for PETG, checked November 2026. We have not tested PCTG ourselves; your spool label and slicer profile come first.</p>
+<h2>PCTG filament at a glance</h2>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>PCTG (makers&#39; data)</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Full name</td>
+<td>Polycyclohexylenedimethylene terephthalate, glycol-modified</td>
+</tr>
+<tr>
+<td>Family</td>
+<td>Copolyester, like PETG</td>
+</tr>
+<tr>
+<td>Nozzle temperature</td>
+<td>About 250–280 °C (250–270 °C on most data sheets)</td>
+</tr>
+<tr>
+<td>Bed temperature</td>
+<td>60–110 °C depending on maker; often 80 °C on textured PEI</td>
+</tr>
+<tr>
+<td>Part cooling</td>
+<td>Low – 0–25 % on Fiberlogy&#39;s sheet; some makers allow more</td>
+</tr>
+<tr>
+<td>Print speed</td>
+<td>Up to about 100–110 mm/s on makers&#39; sheets</td>
+</tr>
+<tr>
+<td>Heat deflection</td>
+<td>76 °C at 0.455 MPa (Spectrum and 3D-Fuel, ISO 75)</td>
+</tr>
+<tr>
+<td>Enclosure</td>
+<td>Not required</td>
+</tr>
+<tr>
+<td>Hardened nozzle</td>
+<td>Not required for plain PCTG (needed for CF/GF versions)</td>
+</tr>
+<tr>
+<td>Drying</td>
+<td>60 °C for 4 h (Fiberlogy) to 70 °C for 6–8 h (3D-Fuel)</td>
+</tr>
+<tr>
+<td>Strengths</td>
+<td>Impact toughness, ductility, clarity, chemical resistance</td>
+</tr>
+<tr>
+<td>Weak points</td>
+<td>Sticks too hard to smooth PEI and glass; a few degrees hotter than PETG; fewer slicer profiles</td>
+</tr>
+</tbody></table>
+<h2>What is PCTG?</h2>
+<p>PCTG and PETG are both modified versions of PET, the polyester used for drink bottles. The difference is in the glycol part of the chain. In standard PET it is ethylene glycol. In PETG some of it is replaced with a bulkier molecule, cyclohexanedimethanol (CHDM), which stops the plastic crystallising and makes it easier to print. As Hackaday explains it, PETG replaces less than half of the glycol with CHDM, while PCTG replaces more than half.</p>
+<p>That extra CHDM is what changes the behaviour: PCTG is more ductile, takes impacts better and, according to makers, resists chemicals and heat slightly better. It is still an amorphous copolyester, so it prints with the same habits as PETG – no enclosure, low warping, good layer bonding.</p>
+<p><strong>What does PCTG stand for?</strong> Polycyclohexylenedimethylene terephthalate, glycol-modified. Some brands write &quot;PCTG Pro&quot; or &quot;Pro PCTG&quot;; these are brand names, not separate materials.</p>
+<h2>PCTG vs PETG</h2>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>PETG</th>
+<th>PCTG</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>CHDM share of the glycol</td>
+<td>Less than half</td>
+<td>More than half</td>
+</tr>
+<tr>
+<td>Nozzle temperature</td>
+<td>About 230–250 °C (Bambu Lab lists 240–270 °C for its PETG)</td>
+<td>About 250–270 °C (3D-Fuel up to 280 °C)</td>
+</tr>
+<tr>
+<td>Bed</td>
+<td>About 70–90 °C</td>
+<td>60–110 °C depending on maker</td>
+</tr>
+<tr>
+<td>Impact toughness</td>
+<td>Good</td>
+<td>Makers claim far higher: &quot;8–12×&quot; (3D-Fuel), &quot;up to 20×&quot; (Fiberlogy)</td>
+</tr>
+<tr>
+<td>Ductility</td>
+<td>Bends, then can crack</td>
+<td>Bends further before breaking; Spectrum lists 220 % elongation at break</td>
+</tr>
+<tr>
+<td>Heat resistance</td>
+<td>Glass transition about 80 °C</td>
+<td>3D-Fuel says about 5–15 °C higher than typical PETG</td>
+</tr>
+<tr>
+<td>Clarity (clear colours)</td>
+<td>Good</td>
+<td>Spectrum says higher than standard PETG</td>
+</tr>
+<tr>
+<td>Chemical / UV resistance</td>
+<td>Good</td>
+<td>Makers claim better</td>
+</tr>
+<tr>
+<td>Ease of printing</td>
+<td>Easy</td>
+<td>Easy; slightly hotter, less cooling</td>
+</tr>
+</tbody></table>
+<p>The impact claims are the makers&#39; own marketing figures, so treat the multipliers with care. An independent comparison summarised by Hackaday in 2026 – tests by the My Tech Fun channel on transparent PETG and PCTG from the same maker – found PCTG more flexible and ductile, much more impact-resistant and better at holding up to heat, while needing higher print temperatures, closer to ASA presets.</p>
+<p><strong>Tip:</strong> if your PETG parts crack at snap-fits, screw bosses or on impact, PCTG is the obvious thing to try first. If they fail by softening in heat, compare with <a href="/blog/asa-filament/">ASA filament</a> too. Our <a href="/blog/petg-filament/">PETG filament guide</a> covers the material PCTG is replacing.</p>
+<h2>PCTG filament print settings from makers&#39; data sheets</h2>
+<table>
+<thead>
+<tr>
+<th>Setting</th>
+<th>3D-Fuel Pro PCTG</th>
+<th>Fiberlogy PCTG</th>
+<th>Spectrum PCTG Premium</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Nozzle</td>
+<td>250–280 °C</td>
+<td>250–270 °C</td>
+<td>250–270 °C</td>
+</tr>
+<tr>
+<td>Bed</td>
+<td>80 °C, textured PEI, no glue</td>
+<td>90–110 °C, tape, PVA glue or hairspray</td>
+<td>60–100 °C</td>
+</tr>
+<tr>
+<td>Part cooling</td>
+<td>As low as possible</td>
+<td>0–25 %</td>
+<td>Up to 100 %</td>
+</tr>
+<tr>
+<td>Speed</td>
+<td>Outer walls ≤ 100 mm/s (50 mm/s for best finish)</td>
+<td>Under 100 mm/s</td>
+<td>40–110 mm/s</td>
+</tr>
+<tr>
+<td>Retraction</td>
+<td>Calibrate; retract in infill too (Bambu profiles)</td>
+<td>1–2 mm direct, 4–6 mm Bowden</td>
+<td>–</td>
+</tr>
+<tr>
+<td>Enclosure</td>
+<td>Not required</td>
+<td>Not required</td>
+<td>Not required</td>
+</tr>
+<tr>
+<td>Drying</td>
+<td>70 °C, 6–8 h when needed</td>
+<td>60 °C, 4 h</td>
+<td>No drying procedure given</td>
+</tr>
+</tbody></table>
+<p>The ranges overlap: a 260 °C nozzle and an 80 °C bed sit inside all three. Spectrum&#39;s sheet also confirms that plain PCTG needs no hardened or ruby nozzle.</p>
+<p>A few extra points from 3D-Fuel&#39;s profile notes:</p>
+<ul>
+<li><strong>Calibrate pressure advance</strong> (linear advance) for PCTG; do not reuse a PETG value.</li>
+<li><strong>Avoid grid infill</strong> – 3D-Fuel says it can make PCTG build up on the nozzle; use gyroid or cubic.</li>
+<li><strong>Do not share a nozzle with PLA.</strong> PLA residue can coat the PCTG and weaken layer bonding. Purge well or clean the nozzle when switching.</li>
+<li><strong>Lower cooling helps layer bonding.</strong> 3D-Fuel reduced fan speeds in its later profiles for this reason.</li>
+</ul>
+<p><strong>Tip:</strong> start in the middle of the overlap – 260 °C, 80 °C bed on textured PEI, low fan, outer walls at 50 mm/s – then print a temperature tower and adjust in 5 °C steps.</p>
+<h2>Bed adhesion: PCTG sticks very hard</h2>
+<p>The most common PCTG problem is not poor adhesion but too much. Fiberlogy warns not to print directly on the bare bed or glass because the bond can damage the surface, and recommends masking tape. 3D-Fuel recommends textured PEI and warns against smooth PEI, where parts stick too well.</p>
+<ul>
+<li><strong>Textured PEI:</strong> the usual choice; let the plate cool fully before removing parts.</li>
+<li><strong>Smooth PEI or glass:</strong> use a release layer – glue stick, PVA glue or tape.</li>
+<li><strong>Do not over-squash</strong> the first layer; it makes the bond even stronger.</li>
+</ul>
+<h2>Clear PCTG prints</h2>
+<p>Clarity is one of PCTG&#39;s selling points: Spectrum says its transparent colours are clearer than standard PETG, and Fiberlogy lists high optical transparency. Printed parts will never be glass-clear, because every layer line and infill wall scatters light. Practical ways to get the clearest result:</p>
+<ul>
+<li>Use a transparent colour and print hollow or with 100 % infill rather than a sparse pattern.</li>
+<li>Keep walls few and thick, or print in vase mode for shades and covers.</li>
+<li>Print slower and slightly hotter so lines fuse fully, with low cooling.</li>
+<li>Dry the spool – moisture bubbles turn clear prints cloudy.</li>
+</ul>
+<p>These are general techniques for clear copolyesters; makers do not publish clarity figures for printed parts.</p>
+<h2>Strength and heat resistance in numbers</h2>
+<p>Few makers publish full data, and test methods differ, so compare carefully:</p>
+<table>
+<thead>
+<tr>
+<th>Property</th>
+<th>Spectrum PCTG Premium</th>
+<th>Push Plastic PCTG</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Tensile strength (yield)</td>
+<td>44 MPa</td>
+<td>35.9 MPa</td>
+</tr>
+<tr>
+<td>Elongation at break</td>
+<td>220 %</td>
+<td>4.8 %</td>
+</tr>
+<tr>
+<td>Flexural modulus</td>
+<td>1600 MPa</td>
+<td>1722 MPa</td>
+</tr>
+<tr>
+<td>Heat deflection</td>
+<td>64 °C at 1.82 MPa / 76 °C at 0.455 MPa (ISO 75)</td>
+<td>108 °C (ASTM D648)</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>1.23 g/cm³</td>
+<td>1.21 g/cm³</td>
+</tr>
+</tbody></table>
+<p>The large gaps – especially elongation and heat deflection – come from different test standards, specimens and loads, not necessarily different plastics. Spectrum notes its values are for comparison only. Use one maker&#39;s sheet for one decision, and test your own part.</p>
+<p><strong>Why it matters:</strong> no maker sells PCTG as a stiffer plastic – the flexural modulus on these sheets is 1600–1722 MPa, well below fibre-filled grades. What it adds is toughness: parts bend and absorb hits instead of cracking.</p>
+<h2>Drying and storing PCTG</h2>
+<p>Copolyesters absorb moisture from the air, and wet PCTG strings, bubbles and loses clarity. Fiberlogy gives 60 °C for 4 hours; 3D-Fuel gives 70 °C for 6–8 hours when needed, followed by sealed storage with desiccant. Both temperatures are within the range of most filament dryers. Our guide on <a href="/blog/how-to-dry-filament/">how to dry filament</a> covers dryers, ovens and storage.</p>
+<h2>What PCTG is used for</h2>
+<p>Makers and independent tests point to the same jobs:</p>
+<ul>
+<li><strong>Impact parts:</strong> clips, snap-fits, protective covers, tool holders, RC and drone parts.</li>
+<li><strong>Enclosures and cases:</strong> electronics housings, chemical-resistant boxes (3D-Fuel lists resistance to alcohols, fuels, oils, bleach and degreasers).</li>
+<li><strong>Jigs and fixtures:</strong> shop tooling that gets dropped and clamped.</li>
+<li><strong>Automotive parts:</strong> brackets and interior trim, within its heat limit.</li>
+<li><strong>Clear parts:</strong> lamp shades, light covers, bottle cages, display boxes.</li>
+<li><strong>Springs and compliant mechanisms:</strong> Hackaday&#39;s summary suggests PCTG&#39;s ductility suits them.</li>
+</ul>
+<p><strong>Food contact:</strong> Fiberlogy says its PCTG material is suitable for food contact. A printed part is still porous at the layer lines; see our guide on <a href="/blog/is-pla-food-safe/">whether PLA is food safe</a> – the same limits apply to PCTG prints.</p>
+<h2>How to print PCTG – checklist</h2>
+<ol>
+<li><strong>Read the label</strong> and the maker&#39;s data sheet; ranges vary by brand.</li>
+<li><strong>Dry the spool</strong> at 60–70 °C if it has been open.</li>
+<li><strong>Prepare the bed:</strong> textured PEI, or a release layer on smooth PEI or glass.</li>
+<li><strong>Load a PCTG profile</strong> from the maker, or start from PETG and raise the nozzle to about 260 °C.</li>
+<li><strong>Lower part cooling</strong> below your PETG value.</li>
+<li><strong>Slow outer walls</strong> to about 50 mm/s for a clean surface.</li>
+<li><strong>Calibrate pressure advance and flow</strong> for PCTG specifically.</li>
+<li><strong>Switch grid infill</strong> to gyroid or cubic.</li>
+<li><strong>Print a temperature tower</strong> and a small functional test part.</li>
+<li><strong>Let the bed cool</strong> before removing the print.</li>
+</ol>
+<h2>Verdict</h2>
+<p>PCTG filament is PETG with more toughness: the same easy, enclosure-free printing at about 10–20 °C more nozzle heat, with parts that bend instead of crack and clear colours that look a little cleaner. It is not stiffer and not dramatically more heat-resistant than PETG, and its very strong bond to smooth build plates needs a textured plate or a release layer. For snap-fits, impact parts, cases and clear covers it is a sensible upgrade; for stiffness choose a fibre-filled grade, and for outdoor heat compare ASA.</p>
+26:["$","div",null,{"className":"split","children":[["$","article",null,{"className":"prose","children":[["$","h1",null,{"children":"PCTG filament – what it is, how it differs from PETG and how to print it"}],["$","figure",null,{"className":"doc-hero","children":["$","img",null,{"src":"/images/blog/pctg-filament.webp","alt":"Illustration of a crystal-clear printed bottle cage and transparent lamp shade beside a clear spool on a textured build plate","width":1200,"height":675,"fetchPriority":"high","decoding":"async"}]}],["$","p",null,{"className":"muted small","children":["Updated ","November 26, 2026"]}],["$","div",null,{"className":"summary-box","children":[["$","b",null,{"children":"Key points"}],["$","ul",null,{"children":[["$","li","PCTG is a glycol-modified copolyester from the same family as PETG, in which more than half of the glycol is replaced by CHDM, making it tougher and more ductile.",{"children":"PCTG is a glycol-modified copolyester from the same family as PETG, in which more than half of the glycol is replaced by CHDM, making it tougher and more ductile."}],["$","li","Makers' data sheets put PCTG at about 250–280 °C at the nozzle, roughly 10–20 °C hotter than typical PETG, with a 60–110 °C bed and low part cooling.",{"children":"Makers' data sheets put PCTG at about 250–280 °C at the nozzle, roughly 10–20 °C hotter than typical PETG, with a 60–110 °C bed and low part cooling."}],["$","li","Makers market PCTG for much higher impact toughness than PETG, good clarity in transparent colours and better chemical resistance, but it bonds very strongly to smooth build plates.",{"children":"Makers market PCTG for much higher impact toughness than PETG, good clarity in transparent colours and better chemical resistance, but it bonds very strongly to smooth build plates."}]]}]]}],null,["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$28"}}]]}],"$L29"]}]
+27:["$","section",null,{"className":"section faq","aria-labelledby":"faq-h","children":[["$","h2",null,{"id":"faq-h","children":"Questions and answers"}],["$","div",null,{"className":"faq-list","children":[["$","details","What is PCTG filament good for?",{"children":[["$","summary",null,{"children":"What is PCTG filament good for?"}],["$","p",null,{"children":"Functional parts that take knocks or flex – clips, enclosures, brackets, jigs, RC and drone parts, automotive interior parts – and clear prints such as covers, lamp shades and containers. Makers list good chemical resistance, so it also suits cases and housings that meet oils, alcohol or cleaners."}]]}],["$","details","What's the difference between PETG and PCTG?",{"children":[["$","summary",null,{"children":"What's the difference between PETG and PCTG?"}],["$","p",null,{"children":"Both are glycol-modified copolyesters. In PETG less than half of the glycol is replaced by CHDM; in PCTG more than half is. That makes PCTG more ductile and impact-resistant, and makers claim slightly better heat and chemical resistance. PCTG prints a little hotter and with less cooling."}]]}],["$","details","Is PCTG filament hard to print?",{"children":[["$","summary",null,{"children":"Is PCTG filament hard to print?"}],["$","p",null,{"children":"No harder than PETG on most printers. It needs a hot end that reaches about 260–270 °C, a heated bed and a textured PEI plate or a release layer, because it sticks very hard to smooth PEI and glass. No enclosure or hardened nozzle is needed for plain PCTG."}]]}],["$","details","Is PCTG food safe?",{"children":[["$","summary",null,{"children":"Is PCTG food safe?"}],["$","p",null,{"children":"Some makers, such as Fiberlogy, describe their PCTG as suitable for food contact. A printed part is a different matter – layer lines trap bacteria and the nozzle and printer parts can contaminate it – so treat printed PCTG like any other printed plastic and seal or avoid it for food use."}]]}]]}]]}]
+29:["$","aside",null,{"className":"aside","children":[["$","div",null,{"className":"facts","children":[["$","b",null,{"children":"Tools for this"}],["$","div",null,{"className":"tool-grid","style":{"marginTop":10,"gridTemplateColumns":"1fr"},"children":[["$","$L4","stl-viewer",{"className":"tool-link","href":"/stl-viewer/","children":"STL viewer"}],["$","$L4","3mf-viewer",{"className":"tool-link","href":"/3mf-viewer/","children":"3MF viewer"}],["$","$L4","stl-to-3mf",{"className":"tool-link","href":"/stl-to-3mf/","children":"STL to 3MF converter"}]]}]]}],["$","div",null,{"className":"facts","children":[["$","b",null,{"children":"Open or convert a model"}],["$","p",null,{"className":"small","style":{"margin":"6px 0 10px"},"children":"View STL, 3MF, STEP and more in your browser."}],["$","$L4",null,{"className":"btn btn-accent","href":"/3d-viewer/","children":"3D viewer"}]]}]]}]
+20:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#10151C"}]]
+1c:null
+2a:I[622,[],"IconMark"]
+1e:{"metadata":[["$","title","0",{"children":"PCTG Filament – What It Is, PCTG vs PETG, Settings | my3dprinter.io"}],["$","meta","1",{"name":"description","content":"PCTG filament explained – what the copolyester is, how it compares with PETG, makers' nozzle, bed, cooling and drying settings, clear prints and best uses."}],["$","meta","2",{"name":"application-name","content":"my3dprinter.io"}],["$","link","3",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","4",{"name":"robots","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","5",{"rel":"canonical","href":"https://my3dprinter.io/blog/pctg-filament/"}],["$","meta","6",{"name":"format-detection","content":"telephone=no"}],["$","meta","7",{"property":"og:title","content":"PCTG Filament – What It Is, PCTG vs PETG, Settings | my3dprinter.io"}],["$","meta","8",{"property":"og:description","content":"PCTG filament explained – what the copolyester is, how it compares with PETG, makers' nozzle, bed, cooling and drying settings, clear prints and best uses."}],["$","meta","9",{"property":"og:url","content":"https://my3dprinter.io/blog/pctg-filament/"}],["$","meta","10",{"property":"og:site_name","content":"my3dprinter.io"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:image","content":"https://my3dprinter.io/images/blog/pctg-filament.webp"}],["$","meta","13",{"property":"og:image:width","content":"1200"}],["$","meta","14",{"property":"og:image:height","content":"675"}],["$","meta","15",{"property":"og:image:alt","content":"PCTG Filament – What It Is, PCTG vs PETG, Settings"}],["$","meta","16",{"property":"og:type","content":"article"}],["$","meta","17",{"property":"article:published_time","content":"2026-11-26"}],["$","meta","18",{"property":"article:modified_time","content":"2026-11-26"}],["$","meta","19",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","20",{"name":"twitter:title","content":"PCTG Filament – What It Is, PCTG vs PETG, Settings | my3dprinter.io"}],["$","meta","21",{"name":"twitter:description","content":"PCTG filament explained – what the copolyester is, how it compares with PETG, makers' nozzle, bed, cooling and drying settings, clear prints and best uses."}],["$","meta","22",{"name":"twitter:image","content":"https://my3dprinter.io/images/blog/pctg-filament.webp"}],["$","link","23",{"rel":"icon","href":"/favicon.ico","sizes":"48x48"}],["$","link","24",{"rel":"icon","href":"/icon.svg","type":"image/svg+xml"}],["$","link","25",{"rel":"icon","href":"/icon-192.png","sizes":"192x192","type":"image/png"}],["$","link","26",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","sizes":"180x180"}],["$","$L2a","27",{}]],"error":null,"digest":"$undefined"}
+23:"$1e:metadata"

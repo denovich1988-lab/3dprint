@@ -1,0 +1,259 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+4:I[2619,["2619","static/chunks/2619-3c9e02e22d10480a.js","4966","static/chunks/app/(en)/blog/%5Bslug%5D/page-6f60855278aa4f75.js"],""]
+5:I[1538,["2619","static/chunks/2619-3c9e02e22d10480a.js","90","static/chunks/app/(en)/layout-1d0e45a00e968cb3.js"],"default"]
+6:I[909,["2619","static/chunks/2619-3c9e02e22d10480a.js","90","static/chunks/app/(en)/layout-1d0e45a00e968cb3.js"],"default"]
+15:I[7150,[],""]
+:HL["/_next/static/css/93d1a12f2f4c9226.css","style"]
+0:{"P":null,"b":"rD7TGm9XF6FHQRkd5YG22","p":"","c":["","blog","3d-print-not-sticking-to-bed",""],"i":false,"f":[[["",{"children":["(en)",{"children":["blog",{"children":[["slug","3d-print-not-sticking-to-bed","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/93d1a12f2f4c9226.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","script",null,{"async":true,"src":"https://www.googletagmanager.com/gtm.js?id=GTM-T7SN8RQX"}],["$","script",null,{"async":true,"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3226858004021254","crossOrigin":"anonymous"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());"}}]]}],["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"wrap header-in","children":[["$","$L4",null,{"href":"/","className":"brand","aria-label":"my3dprinter.io home","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","nav",null,{"aria-label":"Main","className":"nav","children":[["$","$L4","/converters/",{"href":"/converters/","children":"Converters"}],["$","$L4","/3d-viewer/",{"href":"/3d-viewer/","children":"3D viewer"}],["$","$L4","/image-to-stl/",{"href":"/image-to-stl/","children":"Image to STL"}],["$","$L4","/printers/",{"href":"/printers/","children":"Printers"}],["$","$L4","/blog/",{"href":"/blog/","children":"Blog"}]]}],["$","div",null,{"className":"header-actions","children":[["$","$L5",null,{"lang":"en","langs":[{"code":"en","name":"English"},{"code":"de","name":"Deutsch"},{"code":"es","name":"Español"},{"code":"fr","name":"Français"},{"code":"it","name":"Italiano"},{"code":"ja","name":"日本語"},{"code":"ko","name":"한국어"},{"code":"pt","name":"Português"},{"code":"vi","name":"Tiếng Việt"},{"code":"th","name":"ไทย"},{"code":"zh","name":"简体中文"},{"code":"ru","name":"Русский"}],"localized":["/","/converters/","/3mf-to-stl/","/glb-to-stl/","/stl-to-3mf/","/step-to-stl/","/glb-to-obj/","/obj-to-stl/","/stl-to-obj/","/fbx-to-obj/","/gcode-to-stl/","/fbx-to-stl/","/zip-to-stl/","/stp-to-stl/","/dae-to-obj/","/gltf-to-obj/","/stl-to-dxf/","/obj-to-glb/","/gltf-to-stl/","/fbx-to-glb/","/ply-to-stl/","/3mf-to-obj/","/dae-to-stl/","/usdz-to-stl/","/ply-to-obj/","/stp-to-obj/","/3ds-to-obj/","/igs-to-stl/","/stl-to-glb/","/obj-to-3mf/","/glb-to-3mf/","/stl-to-usdz/","/glb-to-usdz/","/step-to-obj/","/step-to-3mf/","/stl-to-ply/","/fbx-to-gltf/","/image-to-stl/","/png-to-stl/","/jpg-to-stl/","/jpeg-to-stl/","/lithophane-maker/","/png-to-obj/","/png-to-3mf/","/svg-to-stl/","/svg-to-obj/","/png-to-dds/","/jpg-to-dds/","/dds-to-png/","/dds-to-jpg/","/3d-viewer/","/stl-viewer/","/3mf-viewer/","/obj-viewer/","/glb-viewer/","/step-viewer/","/ply-viewer/","/fbx-viewer/","/gltf-viewer/"],"label":"Language"}],["$","$L6",null,{"links":[["/converters/","Converters"],["/3d-viewer/","3D viewer"],["/image-to-stl/","Image to STL"],["/printers/","Printers"],["/blog/","Blog"],["/printers/compare/","Compare printers"]],"label":"Menu"}]]}]]}]}],["$","main",null,{"id":"main","className":"wrap","style":{"padding":"64px 24px"},"children":[["$","h1",null,{"children":"Page not found"}],["$","p",null,{"className":"lead","children":"This page does not exist. Try a converter or the 3D viewer."}],["$","p",null,{"children":["$","$L4",null,{"className":"btn btn-accent","href":"/converters/","children":"All converters"}]}]]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"wrap footer-grid","children":[["$","div",null,{"className":"footer-brand","children":[["$","$L4",null,{"href":"/","className":"brand","children":["$L7"," ","$L8"]}],"$L9"]}],["$La","$Lb","$Lc","$Ld","$Le"]]}],"$Lf"]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["(en)","$L10",{"children":["blog","$L11",{"children":[["slug","3d-print-not-sticking-to-bed","d"],"$L12",{"children":["__PAGE__","$L13",{},null,false]},null,false]},null,false]},null,false]},null,false],"$L14",false]],"m":"$undefined","G":["$15",[]],"s":false,"S":true}
+1a:I[4431,[],"OutletBoundary"]
+1c:I[5278,[],"AsyncMetadataOutlet"]
+1e:I[4431,[],"ViewportBoundary"]
+20:I[4431,[],"MetadataBoundary"]
+21:"$Sreact.suspense"
+7:["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]
+8:["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]
+9:["$","p",null,{"children":"Free tools that run in your browser. Your files are never uploaded."}]
+a:["$","div","Converters",{"children":[["$","h2",null,{"children":"Converters"}],["$","ul",null,{"children":[["$","li","/3mf-to-stl/",{"children":["$","$L4",null,{"href":"/3mf-to-stl/","children":"3MF → STL"}]}],["$","li","/step-to-stl/",{"children":["$","$L4",null,{"href":"/step-to-stl/","children":"STEP → STL"}]}],["$","li","/glb-to-stl/",{"children":["$","$L4",null,{"href":"/glb-to-stl/","children":"GLB → STL"}]}],["$","li","/obj-to-stl/",{"children":["$","$L4",null,{"href":"/obj-to-stl/","children":"OBJ → STL"}]}],["$","li","/stl-to-3mf/",{"children":["$","$L4",null,{"href":"/stl-to-3mf/","children":"STL → 3MF"}]}],["$","li","/converters/",{"children":["$","$L4",null,{"href":"/converters/","children":"All converters"}]}]]}]]}]
+b:["$","div","Images & textures",{"children":[["$","h2",null,{"children":"Images & textures"}],["$","ul",null,{"children":[["$","li","/image-to-stl/",{"children":["$","$L4",null,{"href":"/image-to-stl/","children":"Image to STL"}]}],["$","li","/lithophane-maker/",{"children":["$","$L4",null,{"href":"/lithophane-maker/","children":"Lithophane maker"}]}],["$","li","/svg-to-stl/",{"children":["$","$L4",null,{"href":"/svg-to-stl/","children":"SVG → STL"}]}],["$","li","/png-to-dds/",{"children":["$","$L4",null,{"href":"/png-to-dds/","children":"PNG → DDS"}]}],["$","li","/dds-to-png/",{"children":["$","$L4",null,{"href":"/dds-to-png/","children":"DDS → PNG"}]}]]}]]}]
+c:["$","div","Viewers",{"children":[["$","h2",null,{"children":"Viewers"}],["$","ul",null,{"children":[["$","li","/3d-viewer/",{"children":["$","$L4",null,{"href":"/3d-viewer/","children":"Online 3D model viewer"}]}],["$","li","/stl-viewer/",{"children":["$","$L4",null,{"href":"/stl-viewer/","children":"STL viewer"}]}],["$","li","/3mf-viewer/",{"children":["$","$L4",null,{"href":"/3mf-viewer/","children":"3MF viewer"}]}],["$","li","/step-viewer/",{"children":["$","$L4",null,{"href":"/step-viewer/","children":"STEP viewer"}]}],["$","li","/obj-viewer/",{"children":["$","$L4",null,{"href":"/obj-viewer/","children":"OBJ viewer"}]}]]}]]}]
+d:["$","div","my3dprinter.io",{"children":[["$","h2",null,{"children":"my3dprinter.io"}],["$","ul",null,{"children":[["$","li","/printers/",{"children":["$","$L4",null,{"href":"/printers/","children":"3D printers"}]}],["$","li","/printers/compare/",{"children":["$","$L4",null,{"href":"/printers/compare/","children":"Compare printers"}]}],["$","li","/blog/",{"children":["$","$L4",null,{"href":"/blog/","children":"Blog"}]}],["$","li","/formats/",{"children":["$","$L4",null,{"href":"/formats/","children":"File formats"}]}],["$","li","/about/",{"children":["$","$L4",null,{"href":"/about/","children":"About"}]}],["$","li","/contact/",{"children":["$","$L4",null,{"href":"/contact/","children":"Contact"}]}]]}]]}]
+e:["$","div","Legal",{"children":[["$","h2",null,{"children":"Legal"}],["$","ul",null,{"children":[["$","li","/privacy/",{"children":["$","$L4",null,{"href":"/privacy/","children":"Privacy policy"}]}],["$","li","/cookies/",{"children":["$","$L4",null,{"href":"/cookies/","children":"Cookie policy"}]}],["$","li","/terms/",{"children":["$","$L4",null,{"href":"/terms/","children":"Terms of use"}]}],["$","li","/disclaimer/",{"children":["$","$L4",null,{"href":"/disclaimer/","children":"Disclaimer"}]}]]}]]}]
+f:["$","div",null,{"className":"wrap footer-base","children":["$","p",null,{"children":["© ",2026," my3dprinter.io. ","Brand and product names belong to their owners; my3dprinter.io is an independent site and is not affiliated with any printer maker."]}]}]
+10:["$","$1","c",{"children":[null,[["$","a",null,{"className":"skip","href":"#main","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"wrap header-in","children":[["$","$L4",null,{"href":"/","className":"brand","aria-label":"my3dprinter.io home","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","nav",null,{"aria-label":"Main","className":"nav","children":[["$","$L4","/converters/",{"href":"/converters/","children":"Converters"}],["$","$L4","/3d-viewer/",{"href":"/3d-viewer/","children":"3D viewer"}],["$","$L4","/image-to-stl/",{"href":"/image-to-stl/","children":"Image to STL"}],["$","$L4","/printers/",{"href":"/printers/","children":"Printers"}],["$","$L4","/blog/",{"href":"/blog/","children":"Blog"}]]}],["$","div",null,{"className":"header-actions","children":[["$","$L5",null,{"lang":"en","langs":[{"code":"en","name":"English"},{"code":"de","name":"Deutsch"},{"code":"es","name":"Español"},{"code":"fr","name":"Français"},{"code":"it","name":"Italiano"},{"code":"ja","name":"日本語"},{"code":"ko","name":"한국어"},{"code":"pt","name":"Português"},{"code":"vi","name":"Tiếng Việt"},{"code":"th","name":"ไทย"},{"code":"zh","name":"简体中文"},{"code":"ru","name":"Русский"}],"localized":"$0:f:0:1:1:props:children:1:props:children:1:props:children:props:notFound:0:0:props:children:props:children:2:props:children:0:props:localized","label":"Language"}],["$","$L6",null,{"links":[["/converters/","Converters"],["/3d-viewer/","3D viewer"],["/image-to-stl/","Image to STL"],["/printers/","Printers"],["/blog/","Blog"],["/printers/compare/","Compare printers"]],"label":"Menu"}]]}]]}]}],["$","main",null,{"id":"main","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"wrap footer-grid","children":[["$","div",null,{"className":"footer-brand","children":[["$","$L4",null,{"href":"/","className":"brand","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","p",null,{"children":"Free tools that run in your browser. Your files are never uploaded."}]]}],[["$","div","Converters",{"children":[["$","h2",null,{"children":"Converters"}],["$","ul",null,{"children":[["$","li","/3mf-to-stl/",{"children":["$","$L4",null,{"href":"/3mf-to-stl/","children":"3MF → STL"}]}],["$","li","/step-to-stl/",{"children":["$","$L4",null,{"href":"/step-to-stl/","children":"STEP → STL"}]}],["$","li","/glb-to-stl/",{"children":["$","$L4",null,{"href":"/glb-to-stl/","children":"GLB → STL"}]}],["$","li","/obj-to-stl/",{"children":["$","$L4",null,{"href":"/obj-to-stl/","children":"OBJ → STL"}]}],["$","li","/stl-to-3mf/",{"children":["$","$L4",null,{"href":"/stl-to-3mf/","children":"STL → 3MF"}]}],["$","li","/converters/",{"children":["$","$L4",null,{"href":"/converters/","children":"All converters"}]}]]}]]}],["$","div","Images & textures",{"children":[["$","h2",null,{"children":"Images & textures"}],["$","ul",null,{"children":[["$","li","/image-to-stl/",{"children":["$","$L4",null,{"href":"/image-to-stl/","children":"Image to STL"}]}],["$","li","/lithophane-maker/",{"children":["$","$L4",null,{"href":"/lithophane-maker/","children":"Lithophane maker"}]}],["$","li","/svg-to-stl/",{"children":["$","$L4",null,{"href":"/svg-to-stl/","children":"SVG → STL"}]}],["$","li","/png-to-dds/",{"children":["$","$L4",null,{"href":"/png-to-dds/","children":"PNG → DDS"}]}],["$","li","/dds-to-png/",{"children":["$","$L4",null,{"href":"/dds-to-png/","children":"DDS → PNG"}]}]]}]]}],["$","div","Viewers",{"children":[["$","h2",null,{"children":"Viewers"}],["$","ul",null,{"children":[["$","li","/3d-viewer/",{"children":["$","$L4",null,{"href":"/3d-viewer/","children":"Online 3D model viewer"}]}],["$","li","/stl-viewer/",{"children":["$","$L4",null,{"href":"/stl-viewer/","children":"STL viewer"}]}],["$","li","/3mf-viewer/",{"children":["$","$L4",null,{"href":"/3mf-viewer/","children":"3MF viewer"}]}],["$","li","/step-viewer/",{"children":["$","$L4",null,{"href":"/step-viewer/","children":"STEP viewer"}]}],["$","li","/obj-viewer/",{"children":["$","$L4",null,{"href":"/obj-viewer/","children":"OBJ viewer"}]}]]}]]}],"$L16","$L17"]]}],"$L18"]}]]]}]
+11:["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+12:["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+13:["$","$1","c",{"children":["$L19",null,["$","$L1a",null,{"children":["$L1b",["$","$L1c",null,{"promise":"$@1d"}]]}]]}]
+14:["$","$1","h",{"children":[null,[["$","$L1e",null,{"children":"$L1f"}],null],["$","$L20",null,{"children":["$","div",null,{"hidden":true,"children":["$","$21",null,{"fallback":null,"children":"$L22"}]}]}]]}]
+16:["$","div","my3dprinter.io",{"children":[["$","h2",null,{"children":"my3dprinter.io"}],["$","ul",null,{"children":[["$","li","/printers/",{"children":["$","$L4",null,{"href":"/printers/","children":"3D printers"}]}],["$","li","/printers/compare/",{"children":["$","$L4",null,{"href":"/printers/compare/","children":"Compare printers"}]}],["$","li","/blog/",{"children":["$","$L4",null,{"href":"/blog/","children":"Blog"}]}],["$","li","/formats/",{"children":["$","$L4",null,{"href":"/formats/","children":"File formats"}]}],["$","li","/about/",{"children":["$","$L4",null,{"href":"/about/","children":"About"}]}],["$","li","/contact/",{"children":["$","$L4",null,{"href":"/contact/","children":"Contact"}]}]]}]]}]
+17:["$","div","Legal",{"children":[["$","h2",null,{"children":"Legal"}],["$","ul",null,{"children":[["$","li","/privacy/",{"children":["$","$L4",null,{"href":"/privacy/","children":"Privacy policy"}]}],["$","li","/cookies/",{"children":["$","$L4",null,{"href":"/cookies/","children":"Cookie policy"}]}],["$","li","/terms/",{"children":["$","$L4",null,{"href":"/terms/","children":"Terms of use"}]}],["$","li","/disclaimer/",{"children":["$","$L4",null,{"href":"/disclaimer/","children":"Disclaimer"}]}]]}]]}]
+18:["$","div",null,{"className":"wrap footer-base","children":["$","p",null,{"children":["© ",2026," my3dprinter.io. ","Brand and product names belong to their owners; my3dprinter.io is an independent site and is not affiliated with any printer maker."]}]}]
+23:Tebf,{"@context":"https://schema.org","@graph":[{"@type":"Article","headline":"3D print not sticking to bed – causes and fixes in the right order","description":"3D print not sticking to bed? Find the cause from the first layer, then fix it in order – cleaning, Z offset, leveling, bed temperature, cooling and glue.","datePublished":"2026-11-27","dateModified":"2026-11-27","mainEntityOfPage":"https://my3dprinter.io/blog/3d-print-not-sticking-to-bed/","inLanguage":"en","author":{"@type":"Organization","name":"my3dprinter.io","url":"https://my3dprinter.io"},"publisher":{"@type":"Organization","@id":"https://my3dprinter.io/#organization","name":"my3dprinter.io","url":"https://my3dprinter.io/","logo":{"@type":"ImageObject","url":"https://my3dprinter.io/icon-512.png","width":512,"height":512},"email":"hello@my3dprinter.io","description":"Free 3D file converters, viewers and 3D printer guides"},"image":"https://my3dprinter.io/images/blog/3d-print-not-sticking-to-bed.webp","citation":["https://help.prusa3d.com/en/article/first-layer-issues_1804","https://help.prusa3d.com/article/6Gtws6Yqjg-pei-print-surface-preparation","https://help.prusa3d.com/en/article/pla_2062","https://help.prusa3d.com/en/article/petg_2059","https://help.prusa3d.com/en/article/abs_2058","https://wiki.bambulab.com/en/knowledge-sharing/first-layer-not-sticking","https://wiki.bambulab.com/en/general/textured-PEI-plate-not-working-as-expected","https://wiki.bambulab.com/en/filament-acc/acc/pei-plate-clean-guide","https://wiki.bambulab.com/en/filament-acc/acc/plates","https://wiki.bambulab.com/en/knowledge-sharing/identify-and-fix-first-layer-issues-with-a-test-print","https://www.creality.com/blog/3d-printer-bed-adhesion","https://www.simplify3d.com/resources/print-quality-troubleshooting/not-sticking-to-the-bed/","https://qidi3d.com/blogs/news/3d-print-not-sticking-to-bed-guide"]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://my3dprinter.io/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://my3dprinter.io/blog/"},{"@type":"ListItem","position":3,"name":"3D print not sticking to bed – causes and fixes in the right order","item":"https://my3dprinter.io/blog/3d-print-not-sticking-to-bed/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Why is my 3D print not sticking to the bed even after auto bed leveling?","acceptedAnswer":{"@type":"Answer","text":"Auto leveling maps the bed shape, but it does not clean the plate or set the right first-layer squish. Check for fingerprints or grease first, then the Z offset or Live Z, then that the plate type and bed temperature in the slicer match the plate you are actually using."}},{"@type":"Question","name":"How do I get PLA to stick to the bed better?","acceptedAnswer":{"@type":"Answer","text":"Wash or degrease the plate, lower the nozzle slightly so the first layer is pressed into the surface, and use the bed temperature for your plate – Prusa uses 60 °C for PLA, and Bambu Lab suggests about 55–65 °C on its textured PEI plate. Slow the first layer and keep the part fan off for it."}},{"@type":"Question","name":"Does increasing bed temperature help adhesion?","acceptedAnswer":{"@type":"Answer","text":"Often a little. Prusa suggests raising the bed by 5–10 °C for materials that do not adhere well. Going too high can cause elephant foot and, with PLA, softening near the bed, so change it in small steps."}},{"@type":"Question","name":"Should I use glue stick for PETG?","acceptedAnswer":{"@type":"Answer","text":"On smooth PEI, yes – Prusa and Bambu Lab both say to apply glue stick before printing PETG so the part does not bond too strongly and damage the sheet. On textured PEI it is usually not needed."}}]}]}19:["$","div",null,{"className":"wrap","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$23"}}],"$L24","$L25","$L26"]}]
+24:["$","nav",null,{"className":"crumbs","aria-label":"Breadcrumb","children":[["$","$L4",null,{"href":"/","children":"Home"}]," / ",["$","$L4",null,{"href":"/blog/","children":"Blog"}]," / ","3D print not sticking to bed – causes and fixes in the right order"]}]
+27:T3f40,<p><strong>A 3D print not sticking to the bed is almost always caused by one of five things: a greasy build plate, a nozzle that sits too far from the bed, an uneven or out-of-date bed level, the wrong bed temperature or plate setting for the material, or a first layer that is printed too fast or cooled too hard.</strong> Work through them in that order – the cheapest, most common fixes first – and most adhesion problems are solved before you need glue, a brim or a raft. This guide shows how to read the symptom, the likely causes, the fixes in order, and how to stop it happening again. The cleaning methods, temperatures and plate advice come from the Prusa Knowledge Base, the Bambu Lab Wiki and Creality&#39;s own adhesion guide, with first-layer slicer settings from Simplify3D&#39;s troubleshooting guide, all checked November 2026. We have not run our own tests; your printer maker&#39;s guidance comes first.</p>
+<h2>3D printer bed adhesion at a glance</h2>
+<table>
+<thead>
+<tr>
+<th>Symptom</th>
+<th>Most likely cause</th>
+<th>Fix first</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Filament comes out as round strands and drags around</td>
+<td>Nozzle too high or dirty plate</td>
+<td>Clean plate, lower Z offset / Live Z</td>
+</tr>
+<tr>
+<td>Thin, see-through first layer, nozzle scrapes</td>
+<td>Nozzle too low</td>
+<td>Raise Z offset slightly</td>
+</tr>
+<tr>
+<td>Sticks in one area, fails in another</td>
+<td>Uneven bed or old leveling data</td>
+<td>Re-run bed leveling, check plate is seated</td>
+</tr>
+<tr>
+<td>Print sticks, then corners lift after a few layers</td>
+<td>Warping: cooling, drafts, bed too cool</td>
+<td>Fan off for first layers, brim, enclosure</td>
+</tr>
+<tr>
+<td>Was fine for months, now nothing sticks</td>
+<td>Oils and residue on the plate</td>
+<td>Wash with warm water and dish soap</td>
+</tr>
+<tr>
+<td>Sticks only on one plate type</td>
+<td>Slicer plate setting does not match</td>
+<td>Select the plate you are actually using</td>
+</tr>
+<tr>
+<td>PETG will not come off, sheet damaged</td>
+<td>Adhesion too strong on smooth PEI</td>
+<td>Glue stick as separator, textured plate</td>
+</tr>
+</tbody></table>
+<h2>Why is my 3D print not sticking to the bed? Read the first layer</h2>
+<p>Before changing settings, look at the first layer – it tells you which fix to try.</p>
+<ul>
+<li><strong>Round, separate lines that you can lift with a fingernail.</strong> The nozzle is too far from the bed or the plate is greasy. The plastic is laid on top of the surface instead of being pressed into it.</li>
+<li><strong>Lines that are flat but have gaps between them.</strong> Slightly too high, or under-extrusion.</li>
+<li><strong>Very thin, transparent or ridged lines, or little or no plastic coming out.</strong> The nozzle is too close. Prusa notes that if almost nothing comes out for the first layer or two, the nozzle is likely too low.</li>
+<li><strong>Good in the middle, poor in one corner.</strong> Leveling or a plate that is not seated flat.</li>
+<li><strong>First layer is fine, but the corners curl up later.</strong> That is warping, not a first-layer problem. Cooling, drafts and bed temperature are the suspects.</li>
+</ul>
+<p><strong>Tip:</strong> use a single-layer test print – the Bambu Lab Wiki and Prusa&#39;s first-layer calibration both offer one – instead of risking a long print.</p>
+<h2>Fix 1: clean the build plate (dish soap or IPA)</h2>
+<p>Grease from fingers is the most common cause of 3D printer filament not sticking to the bed, especially when a plate that used to work suddenly stops. Both Bambu Lab and Prusa put cleaning near the top of their troubleshooting lists, but they recommend slightly different methods depending on the surface:</p>
+<table>
+<thead>
+<tr>
+<th>Plate</th>
+<th>Recommended cleaning</th>
+<th>Avoid</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Prusa smooth PEI</td>
+<td>90%+ IPA; warm (not hot) water and a few drops of dish soap when adhesion drops; acetone about once a month</td>
+<td>Acetone too often (makes PEI brittle); acetone before PETG</td>
+</tr>
+<tr>
+<td>Prusa textured or satin powder-coated</td>
+<td>90%+ IPA</td>
+<td>Acetone of any kind</td>
+</tr>
+<tr>
+<td>Bambu Lab textured PEI</td>
+<td>Warm water and dish detergent, scrubbed into the texture with a sponge or brush, dried with a paper towel</td>
+<td>Alcohol, which Bambu Lab says can spread oils around the textured surface</td>
+</tr>
+</tbody></table>
+<p>Prusa says dish soap removes oils and sugars that IPA may leave, plus old glue stick. Dry the plate fully.</p>
+<p><strong>Why it matters:</strong> after cleaning, handle the plate only by its edges. Bambu Lab specifically warns that skin oils show up as poor adhesion in the first layer.</p>
+<h2>Fix 2: set the Z offset or Live Z (nozzle height)</h2>
+<p>Once the plate is clean, the first-layer height is the next thing to check. The nozzle should press the first layer slightly into the surface so the lines are flat and touch each other. Creality&#39;s adhesion guide sums it up: too high and the filament will not stick, too low and it gets squashed.</p>
+<ul>
+<li><strong>Prusa i3 printers</strong> (MK2/MK3 series and MK3.5): use First layer calibration under LCD Menu → Calibration, and Live Adjust Z while printing.</li>
+<li><strong>Printers with a load cell or automatic Z</strong> (newer Prusa, Bambu Lab, many Creality K-series): the printer probes the nozzle height itself, but Prusa notes you should check that the nozzle sits correctly and that nothing pulls on the filament during probing.</li>
+<li><strong>Manual Z offset</strong> (many Ender-style printers): change it in small steps; Simplify3D&#39;s guide uses -0.05 mm as an example step.</li>
+</ul>
+<p><strong>Textured plates need a different offset.</strong> Bambu Lab notes its textured PEI plate uses a different Z offset, and Prusa says a powder-coated sheet needs the nozzle a little lower for PLA so the plastic fills the texture – but not so low that it damages the sheet.</p>
+<h2>Fix 3: level the bed and check the plate</h2>
+<p>If one area sticks and another does not, the bed level or the plate is the problem.</p>
+<ol>
+<li><strong>Clean the nozzle tip first.</strong> Bambu Lab recommends removing debris from the nozzle before running bed leveling, because blobs on the tip affect probing. Our guide on <a href="/blog/how-to-clean-a-3d-printer-nozzle/">how to clean a 3D printer nozzle</a> covers this.</li>
+<li><strong>Re-run bed leveling.</strong> Bambu Lab says older leveling data can become inaccurate and recommends keeping the bed leveling option turned on when you start a print.</li>
+<li><strong>Check the sheet is seated.</strong> Prusa lists a bent or damaged sheet, or a bit of leftover filament under it, as causes of an uneven first layer.</li>
+<li><strong>Fix a dip permanently.</strong> Prusa offers Bed Level Correction for a permanent fix on its printers.</li>
+</ol>
+<h2>Fix 4: use the right bed temperature and plate setting</h2>
+<p>Adhesion depends on the material, the bed temperature and the plate. Starting values from the makers:</p>
+<table>
+<thead>
+<tr>
+<th>Material</th>
+<th>Bed temperature (maker guidance)</th>
+<th>Plate notes</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>PLA</td>
+<td>60 °C (Prusa); about 55–65 °C on Bambu Lab textured PEI; about 35 °C on Bambu Lab Cool Plate; 50–70 °C (Creality)</td>
+<td>Smooth or satin PEI works well; Bambu Lab Cool Plate needs glue</td>
+</tr>
+<tr>
+<td>PETG</td>
+<td>85 °C first layer, 90 °C after (Prusa); 70–90 °C (Creality)</td>
+<td>Textured or satin sheet; glue stick on smooth PEI</td>
+</tr>
+<tr>
+<td>ABS</td>
+<td>100 °C recommended, 80–110 °C range (Prusa)</td>
+<td>PEI with glue stick; enclosure</td>
+</tr>
+</tbody></table>
+<p><strong>Match the plate in the slicer.</strong> Bambu Lab&#39;s wiki says slicing for one plate and printing on another – for example Cool Plate versus Textured PEI – often causes the model not to stick, because the slicer changes the bed temperature for each plate.</p>
+<p><strong>If it still does not grip,</strong> Prusa suggests raising the bed by 5–10 °C for materials that do not adhere well. Bambu Lab warns that a bed that is too hot can cause elephant foot and clogging with PLA and PETG, so do not keep going up.</p>
+<p>For full material settings, see our <a href="/blog/pla-filament/">PLA filament guide</a> and <a href="/blog/petg-filament/">PETG filament guide</a>.</p>
+<h2>Fix 5: slow down the first layer and cut cooling</h2>
+<p>A slow first layer gives the hot plastic more time to bond to the plate. Prusa recommends lowering the speed to about 75% for the first three layers if prints come loose, and Simplify3D&#39;s example sets the first layer to 50% of the normal print speed.</p>
+<p>Bambu Lab adds a slicer trick for stubborn cases on its textured plate: a first layer with a 0.5 mm line width and a 0.25 mm layer height, which lays down a wider, thicker base. Creality similarly mentions a slightly thicker first layer or a little more first-layer flow.</p>
+<p><strong>Tip:</strong> maker profiles already slow the first layer, so check a custom profile has not overridden it.</p>
+<p>Part cooling helps detail on upper layers, but on the first layers it shrinks the plastic before it has bonded.</p>
+<ul>
+<li><strong>First layers:</strong> Simplify3D&#39;s example uses 0% fan on layer 1, ramping to 100% by layer 5. Prusa&#39;s PETG guide suggests the fan off for the first few layers, then around half power.</li>
+<li><strong>ABS:</strong> Simplify3D suggests leaving the fan off; Prusa recommends an enclosure, or PrusaSlicer&#39;s draft shield if you have none, and warns against drafts around the print.</li>
+<li><strong>Room drafts:</strong> Creality points to open windows and fans as a common reason corners lift.</li>
+</ul>
+<p><strong>Tip:</strong> if corners lift only on large, flat parts, an enclosure often solves what slicer settings cannot. Our <a href="/blog/3d-printer-enclosure/">3D printer enclosure guide</a> explains which materials need one.</p>
+<h2>Fix 6: add a brim, raft or glue stick</h2>
+<p>If the first layer is good but a part has a small footprint or sharp corners, give it more contact area. Prusa suggests enabling a brim in PrusaSlicer before reaching for other adhesion aids, and Bambu Lab recommends a brim for small objects that tend to detach.</p>
+<p>A <strong>brim</strong> adds loops around the base that trim off easily; a <strong>raft</strong> prints a full base under the part, which holds better but uses more filament and leaves a rougher bottom. Simplify3D treats both as a last step after leveling, height, speed and temperature are right.</p>
+<p>If the material and plate need it, a thin layer of glue stick is the standard adhesion aid – never superglue, which Prusa warns against.</p>
+<ul>
+<li><strong>Prusa:</strong> a basic PVA glue stick is enough. It is generally not needed for PLA on PEI, but advisable for PETG, nylon, PC, ABS, ASA and flexible filaments. Remove it with dish soap and water.</li>
+<li><strong>Bambu Lab:</strong> recommends its own glue stick or liquid glue and discourages other glues on its plates. Its Cool Plate needs glue even for PLA, and its Engineering Plate needs adhesive applied carefully.</li>
+<li><strong>Creality:</strong> lists glue stick, hairspray or painter&#39;s tape as options, and notes PEI or textured plates often reduce the need for them.</li>
+</ul>
+<p>Glue fixes a material and plate combination, not a dirty plate or a wrong Z offset.</p>
+<h2>Plate types: textured PEI vs smooth PEI, and PETG</h2>
+<p>The plate itself makes a big difference to 3D print bed adhesion:</p>
+<table>
+<thead>
+<tr>
+<th>Plate</th>
+<th>How it behaves</th>
+<th>Best for</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Textured PEI (powder-coated)</td>
+<td>Bambu Lab says it often gives good adhesion without adhesives; textured bottom surface</td>
+<td>PETG, general use, parts that release when cool</td>
+</tr>
+<tr>
+<td>Smooth PEI</td>
+<td>Flat, glossy bottom; Prusa says it gives PLA the best adhesion, especially for small contact areas</td>
+<td>PLA; other materials only with glue</td>
+</tr>
+<tr>
+<td>Satin (Prusa)</td>
+<td>Between smooth and textured</td>
+<td>PLA, PETG</td>
+</tr>
+<tr>
+<td>PC &quot;Cool Plate&quot; (Bambu Lab)</td>
+<td>Designed for PLA at a low bed temperature; needs glue</td>
+<td>PLA only</td>
+</tr>
+<tr>
+<td>Engineering plate (Bambu Lab)</td>
+<td>Coated spring steel; strict glue use</td>
+<td>Engineering materials</td>
+</tr>
+</tbody></table>
+<p>Prusa also notes that PEI can lose adhesion after a couple of hundred hours of use. It suggests rubbing the surface with the hard side of a dry kitchen sponge or light 400–600 grit sandpaper, then wiping with IPA; Bambu Lab mentions fine sandpaper for its textured plate, followed by removing all dust.</p>
+<h3>PETG bed adhesion: when it sticks too well</h3>
+<p>PETG is the opposite case. On smooth PEI it can bond so strongly that it tears the surface when you remove the part.</p>
+<ul>
+<li><strong>Prusa</strong> recommends a textured or satin sheet for PETG and says printing it on smooth PEI might damage the sheet. If you must, apply glue stick first as a separator. It also warns that IPA cleaning before PETG on smooth PEI makes adhesion very strong, and not to use acetone before PETG.</li>
+<li><strong>Bambu Lab</strong> says every filament except PLA needs glue on its smooth PEI plate to prevent the sheet tearing, and warns that a print stuck too tightly can make a sheet bubble or crack.</li>
+</ul>
+<p><strong>Tip:</strong> let PETG parts cool fully before removal, flex spring-steel sheets gently, and use a spatula on large parts. Wet PETG also strings and prints poorly – see <a href="/blog/how-to-dry-filament/">how to dry filament</a> if your spool has been open for a while. QIDI Tech lists damp filament among the causes of poor first-layer adhesion too.</p>
+<h2>Checklist: fix a 3D print not sticking to the build plate</h2>
+<ol>
+<li><strong>Look at the failed first layer</strong> and match it to the symptom table above.</li>
+<li><strong>Wash the plate</strong> with warm water and dish soap (or wipe with 90%+ IPA on Prusa sheets), dry it, and touch only the edges.</li>
+<li><strong>Check the slicer:</strong> correct printer, plate type and material profile selected.</li>
+<li><strong>Clean the nozzle tip</strong> and re-run bed leveling.</li>
+<li><strong>Adjust Z offset / Live Z</strong> in small steps until first-layer lines are flat and touching.</li>
+<li><strong>Set the bed temperature</strong> to the maker&#39;s value for that material and plate; add 5–10 °C only if needed.</li>
+<li><strong>Slow the first layer</strong> (about 50–75% of normal speed) and turn the part fan off for it.</li>
+<li><strong>Block drafts</strong> or use an enclosure for ABS, ASA and large parts.</li>
+<li><strong>Add a brim</strong> for small or sharp-cornered parts; a raft for difficult ones.</li>
+<li><strong>Use glue stick</strong> for PETG on smooth PEI and for ABS, nylon and PC as your plate maker advises.</li>
+<li><strong>Check the model&#39;s base.</strong> A part that touches the bed only on a point or edge will not hold. Open it in our <a href="/stl-viewer/">STL viewer</a> to see how much of it sits flat before slicing.</li>
+</ol>
+<h2>How to prevent bed adhesion issues</h2>
+<ul>
+<li><strong>Keep the plate clean</strong> and wash it as soon as adhesion starts to drop, not after a failure.</li>
+<li><strong>Use maker profiles</strong> and change one setting at a time.</li>
+<li><strong>Re-level after moves, nozzle swaps or crashes.</strong></li>
+<li><strong>Store filament dry</strong> and refresh worn plates.</li>
+<li><strong>Put the largest flat face on the bed</strong> whenever the model allows.</li>
+</ul>
+<h2>Verdict</h2>
+<p>When a 3D print is not sticking to the bed, start with the plate, not the slicer: wash off the grease, then set the nozzle height so the first layer is pressed in, then re-level. Only after that adjust bed temperature, first-layer speed and cooling, and finally add a brim, raft or glue. For PETG on smooth PEI, think the other way round – use glue stick as a release layer or switch to a textured plate so the part comes off without damaging the sheet.</p>
+25:["$","div",null,{"className":"split","children":[["$","article",null,{"className":"prose","children":[["$","h1",null,{"children":"3D print not sticking to bed – causes and fixes in the right order"}],["$","figure",null,{"className":"doc-hero","children":["$","img",null,{"src":"/images/blog/3d-print-not-sticking-to-bed.webp","alt":"Illustration of an orange first layer curling up at one corner on a gold textured build plate, with dish soap, a microfiber cloth, a glue stick and levelling paper nearby","width":1200,"height":675,"fetchPriority":"high","decoding":"async"}]}],["$","p",null,{"className":"muted small","children":["Updated ","November 27, 2026"]}],["$","div",null,{"className":"summary-box","children":[["$","b",null,{"children":"Key points"}],["$","ul",null,{"children":[["$","li","Most bed adhesion problems come from a dirty build plate, a nozzle set too high, or a slicer profile that does not match the plate or material.",{"children":"Most bed adhesion problems come from a dirty build plate, a nozzle set too high, or a slicer profile that does not match the plate or material."}],["$","li","Prusa recommends 90%+ isopropyl alcohol as the main degreaser and warm water with dish soap when adhesion keeps dropping, while Bambu Lab recommends dish soap rather than alcohol for its textured PEI plate.",{"children":"Prusa recommends 90%+ isopropyl alcohol as the main degreaser and warm water with dish soap when adhesion keeps dropping, while Bambu Lab recommends dish soap rather than alcohol for its textured PEI plate."}],["$","li","PETG can bond too strongly to smooth PEI; Prusa and Bambu Lab both advise a glue stick on smooth PEI as a separating layer to protect the sheet.",{"children":"PETG can bond too strongly to smooth PEI; Prusa and Bambu Lab both advise a glue stick on smooth PEI as a separating layer to protect the sheet."}]]}]]}],null,["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$27"}}]]}],"$L28"]}]
+26:["$","section",null,{"className":"section faq","aria-labelledby":"faq-h","children":[["$","h2",null,{"id":"faq-h","children":"Questions and answers"}],["$","div",null,{"className":"faq-list","children":[["$","details","Why is my 3D print not sticking to the bed even after auto bed leveling?",{"children":[["$","summary",null,{"children":"Why is my 3D print not sticking to the bed even after auto bed leveling?"}],["$","p",null,{"children":"Auto leveling maps the bed shape, but it does not clean the plate or set the right first-layer squish. Check for fingerprints or grease first, then the Z offset or Live Z, then that the plate type and bed temperature in the slicer match the plate you are actually using."}]]}],["$","details","How do I get PLA to stick to the bed better?",{"children":[["$","summary",null,{"children":"How do I get PLA to stick to the bed better?"}],["$","p",null,{"children":"Wash or degrease the plate, lower the nozzle slightly so the first layer is pressed into the surface, and use the bed temperature for your plate – Prusa uses 60 °C for PLA, and Bambu Lab suggests about 55–65 °C on its textured PEI plate. Slow the first layer and keep the part fan off for it."}]]}],["$","details","Does increasing bed temperature help adhesion?",{"children":[["$","summary",null,{"children":"Does increasing bed temperature help adhesion?"}],["$","p",null,{"children":"Often a little. Prusa suggests raising the bed by 5–10 °C for materials that do not adhere well. Going too high can cause elephant foot and, with PLA, softening near the bed, so change it in small steps."}]]}],["$","details","Should I use glue stick for PETG?",{"children":[["$","summary",null,{"children":"Should I use glue stick for PETG?"}],["$","p",null,{"children":"On smooth PEI, yes – Prusa and Bambu Lab both say to apply glue stick before printing PETG so the part does not bond too strongly and damage the sheet. On textured PEI it is usually not needed."}]]}]]}]]}]
+28:["$","aside",null,{"className":"aside","children":[["$","div",null,{"className":"facts","children":[["$","b",null,{"children":"Tools for this"}],["$","div",null,{"className":"tool-grid","style":{"marginTop":10,"gridTemplateColumns":"1fr"},"children":[["$","$L4","stl-viewer",{"className":"tool-link","href":"/stl-viewer/","children":"STL viewer"}],["$","$L4","3d-viewer",{"className":"tool-link","href":"/3d-viewer/","children":"Online 3D model viewer"}],["$","$L4","3mf-to-stl",{"className":"tool-link","href":"/3mf-to-stl/","children":"3MF to STL converter"}]]}]]}],["$","div",null,{"className":"facts","children":[["$","b",null,{"children":"Open or convert a model"}],["$","p",null,{"className":"small","style":{"margin":"6px 0 10px"},"children":"View STL, 3MF, STEP and more in your browser."}],["$","$L4",null,{"className":"btn btn-accent","href":"/3d-viewer/","children":"3D viewer"}]]}]]}]
+1f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#10151C"}]]
+1b:null
+29:I[622,[],"IconMark"]
+1d:{"metadata":[["$","title","0",{"children":"3D Print Not Sticking to Bed? Causes and Fixes in Order | my3dprinter.io"}],["$","meta","1",{"name":"description","content":"3D print not sticking to bed? Find the cause from the first layer, then fix it in order – cleaning, Z offset, leveling, bed temperature, cooling and glue."}],["$","meta","2",{"name":"application-name","content":"my3dprinter.io"}],["$","link","3",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","4",{"name":"robots","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","5",{"rel":"canonical","href":"https://my3dprinter.io/blog/3d-print-not-sticking-to-bed/"}],["$","meta","6",{"name":"format-detection","content":"telephone=no"}],["$","meta","7",{"property":"og:title","content":"3D Print Not Sticking to Bed? Causes and Fixes in Order | my3dprinter.io"}],["$","meta","8",{"property":"og:description","content":"3D print not sticking to bed? Find the cause from the first layer, then fix it in order – cleaning, Z offset, leveling, bed temperature, cooling and glue."}],["$","meta","9",{"property":"og:url","content":"https://my3dprinter.io/blog/3d-print-not-sticking-to-bed/"}],["$","meta","10",{"property":"og:site_name","content":"my3dprinter.io"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:image","content":"https://my3dprinter.io/images/blog/3d-print-not-sticking-to-bed.webp"}],["$","meta","13",{"property":"og:image:width","content":"1200"}],["$","meta","14",{"property":"og:image:height","content":"675"}],["$","meta","15",{"property":"og:image:alt","content":"3D Print Not Sticking to Bed? Causes and Fixes in Order"}],["$","meta","16",{"property":"og:type","content":"article"}],["$","meta","17",{"property":"article:published_time","content":"2026-11-27"}],["$","meta","18",{"property":"article:modified_time","content":"2026-11-27"}],["$","meta","19",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","20",{"name":"twitter:title","content":"3D Print Not Sticking to Bed? Causes and Fixes in Order | my3dprinter.io"}],["$","meta","21",{"name":"twitter:description","content":"3D print not sticking to bed? Find the cause from the first layer, then fix it in order – cleaning, Z offset, leveling, bed temperature, cooling and glue."}],["$","meta","22",{"name":"twitter:image","content":"https://my3dprinter.io/images/blog/3d-print-not-sticking-to-bed.webp"}],["$","link","23",{"rel":"icon","href":"/favicon.ico","sizes":"48x48"}],["$","link","24",{"rel":"icon","href":"/icon.svg","type":"image/svg+xml"}],["$","link","25",{"rel":"icon","href":"/icon-192.png","sizes":"192x192","type":"image/png"}],["$","link","26",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","sizes":"180x180"}],["$","$L29","27",{}]],"error":null,"digest":"$undefined"}
+22:"$1d:metadata"

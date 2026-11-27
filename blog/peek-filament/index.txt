@@ -1,0 +1,379 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+4:I[2619,["2619","static/chunks/2619-3c9e02e22d10480a.js","4966","static/chunks/app/(en)/blog/%5Bslug%5D/page-6f60855278aa4f75.js"],""]
+5:I[1538,["2619","static/chunks/2619-3c9e02e22d10480a.js","90","static/chunks/app/(en)/layout-1d0e45a00e968cb3.js"],"default"]
+6:I[909,["2619","static/chunks/2619-3c9e02e22d10480a.js","90","static/chunks/app/(en)/layout-1d0e45a00e968cb3.js"],"default"]
+16:I[7150,[],""]
+:HL["/_next/static/css/93d1a12f2f4c9226.css","style"]
+0:{"P":null,"b":"rD7TGm9XF6FHQRkd5YG22","p":"","c":["","blog","peek-filament",""],"i":false,"f":[[["",{"children":["(en)",{"children":["blog",{"children":[["slug","peek-filament","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/93d1a12f2f4c9226.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","script",null,{"async":true,"src":"https://www.googletagmanager.com/gtm.js?id=GTM-T7SN8RQX"}],["$","script",null,{"async":true,"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3226858004021254","crossOrigin":"anonymous"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());"}}]]}],["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"wrap header-in","children":[["$","$L4",null,{"href":"/","className":"brand","aria-label":"my3dprinter.io home","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","nav",null,{"aria-label":"Main","className":"nav","children":[["$","$L4","/converters/",{"href":"/converters/","children":"Converters"}],["$","$L4","/3d-viewer/",{"href":"/3d-viewer/","children":"3D viewer"}],["$","$L4","/image-to-stl/",{"href":"/image-to-stl/","children":"Image to STL"}],["$","$L4","/printers/",{"href":"/printers/","children":"Printers"}],["$","$L4","/blog/",{"href":"/blog/","children":"Blog"}]]}],["$","div",null,{"className":"header-actions","children":[["$","$L5",null,{"lang":"en","langs":[{"code":"en","name":"English"},{"code":"de","name":"Deutsch"},{"code":"es","name":"Español"},{"code":"fr","name":"Français"},{"code":"it","name":"Italiano"},{"code":"ja","name":"日本語"},{"code":"ko","name":"한국어"},{"code":"pt","name":"Português"},{"code":"vi","name":"Tiếng Việt"},{"code":"th","name":"ไทย"},{"code":"zh","name":"简体中文"},{"code":"ru","name":"Русский"}],"localized":["/","/converters/","/3mf-to-stl/","/glb-to-stl/","/stl-to-3mf/","/step-to-stl/","/glb-to-obj/","/obj-to-stl/","/stl-to-obj/","/fbx-to-obj/","/gcode-to-stl/","/fbx-to-stl/","/zip-to-stl/","/stp-to-stl/","/dae-to-obj/","/gltf-to-obj/","/stl-to-dxf/","/obj-to-glb/","/gltf-to-stl/","/fbx-to-glb/","/ply-to-stl/","/3mf-to-obj/","/dae-to-stl/","/usdz-to-stl/","/ply-to-obj/","/stp-to-obj/","/3ds-to-obj/","/igs-to-stl/","/stl-to-glb/","/obj-to-3mf/","/glb-to-3mf/","/stl-to-usdz/","/glb-to-usdz/","/step-to-obj/","/step-to-3mf/","/stl-to-ply/","/fbx-to-gltf/","/image-to-stl/","/png-to-stl/","/jpg-to-stl/","/jpeg-to-stl/","/lithophane-maker/","/png-to-obj/","/png-to-3mf/","/svg-to-stl/","/svg-to-obj/","/png-to-dds/","/jpg-to-dds/","/dds-to-png/","/dds-to-jpg/","/3d-viewer/","/stl-viewer/","/3mf-viewer/","/obj-viewer/","/glb-viewer/","/step-viewer/","/ply-viewer/","/fbx-viewer/","/gltf-viewer/"],"label":"Language"}],["$","$L6",null,{"links":[["/converters/","Converters"],["/3d-viewer/","3D viewer"],["/image-to-stl/","Image to STL"],["/printers/","Printers"],["/blog/","Blog"],["/printers/compare/","Compare printers"]],"label":"Menu"}]]}]]}]}],["$","main",null,{"id":"main","className":"wrap","style":{"padding":"64px 24px"},"children":[["$","h1",null,{"children":"Page not found"}],["$","p",null,{"className":"lead","children":"This page does not exist. Try a converter or the 3D viewer."}],["$","p",null,{"children":["$","$L4",null,{"className":"btn btn-accent","href":"/converters/","children":"All converters"}]}]]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"wrap footer-grid","children":[["$","div",null,{"className":"footer-brand","children":[["$","$L4",null,{"href":"/","className":"brand","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":["$L7","$L8"]}]," ","$L9"]}],"$La"]}],["$Lb","$Lc","$Ld","$Le","$Lf"]]}],"$L10"]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["(en)","$L11",{"children":["blog","$L12",{"children":[["slug","peek-filament","d"],"$L13",{"children":["__PAGE__","$L14",{},null,false]},null,false]},null,false]},null,false]},null,false],"$L15",false]],"m":"$undefined","G":["$16",[]],"s":false,"S":true}
+1b:I[4431,[],"OutletBoundary"]
+1d:I[5278,[],"AsyncMetadataOutlet"]
+1f:I[4431,[],"ViewportBoundary"]
+21:I[4431,[],"MetadataBoundary"]
+22:"$Sreact.suspense"
+7:["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}]
+8:["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]
+9:["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]
+a:["$","p",null,{"children":"Free tools that run in your browser. Your files are never uploaded."}]
+b:["$","div","Converters",{"children":[["$","h2",null,{"children":"Converters"}],["$","ul",null,{"children":[["$","li","/3mf-to-stl/",{"children":["$","$L4",null,{"href":"/3mf-to-stl/","children":"3MF → STL"}]}],["$","li","/step-to-stl/",{"children":["$","$L4",null,{"href":"/step-to-stl/","children":"STEP → STL"}]}],["$","li","/glb-to-stl/",{"children":["$","$L4",null,{"href":"/glb-to-stl/","children":"GLB → STL"}]}],["$","li","/obj-to-stl/",{"children":["$","$L4",null,{"href":"/obj-to-stl/","children":"OBJ → STL"}]}],["$","li","/stl-to-3mf/",{"children":["$","$L4",null,{"href":"/stl-to-3mf/","children":"STL → 3MF"}]}],["$","li","/converters/",{"children":["$","$L4",null,{"href":"/converters/","children":"All converters"}]}]]}]]}]
+c:["$","div","Images & textures",{"children":[["$","h2",null,{"children":"Images & textures"}],["$","ul",null,{"children":[["$","li","/image-to-stl/",{"children":["$","$L4",null,{"href":"/image-to-stl/","children":"Image to STL"}]}],["$","li","/lithophane-maker/",{"children":["$","$L4",null,{"href":"/lithophane-maker/","children":"Lithophane maker"}]}],["$","li","/svg-to-stl/",{"children":["$","$L4",null,{"href":"/svg-to-stl/","children":"SVG → STL"}]}],["$","li","/png-to-dds/",{"children":["$","$L4",null,{"href":"/png-to-dds/","children":"PNG → DDS"}]}],["$","li","/dds-to-png/",{"children":["$","$L4",null,{"href":"/dds-to-png/","children":"DDS → PNG"}]}]]}]]}]
+d:["$","div","Viewers",{"children":[["$","h2",null,{"children":"Viewers"}],["$","ul",null,{"children":[["$","li","/3d-viewer/",{"children":["$","$L4",null,{"href":"/3d-viewer/","children":"Online 3D model viewer"}]}],["$","li","/stl-viewer/",{"children":["$","$L4",null,{"href":"/stl-viewer/","children":"STL viewer"}]}],["$","li","/3mf-viewer/",{"children":["$","$L4",null,{"href":"/3mf-viewer/","children":"3MF viewer"}]}],["$","li","/step-viewer/",{"children":["$","$L4",null,{"href":"/step-viewer/","children":"STEP viewer"}]}],["$","li","/obj-viewer/",{"children":["$","$L4",null,{"href":"/obj-viewer/","children":"OBJ viewer"}]}]]}]]}]
+e:["$","div","my3dprinter.io",{"children":[["$","h2",null,{"children":"my3dprinter.io"}],["$","ul",null,{"children":[["$","li","/printers/",{"children":["$","$L4",null,{"href":"/printers/","children":"3D printers"}]}],["$","li","/printers/compare/",{"children":["$","$L4",null,{"href":"/printers/compare/","children":"Compare printers"}]}],["$","li","/blog/",{"children":["$","$L4",null,{"href":"/blog/","children":"Blog"}]}],["$","li","/formats/",{"children":["$","$L4",null,{"href":"/formats/","children":"File formats"}]}],["$","li","/about/",{"children":["$","$L4",null,{"href":"/about/","children":"About"}]}],["$","li","/contact/",{"children":["$","$L4",null,{"href":"/contact/","children":"Contact"}]}]]}]]}]
+f:["$","div","Legal",{"children":[["$","h2",null,{"children":"Legal"}],["$","ul",null,{"children":[["$","li","/privacy/",{"children":["$","$L4",null,{"href":"/privacy/","children":"Privacy policy"}]}],["$","li","/cookies/",{"children":["$","$L4",null,{"href":"/cookies/","children":"Cookie policy"}]}],["$","li","/terms/",{"children":["$","$L4",null,{"href":"/terms/","children":"Terms of use"}]}],["$","li","/disclaimer/",{"children":["$","$L4",null,{"href":"/disclaimer/","children":"Disclaimer"}]}]]}]]}]
+10:["$","div",null,{"className":"wrap footer-base","children":["$","p",null,{"children":["© ",2026," my3dprinter.io. ","Brand and product names belong to their owners; my3dprinter.io is an independent site and is not affiliated with any printer maker."]}]}]
+11:["$","$1","c",{"children":[null,[["$","a",null,{"className":"skip","href":"#main","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"wrap header-in","children":[["$","$L4",null,{"href":"/","className":"brand","aria-label":"my3dprinter.io home","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","nav",null,{"aria-label":"Main","className":"nav","children":[["$","$L4","/converters/",{"href":"/converters/","children":"Converters"}],["$","$L4","/3d-viewer/",{"href":"/3d-viewer/","children":"3D viewer"}],["$","$L4","/image-to-stl/",{"href":"/image-to-stl/","children":"Image to STL"}],["$","$L4","/printers/",{"href":"/printers/","children":"Printers"}],["$","$L4","/blog/",{"href":"/blog/","children":"Blog"}]]}],["$","div",null,{"className":"header-actions","children":[["$","$L5",null,{"lang":"en","langs":[{"code":"en","name":"English"},{"code":"de","name":"Deutsch"},{"code":"es","name":"Español"},{"code":"fr","name":"Français"},{"code":"it","name":"Italiano"},{"code":"ja","name":"日本語"},{"code":"ko","name":"한국어"},{"code":"pt","name":"Português"},{"code":"vi","name":"Tiếng Việt"},{"code":"th","name":"ไทย"},{"code":"zh","name":"简体中文"},{"code":"ru","name":"Русский"}],"localized":"$0:f:0:1:1:props:children:1:props:children:1:props:children:props:notFound:0:0:props:children:props:children:2:props:children:0:props:localized","label":"Language"}],["$","$L6",null,{"links":[["/converters/","Converters"],["/3d-viewer/","3D viewer"],["/image-to-stl/","Image to STL"],["/printers/","Printers"],["/blog/","Blog"],["/printers/compare/","Compare printers"]],"label":"Menu"}]]}]]}]}],["$","main",null,{"id":"main","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"wrap footer-grid","children":[["$","div",null,{"className":"footer-brand","children":[["$","$L4",null,{"href":"/","className":"brand","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","p",null,{"children":"Free tools that run in your browser. Your files are never uploaded."}]]}],[["$","div","Converters",{"children":[["$","h2",null,{"children":"Converters"}],["$","ul",null,{"children":[["$","li","/3mf-to-stl/",{"children":["$","$L4",null,{"href":"/3mf-to-stl/","children":"3MF → STL"}]}],["$","li","/step-to-stl/",{"children":["$","$L4",null,{"href":"/step-to-stl/","children":"STEP → STL"}]}],["$","li","/glb-to-stl/",{"children":["$","$L4",null,{"href":"/glb-to-stl/","children":"GLB → STL"}]}],["$","li","/obj-to-stl/",{"children":["$","$L4",null,{"href":"/obj-to-stl/","children":"OBJ → STL"}]}],["$","li","/stl-to-3mf/",{"children":["$","$L4",null,{"href":"/stl-to-3mf/","children":"STL → 3MF"}]}],["$","li","/converters/",{"children":["$","$L4",null,{"href":"/converters/","children":"All converters"}]}]]}]]}],["$","div","Images & textures",{"children":[["$","h2",null,{"children":"Images & textures"}],["$","ul",null,{"children":[["$","li","/image-to-stl/",{"children":["$","$L4",null,{"href":"/image-to-stl/","children":"Image to STL"}]}],["$","li","/lithophane-maker/",{"children":["$","$L4",null,{"href":"/lithophane-maker/","children":"Lithophane maker"}]}],["$","li","/svg-to-stl/",{"children":["$","$L4",null,{"href":"/svg-to-stl/","children":"SVG → STL"}]}],["$","li","/png-to-dds/",{"children":["$","$L4",null,{"href":"/png-to-dds/","children":"PNG → DDS"}]}],["$","li","/dds-to-png/",{"children":["$","$L4",null,{"href":"/dds-to-png/","children":"DDS → PNG"}]}]]}]]}],["$","div","Viewers",{"children":[["$","h2",null,{"children":"Viewers"}],["$","ul",null,{"children":[["$","li","/3d-viewer/",{"children":["$","$L4",null,{"href":"/3d-viewer/","children":"Online 3D model viewer"}]}],["$","li","/stl-viewer/",{"children":["$","$L4",null,{"href":"/stl-viewer/","children":"STL viewer"}]}],["$","li","/3mf-viewer/",{"children":["$","$L4",null,{"href":"/3mf-viewer/","children":"3MF viewer"}]}],["$","li","/step-viewer/",{"children":["$","$L4",null,{"href":"/step-viewer/","children":"STEP viewer"}]}],["$","li","/obj-viewer/",{"children":["$","$L4",null,{"href":"/obj-viewer/","children":"OBJ viewer"}]}]]}]]}],"$L17","$L18"]]}],"$L19"]}]]]}]
+12:["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+13:["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+14:["$","$1","c",{"children":["$L1a",null,["$","$L1b",null,{"children":["$L1c",["$","$L1d",null,{"promise":"$@1e"}]]}]]}]
+15:["$","$1","h",{"children":[null,[["$","$L1f",null,{"children":"$L20"}],null],["$","$L21",null,{"children":["$","div",null,{"hidden":true,"children":["$","$22",null,{"fallback":null,"children":"$L23"}]}]}]]}]
+17:["$","div","my3dprinter.io",{"children":[["$","h2",null,{"children":"my3dprinter.io"}],["$","ul",null,{"children":[["$","li","/printers/",{"children":["$","$L4",null,{"href":"/printers/","children":"3D printers"}]}],["$","li","/printers/compare/",{"children":["$","$L4",null,{"href":"/printers/compare/","children":"Compare printers"}]}],["$","li","/blog/",{"children":["$","$L4",null,{"href":"/blog/","children":"Blog"}]}],["$","li","/formats/",{"children":["$","$L4",null,{"href":"/formats/","children":"File formats"}]}],["$","li","/about/",{"children":["$","$L4",null,{"href":"/about/","children":"About"}]}],["$","li","/contact/",{"children":["$","$L4",null,{"href":"/contact/","children":"Contact"}]}]]}]]}]
+18:["$","div","Legal",{"children":[["$","h2",null,{"children":"Legal"}],["$","ul",null,{"children":[["$","li","/privacy/",{"children":["$","$L4",null,{"href":"/privacy/","children":"Privacy policy"}]}],["$","li","/cookies/",{"children":["$","$L4",null,{"href":"/cookies/","children":"Cookie policy"}]}],["$","li","/terms/",{"children":["$","$L4",null,{"href":"/terms/","children":"Terms of use"}]}],["$","li","/disclaimer/",{"children":["$","$L4",null,{"href":"/disclaimer/","children":"Disclaimer"}]}]]}]]}]
+19:["$","div",null,{"className":"wrap footer-base","children":["$","p",null,{"children":["© ",2026," my3dprinter.io. ","Brand and product names belong to their owners; my3dprinter.io is an independent site and is not affiliated with any printer maker."]}]}]
+24:T10ae,{"@context":"https://schema.org","@graph":[{"@type":"Article","headline":"PEEK filament – what it is, PEEK 3D printing settings and printer requirements","description":"PEEK filament explained – datasheet properties, nozzle, bed and chamber temperatures, annealing, PEEK vs PEI (ULTEM) and which printers can print it.","datePublished":"2026-11-27","dateModified":"2026-11-27","mainEntityOfPage":"https://my3dprinter.io/blog/peek-filament/","inLanguage":"en","author":{"@type":"Organization","name":"my3dprinter.io","url":"https://my3dprinter.io"},"publisher":{"@type":"Organization","@id":"https://my3dprinter.io/#organization","name":"my3dprinter.io","url":"https://my3dprinter.io/","logo":{"@type":"ImageObject","url":"https://my3dprinter.io/icon-512.png","width":512,"height":512},"email":"hello@my3dprinter.io","description":"Free 3D file converters, viewers and 3D printer guides"},"image":"https://my3dprinter.io/images/blog/peek-filament.webp","citation":["https://www.victrex.com/en/blog/2017/a-closer-peek-at-peek","https://www.victrex.com/en/victrex-peek","https://victrex.com/downloads/datasheets/victrex-am-200-fil","https://www.3dxtech.com/collections/peek","https://www.3dxtech.com/peek-filaments/thermax-peek-grey/","https://www.3d4makers.com/products/peek-filament","https://cdn.shopify.com/s/files/1/0022/2671/6784/files/INTAMSYS_PEEK_TDS_V3.pdf","https://page.intamsys.com/peek-3d-printing-solutions","https://3d-printing.evonik.com/en/3d-printing-materials/plastic-filaments/implant-peek","https://help.prusa3d.com/article/peek-cf-polyetheretherketone_765123","https://help.prusa3d.com/article/pei-ultem_725809","https://www.prusa3d.com/en/product/prusament-pei-1010-natural-500g/","https://www.stratasys.com/contentassets/264560ca109a4876a3761fde68c3ab5e/mds_fdm_ultem9085_0426a.pdf","https://blog.bambulab.com/bambu-lab-launches-h2d-to-rethink-personal-manufacturing","https://qidi3d.com/pages/qidi-plus-4-techspecs"]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://my3dprinter.io/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://my3dprinter.io/blog/"},{"@type":"ListItem","position":3,"name":"PEEK filament – what it is, PEEK 3D printing settings and printer requirements","item":"https://my3dprinter.io/blog/peek-filament/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is PEEK filament used for?","acceptedAnswer":{"@type":"Answer","text":"PEEK filament is used for parts that must survive heat, chemicals and load: seals, gears, bushings, bearings and pump parts (3DXTech's list), aerospace brackets and ducts, engine and automotive parts, semiconductor fixtures and, with implant-grade material such as Evonik's VESTAKEEP i4 3DF, medical implants made under medical device rules."}},{"@type":"Question","name":"Can a Bambu Lab or other desktop 3D printer print PEEK?","acceptedAnswer":{"@type":"Answer","text":"Not reliably. PEEK filament makers ask for a nozzle around 375–420 °C, a 120–155 °C bed and an actively heated chamber of 70 °C or more. The Bambu Lab H2D tops out at 350 °C at the nozzle and 65 °C in the chamber, and most other desktop printers stop at 300 °C. 3DXTech says its PEEK is not intended for standard desktop FDM printers."}},{"@type":"Question","name":"Is PEEK better than PEI (ULTEM)?","acceptedAnswer":{"@type":"Answer","text":"It depends on the job. PEEK is semi-crystalline, with higher temperature limits (Victrex lists 260 °C continuous use) and very good wear and chemical resistance, but it needs controlled crystallisation. PEI such as ULTEM 9085 is amorphous with a glass transition around 177 °C; it warps less from crystallisation and is widely used for flame-rated aerospace interior parts on Stratasys printers."}},{"@type":"Question","name":"Do you need to anneal PEEK 3D prints?","acceptedAnswer":{"@type":"Answer","text":"Usually yes, if you want full heat and chemical resistance. Parts printed in a cooler chamber come out largely amorphous; annealing above the glass transition lets them crystallise. INTAMSYS annealed its PEEK test bars at 200 °C for 2 hours, and Victrex gives 170–180 °C for 2–4 hours for its AM 200 PAEK filament. Follow your filament's datasheet."}}]}]}1a:["$","div",null,{"className":"wrap","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$24"}}],"$L25","$L26","$L27"]}]
+25:["$","nav",null,{"className":"crumbs","aria-label":"Breadcrumb","children":[["$","$L4",null,{"href":"/","children":"Home"}]," / ",["$","$L4",null,{"href":"/blog/","children":"Blog"}]," / ","PEEK filament – what it is, PEEK 3D printing settings and printer requirements"]}]
+28:T41d2,<p><strong>PEEK filament is a 3D printing filament made from polyether ether ketone, a high-performance, semi-crystalline polymer that keeps its strength up to about 260 °C and resists most chemicals – but printing it needs a hot end of roughly 400 °C, a bed of 120–155 °C and an actively heated chamber, so it belongs on industrial printers, not desktop machines.</strong> PEEK is one of the toughest plastics you can extrude, which is why it turns up in aerospace, oil and gas, semiconductor and medical parts. This guide explains what PEEK is, the properties filament makers publish, what a printer must reach to print it, how annealing works, how PEEK compares with PEI (ULTEM), and why a typical hobby printer cannot handle it. Facts come from the material and printer makers – Victrex, 3DXTech, 3D4Makers, INTAMSYS, Evonik, Prusa, Stratasys, Bambu Lab and QIDI – checked November 2026. We have not printed PEEK ourselves and we do not compare prices.</p>
+<h2>PEEK filament at a glance</h2>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>PEEK (from makers&#39; datasheets)</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Polymer family</td>
+<td>PAEK (polyaryletherketone), semi-crystalline</td>
+</tr>
+<tr>
+<td>Glass transition (Tg)</td>
+<td>143 °C</td>
+</tr>
+<tr>
+<td>Melting point (Tm)</td>
+<td>343 °C</td>
+</tr>
+<tr>
+<td>Continuous use temperature</td>
+<td>Up to 260 °C (Victrex); 240–260 °C (3DXTech)</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>About 1.30 g/cm³ (crystalline)</td>
+</tr>
+<tr>
+<td>Nozzle temperature</td>
+<td>About 370–420 °C for unfilled PEEK; 380–440 °C for PEEK-CF</td>
+</tr>
+<tr>
+<td>Bed temperature</td>
+<td>About 120–155 °C</td>
+</tr>
+<tr>
+<td>Chamber</td>
+<td>Actively heated, 70 °C minimum; makers suggest 85–140 °C</td>
+</tr>
+<tr>
+<td>Drying</td>
+<td>120–130 °C for 2–4 hours or more</td>
+</tr>
+<tr>
+<td>Nozzle</td>
+<td>Hot end of about 400 °C or more; hardened steel for CF and GF grades</td>
+</tr>
+<tr>
+<td>Flammability</td>
+<td>UL94 V-0 (Victrex, 3DXTech)</td>
+</tr>
+<tr>
+<td>Printers</td>
+<td>INTAMSYS FUNMAT, Prusa Pro HT90 and similar high-temperature machines</td>
+</tr>
+</tbody></table>
+<h2>What is PEEK? The PAEK family explained</h2>
+<p>PEEK stands for polyether ether ketone. Victrex, the company that commercialised it, describes it as part of the aromatic polyketone family, more precisely called polyaryletherketones (PAEK). ICI filed the PEEK patent in 1978, and Victrex brought it to market in 1981.</p>
+<p>The chain is built from three units: rigid aryl rings and ketone groups, which give stiffness and a high melting point, and ether links, which add flexibility and toughness. Because the repeat unit is regular, PEEK can partly crystallise. Victrex credits that crystalline structure for much of PEEK&#39;s wear, creep, fatigue and chemical resistance.</p>
+<p>Other members of the PAEK family you will see on filament shelves:</p>
+<ul>
+<li><strong>PEKK</strong> – another polyketone with a different ether/ketone ratio, sold for example in 3DXTech&#39;s ThermaX range and as PEKK-CF for the Prusa Pro HT90.</li>
+<li><strong>PAEK and LMPAEK</strong> – lower-melting grades. Victrex&#39;s AM 200 filament is a PAEK with a melting point of 303 °C (vs 343 °C for PEEK), and Victrex claims better printed-part strength and printability than PEEK on most machines.</li>
+</ul>
+<p><strong>Why it matters:</strong> &quot;PEEK&quot;, &quot;PEKK&quot; and &quot;PAEK&quot; are not interchangeable on a spool label. They need different temperatures and annealing cycles, so always print from the datasheet for the exact grade.</p>
+<h2>PEEK properties from material datasheets</h2>
+<p>Victrex lists these values for its PEEK polymer (moulded material): a glass transition of 143 °C, a melting point of 343 °C, a heat deflection temperature of 152 °C and a continuous use temperature of 260 °C. Its range of tensile strengths runs from 78 MPa for unfilled grades to 330 MPa for fibre-reinforced ones. Victrex also says PEEK resists hydrocarbons, organic solvents and strong bases, is not attacked by water or steam, resists autoignition up to almost 600 °C and gives off little smoke.</p>
+<p>Two filament makers publish printed or moulded values for their unfilled PEEK filament:</p>
+<table>
+<thead>
+<tr>
+<th>Property</th>
+<th>INTAMSYS PEEK (printed, annealed)</th>
+<th>3D4Makers PEEK</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Tensile strength</td>
+<td>99.9 MPa (ISO 527)</td>
+<td>105 MPa at yield (ISO 527)</td>
+</tr>
+<tr>
+<td>Flexural strength</td>
+<td>147 MPa (ISO 178)</td>
+<td>–</td>
+</tr>
+<tr>
+<td>Tensile modulus</td>
+<td>–</td>
+<td>4.1 GPa</td>
+</tr>
+<tr>
+<td>Elongation at break</td>
+<td>–</td>
+<td>30%</td>
+</tr>
+<tr>
+<td>Notched impact</td>
+<td>7.1 kJ/m² (ISO 179)</td>
+<td>–</td>
+</tr>
+<tr>
+<td>Heat deflection (1.8 MPa)</td>
+<td>152 °C</td>
+<td>156 °C (as moulded)</td>
+</tr>
+<tr>
+<td>Glass transition</td>
+<td>143 °C</td>
+<td>143 °C</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>1.30 g/cm³</td>
+<td>1.30 g/cm³</td>
+</tr>
+<tr>
+<td>Water absorption</td>
+<td>–</td>
+<td>0.45% at saturation</td>
+</tr>
+</tbody></table>
+<p>INTAMSYS printed its test bars at 400 °C and 45 mm/s on a FUNMAT HT with 100% infill and annealed them at 200 °C for 2 hours, and it warns the numbers are for reference only, not for design. Real parts with walls, infill and weak layer lines will usually test lower.</p>
+<p><strong>Tip:</strong> for comparison, the strongest filaments most enclosed desktop printers can handle – carbon fibre nylons and PC – are covered in our guide to the <a href="/blog/strongest-3d-printer-filament/">strongest 3D printer filament</a>.</p>
+<h2>PEEK filament types: unfilled, carbon fibre, glass fibre and implant grade</h2>
+<ul>
+<li><strong>Unfilled (natural) PEEK</strong> – the base material, for example 3DXTech ThermaX PEEK, INTAMSYS PEEK and 3D4Makers PEEK.</li>
+<li><strong>PEEK-CF</strong> – carbon-fibre-filled PEEK such as 3DXTech CarbonX PEEK+CF10. Prusa lists low weight, high dimensional stability and stiffness as the gains.</li>
+<li><strong>PEEK-GF</strong> – glass-fibre-filled PEEK such as 3DXTech Fibrex PEEK+GF20, also sold by INTAMSYS.</li>
+<li><strong>Implant-grade PEEK</strong> – Evonik sells VESTAKEEP i4 3DF, made to meet ASTM F2026 (the standard for PEEK used in surgical implants), plus carbon-fibre grades with 12% and 20% fibre (iC4612 and iC4620), an osteoconductive grade (iC4800) and a purple test grade (i4 3DF-T) with the same processing behaviour but without the documentation needed for medical approval.</li>
+</ul>
+<p>3DXTech says its carbon and glass fibre PEEK grades need a hardened steel nozzle. Fibres wear a standard nozzle quickly, as they do with carbon fiber filaments for desktop printers.</p>
+<h2>PEEK 3D printing settings from filament makers</h2>
+<p>Settings differ between brands and grades, so treat the table as a range and start from your own spool&#39;s datasheet.</p>
+<table>
+<thead>
+<tr>
+<th>Maker and grade</th>
+<th>Nozzle</th>
+<th>Bed</th>
+<th>Chamber</th>
+<th>Drying</th>
+<th>Bed adhesion</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>3DXTech ThermaX PEEK</td>
+<td>375–410 °C</td>
+<td>130–145 °C</td>
+<td>70–140 °C (recommended)</td>
+<td>120 °C, 4 h</td>
+<td>Nano Polymer Adhesive</td>
+</tr>
+<tr>
+<td>3D4Makers PEEK</td>
+<td>370–420 °C</td>
+<td>120 °C</td>
+<td>About 100 °C</td>
+<td>120 °C, 2–4 h</td>
+<td>Magigoo HT on glass or a PEI sheet</td>
+</tr>
+<tr>
+<td>Prusa (PEEK-CF on the Pro HT90)</td>
+<td>380–440 °C</td>
+<td>140–155 °C</td>
+<td>85 °C or more, required</td>
+<td>130 °C, at least 4 h</td>
+<td>Magigoo HT, several layers</td>
+</tr>
+<tr>
+<td>INTAMSYS PEEK (test print)</td>
+<td>400 °C</td>
+<td>Not stated</td>
+<td>Not stated</td>
+<td>–</td>
+<td>–</td>
+</tr>
+</tbody></table>
+<p>3D4Makers suggests 15–30 mm/s; INTAMSYS printed its test bars at 45 mm/s. 3DXTech&#39;s general guidance for the whole PEEK range is a hot end that reaches roughly 400 °C or higher, a bed of 120–180 °C and a fully enclosed, actively heated chamber of 70 °C or more.</p>
+<p><strong>Why it matters:</strong> PEEK melts at 343 °C, so a hot end must hold well above that – around 400 °C – just to extrude it at a usable viscosity. A hot end that peaks at 350 °C is barely past the melting point.</p>
+<h2>Annealing PEEK and crystallinity</h2>
+<p>PEEK&#39;s properties depend on how much of it crystallises. When hot PEEK is laid down on a cooler part, it freezes before the chains can line up, so the print comes out largely <strong>amorphous</strong>. 3D4Makers says prints are made in the amorphous phase, which reduces shrinkage, and recommends annealing afterwards to reach the semi-crystalline phase. INTAMSYS notes that heating, deposition, cooling and post-processing all affect crystallinity and that the right strategy depends on grade, geometry and the properties you need.</p>
+<p>Published annealing cycles:</p>
+<table>
+<thead>
+<tr>
+<th>Material</th>
+<th>Annealing cycle</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>INTAMSYS PEEK (test specimens)</td>
+<td>200 °C for 2 hours</td>
+</tr>
+<tr>
+<td>Victrex AM 200 PAEK filament</td>
+<td>Ramp about 3 °C/min to 170–180 °C, hold 2–4 hours</td>
+</tr>
+</tbody></table>
+<p>Victrex adds that higher temperatures may deform parts, and that its AM 200 prints semi-crystalline straight off the printer only if the chamber is above 150 °C. With a cooler chamber the part comes out amorphous and needs annealing.</p>
+<p><strong>Tip:</strong> anneal on a flat, supported surface and let the part cool slowly in the oven. Crystallisation causes extra shrinkage, so check critical dimensions after annealing, not before.</p>
+<h2>Which 3D printer can print PEEK?</h2>
+<p>A PEEK 3D printer needs four things at once: a hot end of about 400 °C or more, a bed of 120 °C or more, an actively heated chamber, and a way to keep the filament dry while printing. Examples from makers&#39; own pages:</p>
+<table>
+<thead>
+<tr>
+<th>Printer</th>
+<th>Nozzle</th>
+<th>Chamber</th>
+<th>Bed</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>INTAMSYS FUNMAT HT</td>
+<td>Dual nozzles up to 450 °C</td>
+<td>90 °C constant temperature</td>
+<td>Up to 160 °C</td>
+</tr>
+<tr>
+<td>INTAMSYS FUNMAT PRO 610HT</td>
+<td>Dual nozzles up to 500 °C</td>
+<td>Actively heated to 300 °C</td>
+<td>Not stated</td>
+</tr>
+<tr>
+<td>Prusa Pro HT90</td>
+<td>The printer Prusa lists for its PEEK-CF and PEI 1010 profiles (up to 440 °C in the PEEK-CF guide)</td>
+<td>85–90 °C+</td>
+<td>140–155 °C</td>
+</tr>
+<tr>
+<td>Stratasys Fortus 450mc, F900</td>
+<td>Industrial machines for PEI (ULTEM 9085) and PEKK-based Antero</td>
+<td>–</td>
+<td>–</td>
+</tr>
+</tbody></table>
+<p>INTAMSYS also sells the FUNMAT PRO 410 and the PEEK-focused FUNMAT PRO 310 APOLLO. For an overview of machines in this class, see our <a href="/blog/industrial-3d-printer/">industrial 3D printer guide</a> and the <a href="/printers/stratasys-3d-printers/">Stratasys 3D printers</a> hub.</p>
+<h2>Why hobby printers can&#39;t print PEEK</h2>
+<p>Compare the requirements with high-end desktop printers:</p>
+<ul>
+<li>The <a href="/printers/bambu-lab-h2d/">Bambu Lab H2D</a> has a 350 °C hot end and a chamber heated up to 65 °C, according to Bambu Lab&#39;s launch post.</li>
+<li>The QIDI Plus 4 lists a 370 °C nozzle, a 120 °C bed and a 65 °C chamber.</li>
+<li>Most open and enclosed desktop printers stop at 300 °C or below.</li>
+</ul>
+<p>Even the best of these miss at least two targets: PEEK makers ask for about 400 °C at the nozzle, 120–155 °C at the bed and 70 °C or more in the chamber. Without a hot chamber, the first layers cool and shrink while new layers go down hot, which leads to warping, cracks and weak layer bonds. Never set a hot end above the temperature its maker rates it for. 3DXTech states plainly that its PEEK is not intended for standard desktop FDM printers, and Prusa says its PEI 1010 is not suitable for the MK, XL and MINI series.</p>
+<p><strong>Why it matters:</strong> if your printer tops out at 300–350 °C, choose PC, PAHT-CF, PA6-CF or PET-CF for heat-resistant parts instead of a PEEK spool that will not print properly.</p>
+<h2>PEEK vs PEI (ULTEM)</h2>
+<p>PEI (polyetherimide) is the other common high-temperature filament; ULTEM is the best-known brand name for it.</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>PEEK</th>
+<th>PEI (ULTEM)</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Structure</td>
+<td>Semi-crystalline</td>
+<td>Amorphous</td>
+</tr>
+<tr>
+<td>Glass transition</td>
+<td>143 °C (Victrex)</td>
+<td>About 177 °C for ULTEM 9085 (Stratasys)</td>
+</tr>
+<tr>
+<td>Heat limit quoted</td>
+<td>260 °C continuous use (Victrex)</td>
+<td>Over 200 °C heat resistance (Prusa); HDT about 170–178 °C for printed ULTEM 9085</td>
+</tr>
+<tr>
+<td>Nozzle</td>
+<td>About 370–440 °C</td>
+<td>410 ± 10 °C (Prusament PEI 1010)</td>
+</tr>
+<tr>
+<td>Bed / chamber</td>
+<td>120–155 °C / 70 °C+</td>
+<td>150 ± 10 °C / 90 °C+ (Prusament PEI 1010)</td>
+</tr>
+<tr>
+<td>Annealing</td>
+<td>Usually needed for full crystallinity</td>
+<td>Not a crystallisation step</td>
+</tr>
+<tr>
+<td>Typical strengths</td>
+<td>Wear, chemical and fatigue resistance; implants (special grades)</td>
+<td>Flame-rated parts; Stratasys lists ULTEM 9085 at UL94 V-0</td>
+</tr>
+<tr>
+<td>Common issues</td>
+<td>Warping, crystallinity control</td>
+<td>Warping, difficult supports (Prusa)</td>
+</tr>
+</tbody></table>
+<p><strong>Tip:</strong> choose PEI when you need flame-rated, dimensionally stable parts below about 170 °C and want to skip crystallisation. Choose PEEK when the part sees higher temperatures, sliding wear or aggressive chemicals.</p>
+<h2>Troubleshooting PEEK prints</h2>
+<p><strong>Warping and cracking between layers</strong></p>
+<ul>
+<li>Causes: chamber too cold, bed too cold, large flat parts, draughts.</li>
+<li>Fixes in order: raise the chamber towards the top of the maker&#39;s range; raise the bed within the range; add a brim; slow down.</li>
+<li>Prevention: Prusa notes that heating the chamber reduces warping and cracking and improves layer adhesion.</li>
+</ul>
+<p><strong>First layer won&#39;t stick</strong></p>
+<ul>
+<li>Causes: no adhesive, bed under temperature, dirty surface.</li>
+<li>Fixes in order: clean the plate; apply a high-temperature adhesive (3DXTech uses Nano Polymer Adhesive, Prusa and 3D4Makers suggest Magigoo HT, applied in several layers); confirm bed temperature.</li>
+</ul>
+<p><strong>Bubbles, popping, rough or weak parts</strong></p>
+<ul>
+<li>Cause: moisture. Prusa says PEEK-CF starts absorbing moisture within 10 minutes in open air.</li>
+<li>Fixes in order: dry at 120–130 °C for the time on the datasheet; print from a heated dry box; reprint.</li>
+<li>Prevention: check that your dryer and spool are rated for 120 °C or more – many hobby dryers are not. Our <a href="/blog/filament-dryer/">filament dryer guide</a> covers typical limits.</li>
+</ul>
+<p><strong>Part changes size after annealing</strong></p>
+<ul>
+<li>Cause: crystallisation shrinkage.</li>
+<li>Fixes: anneal a test part first, measure, and scale the model or adjust tolerances.</li>
+</ul>
+<h2>Checklist: before you buy PEEK filament</h2>
+<ol>
+<li><strong>Check the printer&#39;s real limits:</strong> hot end of about 400 °C or more, bed of 120 °C or more, actively heated chamber of 70 °C or more.</li>
+<li><strong>Pick the exact grade</strong> – unfilled, CF, GF or PAEK – and download its datasheet.</li>
+<li><strong>Fit a hardened nozzle</strong> for CF and GF grades.</li>
+<li><strong>Plan drying:</strong> a dryer that reaches 120–130 °C and a heated dry box for printing.</li>
+<li><strong>Prepare bed adhesion:</strong> the adhesive or sheet the maker names.</li>
+<li><strong>Plan annealing:</strong> an oven that holds the datasheet temperature steadily, and a test part to measure shrinkage.</li>
+<li><strong>Plan the room:</strong> high-temperature printers and annealing ovens give off a lot of heat, so keep the space ventilated and follow the printer maker&#39;s installation guidance.</li>
+<li><strong>Check the model first.</strong> Open it in our <a href="/stl-viewer/">STL viewer</a> to confirm scale and wall thickness before you spend expensive filament.</li>
+</ol>
+<h2>Verdict</h2>
+<p>PEEK filament gives FDM printing its highest-performance plastic: a 343 °C melting point, up to 260 °C continuous use, strong chemical and wear resistance and V-0 flame behaviour. The price of that is a demanding process – about 400 °C at the nozzle, a 120–155 °C bed, a hot chamber, dry filament and usually an annealing step. That puts it on industrial machines such as the INTAMSYS FUNMAT series or the Prusa Pro HT90, not on desktop printers that stop at 300–350 °C. If you need heat resistance on a home printer, PC or a carbon fibre nylon is the realistic choice; if you need flame-rated parts without crystallisation, look at PEI.</p>
+26:["$","div",null,{"className":"split","children":[["$","article",null,{"className":"prose","children":[["$","h1",null,{"children":"PEEK filament – what it is, PEEK 3D printing settings and printer requirements"}],["$","figure",null,{"className":"doc-hero","children":["$","img",null,{"src":"/images/blog/peek-filament.webp","alt":"Illustration of a generic industrial printer with a glowing heated chamber printing a tan high-performance bracket, with amber parts on a steel tray","width":1200,"height":675,"fetchPriority":"high","decoding":"async"}]}],["$","p",null,{"className":"muted small","children":["Updated ","November 27, 2026"]}],["$","div",null,{"className":"summary-box","children":[["$","b",null,{"children":"Key points"}],["$","ul",null,{"children":[["$","li","PEEK (polyether ether ketone) is a semi-crystalline polymer from the PAEK family; Victrex lists a 143 °C glass transition, a 343 °C melting point and a 260 °C continuous use temperature.",{"children":"PEEK (polyether ether ketone) is a semi-crystalline polymer from the PAEK family; Victrex lists a 143 °C glass transition, a 343 °C melting point and a 260 °C continuous use temperature."}],["$","li","Filament makers ask for a nozzle of roughly 370–440 °C, a bed of 120–155 °C and a heated chamber of at least 70–100 °C, depending on the grade.",{"children":"Filament makers ask for a nozzle of roughly 370–440 °C, a bed of 120–155 °C and a heated chamber of at least 70–100 °C, depending on the grade."}],["$","li","Desktop printers with a 300–350 °C hot end and a 65 °C chamber cannot print PEEK properly; it needs high-temperature machines such as the INTAMSYS FUNMAT series or the Prusa Pro HT90.",{"children":"Desktop printers with a 300–350 °C hot end and a 65 °C chamber cannot print PEEK properly; it needs high-temperature machines such as the INTAMSYS FUNMAT series or the Prusa Pro HT90."}]]}]]}],null,["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$28"}}]]}],"$L29"]}]
+27:["$","section",null,{"className":"section faq","aria-labelledby":"faq-h","children":[["$","h2",null,{"id":"faq-h","children":"Questions and answers"}],["$","div",null,{"className":"faq-list","children":[["$","details","What is PEEK filament used for?",{"children":[["$","summary",null,{"children":"What is PEEK filament used for?"}],["$","p",null,{"children":"PEEK filament is used for parts that must survive heat, chemicals and load: seals, gears, bushings, bearings and pump parts (3DXTech's list), aerospace brackets and ducts, engine and automotive parts, semiconductor fixtures and, with implant-grade material such as Evonik's VESTAKEEP i4 3DF, medical implants made under medical device rules."}]]}],["$","details","Can a Bambu Lab or other desktop 3D printer print PEEK?",{"children":[["$","summary",null,{"children":"Can a Bambu Lab or other desktop 3D printer print PEEK?"}],["$","p",null,{"children":"Not reliably. PEEK filament makers ask for a nozzle around 375–420 °C, a 120–155 °C bed and an actively heated chamber of 70 °C or more. The Bambu Lab H2D tops out at 350 °C at the nozzle and 65 °C in the chamber, and most other desktop printers stop at 300 °C. 3DXTech says its PEEK is not intended for standard desktop FDM printers."}]]}],["$","details","Is PEEK better than PEI (ULTEM)?",{"children":[["$","summary",null,{"children":"Is PEEK better than PEI (ULTEM)?"}],["$","p",null,{"children":"It depends on the job. PEEK is semi-crystalline, with higher temperature limits (Victrex lists 260 °C continuous use) and very good wear and chemical resistance, but it needs controlled crystallisation. PEI such as ULTEM 9085 is amorphous with a glass transition around 177 °C; it warps less from crystallisation and is widely used for flame-rated aerospace interior parts on Stratasys printers."}]]}],["$","details","Do you need to anneal PEEK 3D prints?",{"children":[["$","summary",null,{"children":"Do you need to anneal PEEK 3D prints?"}],["$","p",null,{"children":"Usually yes, if you want full heat and chemical resistance. Parts printed in a cooler chamber come out largely amorphous; annealing above the glass transition lets them crystallise. INTAMSYS annealed its PEEK test bars at 200 °C for 2 hours, and Victrex gives 170–180 °C for 2–4 hours for its AM 200 PAEK filament. Follow your filament's datasheet."}]]}]]}]]}]
+29:["$","aside",null,{"className":"aside","children":[["$","div",null,{"className":"facts","children":[["$","b",null,{"children":"Tools for this"}],["$","div",null,{"className":"tool-grid","style":{"marginTop":10,"gridTemplateColumns":"1fr"},"children":[["$","$L4","stl-viewer",{"className":"tool-link","href":"/stl-viewer/","children":"STL viewer"}],["$","$L4","3d-viewer",{"className":"tool-link","href":"/3d-viewer/","children":"Online 3D model viewer"}],["$","$L4","3mf-to-stl",{"className":"tool-link","href":"/3mf-to-stl/","children":"3MF to STL converter"}]]}]]}],["$","div",null,{"className":"facts","children":[["$","b",null,{"children":"Open or convert a model"}],["$","p",null,{"className":"small","style":{"margin":"6px 0 10px"},"children":"View STL, 3MF, STEP and more in your browser."}],["$","$L4",null,{"className":"btn btn-accent","href":"/3d-viewer/","children":"3D viewer"}]]}]]}]
+20:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#10151C"}]]
+1c:null
+2a:I[622,[],"IconMark"]
+1e:{"metadata":[["$","title","0",{"children":"PEEK Filament – Properties, Settings and Printer Needs | my3dprinter.io"}],["$","meta","1",{"name":"description","content":"PEEK filament explained – datasheet properties, nozzle, bed and chamber temperatures, annealing, PEEK vs PEI (ULTEM) and which printers can print it."}],["$","meta","2",{"name":"application-name","content":"my3dprinter.io"}],["$","link","3",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","4",{"name":"robots","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","5",{"rel":"canonical","href":"https://my3dprinter.io/blog/peek-filament/"}],["$","meta","6",{"name":"format-detection","content":"telephone=no"}],["$","meta","7",{"property":"og:title","content":"PEEK Filament – Properties, Settings and Printer Needs | my3dprinter.io"}],["$","meta","8",{"property":"og:description","content":"PEEK filament explained – datasheet properties, nozzle, bed and chamber temperatures, annealing, PEEK vs PEI (ULTEM) and which printers can print it."}],["$","meta","9",{"property":"og:url","content":"https://my3dprinter.io/blog/peek-filament/"}],["$","meta","10",{"property":"og:site_name","content":"my3dprinter.io"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:image","content":"https://my3dprinter.io/images/blog/peek-filament.webp"}],["$","meta","13",{"property":"og:image:width","content":"1200"}],["$","meta","14",{"property":"og:image:height","content":"675"}],["$","meta","15",{"property":"og:image:alt","content":"PEEK Filament – Properties, Settings and Printer Needs"}],["$","meta","16",{"property":"og:type","content":"article"}],["$","meta","17",{"property":"article:published_time","content":"2026-11-27"}],["$","meta","18",{"property":"article:modified_time","content":"2026-11-27"}],["$","meta","19",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","20",{"name":"twitter:title","content":"PEEK Filament – Properties, Settings and Printer Needs | my3dprinter.io"}],["$","meta","21",{"name":"twitter:description","content":"PEEK filament explained – datasheet properties, nozzle, bed and chamber temperatures, annealing, PEEK vs PEI (ULTEM) and which printers can print it."}],["$","meta","22",{"name":"twitter:image","content":"https://my3dprinter.io/images/blog/peek-filament.webp"}],["$","link","23",{"rel":"icon","href":"/favicon.ico","sizes":"48x48"}],["$","link","24",{"rel":"icon","href":"/icon.svg","type":"image/svg+xml"}],["$","link","25",{"rel":"icon","href":"/icon-192.png","sizes":"192x192","type":"image/png"}],["$","link","26",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","sizes":"180x180"}],["$","$L2a","27",{}]],"error":null,"digest":"$undefined"}
+23:"$1e:metadata"

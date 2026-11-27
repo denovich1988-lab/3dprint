@@ -1,0 +1,279 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+4:I[2619,["2619","static/chunks/2619-3c9e02e22d10480a.js","4966","static/chunks/app/(en)/blog/%5Bslug%5D/page-6f60855278aa4f75.js"],""]
+5:I[1538,["2619","static/chunks/2619-3c9e02e22d10480a.js","90","static/chunks/app/(en)/layout-1d0e45a00e968cb3.js"],"default"]
+6:I[909,["2619","static/chunks/2619-3c9e02e22d10480a.js","90","static/chunks/app/(en)/layout-1d0e45a00e968cb3.js"],"default"]
+15:I[7150,[],""]
+:HL["/_next/static/css/93d1a12f2f4c9226.css","style"]
+0:{"P":null,"b":"rD7TGm9XF6FHQRkd5YG22","p":"","c":["","blog","how-to-use-3d-printing-in-architecture",""],"i":false,"f":[[["",{"children":["(en)",{"children":["blog",{"children":[["slug","how-to-use-3d-printing-in-architecture","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/93d1a12f2f4c9226.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","script",null,{"async":true,"src":"https://www.googletagmanager.com/gtm.js?id=GTM-T7SN8RQX"}],["$","script",null,{"async":true,"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3226858004021254","crossOrigin":"anonymous"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());"}}]]}],["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"wrap header-in","children":[["$","$L4",null,{"href":"/","className":"brand","aria-label":"my3dprinter.io home","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","nav",null,{"aria-label":"Main","className":"nav","children":[["$","$L4","/converters/",{"href":"/converters/","children":"Converters"}],["$","$L4","/3d-viewer/",{"href":"/3d-viewer/","children":"3D viewer"}],["$","$L4","/image-to-stl/",{"href":"/image-to-stl/","children":"Image to STL"}],["$","$L4","/printers/",{"href":"/printers/","children":"Printers"}],["$","$L4","/blog/",{"href":"/blog/","children":"Blog"}]]}],["$","div",null,{"className":"header-actions","children":[["$","$L5",null,{"lang":"en","langs":[{"code":"en","name":"English"},{"code":"de","name":"Deutsch"},{"code":"es","name":"Español"},{"code":"fr","name":"Français"},{"code":"it","name":"Italiano"},{"code":"ja","name":"日本語"},{"code":"ko","name":"한국어"},{"code":"pt","name":"Português"},{"code":"vi","name":"Tiếng Việt"},{"code":"th","name":"ไทย"},{"code":"zh","name":"简体中文"},{"code":"ru","name":"Русский"}],"localized":["/","/converters/","/3mf-to-stl/","/glb-to-stl/","/stl-to-3mf/","/step-to-stl/","/glb-to-obj/","/obj-to-stl/","/stl-to-obj/","/fbx-to-obj/","/gcode-to-stl/","/fbx-to-stl/","/zip-to-stl/","/stp-to-stl/","/dae-to-obj/","/gltf-to-obj/","/stl-to-dxf/","/obj-to-glb/","/gltf-to-stl/","/fbx-to-glb/","/ply-to-stl/","/3mf-to-obj/","/dae-to-stl/","/usdz-to-stl/","/ply-to-obj/","/stp-to-obj/","/3ds-to-obj/","/igs-to-stl/","/stl-to-glb/","/obj-to-3mf/","/glb-to-3mf/","/stl-to-usdz/","/glb-to-usdz/","/step-to-obj/","/step-to-3mf/","/stl-to-ply/","/fbx-to-gltf/","/image-to-stl/","/png-to-stl/","/jpg-to-stl/","/jpeg-to-stl/","/lithophane-maker/","/png-to-obj/","/png-to-3mf/","/svg-to-stl/","/svg-to-obj/","/png-to-dds/","/jpg-to-dds/","/dds-to-png/","/dds-to-jpg/","/3d-viewer/","/stl-viewer/","/3mf-viewer/","/obj-viewer/","/glb-viewer/","/step-viewer/","/ply-viewer/","/fbx-viewer/","/gltf-viewer/"],"label":"Language"}],["$","$L6",null,{"links":[["/converters/","Converters"],["/3d-viewer/","3D viewer"],["/image-to-stl/","Image to STL"],["/printers/","Printers"],["/blog/","Blog"],["/printers/compare/","Compare printers"]],"label":"Menu"}]]}]]}]}],["$","main",null,{"id":"main","className":"wrap","style":{"padding":"64px 24px"},"children":[["$","h1",null,{"children":"Page not found"}],["$","p",null,{"className":"lead","children":"This page does not exist. Try a converter or the 3D viewer."}],["$","p",null,{"children":["$","$L4",null,{"className":"btn btn-accent","href":"/converters/","children":"All converters"}]}]]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"wrap footer-grid","children":[["$","div",null,{"className":"footer-brand","children":[["$","$L4",null,{"href":"/","className":"brand","children":["$L7"," ","$L8"]}],"$L9"]}],["$La","$Lb","$Lc","$Ld","$Le"]]}],"$Lf"]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["(en)","$L10",{"children":["blog","$L11",{"children":[["slug","how-to-use-3d-printing-in-architecture","d"],"$L12",{"children":["__PAGE__","$L13",{},null,false]},null,false]},null,false]},null,false]},null,false],"$L14",false]],"m":"$undefined","G":["$15",[]],"s":false,"S":true}
+1a:I[4431,[],"OutletBoundary"]
+1c:I[5278,[],"AsyncMetadataOutlet"]
+1e:I[4431,[],"ViewportBoundary"]
+20:I[4431,[],"MetadataBoundary"]
+21:"$Sreact.suspense"
+7:["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]
+8:["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]
+9:["$","p",null,{"children":"Free tools that run in your browser. Your files are never uploaded."}]
+a:["$","div","Converters",{"children":[["$","h2",null,{"children":"Converters"}],["$","ul",null,{"children":[["$","li","/3mf-to-stl/",{"children":["$","$L4",null,{"href":"/3mf-to-stl/","children":"3MF → STL"}]}],["$","li","/step-to-stl/",{"children":["$","$L4",null,{"href":"/step-to-stl/","children":"STEP → STL"}]}],["$","li","/glb-to-stl/",{"children":["$","$L4",null,{"href":"/glb-to-stl/","children":"GLB → STL"}]}],["$","li","/obj-to-stl/",{"children":["$","$L4",null,{"href":"/obj-to-stl/","children":"OBJ → STL"}]}],["$","li","/stl-to-3mf/",{"children":["$","$L4",null,{"href":"/stl-to-3mf/","children":"STL → 3MF"}]}],["$","li","/converters/",{"children":["$","$L4",null,{"href":"/converters/","children":"All converters"}]}]]}]]}]
+b:["$","div","Images & textures",{"children":[["$","h2",null,{"children":"Images & textures"}],["$","ul",null,{"children":[["$","li","/image-to-stl/",{"children":["$","$L4",null,{"href":"/image-to-stl/","children":"Image to STL"}]}],["$","li","/lithophane-maker/",{"children":["$","$L4",null,{"href":"/lithophane-maker/","children":"Lithophane maker"}]}],["$","li","/svg-to-stl/",{"children":["$","$L4",null,{"href":"/svg-to-stl/","children":"SVG → STL"}]}],["$","li","/png-to-dds/",{"children":["$","$L4",null,{"href":"/png-to-dds/","children":"PNG → DDS"}]}],["$","li","/dds-to-png/",{"children":["$","$L4",null,{"href":"/dds-to-png/","children":"DDS → PNG"}]}]]}]]}]
+c:["$","div","Viewers",{"children":[["$","h2",null,{"children":"Viewers"}],["$","ul",null,{"children":[["$","li","/3d-viewer/",{"children":["$","$L4",null,{"href":"/3d-viewer/","children":"Online 3D model viewer"}]}],["$","li","/stl-viewer/",{"children":["$","$L4",null,{"href":"/stl-viewer/","children":"STL viewer"}]}],["$","li","/3mf-viewer/",{"children":["$","$L4",null,{"href":"/3mf-viewer/","children":"3MF viewer"}]}],["$","li","/step-viewer/",{"children":["$","$L4",null,{"href":"/step-viewer/","children":"STEP viewer"}]}],["$","li","/obj-viewer/",{"children":["$","$L4",null,{"href":"/obj-viewer/","children":"OBJ viewer"}]}]]}]]}]
+d:["$","div","my3dprinter.io",{"children":[["$","h2",null,{"children":"my3dprinter.io"}],["$","ul",null,{"children":[["$","li","/printers/",{"children":["$","$L4",null,{"href":"/printers/","children":"3D printers"}]}],["$","li","/printers/compare/",{"children":["$","$L4",null,{"href":"/printers/compare/","children":"Compare printers"}]}],["$","li","/blog/",{"children":["$","$L4",null,{"href":"/blog/","children":"Blog"}]}],["$","li","/formats/",{"children":["$","$L4",null,{"href":"/formats/","children":"File formats"}]}],["$","li","/about/",{"children":["$","$L4",null,{"href":"/about/","children":"About"}]}],["$","li","/contact/",{"children":["$","$L4",null,{"href":"/contact/","children":"Contact"}]}]]}]]}]
+e:["$","div","Legal",{"children":[["$","h2",null,{"children":"Legal"}],["$","ul",null,{"children":[["$","li","/privacy/",{"children":["$","$L4",null,{"href":"/privacy/","children":"Privacy policy"}]}],["$","li","/cookies/",{"children":["$","$L4",null,{"href":"/cookies/","children":"Cookie policy"}]}],["$","li","/terms/",{"children":["$","$L4",null,{"href":"/terms/","children":"Terms of use"}]}],["$","li","/disclaimer/",{"children":["$","$L4",null,{"href":"/disclaimer/","children":"Disclaimer"}]}]]}]]}]
+f:["$","div",null,{"className":"wrap footer-base","children":["$","p",null,{"children":["© ",2026," my3dprinter.io. ","Brand and product names belong to their owners; my3dprinter.io is an independent site and is not affiliated with any printer maker."]}]}]
+10:["$","$1","c",{"children":[null,[["$","a",null,{"className":"skip","href":"#main","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"wrap header-in","children":[["$","$L4",null,{"href":"/","className":"brand","aria-label":"my3dprinter.io home","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","nav",null,{"aria-label":"Main","className":"nav","children":[["$","$L4","/converters/",{"href":"/converters/","children":"Converters"}],["$","$L4","/3d-viewer/",{"href":"/3d-viewer/","children":"3D viewer"}],["$","$L4","/image-to-stl/",{"href":"/image-to-stl/","children":"Image to STL"}],["$","$L4","/printers/",{"href":"/printers/","children":"Printers"}],["$","$L4","/blog/",{"href":"/blog/","children":"Blog"}]]}],["$","div",null,{"className":"header-actions","children":[["$","$L5",null,{"lang":"en","langs":[{"code":"en","name":"English"},{"code":"de","name":"Deutsch"},{"code":"es","name":"Español"},{"code":"fr","name":"Français"},{"code":"it","name":"Italiano"},{"code":"ja","name":"日本語"},{"code":"ko","name":"한국어"},{"code":"pt","name":"Português"},{"code":"vi","name":"Tiếng Việt"},{"code":"th","name":"ไทย"},{"code":"zh","name":"简体中文"},{"code":"ru","name":"Русский"}],"localized":"$0:f:0:1:1:props:children:1:props:children:1:props:children:props:notFound:0:0:props:children:props:children:2:props:children:0:props:localized","label":"Language"}],["$","$L6",null,{"links":[["/converters/","Converters"],["/3d-viewer/","3D viewer"],["/image-to-stl/","Image to STL"],["/printers/","Printers"],["/blog/","Blog"],["/printers/compare/","Compare printers"]],"label":"Menu"}]]}]]}]}],["$","main",null,{"id":"main","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"wrap footer-grid","children":[["$","div",null,{"className":"footer-brand","children":[["$","$L4",null,{"href":"/","className":"brand","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","p",null,{"children":"Free tools that run in your browser. Your files are never uploaded."}]]}],[["$","div","Converters",{"children":[["$","h2",null,{"children":"Converters"}],["$","ul",null,{"children":[["$","li","/3mf-to-stl/",{"children":["$","$L4",null,{"href":"/3mf-to-stl/","children":"3MF → STL"}]}],["$","li","/step-to-stl/",{"children":["$","$L4",null,{"href":"/step-to-stl/","children":"STEP → STL"}]}],["$","li","/glb-to-stl/",{"children":["$","$L4",null,{"href":"/glb-to-stl/","children":"GLB → STL"}]}],["$","li","/obj-to-stl/",{"children":["$","$L4",null,{"href":"/obj-to-stl/","children":"OBJ → STL"}]}],["$","li","/stl-to-3mf/",{"children":["$","$L4",null,{"href":"/stl-to-3mf/","children":"STL → 3MF"}]}],["$","li","/converters/",{"children":["$","$L4",null,{"href":"/converters/","children":"All converters"}]}]]}]]}],["$","div","Images & textures",{"children":[["$","h2",null,{"children":"Images & textures"}],["$","ul",null,{"children":[["$","li","/image-to-stl/",{"children":["$","$L4",null,{"href":"/image-to-stl/","children":"Image to STL"}]}],["$","li","/lithophane-maker/",{"children":["$","$L4",null,{"href":"/lithophane-maker/","children":"Lithophane maker"}]}],["$","li","/svg-to-stl/",{"children":["$","$L4",null,{"href":"/svg-to-stl/","children":"SVG → STL"}]}],["$","li","/png-to-dds/",{"children":["$","$L4",null,{"href":"/png-to-dds/","children":"PNG → DDS"}]}],["$","li","/dds-to-png/",{"children":["$","$L4",null,{"href":"/dds-to-png/","children":"DDS → PNG"}]}]]}]]}],["$","div","Viewers",{"children":[["$","h2",null,{"children":"Viewers"}],["$","ul",null,{"children":[["$","li","/3d-viewer/",{"children":["$","$L4",null,{"href":"/3d-viewer/","children":"Online 3D model viewer"}]}],["$","li","/stl-viewer/",{"children":["$","$L4",null,{"href":"/stl-viewer/","children":"STL viewer"}]}],["$","li","/3mf-viewer/",{"children":["$","$L4",null,{"href":"/3mf-viewer/","children":"3MF viewer"}]}],["$","li","/step-viewer/",{"children":["$","$L4",null,{"href":"/step-viewer/","children":"STEP viewer"}]}],["$","li","/obj-viewer/",{"children":["$","$L4",null,{"href":"/obj-viewer/","children":"OBJ viewer"}]}]]}]]}],"$L16","$L17"]]}],"$L18"]}]]]}]
+11:["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+12:["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+13:["$","$1","c",{"children":["$L19",null,["$","$L1a",null,{"children":["$L1b",["$","$L1c",null,{"promise":"$@1d"}]]}]]}]
+14:["$","$1","h",{"children":[null,[["$","$L1e",null,{"children":"$L1f"}],null],["$","$L20",null,{"children":["$","div",null,{"hidden":true,"children":["$","$21",null,{"fallback":null,"children":"$L22"}]}]}]]}]
+16:["$","div","my3dprinter.io",{"children":[["$","h2",null,{"children":"my3dprinter.io"}],["$","ul",null,{"children":[["$","li","/printers/",{"children":["$","$L4",null,{"href":"/printers/","children":"3D printers"}]}],["$","li","/printers/compare/",{"children":["$","$L4",null,{"href":"/printers/compare/","children":"Compare printers"}]}],["$","li","/blog/",{"children":["$","$L4",null,{"href":"/blog/","children":"Blog"}]}],["$","li","/formats/",{"children":["$","$L4",null,{"href":"/formats/","children":"File formats"}]}],["$","li","/about/",{"children":["$","$L4",null,{"href":"/about/","children":"About"}]}],["$","li","/contact/",{"children":["$","$L4",null,{"href":"/contact/","children":"Contact"}]}]]}]]}]
+17:["$","div","Legal",{"children":[["$","h2",null,{"children":"Legal"}],["$","ul",null,{"children":[["$","li","/privacy/",{"children":["$","$L4",null,{"href":"/privacy/","children":"Privacy policy"}]}],["$","li","/cookies/",{"children":["$","$L4",null,{"href":"/cookies/","children":"Cookie policy"}]}],["$","li","/terms/",{"children":["$","$L4",null,{"href":"/terms/","children":"Terms of use"}]}],["$","li","/disclaimer/",{"children":["$","$L4",null,{"href":"/disclaimer/","children":"Disclaimer"}]}]]}]]}]
+18:["$","div",null,{"className":"wrap footer-base","children":["$","p",null,{"children":["© ",2026," my3dprinter.io. ","Brand and product names belong to their owners; my3dprinter.io is an independent site and is not affiliated with any printer maker."]}]}]
+23:Te47,{"@context":"https://schema.org","@graph":[{"@type":"Article","headline":"How to use 3D printing in architecture – a practical guide to architectural models","description":"How to use 3D printing in architecture – uses, file prep from Revit, SketchUp and Rhino, choosing a scale, wall thickness, FDM vs resin vs SLS, and finishing models.","datePublished":"2026-11-26","dateModified":"2026-11-26","mainEntityOfPage":"https://my3dprinter.io/blog/how-to-use-3d-printing-in-architecture/","inLanguage":"en","author":{"@type":"Organization","name":"my3dprinter.io","url":"https://my3dprinter.io"},"publisher":{"@type":"Organization","@id":"https://my3dprinter.io/#organization","name":"my3dprinter.io","url":"https://my3dprinter.io/","logo":{"@type":"ImageObject","url":"https://my3dprinter.io/icon-512.png","width":512,"height":512},"email":"hello@my3dprinter.io","description":"Free 3D file converters, viewers and 3D printer guides"},"image":"https://my3dprinter.io/images/blog/how-to-use-3d-printing-in-architecture.webp","citation":["https://formlabs.com/blog/3d-printing-architectural-models/","https://zortrax.com/applications/architecture/","https://shop3duniverse.com/blogs/digital-fabrication-in-the-workplace/architects-using-3d-printing-today","https://blog.chaos.com/3d-printed-architecture","https://www.ie.edu/uncover-ie/3d-printing-master-in-architecture/","https://www.exone.com/en/industries_overview/industries_architecture/","https://help.prusa3d.com/materials"]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://my3dprinter.io/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://my3dprinter.io/blog/"},{"@type":"ListItem","position":3,"name":"How to use 3D printing in architecture – a practical guide to architectural models","item":"https://my3dprinter.io/blog/how-to-use-3d-printing-in-architecture/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How to use 3D printing in architecture?","acceptedAnswer":{"@type":"Answer","text":"Export a simplified version of your design model as STL, OBJ or 3MF, scale it to the model scale you need, thicken walls and small details so they can be printed, split it into parts that fit the printer, then print and finish it. Most offices use it for massing, site and presentation models, and for testing facade and detail ideas."}},{"@type":"Question","name":"What scale should architectural 3D prints be?","acceptedAnswer":{"@type":"Answer","text":"Common choices are 1:500 or 1:1000 for urban and site models, 1:200 or 1:100 for building massing and presentation models, and 1:50 or larger for interiors and details. The smaller the scale, the more fine elements such as mullions and railings you must thicken or leave out."}},{"@type":"Question","name":"Which 3D printer is best for architectural models?","acceptedAnswer":{"@type":"Answer","text":"An FDM printer with a large build plate is the most cost-effective for massing and site models. A resin (SLA or MSLA) printer gives sharper detail for presentation models and small facade studies. For complex models without supports, offices often order SLS or other powder prints from a service bureau."}},{"@type":"Question","name":"Can you 3D print a SketchUp or Revit model?","acceptedAnswer":{"@type":"Answer","text":"Yes, after exporting it to a mesh format. Revit and SketchUp can export formats such as STL, OBJ or DAE (directly or with an extension, depending on version), and Rhino exports STL and 3MF. The model usually needs cleaning – closing gaps, removing hidden interior detail and fixing faces – before it slices cleanly."}}]}]}19:["$","div",null,{"className":"wrap","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$23"}}],"$L24","$L25","$L26"]}]
+24:["$","nav",null,{"className":"crumbs","aria-label":"Breadcrumb","children":[["$","$L4",null,{"href":"/","children":"Home"}]," / ",["$","$L4",null,{"href":"/blog/","children":"Blog"}]," / ","How to use 3D printing in architecture – a practical guide to architectural models"]}]
+27:T2d1a,<p><strong>To use 3D printing in architecture, you export a simplified, watertight version of your design model, scale it to a model scale such as 1:100 or 1:500, thicken anything too thin to print, split it into printable parts, then print and finish it – most often as a massing, site or presentation model.</strong> 3D printing turns days of hand-cutting card and foam into an overnight print, and lets you reprint a revised design in hours. This guide covers what architects use it for, how to prepare files from Revit, SketchUp, Rhino and similar tools, how to pick a scale and minimum sizes, how FDM, resin and powder printing compare, and how to finish a model so it looks presentation-ready. It draws on guides from Formlabs, Zortrax and other makers, checked November 2026.</p>
+<h2>3D printing in architecture at a glance</h2>
+<table>
+<thead>
+<tr>
+<th>Step</th>
+<th>What to do</th>
+<th>Typical tools</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Uses</td>
+<td>Massing, site, concept, presentation, facade and detail studies</td>
+<td>–</td>
+</tr>
+<tr>
+<td>Export</td>
+<td>Mesh formats: STL, OBJ, 3MF; DAE or FBX from some tools</td>
+<td>Revit, SketchUp, Rhino, ArchiCAD, Blender</td>
+</tr>
+<tr>
+<td>Simplify</td>
+<td>Remove interior detail, furniture, hidden layers</td>
+<td>Design software</td>
+</tr>
+<tr>
+<td>Repair</td>
+<td>Make the mesh watertight; fix flipped or missing faces</td>
+<td>Slicer repair, mesh tools</td>
+</tr>
+<tr>
+<td>Scale</td>
+<td>1:500–1:1000 site, 1:100–1:200 buildings, 1:50+ details</td>
+<td>Slicer or CAD</td>
+</tr>
+<tr>
+<td>Minimum sizes</td>
+<td>Thicken walls, mullions and railings to printable widths</td>
+<td>Design software</td>
+</tr>
+<tr>
+<td>Split</td>
+<td>Floors, roof, site base, landscape as separate parts</td>
+<td>Design software or slicer</td>
+</tr>
+<tr>
+<td>Print</td>
+<td>FDM for massing and sites, resin for detail, SLS for complex parts</td>
+<td>Printer or service bureau</td>
+</tr>
+<tr>
+<td>Finish</td>
+<td>Remove supports, sand, prime, paint, assemble</td>
+<td>Hand tools</td>
+</tr>
+</tbody></table>
+<h2>What architects use 3D printing for</h2>
+<ul>
+<li><strong>Concept and massing models.</strong> Quick, plain-coloured blocks to test volume, height and form – often printed in white or grey and replaced as the design changes.</li>
+<li><strong>Site and urban models.</strong> Terrain and surrounding buildings, often in a neutral colour with the new building in a contrasting one.</li>
+<li><strong>Presentation models.</strong> Detailed, finished models for clients, competitions and planning meetings.</li>
+<li><strong>Sectional and stacking models.</strong> Buildings printed floor by floor so the floors lift off to show interiors.</li>
+<li><strong>Facade and detail studies.</strong> A bay of a facade or a joint detail at large scale, to check depth, shadow and proportions.</li>
+<li><strong>Formwork and moulds.</strong> Industrial binder-jet and other processes print sand moulds and formwork for concrete and cast elements, as ExOne describes.</li>
+</ul>
+<p>Printing actual buildings in concrete is a different field: it uses large gantry or robotic printers on site and is covered by construction research and industry, not desktop model making.</p>
+<p><strong>Why it matters:</strong> decide what the model is for before you prepare the file. A massing model needs volumes, not window frames; a presentation model needs detail, colour and a clean finish.</p>
+<h2>Step 1: export a printable mesh</h2>
+<p>Printers do not read native BIM or CAD files. Export a mesh:</p>
+<table>
+<thead>
+<tr>
+<th>Software</th>
+<th>Common export for printing</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Revit</td>
+<td>STL (built in or via add-in, depending on version), or FBX/OBJ for repair in another tool</td>
+</tr>
+<tr>
+<td>SketchUp</td>
+<td>STL (built in or via extension, depending on version), DAE or OBJ</td>
+</tr>
+<tr>
+<td>Rhino</td>
+<td>STL, OBJ, 3MF</td>
+</tr>
+<tr>
+<td>ArchiCAD</td>
+<td>STL, OBJ</td>
+</tr>
+<tr>
+<td>Blender</td>
+<td>STL, OBJ, 3MF</td>
+</tr>
+<tr>
+<td>Engineering CAD</td>
+<td>STEP, converted to STL</td>
+</tr>
+</tbody></table>
+<p>If you already have a DAE, OBJ or STEP file, our in-browser converters turn it into STL without uploading the file: <a href="/obj-to-stl/">OBJ to STL</a>, <a href="/dae-to-stl/">DAE to STL</a> and <a href="/step-to-stl/">STEP to STL</a>.</p>
+<p><strong>Tip:</strong> export only the layers you need. Hide furniture, people, entourage, interior doors and anything inside the walls before export; it adds file size and printing problems but cannot be seen.</p>
+<h2>Step 2: make the model watertight</h2>
+<p>A printable mesh must be a closed solid – every surface must form part of a closed volume, with no gaps, overlapping duplicate faces or faces pointing the wrong way. Architectural models often break these rules: walls drawn as single surfaces, windows as holes, roofs that do not quite meet walls.</p>
+<ol>
+<li><strong>Turn surfaces into solids.</strong> Give single-face walls and roofs a real thickness.</li>
+<li><strong>Join volumes</strong> that touch, so the slicer sees one solid instead of many overlapping ones.</li>
+<li><strong>Close openings</strong> you do not want to print, or model them as recesses rather than holes.</li>
+<li><strong>Run a repair</strong> – most slicers can fix small mesh errors automatically, and dedicated mesh tools handle bigger problems.</li>
+<li><strong>Check the result</strong> in an <a href="/stl-viewer/">STL viewer</a> before slicing.</li>
+</ol>
+<p><strong>Why it matters:</strong> most failed architectural prints are file problems, not printer problems.</p>
+<h2>Step 3: choose a scale and check minimum sizes</h2>
+<p>At model scale, real dimensions shrink dramatically. A 200 mm wall at 1:200 becomes 1 mm thick; a 50 mm mullion becomes 0.25 mm and will not print on most machines.</p>
+<table>
+<thead>
+<tr>
+<th>Scale</th>
+<th>10 m building height becomes</th>
+<th>Typical use</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>1:1000</td>
+<td>10 mm</td>
+<td>Urban context, masterplans</td>
+</tr>
+<tr>
+<td>1:500</td>
+<td>20 mm</td>
+<td>Site models</td>
+</tr>
+<tr>
+<td>1:200</td>
+<td>50 mm</td>
+<td>Massing and building models</td>
+</tr>
+<tr>
+<td>1:100</td>
+<td>100 mm</td>
+<td>Presentation and sectional models</td>
+</tr>
+<tr>
+<td>1:50</td>
+<td>200 mm</td>
+<td>Interiors, details</td>
+</tr>
+</tbody></table>
+<p><strong>Minimum sizes.</strong> On an FDM printer with a 0.4 mm nozzle, a wall needs at least one line width (about 0.4–0.45 mm) to print at all, and two lines (about 0.8–0.9 mm) to be reasonably strong. Resin printers can resolve finer features, but very thin walls still break during support removal. Formlabs and other makers publish minimum wall and detail sizes for their printers and materials – check them for your machine.</p>
+<p><strong>Tip:</strong> rather than printing details that are too thin, exaggerate them slightly or leave them out and suggest them with surface lines. A clean simplified model reads better than a fragile, broken one.</p>
+<h2>Step 4: split the model into parts</h2>
+<p>Splitting helps in several ways:</p>
+<ul>
+<li><strong>Size.</strong> Large site models must be tiled to fit the build plate.</li>
+<li><strong>Supports.</strong> A building printed upright with its roof separate often needs no supports.</li>
+<li><strong>Colour.</strong> The new building, context and landscape can be printed in different colours.</li>
+<li><strong>Sections.</strong> Separate floors let viewers lift the building apart.</li>
+</ul>
+<p>Add simple locating pins or recesses so parts align, and leave a small clearance (often around 0.2 mm on FDM, tuned with a test print) for parts that slot together.</p>
+<h2>Step 5: choose the printing process</h2>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>FDM (filament)</th>
+<th>Resin (SLA / MSLA)</th>
+<th>Powder (SLS, MJF, binder jet)</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Detail</td>
+<td>Good; layer lines visible</td>
+<td>Very fine</td>
+<td>Fine; slightly grainy surface</td>
+</tr>
+<tr>
+<td>Build size</td>
+<td>Large plates available</td>
+<td>Usually smaller</td>
+<td>Medium to large (service bureau)</td>
+</tr>
+<tr>
+<td>Supports</td>
+<td>Needed for overhangs</td>
+<td>Needed; leave marks</td>
+<td>Not needed – powder supports the part</td>
+</tr>
+<tr>
+<td>Cost per model</td>
+<td>Lowest</td>
+<td>Moderate</td>
+<td>Higher (usually outsourced)</td>
+</tr>
+<tr>
+<td>Post-processing</td>
+<td>Remove supports, sand, paint</td>
+<td>Wash, cure, remove supports</td>
+<td>Depowder, optional dyeing</td>
+</tr>
+<tr>
+<td>Best for</td>
+<td>Massing, site, large models</td>
+<td>Presentation pieces, facade details</td>
+<td>Complex single-piece models</td>
+</tr>
+</tbody></table>
+<p><strong>FDM</strong> is the workhorse for offices and students. PLA is easy to print, stiff and available in white, grey and stone-like finishes; matte PLA hides layer lines well. A large-format printer helps for site models – see our <a href="/blog/large-3d-printer/">large 3D printer guide</a>.</p>
+<p><strong>Resin</strong> gives crisp edges and fine window and balcony detail, but parts need washing and curing, and resin needs careful handling.</p>
+<p><strong>Powder processes</strong> suit complex shapes that would need many supports on FDM or resin; most practices order these from a print service rather than owning the machine.</p>
+<h2>Step 6: print settings for architectural models</h2>
+<ul>
+<li><strong>Layer height:</strong> 0.1–0.2 mm on FDM; finer layers smooth sloped roofs and terrain.</li>
+<li><strong>Orientation:</strong> print buildings upright so walls are smooth and window recesses face sideways; print terrain flat.</li>
+<li><strong>Infill:</strong> low infill (around 10–15 %) is enough for display models; increase walls instead if parts must be handled.</li>
+<li><strong>Seams:</strong> set the seam to a rear corner so it does not run up the main facade.</li>
+<li><strong>Colour:</strong> white, light grey or a single neutral is the classic architectural look and hides layer lines better than dark colours.</li>
+</ul>
+<p><strong>Tip:</strong> print one floor or one facade bay as a test before committing to a 20-hour model.</p>
+<h2>Step 7: finish and present the model</h2>
+<ol>
+<li><strong>Remove supports</strong> carefully with flush cutters and a hobby knife.</li>
+<li><strong>Sand</strong> visible surfaces lightly; work up through finer grits.</li>
+<li><strong>Prime</strong> with a filler primer to hide layer lines on FDM prints.</li>
+<li><strong>Paint</strong> in a neutral colour, or keep the new building in a contrasting tone.</li>
+<li><strong>Assemble</strong> parts with suitable glue; for PLA, cyanoacrylate works well.</li>
+<li><strong>Add context</strong> – a laser-cut or printed base, trees, a north arrow – to make it a presentation piece.</li>
+</ol>
+<h2>Common mistakes to avoid</h2>
+<ul>
+<li>Printing the full BIM model with interiors, furniture and hidden elements.</li>
+<li>Leaving single-surface walls that slicers cannot read as solids.</li>
+<li>Printing details too thin for the scale.</li>
+<li>Printing a whole building in one piece and filling it with supports.</li>
+<li>Choosing a dark colour that shows every layer line.</li>
+</ul>
+<h2>Verdict</h2>
+<p>3D printing works best in architecture when you treat the model as a design of its own: simplify the BIM model, make it watertight, scale it, thicken or drop fine detail, and split it into sensible parts. Use FDM for quick massing and site models, resin for detailed presentation pieces, and a powder print service for complex one-piece models.</p>
+25:["$","div",null,{"className":"split","children":[["$","article",null,{"className":"prose","children":[["$","h1",null,{"children":"How to use 3D printing in architecture – a practical guide to architectural models"}],["$","figure",null,{"className":"doc-hero","children":["$","img",null,{"src":"/images/blog/how-to-use-3d-printing-in-architecture.webp","alt":"Illustration of a white printed scale model of a terraced housing block with tiny trees on a drafting desk next to a scale ruler and a laptop wireframe","width":1200,"height":675,"fetchPriority":"high","decoding":"async"}]}],["$","p",null,{"className":"muted small","children":["Updated ","November 26, 2026"]}],["$","div",null,{"className":"summary-box","children":[["$","b",null,{"children":"Key points"}],["$","ul",null,{"children":[["$","li","Architects mainly use 3D printing for concept, massing, site and presentation models, and for facade or detail studies; large-scale concrete printing of real buildings is a separate, industrial field.",{"children":"Architects mainly use 3D printing for concept, massing, site and presentation models, and for facade or detail studies; large-scale concrete printing of real buildings is a separate, industrial field."}],["$","li","The biggest job is file preparation – a BIM or design model must be simplified, made watertight and scaled before it can print, and thin walls or railings must be thickened to survive at model scale.",{"children":"The biggest job is file preparation – a BIM or design model must be simplified, made watertight and scaled before it can print, and thin walls or railings must be thickened to survive at model scale."}],["$","li","FDM is the cheapest choice for massing and site models, resin gives the finest detail for presentation pieces, and powder processes such as SLS suit complex, support-free models.",{"children":"FDM is the cheapest choice for massing and site models, resin gives the finest detail for presentation pieces, and powder processes such as SLS suit complex, support-free models."}]]}]]}],null,["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$27"}}]]}],"$L28"]}]
+26:["$","section",null,{"className":"section faq","aria-labelledby":"faq-h","children":[["$","h2",null,{"id":"faq-h","children":"Questions and answers"}],["$","div",null,{"className":"faq-list","children":[["$","details","How to use 3D printing in architecture?",{"children":[["$","summary",null,{"children":"How to use 3D printing in architecture?"}],["$","p",null,{"children":"Export a simplified version of your design model as STL, OBJ or 3MF, scale it to the model scale you need, thicken walls and small details so they can be printed, split it into parts that fit the printer, then print and finish it. Most offices use it for massing, site and presentation models, and for testing facade and detail ideas."}]]}],["$","details","What scale should architectural 3D prints be?",{"children":[["$","summary",null,{"children":"What scale should architectural 3D prints be?"}],["$","p",null,{"children":"Common choices are 1:500 or 1:1000 for urban and site models, 1:200 or 1:100 for building massing and presentation models, and 1:50 or larger for interiors and details. The smaller the scale, the more fine elements such as mullions and railings you must thicken or leave out."}]]}],["$","details","Which 3D printer is best for architectural models?",{"children":[["$","summary",null,{"children":"Which 3D printer is best for architectural models?"}],["$","p",null,{"children":"An FDM printer with a large build plate is the most cost-effective for massing and site models. A resin (SLA or MSLA) printer gives sharper detail for presentation models and small facade studies. For complex models without supports, offices often order SLS or other powder prints from a service bureau."}]]}],["$","details","Can you 3D print a SketchUp or Revit model?",{"children":[["$","summary",null,{"children":"Can you 3D print a SketchUp or Revit model?"}],["$","p",null,{"children":"Yes, after exporting it to a mesh format. Revit and SketchUp can export formats such as STL, OBJ or DAE (directly or with an extension, depending on version), and Rhino exports STL and 3MF. The model usually needs cleaning – closing gaps, removing hidden interior detail and fixing faces – before it slices cleanly."}]]}]]}]]}]
+28:["$","aside",null,{"className":"aside","children":[["$","div",null,{"className":"facts","children":[["$","b",null,{"children":"Tools for this"}],["$","div",null,{"className":"tool-grid","style":{"marginTop":10,"gridTemplateColumns":"1fr"},"children":[["$","$L4","obj-to-stl",{"className":"tool-link","href":"/obj-to-stl/","children":"OBJ to STL converter"}],["$","$L4","dae-to-stl",{"className":"tool-link","href":"/dae-to-stl/","children":"DAE to STL converter"}],["$","$L4","step-to-stl",{"className":"tool-link","href":"/step-to-stl/","children":"STEP to STL converter"}],["$","$L4","stl-viewer",{"className":"tool-link","href":"/stl-viewer/","children":"STL viewer"}]]}]]}],["$","div",null,{"className":"facts","children":[["$","b",null,{"children":"Open or convert a model"}],["$","p",null,{"className":"small","style":{"margin":"6px 0 10px"},"children":"View STL, 3MF, STEP and more in your browser."}],["$","$L4",null,{"className":"btn btn-accent","href":"/3d-viewer/","children":"3D viewer"}]]}]]}]
+1f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#10151C"}]]
+1b:null
+29:I[622,[],"IconMark"]
+1d:{"metadata":[["$","title","0",{"children":"How to Use 3D Printing in Architecture – Model Guide | my3dprinter.io"}],["$","meta","1",{"name":"description","content":"How to use 3D printing in architecture – uses, file prep from Revit, SketchUp and Rhino, choosing a scale, wall thickness, FDM vs resin vs SLS, and finishing models."}],["$","meta","2",{"name":"application-name","content":"my3dprinter.io"}],["$","link","3",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","4",{"name":"robots","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","5",{"rel":"canonical","href":"https://my3dprinter.io/blog/how-to-use-3d-printing-in-architecture/"}],["$","meta","6",{"name":"format-detection","content":"telephone=no"}],["$","meta","7",{"property":"og:title","content":"How to Use 3D Printing in Architecture – Model Guide | my3dprinter.io"}],["$","meta","8",{"property":"og:description","content":"How to use 3D printing in architecture – uses, file prep from Revit, SketchUp and Rhino, choosing a scale, wall thickness, FDM vs resin vs SLS, and finishing models."}],["$","meta","9",{"property":"og:url","content":"https://my3dprinter.io/blog/how-to-use-3d-printing-in-architecture/"}],["$","meta","10",{"property":"og:site_name","content":"my3dprinter.io"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:image","content":"https://my3dprinter.io/images/blog/how-to-use-3d-printing-in-architecture.webp"}],["$","meta","13",{"property":"og:image:width","content":"1200"}],["$","meta","14",{"property":"og:image:height","content":"675"}],["$","meta","15",{"property":"og:image:alt","content":"How to Use 3D Printing in Architecture – Model Guide"}],["$","meta","16",{"property":"og:type","content":"article"}],["$","meta","17",{"property":"article:published_time","content":"2026-11-26"}],["$","meta","18",{"property":"article:modified_time","content":"2026-11-26"}],["$","meta","19",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","20",{"name":"twitter:title","content":"How to Use 3D Printing in Architecture – Model Guide | my3dprinter.io"}],["$","meta","21",{"name":"twitter:description","content":"How to use 3D printing in architecture – uses, file prep from Revit, SketchUp and Rhino, choosing a scale, wall thickness, FDM vs resin vs SLS, and finishing models."}],["$","meta","22",{"name":"twitter:image","content":"https://my3dprinter.io/images/blog/how-to-use-3d-printing-in-architecture.webp"}],["$","link","23",{"rel":"icon","href":"/favicon.ico","sizes":"48x48"}],["$","link","24",{"rel":"icon","href":"/icon.svg","type":"image/svg+xml"}],["$","link","25",{"rel":"icon","href":"/icon-192.png","sizes":"192x192","type":"image/png"}],["$","link","26",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","sizes":"180x180"}],["$","$L29","27",{}]],"error":null,"digest":"$undefined"}
+22:"$1d:metadata"

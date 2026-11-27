@@ -1,0 +1,239 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+4:I[2619,["2619","static/chunks/2619-3c9e02e22d10480a.js","4966","static/chunks/app/(en)/blog/%5Bslug%5D/page-6f60855278aa4f75.js"],""]
+5:I[1538,["2619","static/chunks/2619-3c9e02e22d10480a.js","90","static/chunks/app/(en)/layout-1d0e45a00e968cb3.js"],"default"]
+6:I[909,["2619","static/chunks/2619-3c9e02e22d10480a.js","90","static/chunks/app/(en)/layout-1d0e45a00e968cb3.js"],"default"]
+16:I[7150,[],""]
+:HL["/_next/static/css/93d1a12f2f4c9226.css","style"]
+0:{"P":null,"b":"rD7TGm9XF6FHQRkd5YG22","p":"","c":["","blog","pla-vs-pla-plus",""],"i":false,"f":[[["",{"children":["(en)",{"children":["blog",{"children":[["slug","pla-vs-pla-plus","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/93d1a12f2f4c9226.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","script",null,{"async":true,"src":"https://www.googletagmanager.com/gtm.js?id=GTM-T7SN8RQX"}],["$","script",null,{"async":true,"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3226858004021254","crossOrigin":"anonymous"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());"}}]]}],["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"wrap header-in","children":[["$","$L4",null,{"href":"/","className":"brand","aria-label":"my3dprinter.io home","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","nav",null,{"aria-label":"Main","className":"nav","children":[["$","$L4","/converters/",{"href":"/converters/","children":"Converters"}],["$","$L4","/3d-viewer/",{"href":"/3d-viewer/","children":"3D viewer"}],["$","$L4","/image-to-stl/",{"href":"/image-to-stl/","children":"Image to STL"}],["$","$L4","/printers/",{"href":"/printers/","children":"Printers"}],["$","$L4","/blog/",{"href":"/blog/","children":"Blog"}]]}],["$","div",null,{"className":"header-actions","children":[["$","$L5",null,{"lang":"en","langs":[{"code":"en","name":"English"},{"code":"de","name":"Deutsch"},{"code":"es","name":"Español"},{"code":"fr","name":"Français"},{"code":"it","name":"Italiano"},{"code":"ja","name":"日本語"},{"code":"ko","name":"한국어"},{"code":"pt","name":"Português"},{"code":"vi","name":"Tiếng Việt"},{"code":"th","name":"ไทย"},{"code":"zh","name":"简体中文"},{"code":"ru","name":"Русский"}],"localized":["/","/converters/","/3mf-to-stl/","/glb-to-stl/","/stl-to-3mf/","/step-to-stl/","/glb-to-obj/","/obj-to-stl/","/stl-to-obj/","/fbx-to-obj/","/gcode-to-stl/","/fbx-to-stl/","/zip-to-stl/","/stp-to-stl/","/dae-to-obj/","/gltf-to-obj/","/stl-to-dxf/","/obj-to-glb/","/gltf-to-stl/","/fbx-to-glb/","/ply-to-stl/","/3mf-to-obj/","/dae-to-stl/","/usdz-to-stl/","/ply-to-obj/","/stp-to-obj/","/3ds-to-obj/","/igs-to-stl/","/stl-to-glb/","/obj-to-3mf/","/glb-to-3mf/","/stl-to-usdz/","/glb-to-usdz/","/step-to-obj/","/step-to-3mf/","/stl-to-ply/","/fbx-to-gltf/","/image-to-stl/","/png-to-stl/","/jpg-to-stl/","/jpeg-to-stl/","/lithophane-maker/","/png-to-obj/","/png-to-3mf/","/svg-to-stl/","/svg-to-obj/","/png-to-dds/","/jpg-to-dds/","/dds-to-png/","/dds-to-jpg/","/3d-viewer/","/stl-viewer/","/3mf-viewer/","/obj-viewer/","/glb-viewer/","/step-viewer/","/ply-viewer/","/fbx-viewer/","/gltf-viewer/"],"label":"Language"}],["$","$L6",null,{"links":[["/converters/","Converters"],["/3d-viewer/","3D viewer"],["/image-to-stl/","Image to STL"],["/printers/","Printers"],["/blog/","Blog"],["/printers/compare/","Compare printers"]],"label":"Menu"}]]}]]}]}],["$","main",null,{"id":"main","className":"wrap","style":{"padding":"64px 24px"},"children":[["$","h1",null,{"children":"Page not found"}],["$","p",null,{"className":"lead","children":"This page does not exist. Try a converter or the 3D viewer."}],["$","p",null,{"children":["$","$L4",null,{"className":"btn btn-accent","href":"/converters/","children":"All converters"}]}]]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"wrap footer-grid","children":[["$","div",null,{"className":"footer-brand","children":[["$","$L4",null,{"href":"/","className":"brand","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":["$L7","$L8"]}]," ","$L9"]}],"$La"]}],["$Lb","$Lc","$Ld","$Le","$Lf"]]}],"$L10"]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["(en)","$L11",{"children":["blog","$L12",{"children":[["slug","pla-vs-pla-plus","d"],"$L13",{"children":["__PAGE__","$L14",{},null,false]},null,false]},null,false]},null,false]},null,false],"$L15",false]],"m":"$undefined","G":["$16",[]],"s":false,"S":true}
+1b:I[4431,[],"OutletBoundary"]
+1d:I[5278,[],"AsyncMetadataOutlet"]
+1f:I[4431,[],"ViewportBoundary"]
+21:I[4431,[],"MetadataBoundary"]
+22:"$Sreact.suspense"
+7:["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}]
+8:["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]
+9:["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]
+a:["$","p",null,{"children":"Free tools that run in your browser. Your files are never uploaded."}]
+b:["$","div","Converters",{"children":[["$","h2",null,{"children":"Converters"}],["$","ul",null,{"children":[["$","li","/3mf-to-stl/",{"children":["$","$L4",null,{"href":"/3mf-to-stl/","children":"3MF → STL"}]}],["$","li","/step-to-stl/",{"children":["$","$L4",null,{"href":"/step-to-stl/","children":"STEP → STL"}]}],["$","li","/glb-to-stl/",{"children":["$","$L4",null,{"href":"/glb-to-stl/","children":"GLB → STL"}]}],["$","li","/obj-to-stl/",{"children":["$","$L4",null,{"href":"/obj-to-stl/","children":"OBJ → STL"}]}],["$","li","/stl-to-3mf/",{"children":["$","$L4",null,{"href":"/stl-to-3mf/","children":"STL → 3MF"}]}],["$","li","/converters/",{"children":["$","$L4",null,{"href":"/converters/","children":"All converters"}]}]]}]]}]
+c:["$","div","Images & textures",{"children":[["$","h2",null,{"children":"Images & textures"}],["$","ul",null,{"children":[["$","li","/image-to-stl/",{"children":["$","$L4",null,{"href":"/image-to-stl/","children":"Image to STL"}]}],["$","li","/lithophane-maker/",{"children":["$","$L4",null,{"href":"/lithophane-maker/","children":"Lithophane maker"}]}],["$","li","/svg-to-stl/",{"children":["$","$L4",null,{"href":"/svg-to-stl/","children":"SVG → STL"}]}],["$","li","/png-to-dds/",{"children":["$","$L4",null,{"href":"/png-to-dds/","children":"PNG → DDS"}]}],["$","li","/dds-to-png/",{"children":["$","$L4",null,{"href":"/dds-to-png/","children":"DDS → PNG"}]}]]}]]}]
+d:["$","div","Viewers",{"children":[["$","h2",null,{"children":"Viewers"}],["$","ul",null,{"children":[["$","li","/3d-viewer/",{"children":["$","$L4",null,{"href":"/3d-viewer/","children":"Online 3D model viewer"}]}],["$","li","/stl-viewer/",{"children":["$","$L4",null,{"href":"/stl-viewer/","children":"STL viewer"}]}],["$","li","/3mf-viewer/",{"children":["$","$L4",null,{"href":"/3mf-viewer/","children":"3MF viewer"}]}],["$","li","/step-viewer/",{"children":["$","$L4",null,{"href":"/step-viewer/","children":"STEP viewer"}]}],["$","li","/obj-viewer/",{"children":["$","$L4",null,{"href":"/obj-viewer/","children":"OBJ viewer"}]}]]}]]}]
+e:["$","div","my3dprinter.io",{"children":[["$","h2",null,{"children":"my3dprinter.io"}],["$","ul",null,{"children":[["$","li","/printers/",{"children":["$","$L4",null,{"href":"/printers/","children":"3D printers"}]}],["$","li","/printers/compare/",{"children":["$","$L4",null,{"href":"/printers/compare/","children":"Compare printers"}]}],["$","li","/blog/",{"children":["$","$L4",null,{"href":"/blog/","children":"Blog"}]}],["$","li","/formats/",{"children":["$","$L4",null,{"href":"/formats/","children":"File formats"}]}],["$","li","/about/",{"children":["$","$L4",null,{"href":"/about/","children":"About"}]}],["$","li","/contact/",{"children":["$","$L4",null,{"href":"/contact/","children":"Contact"}]}]]}]]}]
+f:["$","div","Legal",{"children":[["$","h2",null,{"children":"Legal"}],["$","ul",null,{"children":[["$","li","/privacy/",{"children":["$","$L4",null,{"href":"/privacy/","children":"Privacy policy"}]}],["$","li","/cookies/",{"children":["$","$L4",null,{"href":"/cookies/","children":"Cookie policy"}]}],["$","li","/terms/",{"children":["$","$L4",null,{"href":"/terms/","children":"Terms of use"}]}],["$","li","/disclaimer/",{"children":["$","$L4",null,{"href":"/disclaimer/","children":"Disclaimer"}]}]]}]]}]
+10:["$","div",null,{"className":"wrap footer-base","children":["$","p",null,{"children":["© ",2026," my3dprinter.io. ","Brand and product names belong to their owners; my3dprinter.io is an independent site and is not affiliated with any printer maker."]}]}]
+11:["$","$1","c",{"children":[null,[["$","a",null,{"className":"skip","href":"#main","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"wrap header-in","children":[["$","$L4",null,{"href":"/","className":"brand","aria-label":"my3dprinter.io home","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","nav",null,{"aria-label":"Main","className":"nav","children":[["$","$L4","/converters/",{"href":"/converters/","children":"Converters"}],["$","$L4","/3d-viewer/",{"href":"/3d-viewer/","children":"3D viewer"}],["$","$L4","/image-to-stl/",{"href":"/image-to-stl/","children":"Image to STL"}],["$","$L4","/printers/",{"href":"/printers/","children":"Printers"}],["$","$L4","/blog/",{"href":"/blog/","children":"Blog"}]]}],["$","div",null,{"className":"header-actions","children":[["$","$L5",null,{"lang":"en","langs":[{"code":"en","name":"English"},{"code":"de","name":"Deutsch"},{"code":"es","name":"Español"},{"code":"fr","name":"Français"},{"code":"it","name":"Italiano"},{"code":"ja","name":"日本語"},{"code":"ko","name":"한국어"},{"code":"pt","name":"Português"},{"code":"vi","name":"Tiếng Việt"},{"code":"th","name":"ไทย"},{"code":"zh","name":"简体中文"},{"code":"ru","name":"Русский"}],"localized":"$0:f:0:1:1:props:children:1:props:children:1:props:children:props:notFound:0:0:props:children:props:children:2:props:children:0:props:localized","label":"Language"}],["$","$L6",null,{"links":[["/converters/","Converters"],["/3d-viewer/","3D viewer"],["/image-to-stl/","Image to STL"],["/printers/","Printers"],["/blog/","Blog"],["/printers/compare/","Compare printers"]],"label":"Menu"}]]}]]}]}],["$","main",null,{"id":"main","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"wrap footer-grid","children":[["$","div",null,{"className":"footer-brand","children":[["$","$L4",null,{"href":"/","className":"brand","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","p",null,{"children":"Free tools that run in your browser. Your files are never uploaded."}]]}],[["$","div","Converters",{"children":[["$","h2",null,{"children":"Converters"}],["$","ul",null,{"children":[["$","li","/3mf-to-stl/",{"children":["$","$L4",null,{"href":"/3mf-to-stl/","children":"3MF → STL"}]}],["$","li","/step-to-stl/",{"children":["$","$L4",null,{"href":"/step-to-stl/","children":"STEP → STL"}]}],["$","li","/glb-to-stl/",{"children":["$","$L4",null,{"href":"/glb-to-stl/","children":"GLB → STL"}]}],["$","li","/obj-to-stl/",{"children":["$","$L4",null,{"href":"/obj-to-stl/","children":"OBJ → STL"}]}],["$","li","/stl-to-3mf/",{"children":["$","$L4",null,{"href":"/stl-to-3mf/","children":"STL → 3MF"}]}],["$","li","/converters/",{"children":["$","$L4",null,{"href":"/converters/","children":"All converters"}]}]]}]]}],["$","div","Images & textures",{"children":[["$","h2",null,{"children":"Images & textures"}],["$","ul",null,{"children":[["$","li","/image-to-stl/",{"children":["$","$L4",null,{"href":"/image-to-stl/","children":"Image to STL"}]}],["$","li","/lithophane-maker/",{"children":["$","$L4",null,{"href":"/lithophane-maker/","children":"Lithophane maker"}]}],["$","li","/svg-to-stl/",{"children":["$","$L4",null,{"href":"/svg-to-stl/","children":"SVG → STL"}]}],["$","li","/png-to-dds/",{"children":["$","$L4",null,{"href":"/png-to-dds/","children":"PNG → DDS"}]}],["$","li","/dds-to-png/",{"children":["$","$L4",null,{"href":"/dds-to-png/","children":"DDS → PNG"}]}]]}]]}],["$","div","Viewers",{"children":[["$","h2",null,{"children":"Viewers"}],["$","ul",null,{"children":[["$","li","/3d-viewer/",{"children":["$","$L4",null,{"href":"/3d-viewer/","children":"Online 3D model viewer"}]}],["$","li","/stl-viewer/",{"children":["$","$L4",null,{"href":"/stl-viewer/","children":"STL viewer"}]}],["$","li","/3mf-viewer/",{"children":["$","$L4",null,{"href":"/3mf-viewer/","children":"3MF viewer"}]}],["$","li","/step-viewer/",{"children":["$","$L4",null,{"href":"/step-viewer/","children":"STEP viewer"}]}],["$","li","/obj-viewer/",{"children":["$","$L4",null,{"href":"/obj-viewer/","children":"OBJ viewer"}]}]]}]]}],"$L17","$L18"]]}],"$L19"]}]]]}]
+12:["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+13:["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+14:["$","$1","c",{"children":["$L1a",null,["$","$L1b",null,{"children":["$L1c",["$","$L1d",null,{"promise":"$@1e"}]]}]]}]
+15:["$","$1","h",{"children":[null,[["$","$L1f",null,{"children":"$L20"}],null],["$","$L21",null,{"children":["$","div",null,{"hidden":true,"children":["$","$22",null,{"fallback":null,"children":"$L23"}]}]}]]}]
+17:["$","div","my3dprinter.io",{"children":[["$","h2",null,{"children":"my3dprinter.io"}],["$","ul",null,{"children":[["$","li","/printers/",{"children":["$","$L4",null,{"href":"/printers/","children":"3D printers"}]}],["$","li","/printers/compare/",{"children":["$","$L4",null,{"href":"/printers/compare/","children":"Compare printers"}]}],["$","li","/blog/",{"children":["$","$L4",null,{"href":"/blog/","children":"Blog"}]}],["$","li","/formats/",{"children":["$","$L4",null,{"href":"/formats/","children":"File formats"}]}],["$","li","/about/",{"children":["$","$L4",null,{"href":"/about/","children":"About"}]}],["$","li","/contact/",{"children":["$","$L4",null,{"href":"/contact/","children":"Contact"}]}]]}]]}]
+18:["$","div","Legal",{"children":[["$","h2",null,{"children":"Legal"}],["$","ul",null,{"children":[["$","li","/privacy/",{"children":["$","$L4",null,{"href":"/privacy/","children":"Privacy policy"}]}],["$","li","/cookies/",{"children":["$","$L4",null,{"href":"/cookies/","children":"Cookie policy"}]}],["$","li","/terms/",{"children":["$","$L4",null,{"href":"/terms/","children":"Terms of use"}]}],["$","li","/disclaimer/",{"children":["$","$L4",null,{"href":"/disclaimer/","children":"Disclaimer"}]}]]}]]}]
+19:["$","div",null,{"className":"wrap footer-base","children":["$","p",null,{"children":["© ",2026," my3dprinter.io. ","Brand and product names belong to their owners; my3dprinter.io is an independent site and is not affiliated with any printer maker."]}]}]
+24:Tcea,{"@context":"https://schema.org","@graph":[{"@type":"Article","headline":"PLA vs PLA+ – what PLA plus really is and when it is worth it","description":"PLA vs PLA+ explained – what PLA plus is, why there is no standard, typical print settings, PLA Pro vs PLA+, PLA+ vs PETG, and which one to buy.","datePublished":"2026-11-26","dateModified":"2026-11-26","mainEntityOfPage":"https://my3dprinter.io/blog/pla-vs-pla-plus/","inLanguage":"en","author":{"@type":"Organization","name":"my3dprinter.io","url":"https://my3dprinter.io"},"publisher":{"@type":"Organization","@id":"https://my3dprinter.io/#organization","name":"my3dprinter.io","url":"https://my3dprinter.io/","logo":{"@type":"ImageObject","url":"https://my3dprinter.io/icon-512.png","width":512,"height":512},"email":"hello@my3dprinter.io","description":"Free 3D file converters, viewers and 3D printer guides"},"image":"https://my3dprinter.io/images/blog/pla-vs-pla-plus.webp","citation":["https://www.esun3d.com/pla-pro-product/","https://cdn.shopify.com/s/files/1/1745/6181/files/eSUN_3D_Printing_Filament_Datasheet.pdf","https://www.sunlu.com/products/pla-plus-filament","https://wiki.polymaker.com/polymaker-products/polymaker-filaments/prime-materials/functional-pla/polylite-tm-pla-pro","https://www.3dfuel.com/blogs/news/pla-vs-pla-plus-vs-pla-pro-vs-tough-pla","https://www.xometry.com/resources/3d-printing/pla-vs-pla-plus/","https://wiki.bambulab.com/en/general/filament-guide-material-table"]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://my3dprinter.io/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://my3dprinter.io/blog/"},{"@type":"ListItem","position":3,"name":"PLA vs PLA+ – what PLA plus really is and when it is worth it","item":"https://my3dprinter.io/blog/pla-vs-pla-plus/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is the difference between PLA and PLA+?","acceptedAnswer":{"@type":"Answer","text":"PLA+ is standard PLA with additives or a different base resin, sold as tougher and less brittle. The difference depends on the brand, because \"PLA+\" is a marketing name with no fixed definition. Most PLA+ prints a little hotter than PLA and bends more before it snaps."}},{"@type":"Question","name":"Can I print PLA+ with PLA settings?","acceptedAnswer":{"@type":"Answer","text":"Usually, yes, as a starting point. Most PLA+ grades want a nozzle 5–15 °C hotter than plain PLA, so if layers look weak or the part snaps along layer lines, raise the temperature within the range on the spool label."}},{"@type":"Question","name":"Is PLA+ stronger than PETG?","acceptedAnswer":{"@type":"Answer","text":"Not in a simple way. Some PLA+ grades are stiffer and have higher tensile strength than PETG, but PETG bends much further before breaking and handles more heat. For parts that flex, sit in a warm car or live outdoors, PETG is the better choice."}},{"@type":"Question","name":"Is PLA Pro the same as PLA plus?","acceptedAnswer":{"@type":"Answer","text":"Often they are similar products under a different name, but not always. Both are brand names with no shared standard. Polymaker sells PLA Pro as a toughened, rigid PLA, while eSUN calls its tougher PLA \"PLA+\". Compare the data sheets, not the names."}}]}]}1a:["$","div",null,{"className":"wrap","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$24"}}],"$L25","$L26","$L27"]}]
+25:["$","nav",null,{"className":"crumbs","aria-label":"Breadcrumb","children":[["$","$L4",null,{"href":"/","children":"Home"}]," / ",["$","$L4",null,{"href":"/blog/","children":"Blog"}]," / ","PLA vs PLA+ – what PLA plus really is and when it is worth it"]}]
+28:T25df,<p><strong>PLA vs PLA+ comes down to toughness: PLA+ (PLA plus) is a modified PLA that bends more and snaps less than standard PLA, while printing almost as easily – but there is no standard for what &quot;PLA+&quot; means, so the gain depends entirely on the brand.</strong> Standard PLA is stiff and brittle; PLA+ adds impact modifiers or uses a different resin grade to fix that. This guide explains what PLA+ is, how it prints, how it compares with PLA Pro, Tough PLA and PETG, and when it is worth buying. Facts come from eSUN, SUNLU and Polymaker product pages and data sheets, checked November 2026. Settings vary between brands, so always check the spool label.</p>
+<h2>PLA vs PLA+ at a glance</h2>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Standard PLA</th>
+<th>PLA+ / PLA Pro (typical)</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>What it is</td>
+<td>Polylactic acid</td>
+<td>PLA with modifiers or a tougher resin grade</td>
+</tr>
+<tr>
+<td>Standard definition</td>
+<td>Yes – a defined polymer</td>
+<td>No – a marketing name</td>
+</tr>
+<tr>
+<td>Nozzle temperature</td>
+<td>About 190–220 °C</td>
+<td>About 205–230 °C</td>
+</tr>
+<tr>
+<td>Bed temperature</td>
+<td>35–60 °C (or none)</td>
+<td>About 45–60 °C</td>
+</tr>
+<tr>
+<td>Impact resistance</td>
+<td>Low – snaps when bent</td>
+<td>Higher – bends more before breaking</td>
+</tr>
+<tr>
+<td>Stiffness</td>
+<td>High</td>
+<td>High</td>
+</tr>
+<tr>
+<td>Heat resistance</td>
+<td>Softens around 55–60 °C</td>
+<td>Similar, often within a few degrees of PLA</td>
+</tr>
+<tr>
+<td>Enclosure needed</td>
+<td>No</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Smell</td>
+<td>Low</td>
+<td>Low</td>
+</tr>
+<tr>
+<td>Ease of printing</td>
+<td>Very easy</td>
+<td>Very easy</td>
+</tr>
+</tbody></table>
+<h2>What is PLA+?</h2>
+<p>PLA+ is not a separate plastic. It is PLA – usually from the same type of plant-based resin – changed so that printed parts are less brittle. Vendors do this by adding impact modifiers, using a different PLA resin grade, or both. 3D-Fuel, for example, publishes that its standard PLA+ uses NatureWorks Ingeo 4043D, while its tougher &quot;Pro&quot; grade uses Ingeo 3D870, a grade made for 3D printing.</p>
+<p><strong>The key point: &quot;PLA+&quot; has no fixed definition.</strong> No standard says how much tougher a filament must be to carry the name. Two spools labelled PLA+ from different brands can be quite different materials, and some may behave much like regular PLA. That is why reading the brand&#39;s data sheet matters more than the label.</p>
+<p>How three well-known brands describe theirs:</p>
+<ul>
+<li><strong>eSUN PLA+:</strong> a modified formula that eSUN says is stronger and tougher than standard PLA and resists breaking from handling and minor bumps.</li>
+<li><strong>SUNLU PLA+:</strong> described as reinforced and toughened PLA, less prone to breaking and more impact-resistant, while keeping PLA&#39;s easy printing.</li>
+<li><strong>Polymaker PLA Pro:</strong> Polymaker&#39;s own name for a toughened PLA. Its wiki positions it between its rigid but brittle PolyLite PLA and its very ductile PolyMax PLA – stiff, with high impact strength. (Polymaker notes this grade is being replaced by a new PLA Pro by the end of 2026.)</li>
+</ul>
+<h2>What actually changes: strength, toughness and heat</h2>
+<p>The main gain is <strong>toughness</strong> – how much a part bends or absorbs a knock before it breaks. eSUN&#39;s filament data sheet lists higher elongation at break and roughly double the Izod impact strength for its PLA+ compared with its standard PLA, with tensile strength about the same.</p>
+<p>What does <strong>not</strong> improve much is heat resistance. In the same eSUN data sheet, PLA+ has a heat distortion temperature of 52 °C against 56 °C for standard PLA. Most PLA+ grades still soften around the same 55–60 °C point as regular PLA, so a PLA+ phone mount on a car dashboard can still sag in summer.</p>
+<p><strong>Why it matters:</strong> choose PLA+ for parts that get dropped, clipped together, screwed into or bent slightly – brackets, clips, enclosures, toys, tool holders. It does not turn PLA into a heat- or weather-resistant material.</p>
+<h2>PLA+ print settings</h2>
+<p>Most PLA+ prints like PLA, just a little hotter:</p>
+<table>
+<thead>
+<tr>
+<th>Brand</th>
+<th>Nozzle</th>
+<th>Bed</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>eSUN PLA+</td>
+<td>210–230 °C</td>
+<td>45–60 °C</td>
+<td>Fan 100 %, under 300 mm/s; dry at 50 °C for 8–12 h</td>
+</tr>
+<tr>
+<td>SUNLU PLA+</td>
+<td>205–215 °C at 50–100 mm/s; 215–245 °C at 100–200 mm/s</td>
+<td>50–60 °C</td>
+<td>Retraction 0.8–1.2 mm</td>
+</tr>
+<tr>
+<td>Polymaker PolyLite PLA Pro</td>
+<td>190–220 °C (220–230 °C at high flow)</td>
+<td>30–60 °C</td>
+<td>Fan on; print slower than standard PLA</td>
+</tr>
+</tbody></table>
+<p><strong>Tips:</strong></p>
+<ul>
+<li>Start with your slicer&#39;s generic PLA profile and raise the nozzle by 5–10 °C.</li>
+<li>If parts snap cleanly along a layer line, the layers are not bonding well: print hotter or slightly slower.</li>
+<li>Keep part cooling on, as with PLA, unless you see layer adhesion problems.</li>
+<li>Higher temperatures help layer bonding but can add stringing, so check retraction if strings appear.</li>
+<li>PLA+ absorbs moisture like PLA. If it starts to pop, string or snap on the spool, dry it – see our guide on <a href="/blog/how-to-dry-filament/">how to dry filament</a>.</li>
+</ul>
+<h2>PLA plus vs PLA: which should you print?</h2>
+<p><strong>Stick with standard PLA for:</strong></p>
+<ul>
+<li>Decorative prints, figures, vases and display models.</li>
+<li>Fine-detail prints where stiffness and crisp edges matter most.</li>
+<li>Specialty finishes – silk, matte, marble, glow – which are mostly sold as PLA.</li>
+</ul>
+<p><strong>Pick PLA+ for:</strong></p>
+<ul>
+<li>Functional parts that get handled, dropped or flexed.</li>
+<li>Snap-fits, clips and parts with screws or heat-set inserts.</li>
+<li>Kids&#39; toys and fidget toys – see our <a href="/blog/3d-printed-fidget-toys/">3D printed fidget toys</a> ideas.</li>
+</ul>
+<p>PLA+ usually costs a little more than basic PLA, but the difference is small, so many people simply use PLA+ as their everyday filament.</p>
+<h2>PLA Pro vs PLA plus (and Tough PLA)</h2>
+<p>These names overlap:</p>
+<ul>
+<li><strong>PLA+ / PLA Plus:</strong> a toughened or improved PLA, defined by each brand.</li>
+<li><strong>PLA Pro:</strong> another brand name for much the same idea. Polymaker uses &quot;PLA Pro&quot; for its toughened PLA; eSUN&#39;s product URL says &quot;pla-pro&quot; while the product itself is sold as PLA+.</li>
+<li><strong>Tough PLA / PLA Tough:</strong> names used for PLA modified to absorb impact. 3D-Fuel calls Tough PLA the closest thing to a real category among these terms, because these grades are engineered for impact resistance. Bambu Lab sells its own &quot;PLA Tough&quot;.</li>
+</ul>
+<p><strong>In practice:</strong> treat PLA Pro and PLA+ as the same kind of product and compare data sheets – impact strength, elongation at break, heat distortion and print temperature – rather than names.</p>
+<h2>PLA+ vs PETG</h2>
+<p>PETG is the real step up when PLA+ is not enough:</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>PLA+</th>
+<th>PETG</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Nozzle</td>
+<td>About 205–230 °C</td>
+<td>About 230–270 °C (Bambu Lab&#39;s table: 240–270 °C)</td>
+</tr>
+<tr>
+<td>Bed</td>
+<td>45–60 °C</td>
+<td>60–80 °C</td>
+</tr>
+<tr>
+<td>Stiffness</td>
+<td>Higher</td>
+<td>Lower – more flexible</td>
+</tr>
+<tr>
+<td>Elongation before break</td>
+<td>Low</td>
+<td>Much higher</td>
+</tr>
+<tr>
+<td>Heat resistance</td>
+<td>Around PLA level</td>
+<td>Higher (eSUN lists 64 °C vs 52 °C for its PLA+)</td>
+</tr>
+<tr>
+<td>Outdoor use</td>
+<td>Limited</td>
+<td>Good</td>
+</tr>
+<tr>
+<td>Stringing</td>
+<td>Low</td>
+<td>More prone</td>
+</tr>
+<tr>
+<td>Surface</td>
+<td>Crisp, easy to sand</td>
+<td>Glossy, harder to sand</td>
+</tr>
+</tbody></table>
+<p><strong>PETG vs PLA plus – the short answer:</strong> PLA+ is easier to print and gives sharper detail; PETG handles heat, sunlight, water and repeated flexing better. For outdoor parts or anything in a warm car, choose PETG – or ASA in an enclosed printer. Read <a href="/blog/petg-vs-pla/">PETG vs PLA</a>, our <a href="/blog/petg-filament/">PETG filament guide</a> and <a href="/blog/asa-filament/">ASA filament</a> for details.</p>
+<h2>How to choose: a quick checklist</h2>
+<ol>
+<li><strong>Will the part see heat above about 50 °C or sit in the sun?</strong> Use PETG or ASA, not PLA or PLA+.</li>
+<li><strong>Will it be dropped, clipped, screwed or flexed?</strong> PLA+ or PLA Pro.</li>
+<li><strong>Is it decorative or detailed?</strong> Standard PLA or a specialty PLA.</li>
+<li><strong>Comparing two PLA+ spools?</strong> Check the data sheet for impact strength and elongation, not the word &quot;plus&quot;.</li>
+<li><strong>Switching to PLA+?</strong> Start with PLA settings, add 5–10 °C, and print a test clip or bracket before a big job.</li>
+</ol>
+<p>Check your model&#39;s wall thickness and size in our <a href="/stl-viewer/">STL viewer</a> before printing functional parts.</p>
+<h2>Verdict</h2>
+<p>PLA+ is a real improvement over basic PLA when it comes from a brand that publishes data: it is tougher and less likely to snap, and it prints almost as easily. It is not a heat- or weather-resistant material, and because &quot;PLA+&quot; has no standard, the improvement varies from one spool to the next. Use standard PLA for decorative prints, PLA+ for everyday functional parts, and PETG or ASA when heat, sunlight or flexing are involved.</p>
+26:["$","div",null,{"className":"split","children":[["$","article",null,{"className":"prose","children":[["$","h1",null,{"children":"PLA vs PLA+ – what PLA plus really is and when it is worth it"}],["$","figure",null,{"className":"doc-hero","children":["$","img",null,{"src":"/images/blog/pla-vs-pla-plus.webp","alt":"Illustration of two printed test clips on a workbench, one cracked and one bent intact, next to two filament spools and calipers","width":1200,"height":675,"fetchPriority":"high","decoding":"async"}]}],["$","p",null,{"className":"muted small","children":["Updated ","November 26, 2026"]}],["$","div",null,{"className":"summary-box","children":[["$","b",null,{"children":"Key points"}],["$","ul",null,{"children":[["$","li","PLA+ (PLA plus) is a modified PLA sold as tougher than standard PLA, but there is no industry standard, so every brand's formula is different.",{"children":"PLA+ (PLA plus) is a modified PLA sold as tougher than standard PLA, but there is no industry standard, so every brand's formula is different."}],["$","li","Brands such as eSUN, SUNLU and Polymaker typically list PLA+ or PLA Pro at about 205–230 °C, a little hotter than plain PLA, with a 45–60 °C bed.",{"children":"Brands such as eSUN, SUNLU and Polymaker typically list PLA+ or PLA Pro at about 205–230 °C, a little hotter than plain PLA, with a 45–60 °C bed."}],["$","li","PLA+ is mainly more impact-resistant; its heat resistance stays close to normal PLA, so PETG is still the better choice for warm or outdoor parts.",{"children":"PLA+ is mainly more impact-resistant; its heat resistance stays close to normal PLA, so PETG is still the better choice for warm or outdoor parts."}]]}]]}],null,["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$28"}}]]}],"$L29"]}]
+27:["$","section",null,{"className":"section faq","aria-labelledby":"faq-h","children":[["$","h2",null,{"id":"faq-h","children":"Questions and answers"}],["$","div",null,{"className":"faq-list","children":[["$","details","What is the difference between PLA and PLA+?",{"children":[["$","summary",null,{"children":"What is the difference between PLA and PLA+?"}],["$","p",null,{"children":"PLA+ is standard PLA with additives or a different base resin, sold as tougher and less brittle. The difference depends on the brand, because \"PLA+\" is a marketing name with no fixed definition. Most PLA+ prints a little hotter than PLA and bends more before it snaps."}]]}],["$","details","Can I print PLA+ with PLA settings?",{"children":[["$","summary",null,{"children":"Can I print PLA+ with PLA settings?"}],["$","p",null,{"children":"Usually, yes, as a starting point. Most PLA+ grades want a nozzle 5–15 °C hotter than plain PLA, so if layers look weak or the part snaps along layer lines, raise the temperature within the range on the spool label."}]]}],["$","details","Is PLA+ stronger than PETG?",{"children":[["$","summary",null,{"children":"Is PLA+ stronger than PETG?"}],["$","p",null,{"children":"Not in a simple way. Some PLA+ grades are stiffer and have higher tensile strength than PETG, but PETG bends much further before breaking and handles more heat. For parts that flex, sit in a warm car or live outdoors, PETG is the better choice."}]]}],["$","details","Is PLA Pro the same as PLA plus?",{"children":[["$","summary",null,{"children":"Is PLA Pro the same as PLA plus?"}],["$","p",null,{"children":"Often they are similar products under a different name, but not always. Both are brand names with no shared standard. Polymaker sells PLA Pro as a toughened, rigid PLA, while eSUN calls its tougher PLA \"PLA+\". Compare the data sheets, not the names."}]]}]]}]]}]
+29:["$","aside",null,{"className":"aside","children":[["$","div",null,{"className":"facts","children":[["$","b",null,{"children":"Tools for this"}],["$","div",null,{"className":"tool-grid","style":{"marginTop":10,"gridTemplateColumns":"1fr"},"children":[["$","$L4","stl-viewer",{"className":"tool-link","href":"/stl-viewer/","children":"STL viewer"}],["$","$L4","3d-viewer",{"className":"tool-link","href":"/3d-viewer/","children":"Online 3D model viewer"}],["$","$L4","3mf-to-stl",{"className":"tool-link","href":"/3mf-to-stl/","children":"3MF to STL converter"}]]}]]}],["$","div",null,{"className":"facts","children":[["$","b",null,{"children":"Open or convert a model"}],["$","p",null,{"className":"small","style":{"margin":"6px 0 10px"},"children":"View STL, 3MF, STEP and more in your browser."}],["$","$L4",null,{"className":"btn btn-accent","href":"/3d-viewer/","children":"3D viewer"}]]}]]}]
+20:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#10151C"}]]
+1c:null
+2a:I[622,[],"IconMark"]
+1e:{"metadata":[["$","title","0",{"children":"PLA vs PLA+ – Differences, Settings and PLA+ vs PETG | my3dprinter.io"}],["$","meta","1",{"name":"description","content":"PLA vs PLA+ explained – what PLA plus is, why there is no standard, typical print settings, PLA Pro vs PLA+, PLA+ vs PETG, and which one to buy."}],["$","meta","2",{"name":"application-name","content":"my3dprinter.io"}],["$","link","3",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","4",{"name":"robots","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","5",{"rel":"canonical","href":"https://my3dprinter.io/blog/pla-vs-pla-plus/"}],["$","meta","6",{"name":"format-detection","content":"telephone=no"}],["$","meta","7",{"property":"og:title","content":"PLA vs PLA+ – Differences, Settings and PLA+ vs PETG | my3dprinter.io"}],["$","meta","8",{"property":"og:description","content":"PLA vs PLA+ explained – what PLA plus is, why there is no standard, typical print settings, PLA Pro vs PLA+, PLA+ vs PETG, and which one to buy."}],["$","meta","9",{"property":"og:url","content":"https://my3dprinter.io/blog/pla-vs-pla-plus/"}],["$","meta","10",{"property":"og:site_name","content":"my3dprinter.io"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:image","content":"https://my3dprinter.io/images/blog/pla-vs-pla-plus.webp"}],["$","meta","13",{"property":"og:image:width","content":"1200"}],["$","meta","14",{"property":"og:image:height","content":"675"}],["$","meta","15",{"property":"og:image:alt","content":"PLA vs PLA+ – Differences, Settings and PLA+ vs PETG"}],["$","meta","16",{"property":"og:type","content":"article"}],["$","meta","17",{"property":"article:published_time","content":"2026-11-26"}],["$","meta","18",{"property":"article:modified_time","content":"2026-11-26"}],["$","meta","19",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","20",{"name":"twitter:title","content":"PLA vs PLA+ – Differences, Settings and PLA+ vs PETG | my3dprinter.io"}],["$","meta","21",{"name":"twitter:description","content":"PLA vs PLA+ explained – what PLA plus is, why there is no standard, typical print settings, PLA Pro vs PLA+, PLA+ vs PETG, and which one to buy."}],["$","meta","22",{"name":"twitter:image","content":"https://my3dprinter.io/images/blog/pla-vs-pla-plus.webp"}],["$","link","23",{"rel":"icon","href":"/favicon.ico","sizes":"48x48"}],["$","link","24",{"rel":"icon","href":"/icon.svg","type":"image/svg+xml"}],["$","link","25",{"rel":"icon","href":"/icon-192.png","sizes":"192x192","type":"image/png"}],["$","link","26",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","sizes":"180x180"}],["$","$L2a","27",{}]],"error":null,"digest":"$undefined"}
+23:"$1e:metadata"

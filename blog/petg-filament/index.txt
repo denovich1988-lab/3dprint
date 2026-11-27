@@ -1,0 +1,214 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+4:I[2619,["2619","static/chunks/2619-3c9e02e22d10480a.js","4966","static/chunks/app/(en)/blog/%5Bslug%5D/page-6f60855278aa4f75.js"],""]
+5:I[1538,["2619","static/chunks/2619-3c9e02e22d10480a.js","90","static/chunks/app/(en)/layout-1d0e45a00e968cb3.js"],"default"]
+6:I[909,["2619","static/chunks/2619-3c9e02e22d10480a.js","90","static/chunks/app/(en)/layout-1d0e45a00e968cb3.js"],"default"]
+16:I[7150,[],""]
+:HL["/_next/static/css/93d1a12f2f4c9226.css","style"]
+0:{"P":null,"b":"rD7TGm9XF6FHQRkd5YG22","p":"","c":["","blog","petg-filament",""],"i":false,"f":[[["",{"children":["(en)",{"children":["blog",{"children":[["slug","petg-filament","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/93d1a12f2f4c9226.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","script",null,{"async":true,"src":"https://www.googletagmanager.com/gtm.js?id=GTM-T7SN8RQX"}],["$","script",null,{"async":true,"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3226858004021254","crossOrigin":"anonymous"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());"}}]]}],["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"wrap header-in","children":[["$","$L4",null,{"href":"/","className":"brand","aria-label":"my3dprinter.io home","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","nav",null,{"aria-label":"Main","className":"nav","children":[["$","$L4","/converters/",{"href":"/converters/","children":"Converters"}],["$","$L4","/3d-viewer/",{"href":"/3d-viewer/","children":"3D viewer"}],["$","$L4","/image-to-stl/",{"href":"/image-to-stl/","children":"Image to STL"}],["$","$L4","/printers/",{"href":"/printers/","children":"Printers"}],["$","$L4","/blog/",{"href":"/blog/","children":"Blog"}]]}],["$","div",null,{"className":"header-actions","children":[["$","$L5",null,{"lang":"en","langs":[{"code":"en","name":"English"},{"code":"de","name":"Deutsch"},{"code":"es","name":"Español"},{"code":"fr","name":"Français"},{"code":"it","name":"Italiano"},{"code":"ja","name":"日本語"},{"code":"ko","name":"한국어"},{"code":"pt","name":"Português"},{"code":"vi","name":"Tiếng Việt"},{"code":"th","name":"ไทย"},{"code":"zh","name":"简体中文"},{"code":"ru","name":"Русский"}],"localized":["/","/converters/","/3mf-to-stl/","/glb-to-stl/","/stl-to-3mf/","/step-to-stl/","/glb-to-obj/","/obj-to-stl/","/stl-to-obj/","/fbx-to-obj/","/gcode-to-stl/","/fbx-to-stl/","/zip-to-stl/","/stp-to-stl/","/dae-to-obj/","/gltf-to-obj/","/stl-to-dxf/","/obj-to-glb/","/gltf-to-stl/","/fbx-to-glb/","/ply-to-stl/","/3mf-to-obj/","/dae-to-stl/","/usdz-to-stl/","/ply-to-obj/","/stp-to-obj/","/3ds-to-obj/","/igs-to-stl/","/stl-to-glb/","/obj-to-3mf/","/glb-to-3mf/","/stl-to-usdz/","/glb-to-usdz/","/step-to-obj/","/step-to-3mf/","/stl-to-ply/","/fbx-to-gltf/","/image-to-stl/","/png-to-stl/","/jpg-to-stl/","/jpeg-to-stl/","/lithophane-maker/","/png-to-obj/","/png-to-3mf/","/svg-to-stl/","/svg-to-obj/","/png-to-dds/","/jpg-to-dds/","/dds-to-png/","/dds-to-jpg/","/3d-viewer/","/stl-viewer/","/3mf-viewer/","/obj-viewer/","/glb-viewer/","/step-viewer/","/ply-viewer/","/fbx-viewer/","/gltf-viewer/"],"label":"Language"}],["$","$L6",null,{"links":[["/converters/","Converters"],["/3d-viewer/","3D viewer"],["/image-to-stl/","Image to STL"],["/printers/","Printers"],["/blog/","Blog"],["/printers/compare/","Compare printers"]],"label":"Menu"}]]}]]}]}],["$","main",null,{"id":"main","className":"wrap","style":{"padding":"64px 24px"},"children":[["$","h1",null,{"children":"Page not found"}],["$","p",null,{"className":"lead","children":"This page does not exist. Try a converter or the 3D viewer."}],["$","p",null,{"children":["$","$L4",null,{"className":"btn btn-accent","href":"/converters/","children":"All converters"}]}]]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"wrap footer-grid","children":[["$","div",null,{"className":"footer-brand","children":[["$","$L4",null,{"href":"/","className":"brand","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":["$L7","$L8"]}]," ","$L9"]}],"$La"]}],["$Lb","$Lc","$Ld","$Le","$Lf"]]}],"$L10"]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["(en)","$L11",{"children":["blog","$L12",{"children":[["slug","petg-filament","d"],"$L13",{"children":["__PAGE__","$L14",{},null,false]},null,false]},null,false]},null,false]},null,false],"$L15",false]],"m":"$undefined","G":["$16",[]],"s":false,"S":true}
+1b:I[4431,[],"OutletBoundary"]
+1d:I[5278,[],"AsyncMetadataOutlet"]
+1f:I[4431,[],"ViewportBoundary"]
+21:I[4431,[],"MetadataBoundary"]
+22:"$Sreact.suspense"
+7:["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}]
+8:["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]
+9:["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]
+a:["$","p",null,{"children":"Free tools that run in your browser. Your files are never uploaded."}]
+b:["$","div","Converters",{"children":[["$","h2",null,{"children":"Converters"}],["$","ul",null,{"children":[["$","li","/3mf-to-stl/",{"children":["$","$L4",null,{"href":"/3mf-to-stl/","children":"3MF → STL"}]}],["$","li","/step-to-stl/",{"children":["$","$L4",null,{"href":"/step-to-stl/","children":"STEP → STL"}]}],["$","li","/glb-to-stl/",{"children":["$","$L4",null,{"href":"/glb-to-stl/","children":"GLB → STL"}]}],["$","li","/obj-to-stl/",{"children":["$","$L4",null,{"href":"/obj-to-stl/","children":"OBJ → STL"}]}],["$","li","/stl-to-3mf/",{"children":["$","$L4",null,{"href":"/stl-to-3mf/","children":"STL → 3MF"}]}],["$","li","/converters/",{"children":["$","$L4",null,{"href":"/converters/","children":"All converters"}]}]]}]]}]
+c:["$","div","Images & textures",{"children":[["$","h2",null,{"children":"Images & textures"}],["$","ul",null,{"children":[["$","li","/image-to-stl/",{"children":["$","$L4",null,{"href":"/image-to-stl/","children":"Image to STL"}]}],["$","li","/lithophane-maker/",{"children":["$","$L4",null,{"href":"/lithophane-maker/","children":"Lithophane maker"}]}],["$","li","/svg-to-stl/",{"children":["$","$L4",null,{"href":"/svg-to-stl/","children":"SVG → STL"}]}],["$","li","/png-to-dds/",{"children":["$","$L4",null,{"href":"/png-to-dds/","children":"PNG → DDS"}]}],["$","li","/dds-to-png/",{"children":["$","$L4",null,{"href":"/dds-to-png/","children":"DDS → PNG"}]}]]}]]}]
+d:["$","div","Viewers",{"children":[["$","h2",null,{"children":"Viewers"}],["$","ul",null,{"children":[["$","li","/3d-viewer/",{"children":["$","$L4",null,{"href":"/3d-viewer/","children":"Online 3D model viewer"}]}],["$","li","/stl-viewer/",{"children":["$","$L4",null,{"href":"/stl-viewer/","children":"STL viewer"}]}],["$","li","/3mf-viewer/",{"children":["$","$L4",null,{"href":"/3mf-viewer/","children":"3MF viewer"}]}],["$","li","/step-viewer/",{"children":["$","$L4",null,{"href":"/step-viewer/","children":"STEP viewer"}]}],["$","li","/obj-viewer/",{"children":["$","$L4",null,{"href":"/obj-viewer/","children":"OBJ viewer"}]}]]}]]}]
+e:["$","div","my3dprinter.io",{"children":[["$","h2",null,{"children":"my3dprinter.io"}],["$","ul",null,{"children":[["$","li","/printers/",{"children":["$","$L4",null,{"href":"/printers/","children":"3D printers"}]}],["$","li","/printers/compare/",{"children":["$","$L4",null,{"href":"/printers/compare/","children":"Compare printers"}]}],["$","li","/blog/",{"children":["$","$L4",null,{"href":"/blog/","children":"Blog"}]}],["$","li","/formats/",{"children":["$","$L4",null,{"href":"/formats/","children":"File formats"}]}],["$","li","/about/",{"children":["$","$L4",null,{"href":"/about/","children":"About"}]}],["$","li","/contact/",{"children":["$","$L4",null,{"href":"/contact/","children":"Contact"}]}]]}]]}]
+f:["$","div","Legal",{"children":[["$","h2",null,{"children":"Legal"}],["$","ul",null,{"children":[["$","li","/privacy/",{"children":["$","$L4",null,{"href":"/privacy/","children":"Privacy policy"}]}],["$","li","/cookies/",{"children":["$","$L4",null,{"href":"/cookies/","children":"Cookie policy"}]}],["$","li","/terms/",{"children":["$","$L4",null,{"href":"/terms/","children":"Terms of use"}]}],["$","li","/disclaimer/",{"children":["$","$L4",null,{"href":"/disclaimer/","children":"Disclaimer"}]}]]}]]}]
+10:["$","div",null,{"className":"wrap footer-base","children":["$","p",null,{"children":["© ",2026," my3dprinter.io. ","Brand and product names belong to their owners; my3dprinter.io is an independent site and is not affiliated with any printer maker."]}]}]
+11:["$","$1","c",{"children":[null,[["$","a",null,{"className":"skip","href":"#main","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"wrap header-in","children":[["$","$L4",null,{"href":"/","className":"brand","aria-label":"my3dprinter.io home","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","nav",null,{"aria-label":"Main","className":"nav","children":[["$","$L4","/converters/",{"href":"/converters/","children":"Converters"}],["$","$L4","/3d-viewer/",{"href":"/3d-viewer/","children":"3D viewer"}],["$","$L4","/image-to-stl/",{"href":"/image-to-stl/","children":"Image to STL"}],["$","$L4","/printers/",{"href":"/printers/","children":"Printers"}],["$","$L4","/blog/",{"href":"/blog/","children":"Blog"}]]}],["$","div",null,{"className":"header-actions","children":[["$","$L5",null,{"lang":"en","langs":[{"code":"en","name":"English"},{"code":"de","name":"Deutsch"},{"code":"es","name":"Español"},{"code":"fr","name":"Français"},{"code":"it","name":"Italiano"},{"code":"ja","name":"日本語"},{"code":"ko","name":"한국어"},{"code":"pt","name":"Português"},{"code":"vi","name":"Tiếng Việt"},{"code":"th","name":"ไทย"},{"code":"zh","name":"简体中文"},{"code":"ru","name":"Русский"}],"localized":"$0:f:0:1:1:props:children:1:props:children:1:props:children:props:notFound:0:0:props:children:props:children:2:props:children:0:props:localized","label":"Language"}],["$","$L6",null,{"links":[["/converters/","Converters"],["/3d-viewer/","3D viewer"],["/image-to-stl/","Image to STL"],["/printers/","Printers"],["/blog/","Blog"],["/printers/compare/","Compare printers"]],"label":"Menu"}]]}]]}]}],["$","main",null,{"id":"main","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"wrap footer-grid","children":[["$","div",null,{"className":"footer-brand","children":[["$","$L4",null,{"href":"/","className":"brand","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","p",null,{"children":"Free tools that run in your browser. Your files are never uploaded."}]]}],[["$","div","Converters",{"children":[["$","h2",null,{"children":"Converters"}],["$","ul",null,{"children":[["$","li","/3mf-to-stl/",{"children":["$","$L4",null,{"href":"/3mf-to-stl/","children":"3MF → STL"}]}],["$","li","/step-to-stl/",{"children":["$","$L4",null,{"href":"/step-to-stl/","children":"STEP → STL"}]}],["$","li","/glb-to-stl/",{"children":["$","$L4",null,{"href":"/glb-to-stl/","children":"GLB → STL"}]}],["$","li","/obj-to-stl/",{"children":["$","$L4",null,{"href":"/obj-to-stl/","children":"OBJ → STL"}]}],["$","li","/stl-to-3mf/",{"children":["$","$L4",null,{"href":"/stl-to-3mf/","children":"STL → 3MF"}]}],["$","li","/converters/",{"children":["$","$L4",null,{"href":"/converters/","children":"All converters"}]}]]}]]}],["$","div","Images & textures",{"children":[["$","h2",null,{"children":"Images & textures"}],["$","ul",null,{"children":[["$","li","/image-to-stl/",{"children":["$","$L4",null,{"href":"/image-to-stl/","children":"Image to STL"}]}],["$","li","/lithophane-maker/",{"children":["$","$L4",null,{"href":"/lithophane-maker/","children":"Lithophane maker"}]}],["$","li","/svg-to-stl/",{"children":["$","$L4",null,{"href":"/svg-to-stl/","children":"SVG → STL"}]}],["$","li","/png-to-dds/",{"children":["$","$L4",null,{"href":"/png-to-dds/","children":"PNG → DDS"}]}],["$","li","/dds-to-png/",{"children":["$","$L4",null,{"href":"/dds-to-png/","children":"DDS → PNG"}]}]]}]]}],["$","div","Viewers",{"children":[["$","h2",null,{"children":"Viewers"}],["$","ul",null,{"children":[["$","li","/3d-viewer/",{"children":["$","$L4",null,{"href":"/3d-viewer/","children":"Online 3D model viewer"}]}],["$","li","/stl-viewer/",{"children":["$","$L4",null,{"href":"/stl-viewer/","children":"STL viewer"}]}],["$","li","/3mf-viewer/",{"children":["$","$L4",null,{"href":"/3mf-viewer/","children":"3MF viewer"}]}],["$","li","/step-viewer/",{"children":["$","$L4",null,{"href":"/step-viewer/","children":"STEP viewer"}]}],["$","li","/obj-viewer/",{"children":["$","$L4",null,{"href":"/obj-viewer/","children":"OBJ viewer"}]}]]}]]}],"$L17","$L18"]]}],"$L19"]}]]]}]
+12:["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+13:["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+14:["$","$1","c",{"children":["$L1a",null,["$","$L1b",null,{"children":["$L1c",["$","$L1d",null,{"promise":"$@1e"}]]}]]}]
+15:["$","$1","h",{"children":[null,[["$","$L1f",null,{"children":"$L20"}],null],["$","$L21",null,{"children":["$","div",null,{"hidden":true,"children":["$","$22",null,{"fallback":null,"children":"$L23"}]}]}]]}]
+17:["$","div","my3dprinter.io",{"children":[["$","h2",null,{"children":"my3dprinter.io"}],["$","ul",null,{"children":[["$","li","/printers/",{"children":["$","$L4",null,{"href":"/printers/","children":"3D printers"}]}],["$","li","/printers/compare/",{"children":["$","$L4",null,{"href":"/printers/compare/","children":"Compare printers"}]}],["$","li","/blog/",{"children":["$","$L4",null,{"href":"/blog/","children":"Blog"}]}],["$","li","/formats/",{"children":["$","$L4",null,{"href":"/formats/","children":"File formats"}]}],["$","li","/about/",{"children":["$","$L4",null,{"href":"/about/","children":"About"}]}],["$","li","/contact/",{"children":["$","$L4",null,{"href":"/contact/","children":"Contact"}]}]]}]]}]
+18:["$","div","Legal",{"children":[["$","h2",null,{"children":"Legal"}],["$","ul",null,{"children":[["$","li","/privacy/",{"children":["$","$L4",null,{"href":"/privacy/","children":"Privacy policy"}]}],["$","li","/cookies/",{"children":["$","$L4",null,{"href":"/cookies/","children":"Cookie policy"}]}],["$","li","/terms/",{"children":["$","$L4",null,{"href":"/terms/","children":"Terms of use"}]}],["$","li","/disclaimer/",{"children":["$","$L4",null,{"href":"/disclaimer/","children":"Disclaimer"}]}]]}]]}]
+19:["$","div",null,{"className":"wrap footer-base","children":["$","p",null,{"children":["© ",2026," my3dprinter.io. ","Brand and product names belong to their owners; my3dprinter.io is an independent site and is not affiliated with any printer maker."]}]}]
+24:Tb92,{"@context":"https://schema.org","@graph":[{"@type":"Article","headline":"PETG filament – what it is, what it is used for and how to print it","description":"PETG filament explained – what PETG stands for, its properties and uses, typical nozzle and bed temperatures, bed adhesion, stringing, drying and PETG HF.","datePublished":"2026-11-26","dateModified":"2026-11-26","mainEntityOfPage":"https://my3dprinter.io/blog/petg-filament/","inLanguage":"en","author":{"@type":"Organization","name":"my3dprinter.io","url":"https://my3dprinter.io"},"publisher":{"@type":"Organization","@id":"https://my3dprinter.io/#organization","name":"my3dprinter.io","url":"https://my3dprinter.io/","logo":{"@type":"ImageObject","url":"https://my3dprinter.io/icon-512.png","width":512,"height":512},"email":"hello@my3dprinter.io","description":"Free 3D file converters, viewers and 3D printer guides"},"image":"https://my3dprinter.io/images/blog/petg-filament.webp","citation":["https://help.prusa3d.com/article/petg_2059","https://wiki.bambulab.com/en/general/filament-guide-material-table","https://wiki.bambulab.com/en/filament-acc/filament/petg-hf-unfinished-drying","https://wiki.bambulab.com/en/filament-acc/filament/pla-basic-and-petg-hf","https://shop.polymaker.com/collections/petg-filament","https://www.hubs.com/knowledge-base/petg-filament-for-3d-printing/","https://www.creality.com/blog/what-is-petg-filament"]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://my3dprinter.io/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://my3dprinter.io/blog/"},{"@type":"ListItem","position":3,"name":"PETG filament – what it is, what it is used for and how to print it","item":"https://my3dprinter.io/blog/petg-filament/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is PETG filament?","acceptedAnswer":{"@type":"Answer","text":"PETG filament is a 3D printing plastic made from polyethylene terephthalate modified with glycol. It is tougher and more heat-resistant than PLA, warps far less than ABS and prints on most printers with a heated bed."}},{"@type":"Question","name":"What is PETG filament used for?","acceptedAnswer":{"@type":"Answer","text":"Functional parts – brackets, clips, holders, enclosures, printer parts, planters and other outdoor or water-exposed parts. Prusa Research uses PETG for many of its own printer parts."}},{"@type":"Question","name":"What does PETG stand for?","acceptedAnswer":{"@type":"Answer","text":"Polyethylene terephthalate glycol-modified. The glycol modification makes the plastic less brittle and clearer than plain PET, and easier to print."}},{"@type":"Question","name":"Does PETG need an enclosure?","acceptedAnswer":{"@type":"Answer","text":"No. PETG prints well on open-frame printers. Bambu Lab even recommends removing the top glass cover on enclosed models when the bed is above 70 °C, so the part cools properly."}}]}]}1a:["$","div",null,{"className":"wrap","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$24"}}],["$","nav",null,{"className":"crumbs","aria-label":"Breadcrumb","children":[["$","$L4",null,{"href":"/","children":"Home"}]," / ",["$","$L4",null,{"href":"/blog/","children":"Blog"}]," / ","PETG filament – what it is, what it is used for and how to print it"]}],"$L25","$L26"]}]
+27:T2650,<p><strong>PETG filament is a tough, slightly flexible 3D printing plastic that handles more heat than PLA and warps far less than ABS, which makes it the usual choice for functional parts.</strong> It prints on almost any printer with a heated bed and a hot end that reaches about 250 °C. This guide explains what PETG is, what it is good and bad at, typical settings, the common problems (stringing and bed adhesion) and how variants such as PETG HF differ. Facts come from Prusa&#39;s knowledge base, the Bambu Lab wiki and Polymaker, checked November 2026. Your spool label and your slicer&#39;s profile always come first.</p>
+<h2>PETG filament at a glance</h2>
+<table>
+<thead>
+<tr>
+<th>Property</th>
+<th>PETG (typical)</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Full name</td>
+<td>Polyethylene terephthalate glycol-modified</td>
+</tr>
+<tr>
+<td>Nozzle temperature</td>
+<td>About 230–250 °C (Bambu Lab lists 240–270 °C for its PETG)</td>
+</tr>
+<tr>
+<td>Bed temperature</td>
+<td>About 70–90 °C (Bambu Lab lists 60–80 °C on its plates)</td>
+</tr>
+<tr>
+<td>Part cooling</td>
+<td>Lower than PLA, roughly 20–60 % fan</td>
+</tr>
+<tr>
+<td>Glass transition</td>
+<td>About 80 °C</td>
+</tr>
+<tr>
+<td>Enclosure</td>
+<td>Not needed</td>
+</tr>
+<tr>
+<td>Hardened nozzle</td>
+<td>Only for carbon- or glass-fibre PETG</td>
+</tr>
+<tr>
+<td>Drying</td>
+<td>Recommended; about 55–70 °C depending on the maker</td>
+</tr>
+<tr>
+<td>Strengths</td>
+<td>Tough, low warping, good layer adhesion, water resistant</td>
+</tr>
+<tr>
+<td>Weak points</td>
+<td>Stringing, weaker bridges and overhangs, sticks hard to smooth PEI</td>
+</tr>
+</tbody></table>
+<h2>What is PETG?</h2>
+<p>PETG is a polyester, from the same family as the PET used for drink bottles and food containers. The &quot;G&quot; means the polymer is modified with glycol: part of the standard building block is swapped for a bulkier one, which stops the plastic crystallising as readily. Prusa&#39;s guide says this glycol modification makes PETG less brittle and more transparent, and Hubs notes it also makes the material easier to print than plain PET.</p>
+<p><strong>What does PETG stand for?</strong> Polyethylene terephthalate glycol-modified. You will also see &quot;PET-G&quot; or simply &quot;PET&quot; on some spools; check the label, because a few PET grades print differently.</p>
+<h2>PETG properties – what it is good at</h2>
+<ul>
+<li><strong>Toughness.</strong> PETG bends before it breaks. Prusa describes it as tough and flexible, so parts often survive drops and snap-fits that would crack PLA.</li>
+<li><strong>Heat resistance.</strong> Polymaker gives a glass transition of about 80–85 °C for PETG versus about 60 °C for PLA. Prusa says PETG parts suit most exterior use as long as they stay below 80 °C.</li>
+<li><strong>Low warping.</strong> PETG has very little thermal expansion, so large flat parts stay down without an enclosure.</li>
+<li><strong>Layer adhesion.</strong> Layers fuse well, which helps with watertight parts such as planters and containers.</li>
+<li><strong>Water and weather.</strong> PETG resists water and humidity once printed. Hubs and Creality both describe its UV resistance as moderate, so it suits outdoor parts better than PLA, though ASA is the stronger choice for long-term sun.</li>
+</ul>
+<p><strong>Tip:</strong> if a PLA part sags in a hot car or breaks at a clip, reprint it in PETG before reaching for an engineering material.</p>
+<h2>Where PETG falls short</h2>
+<p>Prusa lists the downsides plainly: PETG strings easily, bridges and overhangs are worse than with PLA, fine detail is softer, it bonds very strongly to some beds and supports are harder to remove. Hubs adds that it resists most chemical smoothing, so finishing is usually sanding. It is also stiffer and less heat-resistant than ABS, ASA or PC, so it is not the answer for parts near engines or heaters.</p>
+<p>If you are deciding between the two most common filaments, our <a href="/blog/petg-vs-pla/">PETG vs PLA comparison</a> goes through strength, temperature and use cases side by side.</p>
+<h2>What is PETG filament used for?</h2>
+<p>PETG is the default for parts that do a job rather than sit on a shelf:</p>
+<table>
+<thead>
+<tr>
+<th>Use</th>
+<th>Why PETG fits</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Brackets, hooks, wall mounts</td>
+<td>Tough; flexes instead of snapping</td>
+</tr>
+<tr>
+<td>Clips, clamps, snap-fit lids</td>
+<td>Survives repeated bending better than PLA</td>
+</tr>
+<tr>
+<td>Printer parts and tool holders</td>
+<td>Prusa prints many of its own printer parts in PETG</td>
+</tr>
+<tr>
+<td>Planters, garden and outdoor fittings</td>
+<td>Water resistant; handles sun and warmth better than PLA</td>
+</tr>
+<tr>
+<td>Electronics enclosures</td>
+<td>Low warping on large flat panels</td>
+</tr>
+<tr>
+<td>Watertight containers</td>
+<td>Strong layer bonding</td>
+</tr>
+<tr>
+<td>Mechanical prototypes and jigs</td>
+<td>Good balance of strength and ease of printing</td>
+</tr>
+</tbody></table>
+<p>PETG as a raw material is used for food packaging, but a printed part is a different matter: Prusa does not recommend printed food-contact items without a food-safe coating and a clean stainless steel nozzle, because layer lines trap bacteria. Read <a href="/blog/is-pla-food-safe/">is PLA food safe?</a> for the details, which apply to PETG too.</p>
+<h2>PETG print settings</h2>
+<p>Start from your slicer&#39;s PETG profile for your brand, then adjust. The ranges below are typical values from manufacturer guides:</p>
+<table>
+<thead>
+<tr>
+<th>Setting</th>
+<th>Typical starting point</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Nozzle</td>
+<td>230–250 °C</td>
+<td>Prusa uses 230 °C first layer, 240 °C after; Bambu Lab lists 240–270 °C</td>
+</tr>
+<tr>
+<td>Bed</td>
+<td>70–90 °C</td>
+<td>Prusa uses 85 °C first layer, 90 °C after; Bambu Lab lists 60–80 °C</td>
+</tr>
+<tr>
+<td>Part cooling fan</td>
+<td>20–60 %</td>
+<td>Less fan gives stronger layers; more fan gives sharper detail</td>
+</tr>
+<tr>
+<td>Speed</td>
+<td>40–100 mm/s on standard grades</td>
+<td>High-flow grades are made for much faster printing</td>
+</tr>
+<tr>
+<td>Retraction</td>
+<td>Slightly more than PLA, if stringing</td>
+<td>Tune only after drying the filament</td>
+</tr>
+</tbody></table>
+<p><strong>Cooling trade-off.</strong> Prusa says part cooling keeps details crisp and cuts stringing, but for maximum toughness you can turn the fan off, or run it off for the first layers and at half power after.</p>
+<p><strong>Enclosed printers.</strong> Bambu Lab recommends taking off the upper glass cover when the bed is above 70 °C, so heat does not build up and soften the part.</p>
+<h2>Bed adhesion: stop PETG sticking too well</h2>
+<p>PETG&#39;s problem is often the opposite of PLA&#39;s: it can bond so strongly that it tears pieces out of a smooth PEI sheet. Prusa advises a powder-coated (textured) or satin sheet for PETG and, if you must use smooth PEI, a layer of glue stick before printing as a release agent. Bambu Lab lists glue stick or liquid glue for PETG on its plates and does not recommend the Cool Plate.</p>
+<ol>
+<li>Clean the plate with dish soap and water or isopropyl alcohol.</li>
+<li>Use a textured PEI sheet if you have one.</li>
+<li>On smooth PEI or glass, apply a thin glue stick layer.</li>
+<li>Let the bed cool fully before removing the part.</li>
+</ol>
+<h2>Stringing and moisture</h2>
+<p>Some stringing is normal for PETG. Prusa suggests more retraction and a slightly lower nozzle temperature. But the most common cause of sudden heavy stringing, popping or rough walls is moisture: Bambu Lab&#39;s wiki says absorbed water turns to steam in the nozzle and causes stringing, oozing, holes and weaker parts.</p>
+<p>Bambu Lab recommends drying PETG before use; its material table gives 70 °C for 8 hours in a dryer, while Prusa dries its own PETG at 55 °C for 6 hours. See our guide on <a href="/blog/how-to-dry-filament/">how to dry filament</a> for methods and a full temperature table, and store spools sealed with desiccant afterwards.</p>
+<h2>PETG HF and other PETG variants</h2>
+<ul>
+<li><strong>PETG HF</strong> – &quot;HF&quot; stands for high flow. Bambu Lab&#39;s PETG HF is made to be printed fast at high volumetric flow; its wiki gives separate &quot;Bambu PETG HF&quot; and &quot;Generic PETG HF&quot; profiles and warns against using the fast Bambu profile on damp filament. Other brands sell similar &quot;high-speed&quot; or &quot;rapid&quot; PETG.</li>
+<li><strong>Carbon- or glass-fibre PETG (PETG-CF, PETG-GF)</strong> – stiffer and more matte. Bambu Lab marks PETG-CF as needing a hardened nozzle.</li>
+<li><strong>Translucent and matte PETG</strong> – same base material with a different finish.</li>
+<li><strong>Recycled PETG</strong> – made from reclaimed material; use the settings on that spool&#39;s label.</li>
+</ul>
+<p>The <a href="/blog/bambu-filament/">Bambu filament guide</a> covers how the Basic, HF and Translucent lines fit together if you print on a Bambu Lab machine.</p>
+<h2>Checklist for your first PETG print</h2>
+<ol>
+<li>Dry the spool if it has been open for a while.</li>
+<li>Load your slicer&#39;s PETG profile for your brand.</li>
+<li>Use a textured sheet, or glue stick on smooth PEI.</li>
+<li>Lower part cooling compared with PLA.</li>
+<li>Print a small test part and look for strings and layer gaps.</li>
+<li>Adjust temperature in 5 °C steps, then retraction, if needed.</li>
+<li>Store the spool sealed with desiccant after printing.</li>
+</ol>
+<h2>Verdict</h2>
+<p>PETG filament is the practical step up from PLA: tougher, more heat-tolerant and still easy to print without an enclosure. Use it for anything that bends, gets warm or lives outdoors, accept a little stringing, keep the spool dry and protect smooth beds with glue stick.</p>
+25:["$","div",null,{"className":"split","children":[["$","article",null,{"className":"prose","children":[["$","h1",null,{"children":"PETG filament – what it is, what it is used for and how to print it"}],["$","figure",null,{"className":"doc-hero","children":["$","img",null,{"src":"/images/blog/petg-filament.webp","alt":"Illustration of a translucent teal PETG spool beside a snap-fit clip, wall bracket and small planter on a textured build plate with a glue stick","width":1200,"height":675,"fetchPriority":"high","decoding":"async"}]}],["$","p",null,{"className":"muted small","children":["Updated ","November 26, 2026"]}],["$","div",null,{"className":"summary-box","children":[["$","b",null,{"children":"Key points"}],["$","ul",null,{"children":[["$","li","PETG stands for polyethylene terephthalate glycol-modified, a tougher, more heat-tolerant relative of the PET used in drink bottles.",{"children":"PETG stands for polyethylene terephthalate glycol-modified, a tougher, more heat-tolerant relative of the PET used in drink bottles."}],["$","li","Typical settings are about 230–250 °C at the nozzle and 70–90 °C on the bed, with less part cooling than PLA.",{"children":"Typical settings are about 230–250 °C at the nozzle and 70–90 °C on the bed, with less part cooling than PLA."}],["$","li","PETG strings more than PLA and can bond too strongly to smooth PEI, so a glue stick release layer and dry filament help.",{"children":"PETG strings more than PLA and can bond too strongly to smooth PEI, so a glue stick release layer and dry filament help."}]]}]]}],null,["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$27"}}]]}],"$L28"]}]
+26:["$","section",null,{"className":"section faq","aria-labelledby":"faq-h","children":[["$","h2",null,{"id":"faq-h","children":"Questions and answers"}],["$","div",null,{"className":"faq-list","children":[["$","details","What is PETG filament?",{"children":[["$","summary",null,{"children":"What is PETG filament?"}],["$","p",null,{"children":"PETG filament is a 3D printing plastic made from polyethylene terephthalate modified with glycol. It is tougher and more heat-resistant than PLA, warps far less than ABS and prints on most printers with a heated bed."}]]}],["$","details","What is PETG filament used for?",{"children":[["$","summary",null,{"children":"What is PETG filament used for?"}],["$","p",null,{"children":"Functional parts – brackets, clips, holders, enclosures, printer parts, planters and other outdoor or water-exposed parts. Prusa Research uses PETG for many of its own printer parts."}]]}],["$","details","What does PETG stand for?",{"children":[["$","summary",null,{"children":"What does PETG stand for?"}],["$","p",null,{"children":"Polyethylene terephthalate glycol-modified. The glycol modification makes the plastic less brittle and clearer than plain PET, and easier to print."}]]}],["$","details","Does PETG need an enclosure?",{"children":[["$","summary",null,{"children":"Does PETG need an enclosure?"}],["$","p",null,{"children":"No. PETG prints well on open-frame printers. Bambu Lab even recommends removing the top glass cover on enclosed models when the bed is above 70 °C, so the part cools properly."}]]}]]}]]}]
+28:["$","aside",null,{"className":"aside","children":[["$","div",null,{"className":"facts","children":[["$","b",null,{"children":"Tools for this"}],["$","div",null,{"className":"tool-grid","style":{"marginTop":10,"gridTemplateColumns":"1fr"},"children":[["$","$L4","stl-viewer",{"className":"tool-link","href":"/stl-viewer/","children":"STL viewer"}],["$","$L4","3mf-viewer",{"className":"tool-link","href":"/3mf-viewer/","children":"3MF viewer"}],["$","$L4","3mf-to-stl",{"className":"tool-link","href":"/3mf-to-stl/","children":"3MF to STL converter"}]]}]]}],["$","div",null,{"className":"facts","children":[["$","b",null,{"children":"Open or convert a model"}],["$","p",null,{"className":"small","style":{"margin":"6px 0 10px"},"children":"View STL, 3MF, STEP and more in your browser."}],["$","$L4",null,{"className":"btn btn-accent","href":"/3d-viewer/","children":"3D viewer"}]]}]]}]
+20:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#10151C"}]]
+1c:null
+29:I[622,[],"IconMark"]
+1e:{"metadata":[["$","title","0",{"children":"PETG Filament – What It Is, Uses and Print Settings | my3dprinter.io"}],["$","meta","1",{"name":"description","content":"PETG filament explained – what PETG stands for, its properties and uses, typical nozzle and bed temperatures, bed adhesion, stringing, drying and PETG HF."}],["$","meta","2",{"name":"application-name","content":"my3dprinter.io"}],["$","link","3",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","4",{"name":"robots","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","5",{"rel":"canonical","href":"https://my3dprinter.io/blog/petg-filament/"}],["$","meta","6",{"name":"format-detection","content":"telephone=no"}],["$","meta","7",{"property":"og:title","content":"PETG Filament – What It Is, Uses and Print Settings | my3dprinter.io"}],["$","meta","8",{"property":"og:description","content":"PETG filament explained – what PETG stands for, its properties and uses, typical nozzle and bed temperatures, bed adhesion, stringing, drying and PETG HF."}],["$","meta","9",{"property":"og:url","content":"https://my3dprinter.io/blog/petg-filament/"}],["$","meta","10",{"property":"og:site_name","content":"my3dprinter.io"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:image","content":"https://my3dprinter.io/images/blog/petg-filament.webp"}],["$","meta","13",{"property":"og:image:width","content":"1200"}],["$","meta","14",{"property":"og:image:height","content":"675"}],["$","meta","15",{"property":"og:image:alt","content":"PETG Filament – What It Is, Uses and Print Settings"}],["$","meta","16",{"property":"og:type","content":"article"}],["$","meta","17",{"property":"article:published_time","content":"2026-11-26"}],["$","meta","18",{"property":"article:modified_time","content":"2026-11-26"}],["$","meta","19",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","20",{"name":"twitter:title","content":"PETG Filament – What It Is, Uses and Print Settings | my3dprinter.io"}],["$","meta","21",{"name":"twitter:description","content":"PETG filament explained – what PETG stands for, its properties and uses, typical nozzle and bed temperatures, bed adhesion, stringing, drying and PETG HF."}],["$","meta","22",{"name":"twitter:image","content":"https://my3dprinter.io/images/blog/petg-filament.webp"}],["$","link","23",{"rel":"icon","href":"/favicon.ico","sizes":"48x48"}],["$","link","24",{"rel":"icon","href":"/icon.svg","type":"image/svg+xml"}],["$","link","25",{"rel":"icon","href":"/icon-192.png","sizes":"192x192","type":"image/png"}],["$","link","26",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","sizes":"180x180"}],["$","$L29","27",{}]],"error":null,"digest":"$undefined"}
+23:"$1e:metadata"

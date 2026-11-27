@@ -1,0 +1,386 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+4:I[2619,["2619","static/chunks/2619-3c9e02e22d10480a.js","4966","static/chunks/app/(en)/blog/%5Bslug%5D/page-6f60855278aa4f75.js"],""]
+5:I[1538,["2619","static/chunks/2619-3c9e02e22d10480a.js","90","static/chunks/app/(en)/layout-1d0e45a00e968cb3.js"],"default"]
+6:I[909,["2619","static/chunks/2619-3c9e02e22d10480a.js","90","static/chunks/app/(en)/layout-1d0e45a00e968cb3.js"],"default"]
+16:I[7150,[],""]
+:HL["/_next/static/css/93d1a12f2f4c9226.css","style"]
+0:{"P":null,"b":"rD7TGm9XF6FHQRkd5YG22","p":"","c":["","blog","atomic-filament",""],"i":false,"f":[[["",{"children":["(en)",{"children":["blog",{"children":[["slug","atomic-filament","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/93d1a12f2f4c9226.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","script",null,{"async":true,"src":"https://www.googletagmanager.com/gtm.js?id=GTM-T7SN8RQX"}],["$","script",null,{"async":true,"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3226858004021254","crossOrigin":"anonymous"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());"}}]]}],["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"wrap header-in","children":[["$","$L4",null,{"href":"/","className":"brand","aria-label":"my3dprinter.io home","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","nav",null,{"aria-label":"Main","className":"nav","children":[["$","$L4","/converters/",{"href":"/converters/","children":"Converters"}],["$","$L4","/3d-viewer/",{"href":"/3d-viewer/","children":"3D viewer"}],["$","$L4","/image-to-stl/",{"href":"/image-to-stl/","children":"Image to STL"}],["$","$L4","/printers/",{"href":"/printers/","children":"Printers"}],["$","$L4","/blog/",{"href":"/blog/","children":"Blog"}]]}],["$","div",null,{"className":"header-actions","children":[["$","$L5",null,{"lang":"en","langs":[{"code":"en","name":"English"},{"code":"de","name":"Deutsch"},{"code":"es","name":"Español"},{"code":"fr","name":"Français"},{"code":"it","name":"Italiano"},{"code":"ja","name":"日本語"},{"code":"ko","name":"한국어"},{"code":"pt","name":"Português"},{"code":"vi","name":"Tiếng Việt"},{"code":"th","name":"ไทย"},{"code":"zh","name":"简体中文"},{"code":"ru","name":"Русский"}],"localized":["/","/converters/","/3mf-to-stl/","/glb-to-stl/","/stl-to-3mf/","/step-to-stl/","/glb-to-obj/","/obj-to-stl/","/stl-to-obj/","/fbx-to-obj/","/gcode-to-stl/","/fbx-to-stl/","/zip-to-stl/","/stp-to-stl/","/dae-to-obj/","/gltf-to-obj/","/stl-to-dxf/","/obj-to-glb/","/gltf-to-stl/","/fbx-to-glb/","/ply-to-stl/","/3mf-to-obj/","/dae-to-stl/","/usdz-to-stl/","/ply-to-obj/","/stp-to-obj/","/3ds-to-obj/","/igs-to-stl/","/stl-to-glb/","/obj-to-3mf/","/glb-to-3mf/","/stl-to-usdz/","/glb-to-usdz/","/step-to-obj/","/step-to-3mf/","/stl-to-ply/","/fbx-to-gltf/","/image-to-stl/","/png-to-stl/","/jpg-to-stl/","/jpeg-to-stl/","/lithophane-maker/","/png-to-obj/","/png-to-3mf/","/svg-to-stl/","/svg-to-obj/","/png-to-dds/","/jpg-to-dds/","/dds-to-png/","/dds-to-jpg/","/3d-viewer/","/stl-viewer/","/3mf-viewer/","/obj-viewer/","/glb-viewer/","/step-viewer/","/ply-viewer/","/fbx-viewer/","/gltf-viewer/"],"label":"Language"}],["$","$L6",null,{"links":[["/converters/","Converters"],["/3d-viewer/","3D viewer"],["/image-to-stl/","Image to STL"],["/printers/","Printers"],["/blog/","Blog"],["/printers/compare/","Compare printers"]],"label":"Menu"}]]}]]}]}],["$","main",null,{"id":"main","className":"wrap","style":{"padding":"64px 24px"},"children":[["$","h1",null,{"children":"Page not found"}],["$","p",null,{"className":"lead","children":"This page does not exist. Try a converter or the 3D viewer."}],["$","p",null,{"children":["$","$L4",null,{"className":"btn btn-accent","href":"/converters/","children":"All converters"}]}]]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"wrap footer-grid","children":[["$","div",null,{"className":"footer-brand","children":[["$","$L4",null,{"href":"/","className":"brand","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":["$L7","$L8"]}]," ","$L9"]}],"$La"]}],["$Lb","$Lc","$Ld","$Le","$Lf"]]}],"$L10"]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["(en)","$L11",{"children":["blog","$L12",{"children":[["slug","atomic-filament","d"],"$L13",{"children":["__PAGE__","$L14",{},null,false]},null,false]},null,false]},null,false]},null,false],"$L15",false]],"m":"$undefined","G":["$16",[]],"s":false,"S":true}
+1b:I[4431,[],"OutletBoundary"]
+1d:I[5278,[],"AsyncMetadataOutlet"]
+1f:I[4431,[],"ViewportBoundary"]
+21:I[4431,[],"MetadataBoundary"]
+22:"$Sreact.suspense"
+7:["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}]
+8:["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]
+9:["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]
+a:["$","p",null,{"children":"Free tools that run in your browser. Your files are never uploaded."}]
+b:["$","div","Converters",{"children":[["$","h2",null,{"children":"Converters"}],["$","ul",null,{"children":[["$","li","/3mf-to-stl/",{"children":["$","$L4",null,{"href":"/3mf-to-stl/","children":"3MF → STL"}]}],["$","li","/step-to-stl/",{"children":["$","$L4",null,{"href":"/step-to-stl/","children":"STEP → STL"}]}],["$","li","/glb-to-stl/",{"children":["$","$L4",null,{"href":"/glb-to-stl/","children":"GLB → STL"}]}],["$","li","/obj-to-stl/",{"children":["$","$L4",null,{"href":"/obj-to-stl/","children":"OBJ → STL"}]}],["$","li","/stl-to-3mf/",{"children":["$","$L4",null,{"href":"/stl-to-3mf/","children":"STL → 3MF"}]}],["$","li","/converters/",{"children":["$","$L4",null,{"href":"/converters/","children":"All converters"}]}]]}]]}]
+c:["$","div","Images & textures",{"children":[["$","h2",null,{"children":"Images & textures"}],["$","ul",null,{"children":[["$","li","/image-to-stl/",{"children":["$","$L4",null,{"href":"/image-to-stl/","children":"Image to STL"}]}],["$","li","/lithophane-maker/",{"children":["$","$L4",null,{"href":"/lithophane-maker/","children":"Lithophane maker"}]}],["$","li","/svg-to-stl/",{"children":["$","$L4",null,{"href":"/svg-to-stl/","children":"SVG → STL"}]}],["$","li","/png-to-dds/",{"children":["$","$L4",null,{"href":"/png-to-dds/","children":"PNG → DDS"}]}],["$","li","/dds-to-png/",{"children":["$","$L4",null,{"href":"/dds-to-png/","children":"DDS → PNG"}]}]]}]]}]
+d:["$","div","Viewers",{"children":[["$","h2",null,{"children":"Viewers"}],["$","ul",null,{"children":[["$","li","/3d-viewer/",{"children":["$","$L4",null,{"href":"/3d-viewer/","children":"Online 3D model viewer"}]}],["$","li","/stl-viewer/",{"children":["$","$L4",null,{"href":"/stl-viewer/","children":"STL viewer"}]}],["$","li","/3mf-viewer/",{"children":["$","$L4",null,{"href":"/3mf-viewer/","children":"3MF viewer"}]}],["$","li","/step-viewer/",{"children":["$","$L4",null,{"href":"/step-viewer/","children":"STEP viewer"}]}],["$","li","/obj-viewer/",{"children":["$","$L4",null,{"href":"/obj-viewer/","children":"OBJ viewer"}]}]]}]]}]
+e:["$","div","my3dprinter.io",{"children":[["$","h2",null,{"children":"my3dprinter.io"}],["$","ul",null,{"children":[["$","li","/printers/",{"children":["$","$L4",null,{"href":"/printers/","children":"3D printers"}]}],["$","li","/printers/compare/",{"children":["$","$L4",null,{"href":"/printers/compare/","children":"Compare printers"}]}],["$","li","/blog/",{"children":["$","$L4",null,{"href":"/blog/","children":"Blog"}]}],["$","li","/formats/",{"children":["$","$L4",null,{"href":"/formats/","children":"File formats"}]}],["$","li","/about/",{"children":["$","$L4",null,{"href":"/about/","children":"About"}]}],["$","li","/contact/",{"children":["$","$L4",null,{"href":"/contact/","children":"Contact"}]}]]}]]}]
+f:["$","div","Legal",{"children":[["$","h2",null,{"children":"Legal"}],["$","ul",null,{"children":[["$","li","/privacy/",{"children":["$","$L4",null,{"href":"/privacy/","children":"Privacy policy"}]}],["$","li","/cookies/",{"children":["$","$L4",null,{"href":"/cookies/","children":"Cookie policy"}]}],["$","li","/terms/",{"children":["$","$L4",null,{"href":"/terms/","children":"Terms of use"}]}],["$","li","/disclaimer/",{"children":["$","$L4",null,{"href":"/disclaimer/","children":"Disclaimer"}]}]]}]]}]
+10:["$","div",null,{"className":"wrap footer-base","children":["$","p",null,{"children":["© ",2026," my3dprinter.io. ","Brand and product names belong to their owners; my3dprinter.io is an independent site and is not affiliated with any printer maker."]}]}]
+11:["$","$1","c",{"children":[null,[["$","a",null,{"className":"skip","href":"#main","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"wrap header-in","children":[["$","$L4",null,{"href":"/","className":"brand","aria-label":"my3dprinter.io home","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","nav",null,{"aria-label":"Main","className":"nav","children":[["$","$L4","/converters/",{"href":"/converters/","children":"Converters"}],["$","$L4","/3d-viewer/",{"href":"/3d-viewer/","children":"3D viewer"}],["$","$L4","/image-to-stl/",{"href":"/image-to-stl/","children":"Image to STL"}],["$","$L4","/printers/",{"href":"/printers/","children":"Printers"}],["$","$L4","/blog/",{"href":"/blog/","children":"Blog"}]]}],["$","div",null,{"className":"header-actions","children":[["$","$L5",null,{"lang":"en","langs":[{"code":"en","name":"English"},{"code":"de","name":"Deutsch"},{"code":"es","name":"Español"},{"code":"fr","name":"Français"},{"code":"it","name":"Italiano"},{"code":"ja","name":"日本語"},{"code":"ko","name":"한국어"},{"code":"pt","name":"Português"},{"code":"vi","name":"Tiếng Việt"},{"code":"th","name":"ไทย"},{"code":"zh","name":"简体中文"},{"code":"ru","name":"Русский"}],"localized":"$0:f:0:1:1:props:children:1:props:children:1:props:children:props:notFound:0:0:props:children:props:children:2:props:children:0:props:localized","label":"Language"}],["$","$L6",null,{"links":[["/converters/","Converters"],["/3d-viewer/","3D viewer"],["/image-to-stl/","Image to STL"],["/printers/","Printers"],["/blog/","Blog"],["/printers/compare/","Compare printers"]],"label":"Menu"}]]}]]}]}],["$","main",null,{"id":"main","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"wrap footer-grid","children":[["$","div",null,{"className":"footer-brand","children":[["$","$L4",null,{"href":"/","className":"brand","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","p",null,{"children":"Free tools that run in your browser. Your files are never uploaded."}]]}],[["$","div","Converters",{"children":[["$","h2",null,{"children":"Converters"}],["$","ul",null,{"children":[["$","li","/3mf-to-stl/",{"children":["$","$L4",null,{"href":"/3mf-to-stl/","children":"3MF → STL"}]}],["$","li","/step-to-stl/",{"children":["$","$L4",null,{"href":"/step-to-stl/","children":"STEP → STL"}]}],["$","li","/glb-to-stl/",{"children":["$","$L4",null,{"href":"/glb-to-stl/","children":"GLB → STL"}]}],["$","li","/obj-to-stl/",{"children":["$","$L4",null,{"href":"/obj-to-stl/","children":"OBJ → STL"}]}],["$","li","/stl-to-3mf/",{"children":["$","$L4",null,{"href":"/stl-to-3mf/","children":"STL → 3MF"}]}],["$","li","/converters/",{"children":["$","$L4",null,{"href":"/converters/","children":"All converters"}]}]]}]]}],["$","div","Images & textures",{"children":[["$","h2",null,{"children":"Images & textures"}],["$","ul",null,{"children":[["$","li","/image-to-stl/",{"children":["$","$L4",null,{"href":"/image-to-stl/","children":"Image to STL"}]}],["$","li","/lithophane-maker/",{"children":["$","$L4",null,{"href":"/lithophane-maker/","children":"Lithophane maker"}]}],["$","li","/svg-to-stl/",{"children":["$","$L4",null,{"href":"/svg-to-stl/","children":"SVG → STL"}]}],["$","li","/png-to-dds/",{"children":["$","$L4",null,{"href":"/png-to-dds/","children":"PNG → DDS"}]}],["$","li","/dds-to-png/",{"children":["$","$L4",null,{"href":"/dds-to-png/","children":"DDS → PNG"}]}]]}]]}],["$","div","Viewers",{"children":[["$","h2",null,{"children":"Viewers"}],["$","ul",null,{"children":[["$","li","/3d-viewer/",{"children":["$","$L4",null,{"href":"/3d-viewer/","children":"Online 3D model viewer"}]}],["$","li","/stl-viewer/",{"children":["$","$L4",null,{"href":"/stl-viewer/","children":"STL viewer"}]}],["$","li","/3mf-viewer/",{"children":["$","$L4",null,{"href":"/3mf-viewer/","children":"3MF viewer"}]}],["$","li","/step-viewer/",{"children":["$","$L4",null,{"href":"/step-viewer/","children":"STEP viewer"}]}],["$","li","/obj-viewer/",{"children":["$","$L4",null,{"href":"/obj-viewer/","children":"OBJ viewer"}]}]]}]]}],"$L17","$L18"]]}],"$L19"]}]]]}]
+12:["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+13:["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+14:["$","$1","c",{"children":["$L1a",null,["$","$L1b",null,{"children":["$L1c",["$","$L1d",null,{"promise":"$@1e"}]]}]]}]
+15:["$","$1","h",{"children":[null,[["$","$L1f",null,{"children":"$L20"}],null],["$","$L21",null,{"children":["$","div",null,{"hidden":true,"children":["$","$22",null,{"fallback":null,"children":"$L23"}]}]}]]}]
+17:["$","div","my3dprinter.io",{"children":[["$","h2",null,{"children":"my3dprinter.io"}],["$","ul",null,{"children":[["$","li","/printers/",{"children":["$","$L4",null,{"href":"/printers/","children":"3D printers"}]}],["$","li","/printers/compare/",{"children":["$","$L4",null,{"href":"/printers/compare/","children":"Compare printers"}]}],["$","li","/blog/",{"children":["$","$L4",null,{"href":"/blog/","children":"Blog"}]}],["$","li","/formats/",{"children":["$","$L4",null,{"href":"/formats/","children":"File formats"}]}],["$","li","/about/",{"children":["$","$L4",null,{"href":"/about/","children":"About"}]}],["$","li","/contact/",{"children":["$","$L4",null,{"href":"/contact/","children":"Contact"}]}]]}]]}]
+18:["$","div","Legal",{"children":[["$","h2",null,{"children":"Legal"}],["$","ul",null,{"children":[["$","li","/privacy/",{"children":["$","$L4",null,{"href":"/privacy/","children":"Privacy policy"}]}],["$","li","/cookies/",{"children":["$","$L4",null,{"href":"/cookies/","children":"Cookie policy"}]}],["$","li","/terms/",{"children":["$","$L4",null,{"href":"/terms/","children":"Terms of use"}]}],["$","li","/disclaimer/",{"children":["$","$L4",null,{"href":"/disclaimer/","children":"Disclaimer"}]}]]}]]}]
+19:["$","div",null,{"className":"wrap footer-base","children":["$","p",null,{"children":["© ",2026," my3dprinter.io. ","Brand and product names belong to their owners; my3dprinter.io is an independent site and is not affiliated with any printer maker."]}]}]
+24:Tde9,{"@context":"https://schema.org","@graph":[{"@type":"Article","headline":"Atomic Filament – US-made PLA, PETG PRO, PCTG, ABS, ASA and nylon explained","description":"Atomic Filament guide – the Indiana-made PLA, PETG PRO, PCTG PRO, ABS, ASA and carbon fiber lines, the maker's print temperatures, drying and spool sizes.","datePublished":"2026-11-27","dateModified":"2026-11-27","mainEntityOfPage":"https://my3dprinter.io/blog/atomic-filament/","inLanguage":"en","author":{"@type":"Organization","name":"my3dprinter.io","url":"https://my3dprinter.io"},"publisher":{"@type":"Organization","@id":"https://my3dprinter.io/#organization","name":"my3dprinter.io","url":"https://my3dprinter.io/","logo":{"@type":"ImageObject","url":"https://my3dprinter.io/icon-512.png","width":512,"height":512},"email":"hello@my3dprinter.io","description":"Free 3D file converters, viewers and 3D printer guides"},"image":"https://my3dprinter.io/og.png","citation":["https://atomicfilament.com/pages/about-us","https://atomicfilament.com/pages/some-detail-about-our-exceptional-quality","https://atomicfilament.com/pages/atomic-filament-faq","https://atomicfilament.com/collections/pla-filaments","https://atomicfilament.com/collections/tough-pla-filament","https://atomicfilament.com/collections/meltmiser-economy-series","https://atomicfilament.com/products/black-hi-flow-pro-pla-filament","https://atomicfilament.com/collections/petg-3d-printer-filament-us-made-with-free-shipping","https://atomicfilament.com/collections/pctg-free-us-shipping","https://atomicfilament.com/collections/abs-3d-filament","https://atomicfilament.com/collections/asa-free-us-shipping","https://atomicfilament.com/collections/exotic-specialty-filament","https://atomicfilament.com/products/carbon-fiber-nuclear-nylon"]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://my3dprinter.io/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://my3dprinter.io/blog/"},{"@type":"ListItem","position":3,"name":"Atomic Filament – US-made PLA, PETG PRO, PCTG, ABS, ASA and nylon explained","item":"https://my3dprinter.io/blog/atomic-filament/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Where is Atomic Filament made?","acceptedAnswer":{"@type":"Answer","text":"Atomic Filament says it makes its filament in-house at its facility in Kendallville, Indiana, USA, and that it is not a reseller or importer. Its PLA lines use NatureWorks Ingeo resin, according to its product pages."}},{"@type":"Question","name":"What temperature should I print Atomic Filament PLA at?","acceptedAnswer":{"@type":"Answer","text":"Atomic's FAQ gives 190–220 °C at the nozzle and a 50–60 °C bed for its PLA, with high part cooling and no enclosure. Start in the middle and adjust in 5 °C steps; the spool label has the exact range for that colour."}},{"@type":"Question","name":"Does Atomic Filament work in the Bambu Lab AMS?","acceptedAnswer":{"@type":"Answer","text":"Atomic says every 1 kg spool it sells is designed to fit and feed in the Bambu Lab AMS, across all materials and colours. Carbon fiber grades still need a hardened nozzle and extruder, as Bambu Lab recommends for abrasive filaments."}},{"@type":"Question","name":"Is Atomic PLA the same as PLA+?","acceptedAnswer":{"@type":"Answer","text":"Atomic's standard PLA contains impact modifiers and performance additives, which it says other brands sell as PLA+ or PLA Pro. Its MeltMiser economy series is plain PLA resin and colorant without those additives."}}]}]}1a:["$","div",null,{"className":"wrap","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$24"}}],"$L25","$L26","$L27"]}]
+25:["$","nav",null,{"className":"crumbs","aria-label":"Breadcrumb","children":[["$","$L4",null,{"href":"/","children":"Home"}]," / ",["$","$L4",null,{"href":"/blog/","children":"Blog"}]," / ","Atomic Filament – US-made PLA, PETG PRO, PCTG, ABS, ASA and nylon explained"]}]
+28:T442f,<p><strong>Atomic Filament is a 3D printer filament brand made in Kendallville, Indiana, USA, offering PLA, PETG PRO, PCTG PRO, ABS, ASA and carbon fiber filaments, mostly in 1.75 mm on AMS-compatible 1 kg spools.</strong> The company says it has made filament since 2014 and manufactures every spool in-house rather than importing and relabelling. This guide covers who Atomic is, what each product line is for, the tolerances and spool sizes it publishes, the print and drying temperatures from its own FAQ and product pages, and how to choose and dial in a spool. Everything comes from Atomic Filament&#39;s official site (about page, quality page, FAQ, collection and product pages), checked November 2026. We have not tested Atomic filament, we do not rate or review it, and we do not compare prices. The label on your spool always comes first.</p>
+<h2>Atomic Filament at a glance</h2>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Atomic Filament (from its own pages)</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Location</td>
+<td>Kendallville, Indiana, USA</td>
+</tr>
+<tr>
+<td>Making filament since</td>
+<td>2014</td>
+</tr>
+<tr>
+<td>Production</td>
+<td>In-house; &quot;not a reseller or importer&quot;</td>
+</tr>
+<tr>
+<td>Materials</td>
+<td>PLA, PETG PRO, PCTG PRO, ABS, ASA, carbon fiber grades, Nuclear Nylon</td>
+</tr>
+<tr>
+<td>PLA resin</td>
+<td>NatureWorks Ingeo</td>
+</tr>
+<tr>
+<td>Main diameter</td>
+<td>1.75 mm (2.85 mm on selected products)</td>
+</tr>
+<tr>
+<td>Diameter tolerance</td>
+<td>±0.02 mm on standard lines</td>
+</tr>
+<tr>
+<td>Spools</td>
+<td>1 kg AMS-compatible, 3.5 kg jumbo, 50 g sample coils</td>
+</tr>
+<tr>
+<td>PLA nozzle / bed</td>
+<td>190–220 °C / 50–60 °C</td>
+</tr>
+<tr>
+<td>PETG nozzle / bed</td>
+<td>240–265 °C / 70–90 °C</td>
+</tr>
+<tr>
+<td>Sales region</td>
+<td>United States only (no Canada at the time of checking)</td>
+</tr>
+</tbody></table>
+<h2>Who makes Atomic Filament?</h2>
+<p>Atomic Filament is an American filament manufacturer based in Kendallville, a small city in northeast Indiana. Its about page says the company was founded in 2014 by a 3D printing enthusiast with a background in industrial automation, who is still involved in day-to-day production. The site stresses three points about how it works:</p>
+<ul>
+<li><strong>Made in-house.</strong> Atomic says every spool is manufactured in its own Indiana facility for full quality control, and that it is not a reseller or importer.</li>
+<li><strong>US supplies where possible.</strong> The quality page says it uses American-made supplies where it can. Its PLA product pages name NatureWorks Ingeo as the PLA resin, and the ABS and ASA pages describe virgin resin with premium colorants.</li>
+<li><strong>Pigments made for printing.</strong> Atomic says its pigments are formulated for 3D printing and contain no high-melt-point additives, waxes or fillers.</li>
+</ul>
+<p>The company also lists a US government purchasing (GSA) contract on its site and runs a spool return programme, covered below. Its own store ships within the US only.</p>
+<p><strong>Why it matters:</strong> &quot;Made in USA&quot; is often a sourcing preference rather than a print-quality guarantee. What you can use when choosing is the published data – tolerance, resin, temperatures and spool size – which Atomic does put on its pages.</p>
+<h2>Atomic PLA: standard, impact, Hi-Flow and MeltMiser</h2>
+<p>PLA is Atomic&#39;s biggest line. The PLA collection advertises more than 70 colours, and every spool is listed with a 1.75 mm diameter, ±0.02 mm laser-measured tolerance and NatureWorks Ingeo resin. Atomic sells four kinds of PLA:</p>
+<table>
+<thead>
+<tr>
+<th>PLA line</th>
+<th>What Atomic says it is</th>
+<th>Nozzle range</th>
+<th>Best for</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Standard Atomic PLA</td>
+<td>Ingeo PLA with impact modifiers and performance additives (what other brands call PLA+ or PLA Pro)</td>
+<td>190–220 °C</td>
+<td>Everyday models, prototypes, decorative parts</td>
+</tr>
+<tr>
+<td>Extreme Impact / Ultra Impact PLA</td>
+<td>Ingeo PLA blended with an impact modifier to reduce brittleness</td>
+<td>190–230 °C</td>
+<td>Clips, snap-fits and parts that must survive drops</td>
+</tr>
+<tr>
+<td>Hi-Flow Pro PLA</td>
+<td>Ingeo PLA with Atomic&#39;s Pro additive package and lower viscosity</td>
+<td>180–230 °C</td>
+<td>Fast printing, Bowden printers</td>
+</tr>
+<tr>
+<td>MeltMiser economy series</td>
+<td>Plain PLA resin and colorant, no impact modifiers or additives</td>
+<td>Not stated – use the PLA range</td>
+<td>Bulk jobs, practice prints, prototypes</td>
+</tr>
+</tbody></table>
+<p>A few details from the product pages are worth knowing:</p>
+<ul>
+<li><strong>Impact PLA softens like normal PLA.</strong> Atomic says Extreme and Ultra Impact PLA soften at about the same temperature as regular PLA and are not meant for heat, sun or outdoor use. It points to PETG PRO or PCTG PRO for those jobs.</li>
+<li><strong>Hi-Flow Pro is a flow claim, not a speed number.</strong> Atomic claims &quot;twice the flow of regular PLA at the same temperature&quot; and lists an out-of-round value of 0.02 mm or less. It does not publish a maximum speed or volumetric flow figure, so test it with your own printer&#39;s flow calibration.</li>
+<li><strong>MeltMiser uses the same base resin and equipment</strong> as the premium PLA, according to Atomic, but leaves out the additives. At the time of checking it came in black and white, including 3.5 kg rolls.</li>
+<li><strong>Finishes:</strong> besides solid colours, Atomic lists translucent, neon (UV-reactive), silky, metallic, marble, sparkle and pearl, and shade-shifting PLA, plus a carbon fiber PLA.</li>
+</ul>
+<p><strong>Tip:</strong> for general PLA settings, materials and finishes across brands, see our <a href="/blog/pla-filament/">PLA filament guide</a>.</p>
+<h2>Atomic PETG PRO and PCTG PRO</h2>
+<p>Atomic sells PETG under the name <strong>PETG PRO</strong>. The collection page describes it as durable with a little flexibility, aimed at holders, organisers, enclosures and workshop parts, made in Indiana with laser-measured ±0.02 mm tolerance. Atomic does not explain what the &quot;PRO&quot; in the name stands for. Colours include opaque and translucent shades, neon, metallic, marble, sparkle and pearl, shade-shifting colours and a carbon fiber PETG PRO.</p>
+<p><strong>PCTG PRO</strong> is the newer co-polyester. Atomic positions it for jigs, fixtures, shop tools and holders, and says it has greater impact resistance than traditional PETG and less stringing and oozing. It recommends starting from your Atomic PETG PRO profile and fine-tuning from there; the FAQ gives a slightly hotter nozzle range for PCTG (255–272 °C) than for PETG (240–265 °C). The PCTG colour filter listed about 32 colour names at the time of checking.</p>
+<p><strong>Why it matters:</strong> if your PETG parts crack on impact or string badly, Atomic itself suggests PCTG PRO as the step up. Our <a href="/blog/petg-filament/">PETG filament guide</a> explains the material in general.</p>
+<h2>Atomic ABS and ASA</h2>
+<p>Both are sold on 1 kg and 3.5 kg spools with the same ±0.02 mm tolerance, made from virgin resin according to Atomic.</p>
+<ul>
+<li><strong>ABS:</strong> described as tough and heat-resistant for indoor brackets, enclosures and prototypes. The colour range covers blacks, whites, greys, natural, several solid colours, two neon UV-reactive shades and a carbon fiber ABS. Atomic also lists a flame-retardant black ABS based on SABIC FR15U. The ABS page says ABS has limited UV resistance for long-term outdoor use.</li>
+<li><strong>ASA:</strong> Atomic&#39;s choice for outdoor parts – mounts, enclosures, garden fixtures – with UV and weather resistance. Colours include whites, natural, blacks, greys, blue, red, orange, yellow, army green, a neon green and carbon fiber black.</li>
+</ul>
+<p>Both pages strongly recommend an enclosure (heated for ASA) to keep the print area warm and draught-free, and add that an enclosure does not replace ventilation. </p>
+<h2>Carbon fiber and Nuclear Nylon</h2>
+<p>Atomic&#39;s carbon fiber collection spans six bases: PLA, PETG PRO, PCTG PRO, ABS, ASA and nylon. The page warns not to assume one nozzle size, temperature or profile works for every carbon fiber filament, and to check each product page.</p>
+<p>The best-known grade is <strong>Carbon Fiber Nuclear Nylon v3</strong>. Its product page describes an alloyed PA copolymer with adhesion promoters and impact modifiers, filled with US-made milled carbon fiber. Atomic does not name the PA type or the fibre percentage. Its published settings:</p>
+<ul>
+<li>Nozzle 265–285 °C, bed 60 °C, print speed 35–45 mm/s.</li>
+<li>Hardened or wear-resistant nozzle, 0.5 mm minimum and 0.6 mm recommended.</li>
+<li>Warm glass coated with PVA or Magigoo, or another nylon-friendly surface.</li>
+<li>Tolerance listed as ±0.04 mm or better – looser than the standard lines.</li>
+</ul>
+<p>Atomic says the spool ships dry with a reusable moisture indicator card and is aimed at experienced nylon users.</p>
+<h2>Atomic Filament print temperatures</h2>
+<p>Atomic&#39;s FAQ publishes a starting table for each material. It recommends starting in the range, adjusting in 5 °C steps and checking the spool label for the exact range of that colour.</p>
+<table>
+<thead>
+<tr>
+<th>Material</th>
+<th>Nozzle</th>
+<th>Bed</th>
+<th>Enclosure</th>
+<th>Part cooling</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>PLA</td>
+<td>190–220 °C</td>
+<td>50–60 °C</td>
+<td>No</td>
+<td>High</td>
+</tr>
+<tr>
+<td>PETG PRO</td>
+<td>240–265 °C</td>
+<td>70–90 °C</td>
+<td>No</td>
+<td>Low to medium</td>
+</tr>
+<tr>
+<td>PCTG PRO</td>
+<td>255–272 °C</td>
+<td>70–90 °C</td>
+<td>No</td>
+<td>Low to medium</td>
+</tr>
+<tr>
+<td>ABS</td>
+<td>235–255 °C</td>
+<td>105–125 °C</td>
+<td>Yes</td>
+<td>Off or low</td>
+</tr>
+<tr>
+<td>ASA</td>
+<td>240–260 °C</td>
+<td>90–110 °C</td>
+<td>Yes, heated preferred</td>
+<td>Off or low</td>
+</tr>
+<tr>
+<td>Carbon fiber PLA</td>
+<td>210–230 °C</td>
+<td>50–60 °C</td>
+<td>No</td>
+<td>High</td>
+</tr>
+<tr>
+<td>Carbon fiber PETG</td>
+<td>240–265 °C</td>
+<td>60–78 °C</td>
+<td>No</td>
+<td>Low to medium</td>
+</tr>
+<tr>
+<td>Carbon fiber PCTG</td>
+<td>255–272 °C</td>
+<td>70–90 °C</td>
+<td>No</td>
+<td>Low to medium</td>
+</tr>
+<tr>
+<td>Carbon fiber ABS</td>
+<td>235–255 °C</td>
+<td>105–125 °C</td>
+<td>Yes</td>
+<td>Off or low</td>
+</tr>
+<tr>
+<td>Carbon fiber ASA</td>
+<td>240–260 °C</td>
+<td>110–120 °C</td>
+<td>Yes, heated preferred</td>
+<td>Off or low</td>
+</tr>
+<tr>
+<td>Nuclear Nylon / CF nylon</td>
+<td>265–285 °C</td>
+<td>60 °C</td>
+<td>Recommended</td>
+<td>Low</td>
+</tr>
+</tbody></table>
+<p>For all carbon fiber grades the FAQ asks for a hardened steel or other wear-resistant nozzle of at least 0.4 mm; the Nuclear Nylon page asks for 0.5 mm or more. Individual product pages can differ – the impact PLA page gives 190–230 °C and Hi-Flow Pro 180–230 °C – so use the narrower range on the product or spool when they disagree.</p>
+<p><strong>Tip:</strong> print a temperature tower when you open a new material or colour. Pigments change how a filament flows, so a black and a translucent spool of the same line may not print best at the same setting.</p>
+<h2>Drying and storage</h2>
+<p>Atomic packs all its filament with desiccant, and carbon fiber spools with double desiccant and a reusable humidity indicator card. Its FAQ says a sealed spool is ready to print and that a lost vacuum seal is not a problem because of the desiccant. It recommends drying any spool left out for days or weeks, or one that prints poorly.</p>
+<table>
+<thead>
+<tr>
+<th>Material</th>
+<th>Atomic&#39;s FAQ drying temperature</th>
+<th>Time</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>PLA</td>
+<td>45–50 °C</td>
+<td>4–6 h</td>
+</tr>
+<tr>
+<td>PETG / PCTG</td>
+<td>65 °C</td>
+<td>8–16 h</td>
+</tr>
+<tr>
+<td>ABS / ASA</td>
+<td>80 °C</td>
+<td>4–8 h</td>
+</tr>
+<tr>
+<td>Nuclear Nylon</td>
+<td>85 °C</td>
+<td>12–24 h</td>
+</tr>
+</tbody></table>
+<p>The collection pages give slightly different figures – 60 °C for at least 8 hours for PETG PRO and PCTG PRO, and 80 °C for at least 6 hours for ABS and ASA. Atomic warns not to go above its temperatures, because the spool can soften and the filament can fuse, and to check that your dryer and spool are rated for the temperature you set. It says PLA is the most forgiving and that nylon and PETG absorb moisture fastest.</p>
+<p><strong>Tip:</strong> store opened spools in a sealed bag or bin with desiccant, away from sunlight. Our guide on <a href="/blog/how-to-dry-filament/">how to dry filament</a> covers oven, dryer and dry-box methods.</p>
+<h2>Diameters, tolerance and spool sizes</h2>
+<ul>
+<li><strong>Diameter:</strong> 1.75 mm is standard. Some products come in 2.85 mm, and Atomic&#39;s FAQ says it can make any product in 2.85 mm with a 40 kg minimum order.</li>
+<li><strong>Tolerance:</strong> ±0.02 mm for the standard lines, measured during extrusion with multi-axis laser micrometers according to the FAQ. Nuclear Nylon is listed at ±0.04 mm or better.</li>
+<li><strong>Spools:</strong> red plastic spools with a white label. Atomic lists these dimensions:</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>Spool</th>
+<th>Size</th>
+<th>Centre hole</th>
+<th>Empty spool weight</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>1 kg (AMS-compatible)</td>
+<td>7 7/8 in diameter × 2 5/8 in wide (about 200 × 67 mm)</td>
+<td>2 in (about 51 mm)</td>
+<td>0.26 kg</td>
+</tr>
+<tr>
+<td>3.5 kg jumbo</td>
+<td>12 in × 3.75 in (about 305 × 95 mm)</td>
+<td>2 in</td>
+<td>0.936 kg</td>
+</tr>
+</tbody></table>
+<p>The 3.5 kg rolls are offered for popular PLA, PETG and ABS colours, and 50 g sample coils let you try a material first.</p>
+<p><strong>Bambu Lab AMS:</strong> Atomic says every 1 kg spool is designed to fit and feed in the AMS. The 3.5 kg jumbo roll is far too large for it and needs an external spool holder. If you are new to multi-material units, see our explainer on <a href="/blog/what-is-ams-in-3d-printing/">what AMS is in 3D printing</a>.</p>
+<p><strong>Empty-spool weight</strong> is useful if you weigh spools to see how much filament is left: subtract 0.26 kg from a 1 kg spool&#39;s total weight.</p>
+<p><strong>Spool returns:</strong> Atomic runs a spool recycling programme that gives store credit for returned empty spools, which it cleans, inspects and reuses. Since 1 April 2025 it only accepts its AMS-compatible spools.</p>
+<h2>How to choose an Atomic filament</h2>
+<table>
+<thead>
+<tr>
+<th>If you need…</th>
+<th>Atomic line to look at</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Everyday models and prototypes</td>
+<td>Standard Atomic PLA</td>
+</tr>
+<tr>
+<td>Large amounts of cheap practice or draft prints</td>
+<td>MeltMiser PLA, 3.5 kg rolls</td>
+</tr>
+<tr>
+<td>Clips, snap-fits, parts that get dropped</td>
+<td>Extreme or Ultra Impact PLA</td>
+</tr>
+<tr>
+<td>Faster printing on a PLA profile</td>
+<td>Hi-Flow Pro PLA</td>
+</tr>
+<tr>
+<td>Functional parts with a little flex, indoors</td>
+<td>PETG PRO</td>
+</tr>
+<tr>
+<td>Tougher shop parts, less stringing</td>
+<td>PCTG PRO</td>
+</tr>
+<tr>
+<td>Heat-resistant indoor parts, enclosed printer</td>
+<td>ABS</td>
+</tr>
+<tr>
+<td>Outdoor parts in sun and weather</td>
+<td>ASA</td>
+</tr>
+<tr>
+<td>Stiff jigs and fixtures, hardened nozzle</td>
+<td>Carbon fiber grades, Nuclear Nylon</td>
+</tr>
+</tbody></table>
+<p>Two quick filters before you order: does your printer reach the bed and nozzle temperatures in the table above, and do you have an enclosure for ABS and ASA? If not, stay with PLA, PETG PRO or PCTG PRO.</p>
+<h2>Checklist: first print with a new Atomic spool</h2>
+<ol>
+<li><strong>Read the spool label</strong> and the product page for that colour; use their range if it is narrower than the FAQ table.</li>
+<li><strong>Pick a generic profile</strong> for the material in your slicer (for example &quot;Generic PLA&quot; or &quot;Generic PETG&quot;), then set the nozzle and bed to the middle of Atomic&#39;s range.</li>
+<li><strong>Set part cooling</strong> as Atomic suggests: high for PLA, low to medium for PETG and PCTG, off or low for ABS, ASA and nylon.</li>
+<li><strong>Fit a hardened nozzle</strong> before any carbon fiber spool – 0.4 mm minimum, 0.5–0.6 mm for Nuclear Nylon.</li>
+<li><strong>Close the enclosure</strong> for ABS and ASA, and ventilate the room.</li>
+<li><strong>Run a temperature tower and a flow calibration</strong>, adjusting temperature in 5 °C steps.</li>
+<li><strong>Dry the spool</strong> at Atomic&#39;s temperature if you hear popping or see stringing and rough surfaces.</li>
+<li><strong>Check your model before slicing.</strong> Our <a href="/stl-viewer/">STL viewer</a> shows the part in the browser so you can confirm scale and orientation first.</li>
+</ol>
+<h2>Verdict</h2>
+<p>Atomic Filament is a US filament maker that publishes more than many brands: where it makes its filament, the PLA resin it uses, a ±0.02 mm tolerance, spool dimensions and empty-spool weights, and a full temperature and drying table for every material. Choose standard PLA for everyday printing, impact PLA for parts that snap or drop, PETG PRO or PCTG PRO for functional parts, ASA for outdoor use and ABS for heat-resistant indoor parts in an enclosure, and the carbon fiber grades only with a hardened nozzle. Treat Atomic&#39;s numbers as starting points, calibrate each new colour, and keep spools dry.</p>
+26:["$","div",null,{"className":"split","children":[["$","article",null,{"className":"prose","children":[["$","h1",null,{"children":"Atomic Filament – US-made PLA, PETG PRO, PCTG, ABS, ASA and nylon explained"}],null,["$","p",null,{"className":"muted small","children":["Updated ","November 27, 2026"]}],["$","div",null,{"className":"summary-box","children":[["$","b",null,{"children":"Key points"}],["$","ul",null,{"children":[["$","li","Atomic Filament is a filament maker in Kendallville, Indiana, that has produced 3D printing filament since 2014 and says it makes every spool in-house.",{"children":"Atomic Filament is a filament maker in Kendallville, Indiana, that has produced 3D printing filament since 2014 and says it makes every spool in-house."}],["$","li","Its lines cover PLA (including impact-modified, Hi-Flow Pro and the MeltMiser economy series), PETG PRO, PCTG PRO, ABS, ASA and carbon fiber grades up to Nuclear Nylon.",{"children":"Its lines cover PLA (including impact-modified, Hi-Flow Pro and the MeltMiser economy series), PETG PRO, PCTG PRO, ABS, ASA and carbon fiber grades up to Nuclear Nylon."}],["$","li","Atomic publishes a ±0.02 mm diameter tolerance for its standard lines, 1.75 mm as the main diameter, and 1 kg AMS-compatible spools plus 3.5 kg jumbo rolls.",{"children":"Atomic publishes a ±0.02 mm diameter tolerance for its standard lines, 1.75 mm as the main diameter, and 1 kg AMS-compatible spools plus 3.5 kg jumbo rolls."}]]}]]}],null,["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$28"}}]]}],"$L29"]}]
+27:["$","section",null,{"className":"section faq","aria-labelledby":"faq-h","children":[["$","h2",null,{"id":"faq-h","children":"Questions and answers"}],["$","div",null,{"className":"faq-list","children":[["$","details","Where is Atomic Filament made?",{"children":[["$","summary",null,{"children":"Where is Atomic Filament made?"}],["$","p",null,{"children":"Atomic Filament says it makes its filament in-house at its facility in Kendallville, Indiana, USA, and that it is not a reseller or importer. Its PLA lines use NatureWorks Ingeo resin, according to its product pages."}]]}],["$","details","What temperature should I print Atomic Filament PLA at?",{"children":[["$","summary",null,{"children":"What temperature should I print Atomic Filament PLA at?"}],["$","p",null,{"children":"Atomic's FAQ gives 190–220 °C at the nozzle and a 50–60 °C bed for its PLA, with high part cooling and no enclosure. Start in the middle and adjust in 5 °C steps; the spool label has the exact range for that colour."}]]}],["$","details","Does Atomic Filament work in the Bambu Lab AMS?",{"children":[["$","summary",null,{"children":"Does Atomic Filament work in the Bambu Lab AMS?"}],["$","p",null,{"children":"Atomic says every 1 kg spool it sells is designed to fit and feed in the Bambu Lab AMS, across all materials and colours. Carbon fiber grades still need a hardened nozzle and extruder, as Bambu Lab recommends for abrasive filaments."}]]}],["$","details","Is Atomic PLA the same as PLA+?",{"children":[["$","summary",null,{"children":"Is Atomic PLA the same as PLA+?"}],["$","p",null,{"children":"Atomic's standard PLA contains impact modifiers and performance additives, which it says other brands sell as PLA+ or PLA Pro. Its MeltMiser economy series is plain PLA resin and colorant without those additives."}]]}]]}]]}]
+29:["$","aside",null,{"className":"aside","children":[["$","div",null,{"className":"facts","children":[["$","b",null,{"children":"Tools for this"}],["$","div",null,{"className":"tool-grid","style":{"marginTop":10,"gridTemplateColumns":"1fr"},"children":[["$","$L4","stl-viewer",{"className":"tool-link","href":"/stl-viewer/","children":"STL viewer"}],["$","$L4","3d-viewer",{"className":"tool-link","href":"/3d-viewer/","children":"Online 3D model viewer"}],["$","$L4","3mf-to-stl",{"className":"tool-link","href":"/3mf-to-stl/","children":"3MF to STL converter"}]]}]]}],["$","div",null,{"className":"facts","children":[["$","b",null,{"children":"Open or convert a model"}],["$","p",null,{"className":"small","style":{"margin":"6px 0 10px"},"children":"View STL, 3MF, STEP and more in your browser."}],["$","$L4",null,{"className":"btn btn-accent","href":"/3d-viewer/","children":"3D viewer"}]]}]]}]
+20:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#10151C"}]]
+1c:null
+2a:I[622,[],"IconMark"]
+1e:{"metadata":[["$","title","0",{"children":"Atomic Filament – Product Lines, Temps and Spool Specs | my3dprinter.io"}],["$","meta","1",{"name":"description","content":"Atomic Filament guide – the Indiana-made PLA, PETG PRO, PCTG PRO, ABS, ASA and carbon fiber lines, the maker's print temperatures, drying and spool sizes."}],["$","meta","2",{"name":"application-name","content":"my3dprinter.io"}],["$","link","3",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","4",{"name":"robots","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","5",{"rel":"canonical","href":"https://my3dprinter.io/blog/atomic-filament/"}],["$","meta","6",{"name":"format-detection","content":"telephone=no"}],["$","meta","7",{"property":"og:title","content":"Atomic Filament – Product Lines, Temps and Spool Specs | my3dprinter.io"}],["$","meta","8",{"property":"og:description","content":"Atomic Filament guide – the Indiana-made PLA, PETG PRO, PCTG PRO, ABS, ASA and carbon fiber lines, the maker's print temperatures, drying and spool sizes."}],["$","meta","9",{"property":"og:url","content":"https://my3dprinter.io/blog/atomic-filament/"}],["$","meta","10",{"property":"og:site_name","content":"my3dprinter.io"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:image","content":"https://my3dprinter.io/og.png"}],["$","meta","13",{"property":"og:image:width","content":"1200"}],["$","meta","14",{"property":"og:image:height","content":"630"}],["$","meta","15",{"property":"og:image:alt","content":"Atomic Filament – Product Lines, Temps and Spool Specs"}],["$","meta","16",{"property":"og:type","content":"article"}],["$","meta","17",{"property":"article:published_time","content":"2026-11-27"}],["$","meta","18",{"property":"article:modified_time","content":"2026-11-27"}],["$","meta","19",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","20",{"name":"twitter:title","content":"Atomic Filament – Product Lines, Temps and Spool Specs | my3dprinter.io"}],["$","meta","21",{"name":"twitter:description","content":"Atomic Filament guide – the Indiana-made PLA, PETG PRO, PCTG PRO, ABS, ASA and carbon fiber lines, the maker's print temperatures, drying and spool sizes."}],["$","meta","22",{"name":"twitter:image","content":"https://my3dprinter.io/og.png"}],["$","link","23",{"rel":"icon","href":"/favicon.ico","sizes":"48x48"}],["$","link","24",{"rel":"icon","href":"/icon.svg","type":"image/svg+xml"}],["$","link","25",{"rel":"icon","href":"/icon-192.png","sizes":"192x192","type":"image/png"}],["$","link","26",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","sizes":"180x180"}],["$","$L2a","27",{}]],"error":null,"digest":"$undefined"}
+23:"$1e:metadata"

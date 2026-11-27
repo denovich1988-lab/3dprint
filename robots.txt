@@ -1,0 +1,26 @@
+User-Agent: *
+Allow: /
+Disallow: /_next/static/chunks/*.map
+
+User-Agent: GPTBot
+User-Agent: OAI-SearchBot
+User-Agent: ChatGPT-User
+User-Agent: ClaudeBot
+User-Agent: Claude-SearchBot
+User-Agent: Claude-User
+User-Agent: PerplexityBot
+User-Agent: Perplexity-User
+User-Agent: Google-Extended
+User-Agent: Applebot
+User-Agent: Applebot-Extended
+User-Agent: Bingbot
+User-Agent: DuckAssistBot
+User-Agent: MistralAI-User
+User-Agent: meta-externalagent
+User-Agent: Amazonbot
+User-Agent: YouBot
+User-Agent: cohere-ai
+Allow: /
+
+Host: https://my3dprinter.io/
+Sitemap: https://my3dprinter.io/sitemap.xml

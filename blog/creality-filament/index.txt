@@ -1,0 +1,338 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+4:I[2619,["2619","static/chunks/2619-3c9e02e22d10480a.js","4966","static/chunks/app/(en)/blog/%5Bslug%5D/page-6f60855278aa4f75.js"],""]
+5:I[1538,["2619","static/chunks/2619-3c9e02e22d10480a.js","90","static/chunks/app/(en)/layout-1d0e45a00e968cb3.js"],"default"]
+6:I[909,["2619","static/chunks/2619-3c9e02e22d10480a.js","90","static/chunks/app/(en)/layout-1d0e45a00e968cb3.js"],"default"]
+16:I[7150,[],""]
+:HL["/_next/static/css/93d1a12f2f4c9226.css","style"]
+0:{"P":null,"b":"rD7TGm9XF6FHQRkd5YG22","p":"","c":["","blog","creality-filament",""],"i":false,"f":[[["",{"children":["(en)",{"children":["blog",{"children":[["slug","creality-filament","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/93d1a12f2f4c9226.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","script",null,{"async":true,"src":"https://www.googletagmanager.com/gtm.js?id=GTM-T7SN8RQX"}],["$","script",null,{"async":true,"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3226858004021254","crossOrigin":"anonymous"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());"}}]]}],["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"wrap header-in","children":[["$","$L4",null,{"href":"/","className":"brand","aria-label":"my3dprinter.io home","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","nav",null,{"aria-label":"Main","className":"nav","children":[["$","$L4","/converters/",{"href":"/converters/","children":"Converters"}],["$","$L4","/3d-viewer/",{"href":"/3d-viewer/","children":"3D viewer"}],["$","$L4","/image-to-stl/",{"href":"/image-to-stl/","children":"Image to STL"}],["$","$L4","/printers/",{"href":"/printers/","children":"Printers"}],["$","$L4","/blog/",{"href":"/blog/","children":"Blog"}]]}],["$","div",null,{"className":"header-actions","children":[["$","$L5",null,{"lang":"en","langs":[{"code":"en","name":"English"},{"code":"de","name":"Deutsch"},{"code":"es","name":"Español"},{"code":"fr","name":"Français"},{"code":"it","name":"Italiano"},{"code":"ja","name":"日本語"},{"code":"ko","name":"한국어"},{"code":"pt","name":"Português"},{"code":"vi","name":"Tiếng Việt"},{"code":"th","name":"ไทย"},{"code":"zh","name":"简体中文"},{"code":"ru","name":"Русский"}],"localized":["/","/converters/","/3mf-to-stl/","/glb-to-stl/","/stl-to-3mf/","/step-to-stl/","/glb-to-obj/","/obj-to-stl/","/stl-to-obj/","/fbx-to-obj/","/gcode-to-stl/","/fbx-to-stl/","/zip-to-stl/","/stp-to-stl/","/dae-to-obj/","/gltf-to-obj/","/stl-to-dxf/","/obj-to-glb/","/gltf-to-stl/","/fbx-to-glb/","/ply-to-stl/","/3mf-to-obj/","/dae-to-stl/","/usdz-to-stl/","/ply-to-obj/","/stp-to-obj/","/3ds-to-obj/","/igs-to-stl/","/stl-to-glb/","/obj-to-3mf/","/glb-to-3mf/","/stl-to-usdz/","/glb-to-usdz/","/step-to-obj/","/step-to-3mf/","/stl-to-ply/","/fbx-to-gltf/","/image-to-stl/","/png-to-stl/","/jpg-to-stl/","/jpeg-to-stl/","/lithophane-maker/","/png-to-obj/","/png-to-3mf/","/svg-to-stl/","/svg-to-obj/","/png-to-dds/","/jpg-to-dds/","/dds-to-png/","/dds-to-jpg/","/3d-viewer/","/stl-viewer/","/3mf-viewer/","/obj-viewer/","/glb-viewer/","/step-viewer/","/ply-viewer/","/fbx-viewer/","/gltf-viewer/"],"label":"Language"}],["$","$L6",null,{"links":[["/converters/","Converters"],["/3d-viewer/","3D viewer"],["/image-to-stl/","Image to STL"],["/printers/","Printers"],["/blog/","Blog"],["/printers/compare/","Compare printers"]],"label":"Menu"}]]}]]}]}],["$","main",null,{"id":"main","className":"wrap","style":{"padding":"64px 24px"},"children":[["$","h1",null,{"children":"Page not found"}],["$","p",null,{"className":"lead","children":"This page does not exist. Try a converter or the 3D viewer."}],["$","p",null,{"children":["$","$L4",null,{"className":"btn btn-accent","href":"/converters/","children":"All converters"}]}]]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"wrap footer-grid","children":[["$","div",null,{"className":"footer-brand","children":[["$","$L4",null,{"href":"/","className":"brand","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":["$L7","$L8"]}]," ","$L9"]}],"$La"]}],["$Lb","$Lc","$Ld","$Le","$Lf"]]}],"$L10"]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["(en)","$L11",{"children":["blog","$L12",{"children":[["slug","creality-filament","d"],"$L13",{"children":["__PAGE__","$L14",{},null,false]},null,false]},null,false]},null,false]},null,false],"$L15",false]],"m":"$undefined","G":["$16",[]],"s":false,"S":true}
+1b:I[4431,[],"OutletBoundary"]
+1d:I[5278,[],"AsyncMetadataOutlet"]
+1f:I[4431,[],"ViewportBoundary"]
+21:I[4431,[],"MetadataBoundary"]
+22:"$Sreact.suspense"
+7:["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}]
+8:["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]
+9:["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]
+a:["$","p",null,{"children":"Free tools that run in your browser. Your files are never uploaded."}]
+b:["$","div","Converters",{"children":[["$","h2",null,{"children":"Converters"}],["$","ul",null,{"children":[["$","li","/3mf-to-stl/",{"children":["$","$L4",null,{"href":"/3mf-to-stl/","children":"3MF → STL"}]}],["$","li","/step-to-stl/",{"children":["$","$L4",null,{"href":"/step-to-stl/","children":"STEP → STL"}]}],["$","li","/glb-to-stl/",{"children":["$","$L4",null,{"href":"/glb-to-stl/","children":"GLB → STL"}]}],["$","li","/obj-to-stl/",{"children":["$","$L4",null,{"href":"/obj-to-stl/","children":"OBJ → STL"}]}],["$","li","/stl-to-3mf/",{"children":["$","$L4",null,{"href":"/stl-to-3mf/","children":"STL → 3MF"}]}],["$","li","/converters/",{"children":["$","$L4",null,{"href":"/converters/","children":"All converters"}]}]]}]]}]
+c:["$","div","Images & textures",{"children":[["$","h2",null,{"children":"Images & textures"}],["$","ul",null,{"children":[["$","li","/image-to-stl/",{"children":["$","$L4",null,{"href":"/image-to-stl/","children":"Image to STL"}]}],["$","li","/lithophane-maker/",{"children":["$","$L4",null,{"href":"/lithophane-maker/","children":"Lithophane maker"}]}],["$","li","/svg-to-stl/",{"children":["$","$L4",null,{"href":"/svg-to-stl/","children":"SVG → STL"}]}],["$","li","/png-to-dds/",{"children":["$","$L4",null,{"href":"/png-to-dds/","children":"PNG → DDS"}]}],["$","li","/dds-to-png/",{"children":["$","$L4",null,{"href":"/dds-to-png/","children":"DDS → PNG"}]}]]}]]}]
+d:["$","div","Viewers",{"children":[["$","h2",null,{"children":"Viewers"}],["$","ul",null,{"children":[["$","li","/3d-viewer/",{"children":["$","$L4",null,{"href":"/3d-viewer/","children":"Online 3D model viewer"}]}],["$","li","/stl-viewer/",{"children":["$","$L4",null,{"href":"/stl-viewer/","children":"STL viewer"}]}],["$","li","/3mf-viewer/",{"children":["$","$L4",null,{"href":"/3mf-viewer/","children":"3MF viewer"}]}],["$","li","/step-viewer/",{"children":["$","$L4",null,{"href":"/step-viewer/","children":"STEP viewer"}]}],["$","li","/obj-viewer/",{"children":["$","$L4",null,{"href":"/obj-viewer/","children":"OBJ viewer"}]}]]}]]}]
+e:["$","div","my3dprinter.io",{"children":[["$","h2",null,{"children":"my3dprinter.io"}],["$","ul",null,{"children":[["$","li","/printers/",{"children":["$","$L4",null,{"href":"/printers/","children":"3D printers"}]}],["$","li","/printers/compare/",{"children":["$","$L4",null,{"href":"/printers/compare/","children":"Compare printers"}]}],["$","li","/blog/",{"children":["$","$L4",null,{"href":"/blog/","children":"Blog"}]}],["$","li","/formats/",{"children":["$","$L4",null,{"href":"/formats/","children":"File formats"}]}],["$","li","/about/",{"children":["$","$L4",null,{"href":"/about/","children":"About"}]}],["$","li","/contact/",{"children":["$","$L4",null,{"href":"/contact/","children":"Contact"}]}]]}]]}]
+f:["$","div","Legal",{"children":[["$","h2",null,{"children":"Legal"}],["$","ul",null,{"children":[["$","li","/privacy/",{"children":["$","$L4",null,{"href":"/privacy/","children":"Privacy policy"}]}],["$","li","/cookies/",{"children":["$","$L4",null,{"href":"/cookies/","children":"Cookie policy"}]}],["$","li","/terms/",{"children":["$","$L4",null,{"href":"/terms/","children":"Terms of use"}]}],["$","li","/disclaimer/",{"children":["$","$L4",null,{"href":"/disclaimer/","children":"Disclaimer"}]}]]}]]}]
+10:["$","div",null,{"className":"wrap footer-base","children":["$","p",null,{"children":["© ",2026," my3dprinter.io. ","Brand and product names belong to their owners; my3dprinter.io is an independent site and is not affiliated with any printer maker."]}]}]
+11:["$","$1","c",{"children":[null,[["$","a",null,{"className":"skip","href":"#main","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"wrap header-in","children":[["$","$L4",null,{"href":"/","className":"brand","aria-label":"my3dprinter.io home","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","nav",null,{"aria-label":"Main","className":"nav","children":[["$","$L4","/converters/",{"href":"/converters/","children":"Converters"}],["$","$L4","/3d-viewer/",{"href":"/3d-viewer/","children":"3D viewer"}],["$","$L4","/image-to-stl/",{"href":"/image-to-stl/","children":"Image to STL"}],["$","$L4","/printers/",{"href":"/printers/","children":"Printers"}],["$","$L4","/blog/",{"href":"/blog/","children":"Blog"}]]}],["$","div",null,{"className":"header-actions","children":[["$","$L5",null,{"lang":"en","langs":[{"code":"en","name":"English"},{"code":"de","name":"Deutsch"},{"code":"es","name":"Español"},{"code":"fr","name":"Français"},{"code":"it","name":"Italiano"},{"code":"ja","name":"日本語"},{"code":"ko","name":"한국어"},{"code":"pt","name":"Português"},{"code":"vi","name":"Tiếng Việt"},{"code":"th","name":"ไทย"},{"code":"zh","name":"简体中文"},{"code":"ru","name":"Русский"}],"localized":"$0:f:0:1:1:props:children:1:props:children:1:props:children:props:notFound:0:0:props:children:props:children:2:props:children:0:props:localized","label":"Language"}],["$","$L6",null,{"links":[["/converters/","Converters"],["/3d-viewer/","3D viewer"],["/image-to-stl/","Image to STL"],["/printers/","Printers"],["/blog/","Blog"],["/printers/compare/","Compare printers"]],"label":"Menu"}]]}]]}]}],["$","main",null,{"id":"main","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"wrap footer-grid","children":[["$","div",null,{"className":"footer-brand","children":[["$","$L4",null,{"href":"/","className":"brand","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","p",null,{"children":"Free tools that run in your browser. Your files are never uploaded."}]]}],[["$","div","Converters",{"children":[["$","h2",null,{"children":"Converters"}],["$","ul",null,{"children":[["$","li","/3mf-to-stl/",{"children":["$","$L4",null,{"href":"/3mf-to-stl/","children":"3MF → STL"}]}],["$","li","/step-to-stl/",{"children":["$","$L4",null,{"href":"/step-to-stl/","children":"STEP → STL"}]}],["$","li","/glb-to-stl/",{"children":["$","$L4",null,{"href":"/glb-to-stl/","children":"GLB → STL"}]}],["$","li","/obj-to-stl/",{"children":["$","$L4",null,{"href":"/obj-to-stl/","children":"OBJ → STL"}]}],["$","li","/stl-to-3mf/",{"children":["$","$L4",null,{"href":"/stl-to-3mf/","children":"STL → 3MF"}]}],["$","li","/converters/",{"children":["$","$L4",null,{"href":"/converters/","children":"All converters"}]}]]}]]}],["$","div","Images & textures",{"children":[["$","h2",null,{"children":"Images & textures"}],["$","ul",null,{"children":[["$","li","/image-to-stl/",{"children":["$","$L4",null,{"href":"/image-to-stl/","children":"Image to STL"}]}],["$","li","/lithophane-maker/",{"children":["$","$L4",null,{"href":"/lithophane-maker/","children":"Lithophane maker"}]}],["$","li","/svg-to-stl/",{"children":["$","$L4",null,{"href":"/svg-to-stl/","children":"SVG → STL"}]}],["$","li","/png-to-dds/",{"children":["$","$L4",null,{"href":"/png-to-dds/","children":"PNG → DDS"}]}],["$","li","/dds-to-png/",{"children":["$","$L4",null,{"href":"/dds-to-png/","children":"DDS → PNG"}]}]]}]]}],["$","div","Viewers",{"children":[["$","h2",null,{"children":"Viewers"}],["$","ul",null,{"children":[["$","li","/3d-viewer/",{"children":["$","$L4",null,{"href":"/3d-viewer/","children":"Online 3D model viewer"}]}],["$","li","/stl-viewer/",{"children":["$","$L4",null,{"href":"/stl-viewer/","children":"STL viewer"}]}],["$","li","/3mf-viewer/",{"children":["$","$L4",null,{"href":"/3mf-viewer/","children":"3MF viewer"}]}],["$","li","/step-viewer/",{"children":["$","$L4",null,{"href":"/step-viewer/","children":"STEP viewer"}]}],["$","li","/obj-viewer/",{"children":["$","$L4",null,{"href":"/obj-viewer/","children":"OBJ viewer"}]}]]}]]}],"$L17","$L18"]]}],"$L19"]}]]]}]
+12:["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+13:["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+14:["$","$1","c",{"children":["$L1a",null,["$","$L1b",null,{"children":["$L1c",["$","$L1d",null,{"promise":"$@1e"}]]}]]}]
+15:["$","$1","h",{"children":[null,[["$","$L1f",null,{"children":"$L20"}],null],["$","$L21",null,{"children":["$","div",null,{"hidden":true,"children":["$","$22",null,{"fallback":null,"children":"$L23"}]}]}]]}]
+17:["$","div","my3dprinter.io",{"children":[["$","h2",null,{"children":"my3dprinter.io"}],["$","ul",null,{"children":[["$","li","/printers/",{"children":["$","$L4",null,{"href":"/printers/","children":"3D printers"}]}],["$","li","/printers/compare/",{"children":["$","$L4",null,{"href":"/printers/compare/","children":"Compare printers"}]}],["$","li","/blog/",{"children":["$","$L4",null,{"href":"/blog/","children":"Blog"}]}],["$","li","/formats/",{"children":["$","$L4",null,{"href":"/formats/","children":"File formats"}]}],["$","li","/about/",{"children":["$","$L4",null,{"href":"/about/","children":"About"}]}],["$","li","/contact/",{"children":["$","$L4",null,{"href":"/contact/","children":"Contact"}]}]]}]]}]
+18:["$","div","Legal",{"children":[["$","h2",null,{"children":"Legal"}],["$","ul",null,{"children":[["$","li","/privacy/",{"children":["$","$L4",null,{"href":"/privacy/","children":"Privacy policy"}]}],["$","li","/cookies/",{"children":["$","$L4",null,{"href":"/cookies/","children":"Cookie policy"}]}],["$","li","/terms/",{"children":["$","$L4",null,{"href":"/terms/","children":"Terms of use"}]}],["$","li","/disclaimer/",{"children":["$","$L4",null,{"href":"/disclaimer/","children":"Disclaimer"}]}]]}]]}]
+19:["$","div",null,{"className":"wrap footer-base","children":["$","p",null,{"children":["© ",2026," my3dprinter.io. ","Brand and product names belong to their owners; my3dprinter.io is an independent site and is not affiliated with any printer maker."]}]}]
+24:Tf80,{"@context":"https://schema.org","@graph":[{"@type":"Article","headline":"Creality filament – Hyper series, CR, HP and Ender lines explained","description":"Creality filament explained – Hyper PLA, Hyper PETG, CR, HP and Ender lines, Creality's own print settings, RFID spools, CFS compatibility and drying.","datePublished":"2026-11-26","dateModified":"2026-11-26","mainEntityOfPage":"https://my3dprinter.io/blog/creality-filament/","inLanguage":"en","author":{"@type":"Organization","name":"my3dprinter.io","url":"https://my3dprinter.io"},"publisher":{"@type":"Organization","@id":"https://my3dprinter.io/#organization","name":"my3dprinter.io","url":"https://my3dprinter.io/","logo":{"@type":"ImageObject","url":"https://my3dprinter.io/icon-512.png","width":512,"height":512},"email":"hello@my3dprinter.io","description":"Free 3D file converters, viewers and 3D printer guides"},"image":"https://my3dprinter.io/images/blog/creality-filament.webp","citation":["https://store.creality.com/collections/materials","https://store.creality.com/products/hyper-pla-rfid-3d-printing-filament-1kg","https://store.creality.com/eu/products/soleyin-ultra-pla-3d-printing-filament-1kg","https://store.creality.com/uk/blogs/tutorial/k2-plus-filament-parameters-settings","https://wiki.creality.com/products/diy/ender%E7%B3%BB%E5%88%97/ender-3v3se/ender-3_v3_se_material_guide.pdf","https://store.creality.com/blogs/buying-guides/space-pi-filament-dryer-plus-manual","https://www.creality.com/blog/3d-printer-filament-storage","https://store.creality.com/au/products/cfs-creality-filament-system","https://store.creality.com/products/cfs-2-creality-filament-system","https://www.creality.com/compare/compare-spacepi-series","https://www.adorama.com/cr3301010.html","https://jaycar.com.au/175mm-red-creality-hyper-pla-filament-1kg-roll/p/TL4793","https://wiki.bambulab.com/en/general/filament-guide-material-table"]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://my3dprinter.io/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://my3dprinter.io/blog/"},{"@type":"ListItem","position":3,"name":"Creality filament – Hyper series, CR, HP and Ender lines explained","item":"https://my3dprinter.io/blog/creality-filament/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Is Creality filament good quality?","acceptedAnswer":{"@type":"Answer","text":"Creality publishes print profiles for each of its own filaments – nozzle, bed, chamber temperature and maximum flow – and retailer spec sheets list ±0.03 mm diameter tolerance for Hyper PLA. We have not tested it ourselves, so judge it like any brand – by the published data, then a test print on your printer."}},{"@type":"Question","name":"What filament works with Creality printers?","acceptedAnswer":{"@type":"Answer","text":"Any 1.75 mm filament in a material the printer can handle. Creality printers are not locked to Creality filament. Open-frame models such as the Ender-3 series suit PLA, PETG and TPU; enclosed K-series printers add ABS, ASA and other high-temperature materials. The CFS reads Creality RFID spools automatically, and other brands are set by hand."}},{"@type":"Question","name":"What temperature should I print Creality Hyper PLA at?","acceptedAnswer":{"@type":"Answer","text":"Retailer spec sheets for Hyper PLA give 190–230 °C with a 25–60 °C bed. Creality's own K2 Plus profile uses 220 °C at the nozzle and a 50 °C bed. Start at 210–220 °C and raise the temperature for very fast prints."}},{"@type":"Question","name":"Does Creality filament need to be dried?","acceptedAnswer":{"@type":"Answer","text":"Not always for PLA from a freshly opened bag, but it helps once a spool has been open a while. Creality's Space Pi guide gives 55 °C for PLA and PLA-CF, 60 °C for PETG, 65 °C for ABS and ASA and 70 °C for TPU, for 8–12 hours, and says the filament maker's value comes first."}}]}]}1a:["$","div",null,{"className":"wrap","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$24"}}],"$L25","$L26","$L27"]}]
+25:["$","nav",null,{"className":"crumbs","aria-label":"Breadcrumb","children":[["$","$L4",null,{"href":"/","children":"Home"}]," / ",["$","$L4",null,{"href":"/blog/","children":"Blog"}]," / ","Creality filament – Hyper series, CR, HP and Ender lines explained"]}]
+28:T325f,<p><strong>Creality filament is the range of 1.75 mm 3D printing filament sold by Creality, the maker of the Ender and K-series printers, split into the high-speed Hyper series, the CR series, the HP series, the budget Ender series and Soleyin Ultra PLA – with RFID-tagged Hyper PLA made for its CFS multi-colour system.</strong> It works in any printer that takes 1.75 mm filament, not only in Creality machines. This guide explains what each family is for, the print settings Creality publishes in its own profiles and material guides, how RFID and the CFS work with Creality and third-party spools, and how to dry the filament. Settings come from Creality&#39;s K2 Plus filament profile, its Ender-3 V3 SE material guide and its Space Pi dryer guide, plus retailer spec sheets where Creality&#39;s own pages give no values, all checked November 2026. We have not tested Creality filament and we do not compare prices. The label on your spool always comes first.</p>
+<h2>Creality filament at a glance</h2>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Creality (from its own pages and spec sheets)</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Diameter</td>
+<td>1.75 mm</td>
+</tr>
+<tr>
+<td>Families</td>
+<td>Hyper, CR, HP, Ender, Soleyin Ultra</td>
+</tr>
+<tr>
+<td>High-speed line</td>
+<td>Hyper series: PLA, PLA RFID, PLA-CF, PETG, ABS, PC, Rainbow PLA</td>
+</tr>
+<tr>
+<td>Hyper PLA settings</td>
+<td>190–230 °C nozzle, 25–60 °C bed, 30–600 mm/s (spec sheets)</td>
+</tr>
+<tr>
+<td>Hyper PLA tolerance</td>
+<td>±0.03 mm (retailer spec sheet)</td>
+</tr>
+<tr>
+<td>K2 Plus profile, Hyper PLA</td>
+<td>220 °C nozzle, 50 °C bed, 23 mm³/s max flow</td>
+</tr>
+<tr>
+<td>RFID</td>
+<td>Hyper PLA RFID, read automatically by the CFS</td>
+</tr>
+<tr>
+<td>CFS materials</td>
+<td>PLA, PETG, ABS, ASA, PET, PLA-CF (no TPU)</td>
+</tr>
+<tr>
+<td>Drying (Space Pi guide)</td>
+<td>PLA 55 °C, PETG 60 °C, ABS/ASA 65 °C, TPU 70 °C, 8–12 h</td>
+</tr>
+<tr>
+<td>Dryers</td>
+<td>Space Pi range; CFS 2 dries at up to 85 °C</td>
+</tr>
+</tbody></table>
+<h2>Creality&#39;s filament lines</h2>
+<p>Creality&#39;s materials store and its printer profiles name these families:</p>
+<table>
+<thead>
+<tr>
+<th>Family</th>
+<th>Grades</th>
+<th>Aimed at</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Hyper series</td>
+<td>Hyper PLA, Hyper PLA RFID, Hyper PLA-CF, Hyper PETG, Hyper ABS, Hyper PC, Hyper Rainbow PLA</td>
+<td>High-speed printers such as the K1 and K2 series</td>
+</tr>
+<tr>
+<td>CR series</td>
+<td>CR-PLA, CR-PLA Matte, CR-PLA Fluo, CR-Silk, CR-Wood, CR-PETG, CR-ABS, CR-TPU</td>
+<td>Standard-speed printing and decorative finishes</td>
+</tr>
+<tr>
+<td>HP series</td>
+<td>HP ASA, HP-TPU</td>
+<td>Outdoor parts and faster flexible printing</td>
+</tr>
+<tr>
+<td>Ender series</td>
+<td>Ender PLA, Ender Fast PLA, EN PLA+</td>
+<td>Budget everyday printing</td>
+</tr>
+<tr>
+<td>Soleyin Ultra</td>
+<td>Soleyin Ultra PLA</td>
+<td>Smooth everyday PLA for prototypes and household parts</td>
+</tr>
+</tbody></table>
+<p>Creality also sells resin and filament dry boxes alongside its filament.</p>
+<p><strong>Why it matters:</strong> the family name tells you the intended speed. Hyper grades are built and profiled for fast printing; CR and Ender grades are fine for slower bed slingers and are usually the simpler choice for an Ender-3.</p>
+<h2>Creality Hyper PLA</h2>
+<p>Hyper PLA is the grade most people mean when they search for Creality filament. Creality&#39;s own store page gives few numbers, so these come from retailer spec sheets (Adorama and Jaycar agree on the main values):</p>
+<ul>
+<li><strong>Nozzle:</strong> 190–230 °C</li>
+<li><strong>Bed:</strong> 25–60 °C</li>
+<li><strong>Speed:</strong> 30–600 mm/s</li>
+<li><strong>Fan:</strong> 100 %</li>
+<li><strong>Tolerance:</strong> ±0.03 mm (Adorama)</li>
+<li><strong>Density:</strong> 1.25 g/cm³ (Adorama)</li>
+</ul>
+<p>Creality&#39;s K2 Plus profile prints Hyper PLA at 220 °C on a 50 °C bed with a maximum volumetric flow of 23 mm³/s – higher than the 18 mm³/s it allows for CR-PLA and the 14 mm³/s for generic PLA. In plain terms, the profile lets the printer push Hyper PLA through the nozzle faster before quality drops.</p>
+<p><strong>Hyper PLA RFID</strong> is the same material with an RFID tag on the spool. Creality markets it for the K2 Plus, where the CFS reads the tag (see below). On any other printer it is simply Hyper PLA.</p>
+<p><strong>Tip:</strong> 600 mm/s is a maximum for the filament, not for your printer. On an older bed slinger, Hyper PLA prints like any good PLA at normal speeds. Our <a href="/blog/pla-filament/">PLA filament guide</a> covers the basics.</p>
+<h2>Creality filament settings by grade</h2>
+<p>Creality&#39;s K2 Plus filament profile lists these values. They are profile values for an enclosed, high-speed printer, so they are single numbers rather than ranges:</p>
+<table>
+<thead>
+<tr>
+<th>Filament</th>
+<th>Nozzle</th>
+<th>Bed</th>
+<th>Chamber</th>
+<th>Max flow</th>
+<th>Fan (min/max)</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Hyper PLA</td>
+<td>220 °C</td>
+<td>50 °C</td>
+<td>35 °C</td>
+<td>23 mm³/s</td>
+<td>100/100 %</td>
+</tr>
+<tr>
+<td>Ender Fast PLA</td>
+<td>220 °C</td>
+<td>50 °C</td>
+<td>35 °C</td>
+<td>23 mm³/s</td>
+<td>100/100 %</td>
+</tr>
+<tr>
+<td>Hyper PLA-CF</td>
+<td>220 °C</td>
+<td>50 °C</td>
+<td>35 °C</td>
+<td>23 mm³/s</td>
+<td>100/100 %</td>
+</tr>
+<tr>
+<td>Hyper PETG</td>
+<td>240 °C</td>
+<td>70 °C</td>
+<td>35 °C</td>
+<td>23 mm³/s</td>
+<td>40/80 %</td>
+</tr>
+<tr>
+<td>Hyper ABS</td>
+<td>260 °C</td>
+<td>80 °C</td>
+<td>50 °C</td>
+<td>23 mm³/s</td>
+<td>10/60 %</td>
+</tr>
+<tr>
+<td>HP ASA</td>
+<td>260 °C</td>
+<td>90 °C</td>
+<td>50 °C</td>
+<td>14 mm³/s</td>
+<td>10/40 %</td>
+</tr>
+<tr>
+<td>CR-PLA</td>
+<td>220 °C</td>
+<td>50 °C</td>
+<td>35 °C</td>
+<td>18 mm³/s</td>
+<td>100/100 %</td>
+</tr>
+<tr>
+<td>CR-Silk</td>
+<td>220 °C</td>
+<td>50 °C</td>
+<td>35 °C</td>
+<td>10 mm³/s</td>
+<td>100/100 %</td>
+</tr>
+<tr>
+<td>CR-PETG</td>
+<td>240 °C</td>
+<td>70 °C</td>
+<td>35 °C</td>
+<td>12 mm³/s</td>
+<td>40/80 %</td>
+</tr>
+<tr>
+<td>CR-ABS</td>
+<td>260 °C</td>
+<td>100 °C</td>
+<td>60 °C</td>
+<td>18 mm³/s</td>
+<td>10/60 %</td>
+</tr>
+<tr>
+<td>HP-TPU</td>
+<td>220 °C</td>
+<td>40 °C</td>
+<td>35 °C</td>
+<td>3 mm³/s</td>
+<td>100/100 %</td>
+</tr>
+<tr>
+<td>CR-TPU</td>
+<td>220 °C</td>
+<td>40 °C</td>
+<td>35 °C</td>
+<td>2 mm³/s</td>
+<td>100/100 %</td>
+</tr>
+</tbody></table>
+<p>For an open-frame bed slinger, Creality&#39;s Ender-3 V3 SE material guide is more useful. It gives CR-PLA at 190 °C on a 60 °C bed at 180–250 mm/s with the fan at 100 %, CR-PETG at 220 °C on a 70 °C bed at 120 mm/s with the fan at 50 %, and HP-TPU at 210 °C on a 30 °C bed at 50 mm/s.</p>
+<p><strong>Why it matters:</strong> the same filament gets different numbers on different printers. A cooler, slower Ender profile and a hotter, faster K2 profile can both be right. Use the profile for your printer in Creality Print, or the spool&#39;s range in another slicer.</p>
+<h2>Creality PETG, ABS, ASA and TPU</h2>
+<ul>
+<li><strong>PETG (Hyper PETG, CR-PETG):</strong> 240 °C nozzle and 70 °C bed in the K2 Plus profile, with the fan held lower than for PLA (40–80 %). Creality&#39;s Ender-3 V3 SE guide recommends keeping CR-PETG in a dry box while printing.</li>
+<li><strong>ABS (Hyper ABS, CR-ABS) and HP ASA:</strong> 260 °C nozzle with a heated chamber of 50–60 °C in the K2 Plus profile. These belong in an enclosed printer and a ventilated room.</li>
+<li><strong>TPU (HP-TPU, CR-TPU):</strong> very low flow limits (2–3 mm³/s) in the K2 Plus profile, which means slow printing. TPU cannot go through the CFS, so feed it from an external spool holder. Our <a href="/blog/tpu-filament/">TPU filament guide</a> explains how to print flexible filament reliably.</li>
+</ul>
+<p><strong>Tip:</strong> PETG strings more than PLA when it is damp. If a Creality PETG spool starts to string, dry it before changing retraction settings.</p>
+<h2>Carbon-fibre Creality filament</h2>
+<p>Hyper PLA-CF prints at the same 220 °C as Hyper PLA in the K2 Plus profile, but the fibres are abrasive. Bambu Lab&#39;s material table lists a hardened nozzle as required for carbon-fibre PLA, and that applies to any brand. For engineering fibre materials such as PA-CF, PAHT-CF and PET-CF, Creality&#39;s K2 Plus notes call for a nozzle larger than 0.2 mm – 0.6 mm recommended – and 280–300 °C at the nozzle.</p>
+<h2>RFID and the Creality CFS</h2>
+<p>The <strong>CFS (Creality Filament System)</strong> is a sealed four-spool box for the K2 series and the Creality Hi. When you load a Creality spool with an RFID tag, the CFS reads the material and colour and passes them to the printer and slicer. RFID is optional: for other brands you choose the brand, material and colour on the printer screen.</p>
+<p>What the CFS accepts, according to Creality:</p>
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>CFS requirement</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Materials</td>
+<td>PLA, PETG, ABS, ASA, PET, PLA-CF</td>
+</tr>
+<tr>
+<td>Not supported</td>
+<td>TPU and other flexible filament, damp BVOH or PVA, warped cardboard spools</td>
+</tr>
+<tr>
+<td>Spool size</td>
+<td>1 kg spools, 197–202 mm diameter, 42–68 mm wide</td>
+</tr>
+<tr>
+<td>Filament diameter</td>
+<td>1.75 mm</td>
+</tr>
+</tbody></table>
+<p>K1-series printers use the separate CFS-C. Our <a href="/printers/creality-cfs/">Creality CFS guide</a> covers both units and the newer CFS 2.</p>
+<p><strong>Tip:</strong> cardboard spools can deform and jam a feeder. Respool onto a plastic spool or fit an adapter ring before loading cardboard spools from any brand.</p>
+<h2>Using Creality filament in other printers – and other filament in Creality printers</h2>
+<p>Creality filament is standard 1.75 mm filament. In a Bambu Lab, Prusa or Elegoo printer, pick a Creality profile if your slicer has one, or the generic profile for the material. The RFID tag on Hyper PLA RFID is made for Creality&#39;s CFS; elsewhere you set the filament by hand.</p>
+<p>The reverse is also true: Creality printers do not require Creality filament. An Ender-3 or K1 prints any good 1.75 mm PLA or PETG. Brand overviews such as our <a href="/blog/sunlu-filament/">SUNLU filament guide</a> work the same way – start from the maker&#39;s published settings.</p>
+<h2>Drying and storing Creality filament</h2>
+<p>Creality&#39;s guide for its Space Pi Plus dryer gives these reference drying temperatures, for 8–12 hours:</p>
+<table>
+<thead>
+<tr>
+<th>Material</th>
+<th>Temperature</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>PLA, PLA-CF</td>
+<td>55 °C</td>
+</tr>
+<tr>
+<td>PETG</td>
+<td>60 °C</td>
+</tr>
+<tr>
+<td>ABS, ASA</td>
+<td>65 °C</td>
+</tr>
+<tr>
+<td>TPU</td>
+<td>70 °C</td>
+</tr>
+</tbody></table>
+<p>Creality says these are references and that the filament maker&#39;s own drying value comes first. Nylon and PC often need more than 70 °C, which is above the SpacePi and SpacePi Plus range; the SpacePi X4 reaches 85 °C, and the CFS 2 dries at up to 85 °C while the spools stay loaded. The original CFS keeps spools sealed with desiccant but does not heat.</p>
+<p>For storage, Creality&#39;s own advice is to keep spools in an airtight container with fresh desiccant, use a hygrometer in shared bins, and dry TPU, nylon, PC and PVA more often than PLA and PETG.</p>
+<h2>Creality filament setup checklist</h2>
+<ol>
+<li><strong>Read the spool label</strong> – its range beats any generic value, including those here.</li>
+<li><strong>Pick the matching profile</strong> in Creality Print (Hyper PLA, CR-PLA, and so on) for your printer, or the generic material profile in another slicer.</li>
+<li><strong>Match speed to the line</strong> – Hyper grades for fast K-series printing, CR and Ender grades for normal speeds.</li>
+<li><strong>Set the bed</strong> – about 50–60 °C for PLA, 70 °C for PETG, 80–100 °C for ABS and ASA, 30–40 °C for TPU.</li>
+<li><strong>Check the CFS rules</strong> – no TPU, 1 kg spools 197–202 mm across and 42–68 mm wide.</li>
+<li><strong>Use a hardened nozzle</strong> for carbon-fibre grades.</li>
+<li><strong>Dry when needed</strong> – 55 °C for PLA, 60 °C for PETG, 65 °C for ABS and ASA, 70 °C for TPU.</li>
+<li><strong>Print a small test</strong> before a long job.</li>
+</ol>
+<p>Before printing a multi-colour project, check it in our 3MF viewer.</p>
+<h2>Verdict</h2>
+<p>Creality filament spans everyday PLA (Ender, CR-PLA, Soleyin Ultra), high-speed grades for K-series printers (the Hyper series), decorative CR grades and functional ASA, TPU and carbon-fibre options. Creality publishes printer-specific profiles for its own grades, and Hyper PLA RFID is recognised automatically by the CFS. The filament is ordinary 1.75 mm material, so it works in other printers too, and Creality printers work with other brands. Start from the label, use the right profile for your printer, and keep spools dry.</p>
+26:["$","div",null,{"className":"split","children":[["$","article",null,{"className":"prose","children":[["$","h1",null,{"children":"Creality filament – Hyper series, CR, HP and Ender lines explained"}],["$","figure",null,{"className":"doc-hero","children":["$","img",null,{"src":"/images/blog/creality-filament.webp","alt":"Illustration of colourful spools in rolling crates beside an open-frame bed-slinger printing a teal cable holder","width":1200,"height":675,"fetchPriority":"high","decoding":"async"}]}],["$","p",null,{"className":"muted small","children":["Updated ","November 26, 2026"]}],["$","div",null,{"className":"summary-box","children":[["$","b",null,{"children":"Key points"}],["$","ul",null,{"children":[["$","li","Creality sells its filament in several families – the high-speed Hyper series, the CR series, the HP series, the budget Ender series and Soleyin Ultra PLA – with RFID-tagged Hyper PLA for its CFS multi-colour system.",{"children":"Creality sells its filament in several families – the high-speed Hyper series, the CR series, the HP series, the budget Ender series and Soleyin Ultra PLA – with RFID-tagged Hyper PLA for its CFS multi-colour system."}],["$","li","Retailer spec sheets for Hyper PLA list 190–230 °C at the nozzle, a 25–60 °C bed and 30–600 mm/s, and Creality's K2 Plus profile runs it at 220 °C on a 50 °C bed.",{"children":"Retailer spec sheets for Hyper PLA list 190–230 °C at the nozzle, a 25–60 °C bed and 30–600 mm/s, and Creality's K2 Plus profile runs it at 220 °C on a 50 °C bed."}],["$","li","The CFS reads Creality RFID spools automatically and supports PLA, PETG, ABS, ASA, PET and PLA-CF, but not TPU, on 1 kg spools 197–202 mm across and 42–68 mm wide.",{"children":"The CFS reads Creality RFID spools automatically and supports PLA, PETG, ABS, ASA, PET and PLA-CF, but not TPU, on 1 kg spools 197–202 mm across and 42–68 mm wide."}]]}]]}],null,["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$28"}}]]}],"$L29"]}]
+27:["$","section",null,{"className":"section faq","aria-labelledby":"faq-h","children":[["$","h2",null,{"id":"faq-h","children":"Questions and answers"}],["$","div",null,{"className":"faq-list","children":[["$","details","Is Creality filament good quality?",{"children":[["$","summary",null,{"children":"Is Creality filament good quality?"}],["$","p",null,{"children":"Creality publishes print profiles for each of its own filaments – nozzle, bed, chamber temperature and maximum flow – and retailer spec sheets list ±0.03 mm diameter tolerance for Hyper PLA. We have not tested it ourselves, so judge it like any brand – by the published data, then a test print on your printer."}]]}],["$","details","What filament works with Creality printers?",{"children":[["$","summary",null,{"children":"What filament works with Creality printers?"}],["$","p",null,{"children":"Any 1.75 mm filament in a material the printer can handle. Creality printers are not locked to Creality filament. Open-frame models such as the Ender-3 series suit PLA, PETG and TPU; enclosed K-series printers add ABS, ASA and other high-temperature materials. The CFS reads Creality RFID spools automatically, and other brands are set by hand."}]]}],["$","details","What temperature should I print Creality Hyper PLA at?",{"children":[["$","summary",null,{"children":"What temperature should I print Creality Hyper PLA at?"}],["$","p",null,{"children":"Retailer spec sheets for Hyper PLA give 190–230 °C with a 25–60 °C bed. Creality's own K2 Plus profile uses 220 °C at the nozzle and a 50 °C bed. Start at 210–220 °C and raise the temperature for very fast prints."}]]}],["$","details","Does Creality filament need to be dried?",{"children":[["$","summary",null,{"children":"Does Creality filament need to be dried?"}],["$","p",null,{"children":"Not always for PLA from a freshly opened bag, but it helps once a spool has been open a while. Creality's Space Pi guide gives 55 °C for PLA and PLA-CF, 60 °C for PETG, 65 °C for ABS and ASA and 70 °C for TPU, for 8–12 hours, and says the filament maker's value comes first."}]]}]]}]]}]
+29:["$","aside",null,{"className":"aside","children":[["$","div",null,{"className":"facts","children":[["$","b",null,{"children":"Tools for this"}],["$","div",null,{"className":"tool-grid","style":{"marginTop":10,"gridTemplateColumns":"1fr"},"children":[["$","$L4","stl-viewer",{"className":"tool-link","href":"/stl-viewer/","children":"STL viewer"}],["$","$L4","3mf-viewer",{"className":"tool-link","href":"/3mf-viewer/","children":"3MF viewer"}],["$","$L4","3d-viewer",{"className":"tool-link","href":"/3d-viewer/","children":"Online 3D model viewer"}]]}]]}],["$","div",null,{"className":"facts","children":[["$","b",null,{"children":"Open or convert a model"}],["$","p",null,{"className":"small","style":{"margin":"6px 0 10px"},"children":"View STL, 3MF, STEP and more in your browser."}],["$","$L4",null,{"className":"btn btn-accent","href":"/3d-viewer/","children":"3D viewer"}]]}]]}]
+20:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#10151C"}]]
+1c:null
+2a:I[622,[],"IconMark"]
+1e:{"metadata":[["$","title","0",{"children":"Creality Filament – Hyper Series, Settings, RFID and CFS | my3dprinter.io"}],["$","meta","1",{"name":"description","content":"Creality filament explained – Hyper PLA, Hyper PETG, CR, HP and Ender lines, Creality's own print settings, RFID spools, CFS compatibility and drying."}],["$","meta","2",{"name":"application-name","content":"my3dprinter.io"}],["$","link","3",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","4",{"name":"robots","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","5",{"rel":"canonical","href":"https://my3dprinter.io/blog/creality-filament/"}],["$","meta","6",{"name":"format-detection","content":"telephone=no"}],["$","meta","7",{"property":"og:title","content":"Creality Filament – Hyper Series, Settings, RFID and CFS | my3dprinter.io"}],["$","meta","8",{"property":"og:description","content":"Creality filament explained – Hyper PLA, Hyper PETG, CR, HP and Ender lines, Creality's own print settings, RFID spools, CFS compatibility and drying."}],["$","meta","9",{"property":"og:url","content":"https://my3dprinter.io/blog/creality-filament/"}],["$","meta","10",{"property":"og:site_name","content":"my3dprinter.io"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:image","content":"https://my3dprinter.io/images/blog/creality-filament.webp"}],["$","meta","13",{"property":"og:image:width","content":"1200"}],["$","meta","14",{"property":"og:image:height","content":"675"}],["$","meta","15",{"property":"og:image:alt","content":"Creality Filament – Hyper Series, Settings, RFID and CFS"}],["$","meta","16",{"property":"og:type","content":"article"}],["$","meta","17",{"property":"article:published_time","content":"2026-11-26"}],["$","meta","18",{"property":"article:modified_time","content":"2026-11-26"}],["$","meta","19",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","20",{"name":"twitter:title","content":"Creality Filament – Hyper Series, Settings, RFID and CFS | my3dprinter.io"}],["$","meta","21",{"name":"twitter:description","content":"Creality filament explained – Hyper PLA, Hyper PETG, CR, HP and Ender lines, Creality's own print settings, RFID spools, CFS compatibility and drying."}],["$","meta","22",{"name":"twitter:image","content":"https://my3dprinter.io/images/blog/creality-filament.webp"}],["$","link","23",{"rel":"icon","href":"/favicon.ico","sizes":"48x48"}],["$","link","24",{"rel":"icon","href":"/icon.svg","type":"image/svg+xml"}],["$","link","25",{"rel":"icon","href":"/icon-192.png","sizes":"192x192","type":"image/png"}],["$","link","26",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","sizes":"180x180"}],["$","$L2a","27",{}]],"error":null,"digest":"$undefined"}
+23:"$1e:metadata"

@@ -1,0 +1,228 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+4:I[2619,["2619","static/chunks/2619-3c9e02e22d10480a.js","4966","static/chunks/app/(en)/blog/%5Bslug%5D/page-6f60855278aa4f75.js"],""]
+5:I[1538,["2619","static/chunks/2619-3c9e02e22d10480a.js","90","static/chunks/app/(en)/layout-1d0e45a00e968cb3.js"],"default"]
+6:I[909,["2619","static/chunks/2619-3c9e02e22d10480a.js","90","static/chunks/app/(en)/layout-1d0e45a00e968cb3.js"],"default"]
+16:I[7150,[],""]
+:HL["/_next/static/css/93d1a12f2f4c9226.css","style"]
+0:{"P":null,"b":"rD7TGm9XF6FHQRkd5YG22","p":"","c":["","blog","what-is-ams-in-3d-printing",""],"i":false,"f":[[["",{"children":["(en)",{"children":["blog",{"children":[["slug","what-is-ams-in-3d-printing","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/93d1a12f2f4c9226.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","script",null,{"async":true,"src":"https://www.googletagmanager.com/gtm.js?id=GTM-T7SN8RQX"}],["$","script",null,{"async":true,"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3226858004021254","crossOrigin":"anonymous"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());"}}]]}],["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"wrap header-in","children":[["$","$L4",null,{"href":"/","className":"brand","aria-label":"my3dprinter.io home","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","nav",null,{"aria-label":"Main","className":"nav","children":[["$","$L4","/converters/",{"href":"/converters/","children":"Converters"}],["$","$L4","/3d-viewer/",{"href":"/3d-viewer/","children":"3D viewer"}],["$","$L4","/image-to-stl/",{"href":"/image-to-stl/","children":"Image to STL"}],["$","$L4","/printers/",{"href":"/printers/","children":"Printers"}],["$","$L4","/blog/",{"href":"/blog/","children":"Blog"}]]}],["$","div",null,{"className":"header-actions","children":[["$","$L5",null,{"lang":"en","langs":[{"code":"en","name":"English"},{"code":"de","name":"Deutsch"},{"code":"es","name":"Español"},{"code":"fr","name":"Français"},{"code":"it","name":"Italiano"},{"code":"ja","name":"日本語"},{"code":"ko","name":"한국어"},{"code":"pt","name":"Português"},{"code":"vi","name":"Tiếng Việt"},{"code":"th","name":"ไทย"},{"code":"zh","name":"简体中文"},{"code":"ru","name":"Русский"}],"localized":["/","/converters/","/3mf-to-stl/","/glb-to-stl/","/stl-to-3mf/","/step-to-stl/","/glb-to-obj/","/obj-to-stl/","/stl-to-obj/","/fbx-to-obj/","/gcode-to-stl/","/fbx-to-stl/","/zip-to-stl/","/stp-to-stl/","/dae-to-obj/","/gltf-to-obj/","/stl-to-dxf/","/obj-to-glb/","/gltf-to-stl/","/fbx-to-glb/","/ply-to-stl/","/3mf-to-obj/","/dae-to-stl/","/usdz-to-stl/","/ply-to-obj/","/stp-to-obj/","/3ds-to-obj/","/igs-to-stl/","/stl-to-glb/","/obj-to-3mf/","/glb-to-3mf/","/stl-to-usdz/","/glb-to-usdz/","/step-to-obj/","/step-to-3mf/","/stl-to-ply/","/fbx-to-gltf/","/image-to-stl/","/png-to-stl/","/jpg-to-stl/","/jpeg-to-stl/","/lithophane-maker/","/png-to-obj/","/png-to-3mf/","/svg-to-stl/","/svg-to-obj/","/png-to-dds/","/jpg-to-dds/","/dds-to-png/","/dds-to-jpg/","/3d-viewer/","/stl-viewer/","/3mf-viewer/","/obj-viewer/","/glb-viewer/","/step-viewer/","/ply-viewer/","/fbx-viewer/","/gltf-viewer/"],"label":"Language"}],["$","$L6",null,{"links":[["/converters/","Converters"],["/3d-viewer/","3D viewer"],["/image-to-stl/","Image to STL"],["/printers/","Printers"],["/blog/","Blog"],["/printers/compare/","Compare printers"]],"label":"Menu"}]]}]]}]}],["$","main",null,{"id":"main","className":"wrap","style":{"padding":"64px 24px"},"children":[["$","h1",null,{"children":"Page not found"}],["$","p",null,{"className":"lead","children":"This page does not exist. Try a converter or the 3D viewer."}],["$","p",null,{"children":["$","$L4",null,{"className":"btn btn-accent","href":"/converters/","children":"All converters"}]}]]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"wrap footer-grid","children":[["$","div",null,{"className":"footer-brand","children":[["$","$L4",null,{"href":"/","className":"brand","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":["$L7","$L8"]}]," ","$L9"]}],"$La"]}],["$Lb","$Lc","$Ld","$Le","$Lf"]]}],"$L10"]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["(en)","$L11",{"children":["blog","$L12",{"children":[["slug","what-is-ams-in-3d-printing","d"],"$L13",{"children":["__PAGE__","$L14",{},null,false]},null,false]},null,false]},null,false]},null,false],"$L15",false]],"m":"$undefined","G":["$16",[]],"s":false,"S":true}
+1b:I[4431,[],"OutletBoundary"]
+1d:I[5278,[],"AsyncMetadataOutlet"]
+1f:I[4431,[],"ViewportBoundary"]
+21:I[4431,[],"MetadataBoundary"]
+22:"$Sreact.suspense"
+7:["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}]
+8:["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]
+9:["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]
+a:["$","p",null,{"children":"Free tools that run in your browser. Your files are never uploaded."}]
+b:["$","div","Converters",{"children":[["$","h2",null,{"children":"Converters"}],["$","ul",null,{"children":[["$","li","/3mf-to-stl/",{"children":["$","$L4",null,{"href":"/3mf-to-stl/","children":"3MF → STL"}]}],["$","li","/step-to-stl/",{"children":["$","$L4",null,{"href":"/step-to-stl/","children":"STEP → STL"}]}],["$","li","/glb-to-stl/",{"children":["$","$L4",null,{"href":"/glb-to-stl/","children":"GLB → STL"}]}],["$","li","/obj-to-stl/",{"children":["$","$L4",null,{"href":"/obj-to-stl/","children":"OBJ → STL"}]}],["$","li","/stl-to-3mf/",{"children":["$","$L4",null,{"href":"/stl-to-3mf/","children":"STL → 3MF"}]}],["$","li","/converters/",{"children":["$","$L4",null,{"href":"/converters/","children":"All converters"}]}]]}]]}]
+c:["$","div","Images & textures",{"children":[["$","h2",null,{"children":"Images & textures"}],["$","ul",null,{"children":[["$","li","/image-to-stl/",{"children":["$","$L4",null,{"href":"/image-to-stl/","children":"Image to STL"}]}],["$","li","/lithophane-maker/",{"children":["$","$L4",null,{"href":"/lithophane-maker/","children":"Lithophane maker"}]}],["$","li","/svg-to-stl/",{"children":["$","$L4",null,{"href":"/svg-to-stl/","children":"SVG → STL"}]}],["$","li","/png-to-dds/",{"children":["$","$L4",null,{"href":"/png-to-dds/","children":"PNG → DDS"}]}],["$","li","/dds-to-png/",{"children":["$","$L4",null,{"href":"/dds-to-png/","children":"DDS → PNG"}]}]]}]]}]
+d:["$","div","Viewers",{"children":[["$","h2",null,{"children":"Viewers"}],["$","ul",null,{"children":[["$","li","/3d-viewer/",{"children":["$","$L4",null,{"href":"/3d-viewer/","children":"Online 3D model viewer"}]}],["$","li","/stl-viewer/",{"children":["$","$L4",null,{"href":"/stl-viewer/","children":"STL viewer"}]}],["$","li","/3mf-viewer/",{"children":["$","$L4",null,{"href":"/3mf-viewer/","children":"3MF viewer"}]}],["$","li","/step-viewer/",{"children":["$","$L4",null,{"href":"/step-viewer/","children":"STEP viewer"}]}],["$","li","/obj-viewer/",{"children":["$","$L4",null,{"href":"/obj-viewer/","children":"OBJ viewer"}]}]]}]]}]
+e:["$","div","my3dprinter.io",{"children":[["$","h2",null,{"children":"my3dprinter.io"}],["$","ul",null,{"children":[["$","li","/printers/",{"children":["$","$L4",null,{"href":"/printers/","children":"3D printers"}]}],["$","li","/printers/compare/",{"children":["$","$L4",null,{"href":"/printers/compare/","children":"Compare printers"}]}],["$","li","/blog/",{"children":["$","$L4",null,{"href":"/blog/","children":"Blog"}]}],["$","li","/formats/",{"children":["$","$L4",null,{"href":"/formats/","children":"File formats"}]}],["$","li","/about/",{"children":["$","$L4",null,{"href":"/about/","children":"About"}]}],["$","li","/contact/",{"children":["$","$L4",null,{"href":"/contact/","children":"Contact"}]}]]}]]}]
+f:["$","div","Legal",{"children":[["$","h2",null,{"children":"Legal"}],["$","ul",null,{"children":[["$","li","/privacy/",{"children":["$","$L4",null,{"href":"/privacy/","children":"Privacy policy"}]}],["$","li","/cookies/",{"children":["$","$L4",null,{"href":"/cookies/","children":"Cookie policy"}]}],["$","li","/terms/",{"children":["$","$L4",null,{"href":"/terms/","children":"Terms of use"}]}],["$","li","/disclaimer/",{"children":["$","$L4",null,{"href":"/disclaimer/","children":"Disclaimer"}]}]]}]]}]
+10:["$","div",null,{"className":"wrap footer-base","children":["$","p",null,{"children":["© ",2026," my3dprinter.io. ","Brand and product names belong to their owners; my3dprinter.io is an independent site and is not affiliated with any printer maker."]}]}]
+11:["$","$1","c",{"children":[null,[["$","a",null,{"className":"skip","href":"#main","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"wrap header-in","children":[["$","$L4",null,{"href":"/","className":"brand","aria-label":"my3dprinter.io home","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","nav",null,{"aria-label":"Main","className":"nav","children":[["$","$L4","/converters/",{"href":"/converters/","children":"Converters"}],["$","$L4","/3d-viewer/",{"href":"/3d-viewer/","children":"3D viewer"}],["$","$L4","/image-to-stl/",{"href":"/image-to-stl/","children":"Image to STL"}],["$","$L4","/printers/",{"href":"/printers/","children":"Printers"}],["$","$L4","/blog/",{"href":"/blog/","children":"Blog"}]]}],["$","div",null,{"className":"header-actions","children":[["$","$L5",null,{"lang":"en","langs":[{"code":"en","name":"English"},{"code":"de","name":"Deutsch"},{"code":"es","name":"Español"},{"code":"fr","name":"Français"},{"code":"it","name":"Italiano"},{"code":"ja","name":"日本語"},{"code":"ko","name":"한국어"},{"code":"pt","name":"Português"},{"code":"vi","name":"Tiếng Việt"},{"code":"th","name":"ไทย"},{"code":"zh","name":"简体中文"},{"code":"ru","name":"Русский"}],"localized":"$0:f:0:1:1:props:children:1:props:children:1:props:children:props:notFound:0:0:props:children:props:children:2:props:children:0:props:localized","label":"Language"}],["$","$L6",null,{"links":[["/converters/","Converters"],["/3d-viewer/","3D viewer"],["/image-to-stl/","Image to STL"],["/printers/","Printers"],["/blog/","Blog"],["/printers/compare/","Compare printers"]],"label":"Menu"}]]}]]}]}],["$","main",null,{"id":"main","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"wrap footer-grid","children":[["$","div",null,{"className":"footer-brand","children":[["$","$L4",null,{"href":"/","className":"brand","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","p",null,{"children":"Free tools that run in your browser. Your files are never uploaded."}]]}],[["$","div","Converters",{"children":[["$","h2",null,{"children":"Converters"}],["$","ul",null,{"children":[["$","li","/3mf-to-stl/",{"children":["$","$L4",null,{"href":"/3mf-to-stl/","children":"3MF → STL"}]}],["$","li","/step-to-stl/",{"children":["$","$L4",null,{"href":"/step-to-stl/","children":"STEP → STL"}]}],["$","li","/glb-to-stl/",{"children":["$","$L4",null,{"href":"/glb-to-stl/","children":"GLB → STL"}]}],["$","li","/obj-to-stl/",{"children":["$","$L4",null,{"href":"/obj-to-stl/","children":"OBJ → STL"}]}],["$","li","/stl-to-3mf/",{"children":["$","$L4",null,{"href":"/stl-to-3mf/","children":"STL → 3MF"}]}],["$","li","/converters/",{"children":["$","$L4",null,{"href":"/converters/","children":"All converters"}]}]]}]]}],["$","div","Images & textures",{"children":[["$","h2",null,{"children":"Images & textures"}],["$","ul",null,{"children":[["$","li","/image-to-stl/",{"children":["$","$L4",null,{"href":"/image-to-stl/","children":"Image to STL"}]}],["$","li","/lithophane-maker/",{"children":["$","$L4",null,{"href":"/lithophane-maker/","children":"Lithophane maker"}]}],["$","li","/svg-to-stl/",{"children":["$","$L4",null,{"href":"/svg-to-stl/","children":"SVG → STL"}]}],["$","li","/png-to-dds/",{"children":["$","$L4",null,{"href":"/png-to-dds/","children":"PNG → DDS"}]}],["$","li","/dds-to-png/",{"children":["$","$L4",null,{"href":"/dds-to-png/","children":"DDS → PNG"}]}]]}]]}],["$","div","Viewers",{"children":[["$","h2",null,{"children":"Viewers"}],["$","ul",null,{"children":[["$","li","/3d-viewer/",{"children":["$","$L4",null,{"href":"/3d-viewer/","children":"Online 3D model viewer"}]}],["$","li","/stl-viewer/",{"children":["$","$L4",null,{"href":"/stl-viewer/","children":"STL viewer"}]}],["$","li","/3mf-viewer/",{"children":["$","$L4",null,{"href":"/3mf-viewer/","children":"3MF viewer"}]}],["$","li","/step-viewer/",{"children":["$","$L4",null,{"href":"/step-viewer/","children":"STEP viewer"}]}],["$","li","/obj-viewer/",{"children":["$","$L4",null,{"href":"/obj-viewer/","children":"OBJ viewer"}]}]]}]]}],"$L17","$L18"]]}],"$L19"]}]]]}]
+12:["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+13:["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+14:["$","$1","c",{"children":["$L1a",null,["$","$L1b",null,{"children":["$L1c",["$","$L1d",null,{"promise":"$@1e"}]]}]]}]
+15:["$","$1","h",{"children":[null,[["$","$L1f",null,{"children":"$L20"}],null],["$","$L21",null,{"children":["$","div",null,{"hidden":true,"children":["$","$22",null,{"fallback":null,"children":"$L23"}]}]}]]}]
+17:["$","div","my3dprinter.io",{"children":[["$","h2",null,{"children":"my3dprinter.io"}],["$","ul",null,{"children":[["$","li","/printers/",{"children":["$","$L4",null,{"href":"/printers/","children":"3D printers"}]}],["$","li","/printers/compare/",{"children":["$","$L4",null,{"href":"/printers/compare/","children":"Compare printers"}]}],["$","li","/blog/",{"children":["$","$L4",null,{"href":"/blog/","children":"Blog"}]}],["$","li","/formats/",{"children":["$","$L4",null,{"href":"/formats/","children":"File formats"}]}],["$","li","/about/",{"children":["$","$L4",null,{"href":"/about/","children":"About"}]}],["$","li","/contact/",{"children":["$","$L4",null,{"href":"/contact/","children":"Contact"}]}]]}]]}]
+18:["$","div","Legal",{"children":[["$","h2",null,{"children":"Legal"}],["$","ul",null,{"children":[["$","li","/privacy/",{"children":["$","$L4",null,{"href":"/privacy/","children":"Privacy policy"}]}],["$","li","/cookies/",{"children":["$","$L4",null,{"href":"/cookies/","children":"Cookie policy"}]}],["$","li","/terms/",{"children":["$","$L4",null,{"href":"/terms/","children":"Terms of use"}]}],["$","li","/disclaimer/",{"children":["$","$L4",null,{"href":"/disclaimer/","children":"Disclaimer"}]}]]}]]}]
+19:["$","div",null,{"className":"wrap footer-base","children":["$","p",null,{"children":["© ",2026," my3dprinter.io. ","Brand and product names belong to their owners; my3dprinter.io is an independent site and is not affiliated with any printer maker."]}]}]
+24:Tebb,{"@context":"https://schema.org","@graph":[{"@type":"Article","headline":"What is AMS in 3D printing? Bambu Lab's Automatic Material System explained","description":"What is AMS in 3D printing? How Bambu Lab's Automatic Material System feeds and switches filament, the four AMS models, limits and similar systems.","datePublished":"2026-11-26","dateModified":"2026-11-26","mainEntityOfPage":"https://my3dprinter.io/blog/what-is-ams-in-3d-printing/","inLanguage":"en","author":{"@type":"Organization","name":"my3dprinter.io","url":"https://my3dprinter.io"},"publisher":{"@type":"Organization","@id":"https://my3dprinter.io/#organization","name":"my3dprinter.io","url":"https://my3dprinter.io/","logo":{"@type":"ImageObject","url":"https://my3dprinter.io/icon-512.png","width":512,"height":512},"email":"hello@my3dprinter.io","description":"Free 3D file converters, viewers and 3D printer guides"},"image":"https://my3dprinter.io/images/blog/what-is-ams-in-3d-printing.webp","citation":["https://blog.bambulab.com/ams","https://wiki.bambulab.com/en/x1/manual/intro-ams","https://wiki.bambulab.com/en/ams/manual/ams-function-introduction","https://wiki.bambulab.com/en/knowledge-sharing/notes-ams","https://wiki.bambulab.com/en/software/bambu-studio/reduce-wasting-during-filament-change","https://wiki.bambulab.com/en/ams-lite/manual/faq","https://wiki.bambulab.com/en/ams-2-pro/manual/intro-and-connection-guide","https://wiki.bambulab.com/en/ams-ht/manual/intro-and-connection-guide","https://wiki.bambulab.com/en/ams/manual/ams-2-pro-ams-ht-faq","https://us.store.bambulab.com/products/ams-multicolor-printing","https://store.creality.com/au/products/cfs-creality-filament-system","https://store.anycubic.com/products/kobra-s1-combo","https://store.anycubic.com/pages/kobra-s1-ace-2-pro-combo-new-launch","https://www.prusa3d.com/en/product/original-prusa-mmu3-upgrade-kit-for-mk4s-mk3-9s-8/"]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://my3dprinter.io/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://my3dprinter.io/blog/"},{"@type":"ListItem","position":3,"name":"What is AMS in 3D printing? Bambu Lab's Automatic Material System explained","item":"https://my3dprinter.io/blog/what-is-ams-in-3d-printing/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is AMS in 3D printing?","acceptedAnswer":{"@type":"Answer","text":"AMS is short for Automatic Material System, a filament changer made by Bambu Lab. It holds four spools per unit (one on the AMS HT), feeds the selected filament into the printer and switches between them during a print, so one model can use several colours or materials."}},{"@type":"Question","name":"Is an AMS required for 3D printing?","acceptedAnswer":{"@type":"Answer","text":"No. Every Bambu Lab printer can print from a single spool on its external holder. The AMS is only needed for automatic multi-colour or multi-material prints, automatic refill from a backup spool, and – on the AMS 2 Pro and AMS HT – drying filament in the unit."}},{"@type":"Question","name":"Can I print AMS files without an AMS?","acceptedAnswer":{"@type":"Answer","text":"Yes. A multi-colour project can be printed in one colour, or you can add a colour change at a chosen layer in the slicer so the printer pauses and you swap filament by hand. True per-area colours on the same layer need an AMS or another automatic system."}},{"@type":"Question","name":"Can you use PLA in an AMS?","acceptedAnswer":{"@type":"Answer","text":"Yes. PLA is the most common AMS filament, and Bambu Lab also lists PETG, ABS, ASA, PA, PC and other rigid filaments as supported. Soft TPU and TPE, damp PVA and many fibre-filled or brittle filaments are not recommended."}}]}]}1a:["$","div",null,{"className":"wrap","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$24"}}],"$L25","$L26","$L27"]}]
+25:["$","nav",null,{"className":"crumbs","aria-label":"Breadcrumb","children":[["$","$L4",null,{"href":"/","children":"Home"}]," / ",["$","$L4",null,{"href":"/blog/","children":"Blog"}]," / ","What is AMS in 3D printing? Bambu Lab's Automatic Material System explained"]}]
+28:T3315,<p><strong>AMS in 3D printing means Automatic Material System – Bambu Lab&#39;s filament changer that holds several spools and feeds the right one into the printer, so a single print can switch between colours or materials automatically.</strong> One unit holds four spools (the AMS HT holds one), and several units can be chained for up to 16 slots on X1 and P1 printers and up to 24 on the H2 series. The term comes from Bambu Lab, but people now also use &quot;AMS&quot; loosely for any automatic multi-spool unit. This guide explains what an AMS does, how a filament switch works, the four current models, what they cannot handle and how other makers&#39; systems compare. Facts come from the Bambu Lab Wiki, blog and store, checked November 2026.</p>
+<h2>AMS in 3D printing at a glance</h2>
+<table>
+<thead>
+<tr>
+<th>Question</th>
+<th>Short answer</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>What does AMS stand for?</td>
+<td>Automatic Material System (the Bambu Lab Wiki also writes &quot;Automated&quot;)</td>
+</tr>
+<tr>
+<td>Who makes it?</td>
+<td>Bambu Lab</td>
+</tr>
+<tr>
+<td>What does it do?</td>
+<td>Stores spools, feeds the selected one, switches filament mid-print, refills from a backup spool</td>
+</tr>
+<tr>
+<td>Slots per unit</td>
+<td>4 (AMS, AMS 2 Pro, AMS lite), 1 (AMS HT)</td>
+</tr>
+<tr>
+<td>Current models</td>
+<td>AMS, AMS 2 Pro, AMS HT, AMS lite</td>
+</tr>
+<tr>
+<td>Drying</td>
+<td>AMS 2 Pro up to 65 °C, AMS HT up to 85 °C; AMS and AMS lite do not dry</td>
+</tr>
+<tr>
+<td>Filament reading</td>
+<td>RFID tags on Bambu Lab spools; other brands are set by hand</td>
+</tr>
+<tr>
+<td>Main trade-offs</td>
+<td>Purged filament and longer print times on every colour change</td>
+</tr>
+<tr>
+<td>Not suited to</td>
+<td>Soft TPU/TPE, damp PVA, many fibre-filled or brittle filaments</td>
+</tr>
+</tbody></table>
+<h2>What is AMS 3D printing?</h2>
+<p>A normal desktop FDM printer has one filament path: one spool, one extruder, one nozzle. To print in two colours you would stop the printer and change the spool by hand. An AMS automates that swap. Bambu Lab describes the original AMS as three main parts:</p>
+<ul>
+<li><strong>Feeders</strong> – four slots, each with its own motor and gears that push filament forward or wind it back onto the spool, plus a sensor that detects the filament.</li>
+<li><strong>Hub</strong> – merges the four filament paths into one, with Hall sensors, a magnetic rotary encoder (used as an odometer) and a brushless motor that gives a second push.</li>
+<li><strong>Buffer</strong> – sits between the AMS and the toolhead and keeps the filament tension in range, so the extruder is not fighting the spool.</li>
+</ul>
+<p>The wiki says the original AMS has 10 sensors along the filament path. The unit is sealed, with desiccant and gaskets, so it also works as a dry box for stored spools.</p>
+<p><strong>Why it matters:</strong> an AMS turns a single-colour printer into a multi-colour one without a second nozzle. It also lets you keep four materials loaded and pick one in the slicer instead of swapping spools.</p>
+<h2>How an AMS works: feeding and switching filament</h2>
+<p>When you push a filament end into a slot, the feeder senses it and pulls it in until the hub detects it. When a print starts, the feeder drives the filament towards the hub, then the hub motor takes over and pushes it all the way to the toolhead. Once the extruder grips it, the AMS switches to &quot;feed assist&quot; mode and only adds force when the buffer shows tension building up.</p>
+<p>A colour change on a single-nozzle Bambu printer then goes roughly like this:</p>
+<ol>
+<li><strong>Cut</strong> – a filament cutter on the toolhead cuts off the current filament at the toolhead.</li>
+<li><strong>Retract</strong> – the feeder and hub motor wind the old filament back onto its spool.</li>
+<li><strong>Load</strong> – the new filament is driven from its slot up to the extruder.</li>
+<li><strong>Purge</strong> – the printer pushes enough new filament through the nozzle to clear the old colour. On the X1 series the purged strand drops out of the back through a waste chute, past a nozzle wiper, before printing continues.</li>
+</ol>
+<p><strong>Tip:</strong> each change takes time, so a model with many colour changes per layer can take much longer than the single-colour version. Bambu Studio shows the extra time and filament in its slicing estimate – check it before you print.</p>
+<h2>Purge, flushing volume and the prime tower</h2>
+<p>Bambu Lab calls the purged filament the <strong>flushing volume</strong>: the amount of new filament needed to push the old colour out so the model is not stained. It depends on the colour pair – the wiki says changing from black to white needs several times more filament than white to black. Bambu Studio calculates it automatically from the &quot;from&quot; and &quot;to&quot; colours.</p>
+<p>Bambu Studio offers three ways to put some of that purge into the print instead of the bin:</p>
+<ul>
+<li><strong>Flush into infill</strong> – the hidden inside of the model absorbs the colour transition (not a good idea with transparent filament).</li>
+<li><strong>Flush into support</strong> – supports are removed anyway, so they can take mixed colours.</li>
+<li><strong>Flush into object</strong> – a chosen part, such as an internal gear, is printed from the transition material.</li>
+</ul>
+<p>The support and object options only work when the <strong>prime tower</strong> is enabled. The prime tower is a small block printed next to the model that primes the nozzle after each change and keeps the outer walls clean.</p>
+<p><strong>Why it matters:</strong> purged filament is the main hidden cost of single-nozzle multi-colour printing. Group colours by layer where you can, and use flush-into-infill on large models.</p>
+<h2>RFID, auto refill and filament tracking</h2>
+<p>Bambu Lab spools carry RFID tags on both sides. The AMS reads them with built-in RFID boards and sends the filament type and colour to Bambu Studio and the printer, so slots are recognised even if you load them in random order. The wiki says the AMS estimates remaining filament from how much is fed during one full spool rotation, with a full 1 kg spool counted as 100 %. Our <a href="/blog/bambu-filament/">Bambu filament guide</a> covers the RFID-tagged range.</p>
+<p>Third-party filament works too – you set its material and colour for that slot by hand in the slicer or on the printer screen.</p>
+<p><strong>AMS Auto-Refill</strong> switches to another slot with the same filament type and colour when a spool runs out. You turn it on in the AMS settings. The wiki warns that pausing and unloading mid-print can disrupt this backup function.</p>
+<h2>The four AMS versions and compatible printers</h2>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>AMS</th>
+<th>AMS 2 Pro</th>
+<th>AMS HT</th>
+<th>AMS lite</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Slots</td>
+<td>4</td>
+<td>4</td>
+<td>1</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Drying</td>
+<td>No</td>
+<td>Up to 65 °C</td>
+<td>Up to 85 °C</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Enclosure</td>
+<td>Sealed box</td>
+<td>Sealed box</td>
+<td>Sealed box</td>
+<td>Open, no cover</td>
+</tr>
+<tr>
+<td>Works with</td>
+<td>X1, P1, H2 (no drying)</td>
+<td>X1, P1, P2S, H2</td>
+<td>X1, P1, H2</td>
+<td>A1, A1 mini</td>
+</tr>
+<tr>
+<td>Max units</td>
+<td>4 on X1/P1</td>
+<td>4 (plus 8 AMS HT on H2)</td>
+<td>8 on H2, 4 on X1/P1</td>
+<td>1</td>
+</tr>
+</tbody></table>
+<ul>
+<li><strong>AMS (original):</strong> the four-spool unit launched with the <a href="/printers/bambu-lab-x1-carbon/">Bambu Lab X1 Carbon</a>. Chaining more than one unit on X1 and P1 printers needs the AMS Hub. Full details are in our <a href="/printers/bambu-lab-ams/">Bambu Lab AMS guide</a>.</li>
+<li><strong>AMS 2 Pro:</strong> released with the <a href="/printers/bambu-lab-h2d/">Bambu Lab H2D</a> in March 2025. It adds drying up to 65 °C, a humidity sensor and a stronger hub motor. On X1 and P1 printers, drying needs a separate power adapter.</li>
+<li><strong>AMS HT:</strong> a one-spool unit that dries at up to 85 °C for engineering filaments such as PA, PC and PP. It has a bypass outlet for TPU, where it works only as a dry box and you feed the filament by hand.</li>
+<li><strong>AMS lite:</strong> the open four-spool feeder for the <a href="/printers/bambu-lab-a1/">Bambu Lab A1</a> and A1 mini. Only one fits per printer, so the maximum is four colours. Bambu Lab also offers an AMS Hub for the A1 series that lets the A1 use the full-size units instead.</li>
+</ul>
+<p><strong>Which one you need:</strong> an A1 or A1 mini owner uses the AMS lite; a <a href="/printers/bambu-lab-p1s/">P1S</a> or X1 owner can use the AMS, AMS 2 Pro or AMS HT; H2 printers are designed around the AMS 2 Pro and AMS HT.</p>
+<h2>What does AMS mean for filament choice? Limits to know</h2>
+<p>The AMS feeds filament through long PTFE tubes and pushes it with gears, so the filament has to be stiff and robust enough to survive the trip. Bambu Lab&#39;s notes on using the AMS list:</p>
+<ul>
+<li><strong>Flexible filament:</strong> do not load TPU, TPE or similar soft filaments – they can buckle and jam in the feed tube. (Bambu Lab lists a special &quot;TPU for AMS&quot; as supported on the AMS 2 Pro; generic TPU and Bambu TPU 95A are not.)</li>
+<li><strong>Damp PVA and BVOH:</strong> absorbent support materials can swell and stick; only load them dry.</li>
+<li><strong>Fibre-filled and brittle filaments:</strong> third-party PLA-CF, PETG-CF, PA-CF and glass-filled grades, some silk PLA and glow-in-the-dark PLA can wear the PTFE tubes or snap. Bambu Lab says its own PLA-CF, PETG-CF and PAHT-CF are tuned for AMS use.</li>
+<li><strong>Spool size:</strong> the AMS takes spools 50–68 mm wide and 197–202 mm in diameter. The AMS lite accepts 40–68 mm widths.</li>
+<li><strong>Cardboard spools:</strong> Bambu Lab recommends an adapter ring, because bare cardboard can slip and leave fibres inside the unit. Plastic spools that fit correctly are preferred. The AMS lite&#39;s spring-loaded holders grip the spool hole, which Bambu Lab says improves cardboard compatibility.</li>
+</ul>
+<p><strong>Tip:</strong> for anything on the &quot;do not load&quot; list, use the printer&#39;s external spool holder. On H2 and X1/P1 printers with an AMS HT, the bypass outlet is the other option for TPU.</p>
+<h2>AMS alternatives from other makers</h2>
+<p>Several brands now sell their own multi-spool units. Each works only with that maker&#39;s printers:</p>
+<table>
+<thead>
+<tr>
+<th>System</th>
+<th>Maker</th>
+<th>Slots per unit</th>
+<th>Notes from the maker</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>CFS</td>
+<td>Creality</td>
+<td>4 (up to 4 units, 16 colours)</td>
+<td>K2 series and Creality Hi; reads Creality RFID spools; no TPU. See our <a href="/printers/creality-cfs/">Creality CFS page</a></td>
+</tr>
+<tr>
+<td>ACE Pro / ACE 2 Pro</td>
+<td>Anycubic</td>
+<td>4</td>
+<td>Kobra S1 and Kobra 3 Combos; dries while printing; auto refill.</td>
+</tr>
+<tr>
+<td>MMU3</td>
+<td>Prusa</td>
+<td>5</td>
+<td>Single-nozzle unit for the MK4/S and MK3.9/S; purges into a wipe tower</td>
+</tr>
+</tbody></table>
+<p>A different approach is the <strong>tool changer</strong>, which gives each filament its own nozzle instead of swapping filament in one nozzle. The Prusa INDX and the four-toolhead Snapmaker U1 work this way, which cuts purge waste sharply. Bambu Lab&#39;s dual-nozzle H2D sits in between: two nozzles, each fed by AMS units.</p>
+<h2>Do you need an AMS? A quick checklist</h2>
+<ol>
+<li><strong>You print mostly single-colour functional parts:</strong> you do not need one. An external spool holder is enough.</li>
+<li><strong>You want multi-colour models, signs, keychains or figures:</strong> an AMS (or AMS lite on the A1) is the simplest way.</li>
+<li><strong>You print soluble or breakaway supports in a second material:</strong> an AMS lets you load the support filament next to the model filament.</li>
+<li><strong>You print long jobs and hate run-outs:</strong> auto refill from a matching spool is useful even for single-colour prints.</li>
+<li><strong>You print damp-sensitive materials (PA, PC, PETG in humid rooms):</strong> look at the drying units – AMS 2 Pro or AMS HT – or a separate filament dryer.</li>
+<li><strong>You print mostly TPU:</strong> an AMS will not help; keep it on the external holder.</li>
+</ol>
+<p>Before buying, open a multi-colour 3MF project in our <a href="/3mf-viewer/">3MF viewer</a> to see how many colours your favourite models really use.</p>
+<h2>Verdict</h2>
+<p>AMS is Bambu Lab&#39;s Automatic Material System – a filament changer that turns a single-nozzle printer into a multi-colour, multi-material machine and adds automatic spool refill. It works well with rigid filaments such as PLA, PETG, ABS and ASA, but every colour change costs time and purged filament, and soft or brittle filaments are better fed from an external spool. Choose the model by your printer: AMS lite for the A1 series, the AMS or AMS 2 Pro for P1 and X1, and the AMS 2 Pro plus AMS HT for the H2 series.</p>
+26:["$","div",null,{"className":"split","children":[["$","article",null,{"className":"prose","children":[["$","h1",null,{"children":"What is AMS in 3D printing? Bambu Lab's Automatic Material System explained"}],["$","figure",null,{"className":"doc-hero","children":["$","img",null,{"src":"/images/blog/what-is-ams-in-3d-printing.webp","alt":"Illustration of a four-spool automatic filament feeder sending tubes to a printer that prints a striped multicolour parrot figurine","width":1200,"height":675,"fetchPriority":"high","decoding":"async"}]}],["$","p",null,{"className":"muted small","children":["Updated ","November 26, 2026"]}],["$","div",null,{"className":"summary-box","children":[["$","b",null,{"children":"Key points"}],["$","ul",null,{"children":[["$","li","AMS stands for Automatic Material System, Bambu Lab's add-on that holds several spools and feeds the right one into the printer for multi-colour or multi-material prints.",{"children":"AMS stands for Automatic Material System, Bambu Lab's add-on that holds several spools and feeds the right one into the printer for multi-colour or multi-material prints."}],["$","li","Bambu Lab currently sells four versions – the AMS, AMS 2 Pro, AMS HT and AMS lite – and each works only with certain Bambu printers.",{"children":"Bambu Lab currently sells four versions – the AMS, AMS 2 Pro, AMS HT and AMS lite – and each works only with certain Bambu printers."}],["$","li","Every colour change on a single nozzle means cutting, retracting and purging filament, so multi-colour prints take longer and create waste.",{"children":"Every colour change on a single nozzle means cutting, retracting and purging filament, so multi-colour prints take longer and create waste."}]]}]]}],null,["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$28"}}]]}],"$L29"]}]
+27:["$","section",null,{"className":"section faq","aria-labelledby":"faq-h","children":[["$","h2",null,{"id":"faq-h","children":"Questions and answers"}],["$","div",null,{"className":"faq-list","children":[["$","details","What is AMS in 3D printing?",{"children":[["$","summary",null,{"children":"What is AMS in 3D printing?"}],["$","p",null,{"children":"AMS is short for Automatic Material System, a filament changer made by Bambu Lab. It holds four spools per unit (one on the AMS HT), feeds the selected filament into the printer and switches between them during a print, so one model can use several colours or materials."}]]}],["$","details","Is an AMS required for 3D printing?",{"children":[["$","summary",null,{"children":"Is an AMS required for 3D printing?"}],["$","p",null,{"children":"No. Every Bambu Lab printer can print from a single spool on its external holder. The AMS is only needed for automatic multi-colour or multi-material prints, automatic refill from a backup spool, and – on the AMS 2 Pro and AMS HT – drying filament in the unit."}]]}],["$","details","Can I print AMS files without an AMS?",{"children":[["$","summary",null,{"children":"Can I print AMS files without an AMS?"}],["$","p",null,{"children":"Yes. A multi-colour project can be printed in one colour, or you can add a colour change at a chosen layer in the slicer so the printer pauses and you swap filament by hand. True per-area colours on the same layer need an AMS or another automatic system."}]]}],["$","details","Can you use PLA in an AMS?",{"children":[["$","summary",null,{"children":"Can you use PLA in an AMS?"}],["$","p",null,{"children":"Yes. PLA is the most common AMS filament, and Bambu Lab also lists PETG, ABS, ASA, PA, PC and other rigid filaments as supported. Soft TPU and TPE, damp PVA and many fibre-filled or brittle filaments are not recommended."}]]}]]}]]}]
+29:["$","aside",null,{"className":"aside","children":[["$","div",null,{"className":"facts","children":[["$","b",null,{"children":"Tools for this"}],["$","div",null,{"className":"tool-grid","style":{"marginTop":10,"gridTemplateColumns":"1fr"},"children":[["$","$L4","3mf-viewer",{"className":"tool-link","href":"/3mf-viewer/","children":"3MF viewer"}],["$","$L4","3mf-to-stl",{"className":"tool-link","href":"/3mf-to-stl/","children":"3MF to STL converter"}],["$","$L4","stl-viewer",{"className":"tool-link","href":"/stl-viewer/","children":"STL viewer"}]]}]]}],["$","div",null,{"className":"facts","children":[["$","b",null,{"children":"Open or convert a model"}],["$","p",null,{"className":"small","style":{"margin":"6px 0 10px"},"children":"View STL, 3MF, STEP and more in your browser."}],["$","$L4",null,{"className":"btn btn-accent","href":"/3d-viewer/","children":"3D viewer"}]]}]]}]
+20:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#10151C"}]]
+1c:null
+2a:I[622,[],"IconMark"]
+1e:{"metadata":[["$","title","0",{"children":"What Is AMS in 3D Printing? Bambu AMS Explained | my3dprinter.io"}],["$","meta","1",{"name":"description","content":"What is AMS in 3D printing? How Bambu Lab's Automatic Material System feeds and switches filament, the four AMS models, limits and similar systems."}],["$","meta","2",{"name":"application-name","content":"my3dprinter.io"}],["$","link","3",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","4",{"name":"robots","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","5",{"rel":"canonical","href":"https://my3dprinter.io/blog/what-is-ams-in-3d-printing/"}],["$","meta","6",{"name":"format-detection","content":"telephone=no"}],["$","meta","7",{"property":"og:title","content":"What Is AMS in 3D Printing? Bambu AMS Explained | my3dprinter.io"}],["$","meta","8",{"property":"og:description","content":"What is AMS in 3D printing? How Bambu Lab's Automatic Material System feeds and switches filament, the four AMS models, limits and similar systems."}],["$","meta","9",{"property":"og:url","content":"https://my3dprinter.io/blog/what-is-ams-in-3d-printing/"}],["$","meta","10",{"property":"og:site_name","content":"my3dprinter.io"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:image","content":"https://my3dprinter.io/images/blog/what-is-ams-in-3d-printing.webp"}],["$","meta","13",{"property":"og:image:width","content":"1200"}],["$","meta","14",{"property":"og:image:height","content":"675"}],["$","meta","15",{"property":"og:image:alt","content":"What Is AMS in 3D Printing? Bambu AMS Explained"}],["$","meta","16",{"property":"og:type","content":"article"}],["$","meta","17",{"property":"article:published_time","content":"2026-11-26"}],["$","meta","18",{"property":"article:modified_time","content":"2026-11-26"}],["$","meta","19",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","20",{"name":"twitter:title","content":"What Is AMS in 3D Printing? Bambu AMS Explained | my3dprinter.io"}],["$","meta","21",{"name":"twitter:description","content":"What is AMS in 3D printing? How Bambu Lab's Automatic Material System feeds and switches filament, the four AMS models, limits and similar systems."}],["$","meta","22",{"name":"twitter:image","content":"https://my3dprinter.io/images/blog/what-is-ams-in-3d-printing.webp"}],["$","link","23",{"rel":"icon","href":"/favicon.ico","sizes":"48x48"}],["$","link","24",{"rel":"icon","href":"/icon.svg","type":"image/svg+xml"}],["$","link","25",{"rel":"icon","href":"/icon-192.png","sizes":"192x192","type":"image/png"}],["$","link","26",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","sizes":"180x180"}],["$","$L2a","27",{}]],"error":null,"digest":"$undefined"}
+23:"$1e:metadata"

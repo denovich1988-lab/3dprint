@@ -1,0 +1,217 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+4:I[2619,["2619","static/chunks/2619-3c9e02e22d10480a.js","4966","static/chunks/app/(en)/blog/%5Bslug%5D/page-6f60855278aa4f75.js"],""]
+5:I[1538,["2619","static/chunks/2619-3c9e02e22d10480a.js","90","static/chunks/app/(en)/layout-1d0e45a00e968cb3.js"],"default"]
+6:I[909,["2619","static/chunks/2619-3c9e02e22d10480a.js","90","static/chunks/app/(en)/layout-1d0e45a00e968cb3.js"],"default"]
+16:I[7150,[],""]
+:HL["/_next/static/css/93d1a12f2f4c9226.css","style"]
+0:{"P":null,"b":"rD7TGm9XF6FHQRkd5YG22","p":"","c":["","blog","how-to-dry-filament",""],"i":false,"f":[[["",{"children":["(en)",{"children":["blog",{"children":[["slug","how-to-dry-filament","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/93d1a12f2f4c9226.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","script",null,{"async":true,"src":"https://www.googletagmanager.com/gtm.js?id=GTM-T7SN8RQX"}],["$","script",null,{"async":true,"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3226858004021254","crossOrigin":"anonymous"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());"}}]]}],["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"wrap header-in","children":[["$","$L4",null,{"href":"/","className":"brand","aria-label":"my3dprinter.io home","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","nav",null,{"aria-label":"Main","className":"nav","children":[["$","$L4","/converters/",{"href":"/converters/","children":"Converters"}],["$","$L4","/3d-viewer/",{"href":"/3d-viewer/","children":"3D viewer"}],["$","$L4","/image-to-stl/",{"href":"/image-to-stl/","children":"Image to STL"}],["$","$L4","/printers/",{"href":"/printers/","children":"Printers"}],["$","$L4","/blog/",{"href":"/blog/","children":"Blog"}]]}],["$","div",null,{"className":"header-actions","children":[["$","$L5",null,{"lang":"en","langs":[{"code":"en","name":"English"},{"code":"de","name":"Deutsch"},{"code":"es","name":"Español"},{"code":"fr","name":"Français"},{"code":"it","name":"Italiano"},{"code":"ja","name":"日本語"},{"code":"ko","name":"한국어"},{"code":"pt","name":"Português"},{"code":"vi","name":"Tiếng Việt"},{"code":"th","name":"ไทย"},{"code":"zh","name":"简体中文"},{"code":"ru","name":"Русский"}],"localized":["/","/converters/","/3mf-to-stl/","/glb-to-stl/","/stl-to-3mf/","/step-to-stl/","/glb-to-obj/","/obj-to-stl/","/stl-to-obj/","/fbx-to-obj/","/gcode-to-stl/","/fbx-to-stl/","/zip-to-stl/","/stp-to-stl/","/dae-to-obj/","/gltf-to-obj/","/stl-to-dxf/","/obj-to-glb/","/gltf-to-stl/","/fbx-to-glb/","/ply-to-stl/","/3mf-to-obj/","/dae-to-stl/","/usdz-to-stl/","/ply-to-obj/","/stp-to-obj/","/3ds-to-obj/","/igs-to-stl/","/stl-to-glb/","/obj-to-3mf/","/glb-to-3mf/","/stl-to-usdz/","/glb-to-usdz/","/step-to-obj/","/step-to-3mf/","/stl-to-ply/","/fbx-to-gltf/","/image-to-stl/","/png-to-stl/","/jpg-to-stl/","/jpeg-to-stl/","/lithophane-maker/","/png-to-obj/","/png-to-3mf/","/svg-to-stl/","/svg-to-obj/","/png-to-dds/","/jpg-to-dds/","/dds-to-png/","/dds-to-jpg/","/3d-viewer/","/stl-viewer/","/3mf-viewer/","/obj-viewer/","/glb-viewer/","/step-viewer/","/ply-viewer/","/fbx-viewer/","/gltf-viewer/"],"label":"Language"}],["$","$L6",null,{"links":[["/converters/","Converters"],["/3d-viewer/","3D viewer"],["/image-to-stl/","Image to STL"],["/printers/","Printers"],["/blog/","Blog"],["/printers/compare/","Compare printers"]],"label":"Menu"}]]}]]}]}],["$","main",null,{"id":"main","className":"wrap","style":{"padding":"64px 24px"},"children":[["$","h1",null,{"children":"Page not found"}],["$","p",null,{"className":"lead","children":"This page does not exist. Try a converter or the 3D viewer."}],["$","p",null,{"children":["$","$L4",null,{"className":"btn btn-accent","href":"/converters/","children":"All converters"}]}]]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"wrap footer-grid","children":[["$","div",null,{"className":"footer-brand","children":[["$","$L4",null,{"href":"/","className":"brand","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":["$L7","$L8"]}]," ","$L9"]}],"$La"]}],["$Lb","$Lc","$Ld","$Le","$Lf"]]}],"$L10"]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["(en)","$L11",{"children":["blog","$L12",{"children":[["slug","how-to-dry-filament","d"],"$L13",{"children":["__PAGE__","$L14",{},null,false]},null,false]},null,false]},null,false]},null,false],"$L15",false]],"m":"$undefined","G":["$16",[]],"s":false,"S":true}
+1b:I[4431,[],"OutletBoundary"]
+1d:I[5278,[],"AsyncMetadataOutlet"]
+1f:I[4431,[],"ViewportBoundary"]
+21:I[4431,[],"MetadataBoundary"]
+22:"$Sreact.suspense"
+7:["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}]
+8:["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]
+9:["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]
+a:["$","p",null,{"children":"Free tools that run in your browser. Your files are never uploaded."}]
+b:["$","div","Converters",{"children":[["$","h2",null,{"children":"Converters"}],["$","ul",null,{"children":[["$","li","/3mf-to-stl/",{"children":["$","$L4",null,{"href":"/3mf-to-stl/","children":"3MF → STL"}]}],["$","li","/step-to-stl/",{"children":["$","$L4",null,{"href":"/step-to-stl/","children":"STEP → STL"}]}],["$","li","/glb-to-stl/",{"children":["$","$L4",null,{"href":"/glb-to-stl/","children":"GLB → STL"}]}],["$","li","/obj-to-stl/",{"children":["$","$L4",null,{"href":"/obj-to-stl/","children":"OBJ → STL"}]}],["$","li","/stl-to-3mf/",{"children":["$","$L4",null,{"href":"/stl-to-3mf/","children":"STL → 3MF"}]}],["$","li","/converters/",{"children":["$","$L4",null,{"href":"/converters/","children":"All converters"}]}]]}]]}]
+c:["$","div","Images & textures",{"children":[["$","h2",null,{"children":"Images & textures"}],["$","ul",null,{"children":[["$","li","/image-to-stl/",{"children":["$","$L4",null,{"href":"/image-to-stl/","children":"Image to STL"}]}],["$","li","/lithophane-maker/",{"children":["$","$L4",null,{"href":"/lithophane-maker/","children":"Lithophane maker"}]}],["$","li","/svg-to-stl/",{"children":["$","$L4",null,{"href":"/svg-to-stl/","children":"SVG → STL"}]}],["$","li","/png-to-dds/",{"children":["$","$L4",null,{"href":"/png-to-dds/","children":"PNG → DDS"}]}],["$","li","/dds-to-png/",{"children":["$","$L4",null,{"href":"/dds-to-png/","children":"DDS → PNG"}]}]]}]]}]
+d:["$","div","Viewers",{"children":[["$","h2",null,{"children":"Viewers"}],["$","ul",null,{"children":[["$","li","/3d-viewer/",{"children":["$","$L4",null,{"href":"/3d-viewer/","children":"Online 3D model viewer"}]}],["$","li","/stl-viewer/",{"children":["$","$L4",null,{"href":"/stl-viewer/","children":"STL viewer"}]}],["$","li","/3mf-viewer/",{"children":["$","$L4",null,{"href":"/3mf-viewer/","children":"3MF viewer"}]}],["$","li","/step-viewer/",{"children":["$","$L4",null,{"href":"/step-viewer/","children":"STEP viewer"}]}],["$","li","/obj-viewer/",{"children":["$","$L4",null,{"href":"/obj-viewer/","children":"OBJ viewer"}]}]]}]]}]
+e:["$","div","my3dprinter.io",{"children":[["$","h2",null,{"children":"my3dprinter.io"}],["$","ul",null,{"children":[["$","li","/printers/",{"children":["$","$L4",null,{"href":"/printers/","children":"3D printers"}]}],["$","li","/printers/compare/",{"children":["$","$L4",null,{"href":"/printers/compare/","children":"Compare printers"}]}],["$","li","/blog/",{"children":["$","$L4",null,{"href":"/blog/","children":"Blog"}]}],["$","li","/formats/",{"children":["$","$L4",null,{"href":"/formats/","children":"File formats"}]}],["$","li","/about/",{"children":["$","$L4",null,{"href":"/about/","children":"About"}]}],["$","li","/contact/",{"children":["$","$L4",null,{"href":"/contact/","children":"Contact"}]}]]}]]}]
+f:["$","div","Legal",{"children":[["$","h2",null,{"children":"Legal"}],["$","ul",null,{"children":[["$","li","/privacy/",{"children":["$","$L4",null,{"href":"/privacy/","children":"Privacy policy"}]}],["$","li","/cookies/",{"children":["$","$L4",null,{"href":"/cookies/","children":"Cookie policy"}]}],["$","li","/terms/",{"children":["$","$L4",null,{"href":"/terms/","children":"Terms of use"}]}],["$","li","/disclaimer/",{"children":["$","$L4",null,{"href":"/disclaimer/","children":"Disclaimer"}]}]]}]]}]
+10:["$","div",null,{"className":"wrap footer-base","children":["$","p",null,{"children":["© ",2026," my3dprinter.io. ","Brand and product names belong to their owners; my3dprinter.io is an independent site and is not affiliated with any printer maker."]}]}]
+11:["$","$1","c",{"children":[null,[["$","a",null,{"className":"skip","href":"#main","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"wrap header-in","children":[["$","$L4",null,{"href":"/","className":"brand","aria-label":"my3dprinter.io home","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","nav",null,{"aria-label":"Main","className":"nav","children":[["$","$L4","/converters/",{"href":"/converters/","children":"Converters"}],["$","$L4","/3d-viewer/",{"href":"/3d-viewer/","children":"3D viewer"}],["$","$L4","/image-to-stl/",{"href":"/image-to-stl/","children":"Image to STL"}],["$","$L4","/printers/",{"href":"/printers/","children":"Printers"}],["$","$L4","/blog/",{"href":"/blog/","children":"Blog"}]]}],["$","div",null,{"className":"header-actions","children":[["$","$L5",null,{"lang":"en","langs":[{"code":"en","name":"English"},{"code":"de","name":"Deutsch"},{"code":"es","name":"Español"},{"code":"fr","name":"Français"},{"code":"it","name":"Italiano"},{"code":"ja","name":"日本語"},{"code":"ko","name":"한국어"},{"code":"pt","name":"Português"},{"code":"vi","name":"Tiếng Việt"},{"code":"th","name":"ไทย"},{"code":"zh","name":"简体中文"},{"code":"ru","name":"Русский"}],"localized":"$0:f:0:1:1:props:children:1:props:children:1:props:children:props:notFound:0:0:props:children:props:children:2:props:children:0:props:localized","label":"Language"}],["$","$L6",null,{"links":[["/converters/","Converters"],["/3d-viewer/","3D viewer"],["/image-to-stl/","Image to STL"],["/printers/","Printers"],["/blog/","Blog"],["/printers/compare/","Compare printers"]],"label":"Menu"}]]}]]}]}],["$","main",null,{"id":"main","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"wrap footer-grid","children":[["$","div",null,{"className":"footer-brand","children":[["$","$L4",null,{"href":"/","className":"brand","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","p",null,{"children":"Free tools that run in your browser. Your files are never uploaded."}]]}],[["$","div","Converters",{"children":[["$","h2",null,{"children":"Converters"}],["$","ul",null,{"children":[["$","li","/3mf-to-stl/",{"children":["$","$L4",null,{"href":"/3mf-to-stl/","children":"3MF → STL"}]}],["$","li","/step-to-stl/",{"children":["$","$L4",null,{"href":"/step-to-stl/","children":"STEP → STL"}]}],["$","li","/glb-to-stl/",{"children":["$","$L4",null,{"href":"/glb-to-stl/","children":"GLB → STL"}]}],["$","li","/obj-to-stl/",{"children":["$","$L4",null,{"href":"/obj-to-stl/","children":"OBJ → STL"}]}],["$","li","/stl-to-3mf/",{"children":["$","$L4",null,{"href":"/stl-to-3mf/","children":"STL → 3MF"}]}],["$","li","/converters/",{"children":["$","$L4",null,{"href":"/converters/","children":"All converters"}]}]]}]]}],["$","div","Images & textures",{"children":[["$","h2",null,{"children":"Images & textures"}],["$","ul",null,{"children":[["$","li","/image-to-stl/",{"children":["$","$L4",null,{"href":"/image-to-stl/","children":"Image to STL"}]}],["$","li","/lithophane-maker/",{"children":["$","$L4",null,{"href":"/lithophane-maker/","children":"Lithophane maker"}]}],["$","li","/svg-to-stl/",{"children":["$","$L4",null,{"href":"/svg-to-stl/","children":"SVG → STL"}]}],["$","li","/png-to-dds/",{"children":["$","$L4",null,{"href":"/png-to-dds/","children":"PNG → DDS"}]}],["$","li","/dds-to-png/",{"children":["$","$L4",null,{"href":"/dds-to-png/","children":"DDS → PNG"}]}]]}]]}],["$","div","Viewers",{"children":[["$","h2",null,{"children":"Viewers"}],["$","ul",null,{"children":[["$","li","/3d-viewer/",{"children":["$","$L4",null,{"href":"/3d-viewer/","children":"Online 3D model viewer"}]}],["$","li","/stl-viewer/",{"children":["$","$L4",null,{"href":"/stl-viewer/","children":"STL viewer"}]}],["$","li","/3mf-viewer/",{"children":["$","$L4",null,{"href":"/3mf-viewer/","children":"3MF viewer"}]}],["$","li","/step-viewer/",{"children":["$","$L4",null,{"href":"/step-viewer/","children":"STEP viewer"}]}],["$","li","/obj-viewer/",{"children":["$","$L4",null,{"href":"/obj-viewer/","children":"OBJ viewer"}]}]]}]]}],"$L17","$L18"]]}],"$L19"]}]]]}]
+12:["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+13:["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+14:["$","$1","c",{"children":["$L1a",null,["$","$L1b",null,{"children":["$L1c",["$","$L1d",null,{"promise":"$@1e"}]]}]]}]
+15:["$","$1","h",{"children":[null,[["$","$L1f",null,{"children":"$L20"}],null],["$","$L21",null,{"children":["$","div",null,{"hidden":true,"children":["$","$22",null,{"fallback":null,"children":"$L23"}]}]}]]}]
+17:["$","div","my3dprinter.io",{"children":[["$","h2",null,{"children":"my3dprinter.io"}],["$","ul",null,{"children":[["$","li","/printers/",{"children":["$","$L4",null,{"href":"/printers/","children":"3D printers"}]}],["$","li","/printers/compare/",{"children":["$","$L4",null,{"href":"/printers/compare/","children":"Compare printers"}]}],["$","li","/blog/",{"children":["$","$L4",null,{"href":"/blog/","children":"Blog"}]}],["$","li","/formats/",{"children":["$","$L4",null,{"href":"/formats/","children":"File formats"}]}],["$","li","/about/",{"children":["$","$L4",null,{"href":"/about/","children":"About"}]}],["$","li","/contact/",{"children":["$","$L4",null,{"href":"/contact/","children":"Contact"}]}]]}]]}]
+18:["$","div","Legal",{"children":[["$","h2",null,{"children":"Legal"}],["$","ul",null,{"children":[["$","li","/privacy/",{"children":["$","$L4",null,{"href":"/privacy/","children":"Privacy policy"}]}],["$","li","/cookies/",{"children":["$","$L4",null,{"href":"/cookies/","children":"Cookie policy"}]}],["$","li","/terms/",{"children":["$","$L4",null,{"href":"/terms/","children":"Terms of use"}]}],["$","li","/disclaimer/",{"children":["$","$L4",null,{"href":"/disclaimer/","children":"Disclaimer"}]}]]}]]}]
+19:["$","div",null,{"className":"wrap footer-base","children":["$","p",null,{"children":["© ",2026," my3dprinter.io. ","Brand and product names belong to their owners; my3dprinter.io is an independent site and is not affiliated with any printer maker."]}]}]
+24:Tc3b,{"@context":"https://schema.org","@graph":[{"@type":"Article","headline":"How to dry filament – methods, temperatures and times for PLA, PETG and TPU","description":"How to dry filament in a dryer, AMS, oven or on the heated bed, with drying temperatures and times for PLA, PETG, TPU, ASA, PC and nylon from maker guides.","datePublished":"2026-11-26","dateModified":"2026-11-26","mainEntityOfPage":"https://my3dprinter.io/blog/how-to-dry-filament/","inLanguage":"en","author":{"@type":"Organization","name":"my3dprinter.io","url":"https://my3dprinter.io"},"publisher":{"@type":"Organization","@id":"https://my3dprinter.io/#organization","name":"my3dprinter.io","url":"https://my3dprinter.io/","logo":{"@type":"ImageObject","url":"https://my3dprinter.io/icon-512.png","width":512,"height":512},"email":"hello@my3dprinter.io","description":"Free 3D file converters, viewers and 3D printer guides"},"image":"https://my3dprinter.io/images/blog/how-to-dry-filament.webp","citation":["https://wiki.bambulab.com/en/filament-acc/filament/dry-filament","https://wiki.bambulab.com/en/general/filament-guide-material-table","https://help.prusa3d.com/article/drying-filament_332086","https://wiki.polymaker.com/the-basics/fun-3d-printing-facts/airflow-is-more-important-than-heat-when-drying","https://wiki.bambulab.com/en/filament-acc/filament/petg-hf-unfinished-drying","https://shop.polymaker.com/collections/petg-filament"]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://my3dprinter.io/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://my3dprinter.io/blog/"},{"@type":"ListItem","position":3,"name":"How to dry filament – methods, temperatures and times for PLA, PETG and TPU","item":"https://my3dprinter.io/blog/how-to-dry-filament/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How do you dry filament without a dryer?","acceptedAnswer":{"@type":"Answer","text":"Bambu Lab documents drying on the heated bed of an enclosed printer, with the spool under its cardboard package box or a plastic storage box, doors closed and the spool turned every few hours. A forced-air oven or a food dehydrator that fits a spool also works if you check the temperature with a separate thermometer."}},{"@type":"Question","name":"Does PETG need to be dried?","acceptedAnswer":{"@type":"Answer","text":"Bambu Lab recommends drying PETG before use. Heavy stringing, popping or rough walls on a spool that used to print well are the usual signs that it needs it."}},{"@type":"Question","name":"What temperature do you dry PLA at?","acceptedAnswer":{"@type":"Answer","text":"Prusa dries its PLA at 45 °C for 6 hours, and Bambu Lab gives 50–60 °C for 8 hours in a dryer or oven. Stay at or below the spool label's value, because PLA softens not far above that."}},{"@type":"Question","name":"How long does it take to dry filament?","acceptedAnswer":{"@type":"Answer","text":"Usually 4–8 hours in a dryer or oven, depending on material and maker; heavily soaked nylon or PVA can need up to 12. Bambu Lab's heated-bed method takes about 12 hours."}}]}]}1a:["$","div",null,{"className":"wrap","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$24"}}],"$L25","$L26","$L27"]}]
+25:["$","nav",null,{"className":"crumbs","aria-label":"Breadcrumb","children":[["$","$L4",null,{"href":"/","children":"Home"}]," / ",["$","$L4",null,{"href":"/blog/","children":"Blog"}]," / ","How to dry filament – methods, temperatures and times for PLA, PETG and TPU"]}]
+28:T2ac7,<p><strong>To dry filament, heat the spool to a material-specific temperature below its softening point – typically 45–60 °C for PLA, 55–70 °C for PETG and 60–75 °C for TPU – for 4–8 hours with air moving through it, then store it sealed with desiccant.</strong> A filament dryer, a printer&#39;s drying unit, a forced-air oven or even an enclosed printer&#39;s heated bed can do the job. This guide compares those methods, gives drying temperatures and times per material from the makers&#39; own guides, and covers PLA, PETG and TPU in detail. Facts come from the Bambu Lab wiki, the Prusa knowledge base and Polymaker, checked November 2026. When your spool label gives a value, use that.</p>
+<h2>How to dry filament: methods at a glance</h2>
+<table>
+<thead>
+<tr>
+<th>Method</th>
+<th>Temperature control</th>
+<th>Good for</th>
+<th>Main caveat</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Filament dryer</td>
+<td>Good</td>
+<td>Most users, all common filaments</td>
+<td>Check its maximum temperature covers your material</td>
+</tr>
+<tr>
+<td>Printer drying unit (AMS 2 Pro, AMS HT, CFS 2)</td>
+<td>Good, automatic with tagged spools</td>
+<td>Drying while the spool stays loaded</td>
+<td>Temperature limits; extra power cable on some printers</td>
+</tr>
+<tr>
+<td>Forced-air (blast) oven</td>
+<td>Very good</td>
+<td>Engineering filaments, several spools</td>
+<td>Bambu Lab&#39;s recommended method; costs more</td>
+</tr>
+<tr>
+<td>Kitchen oven</td>
+<td>Poor</td>
+<td>Occasional use with a thermometer</td>
+<td>Hot spots; Bambu Lab advises against it</td>
+</tr>
+<tr>
+<td>Heated bed under a box</td>
+<td>Fair</td>
+<td>No dryer, enclosed printer</td>
+<td>About 12 hours; printer busy</td>
+</tr>
+<tr>
+<td>Food dehydrator</td>
+<td>Fair to good</td>
+<td>PLA, PETG, TPU</td>
+<td>Often needs modifying to fit a spool; low top temperature</td>
+</tr>
+<tr>
+<td>Microwave</td>
+<td>None</td>
+<td>Nothing</td>
+<td>Bambu Lab says do not use it</td>
+</tr>
+</tbody></table>
+<h2>Drying temperature and time by filament</h2>
+<p>The two makers below publish different figures for different products. Prusa&#39;s numbers are for its Prusament filaments; Bambu Lab&#39;s dryer/oven numbers are for a forced-air oven, and its heated-bed numbers are the <strong>bed</strong> setting on X1, X1 Carbon and P1S printers with the spool covered, not the filament temperature.</p>
+<table>
+<thead>
+<tr>
+<th>Filament</th>
+<th>Prusa (Prusament)</th>
+<th>Bambu Lab – dryer/oven</th>
+<th>Bambu Lab – heated bed</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>PLA</td>
+<td>45 °C, 6 h</td>
+<td>50–60 °C, 8 h</td>
+<td>65–75 °C, 12 h</td>
+</tr>
+<tr>
+<td>PETG</td>
+<td>55 °C, 6 h</td>
+<td>60–70 °C, 8 h</td>
+<td>75–85 °C, 12 h</td>
+</tr>
+<tr>
+<td>TPU</td>
+<td>60 °C, 4–6 h</td>
+<td>65–75 °C, 8 h</td>
+<td>80–90 °C, 12 h</td>
+</tr>
+<tr>
+<td>ABS</td>
+<td>–</td>
+<td>75–85 °C, 8 h</td>
+<td>90–100 °C, 12 h</td>
+</tr>
+<tr>
+<td>ASA</td>
+<td>80 °C, 4 h</td>
+<td>75–85 °C, 8 h</td>
+<td>90–100 °C, 12 h</td>
+</tr>
+<tr>
+<td>PC</td>
+<td>85 °C, 5 h (PC Blend)</td>
+<td>75–85 °C, 8 h</td>
+<td>90–100 °C, 12 h</td>
+</tr>
+<tr>
+<td>Nylon (PA, PA-CF)</td>
+<td>90 °C, 6 h (PA11 CF)</td>
+<td>75–85 °C, 8–12 h</td>
+<td>90–100 °C, 12 h</td>
+</tr>
+<tr>
+<td>PVA / BVOH</td>
+<td>–</td>
+<td>75–85 °C, 8–12 h</td>
+<td>90–100 °C, 12 h</td>
+</tr>
+</tbody></table>
+<p>Bambu Lab marks drying as &quot;recommended&quot; for PLA, PETG, ABS and ASA and &quot;required&quot; for TPU, PC, PVA and nylon. Prusa notes that nylon, PVA and TPU need drying more often than PLA. Both warn against going hotter than recommended: the filament softens and sticks together on the spool.</p>
+<p><strong>Tip:</strong> the spool limits you too. Bambu Lab notes that its reusable spool&#39;s heat resistance caps the drying temperature, and Prusa lists different limits for its older and newer spool types. Check the spool, not only the filament.</p>
+<h2>Method 1: a filament dryer</h2>
+<p>A filament dryer is the simplest way: set the temperature and timer, and most models let you print straight from the box. Polymaker points out that airflow matters more than heat – moisture has to be carried away once it leaves the plastic – so a dryer with a fan and vents can work at a gentler temperature. Our <a href="/blog/filament-dryer/">filament dryer guide</a> covers what to look for in one and how to use it step by step.</p>
+<h2>Method 2: drying in an AMS 2 Pro, AMS HT or CFS 2</h2>
+<p>Some multi-material units now dry filament in place:</p>
+<ul>
+<li><strong>Bambu Lab AMS 2 Pro</strong> – four slots, drying at up to 65 °C, with settings read from the RFID tag on Bambu spools. On X1 and P1 printers drying needs Bambu Lab&#39;s power adapter. See our <a href="/printers/bambu-lab-ams-2-pro/">AMS 2 Pro page</a>.</li>
+<li><strong>Bambu Lab AMS HT</strong> – a single-spool unit that dries at up to 85 °C, enough for many engineering filaments; it needs its own power cable to dry. See the <a href="/printers/bambu-lab-ams-ht/">AMS HT page</a>.</li>
+<li><strong>Creality CFS 2</strong> – adds active drying at up to 85 °C; the original CFS only keeps spools sealed with desiccant.</li>
+</ul>
+<p>The original AMS and the open AMS lite do not heat. Bambu Lab says to keep desiccant in the AMS and replace it when it clumps or turns to paste.</p>
+<h2>Method 3: how to dry filament in an oven</h2>
+<p>Bambu Lab recommends a <strong>forced-air (blast) drying oven</strong> as the best option. Keep the spool away from the heating elements, and make sure the oven is big enough: Bambu Lab says one reusable spool needs at least 25 × 25 × 9 cm of inner space.</p>
+<p>A <strong>kitchen oven</strong> is a different story. Bambu Lab advises against it, because kitchen ovens have large temperature differences and hot spots near the elements that can deform spools and filament. Prusa lists a conventional oven as an option but warns that home ovens are imprecise, often cannot go low enough for PLA, and need an external thermometer. If you try it:</p>
+<ol>
+<li>Put a separate oven thermometer next to the spool and preheat until the reading is stable.</li>
+<li>Use the lowest setting that matches the table, with the fan (convection) on if you have one.</li>
+<li>Place the spool in the middle, away from top and bottom elements.</li>
+<li>Check the temperature during the first hour; take the spool out if it climbs above the target.</li>
+<li>Never leave it unattended.</li>
+</ol>
+<p>Never use a <strong>microwave</strong>. Bambu Lab says it heats unevenly and has no temperature control.</p>
+<h2>How to dry filament without a dryer</h2>
+<p><strong>Heated bed.</strong> Bambu Lab documents this for the X1, X1 Carbon and P1S:</p>
+<ol>
+<li>Put the spool flat on the bed and cover it with the filament&#39;s cardboard box or a plastic storage box.</li>
+<li>Close the front door and top glass to keep the heat in.</li>
+<li>Set the bed to the value in the table above for about 12 hours.</li>
+<li>Turn the spool over every few hours (Bambu Lab says every 6 hours for PLA) so both sides dry.</li>
+</ol>
+<p>On an open-frame printer the same idea works less well, because heat escapes; a box over the spool is essential.</p>
+<p><strong>Food dehydrator.</strong> Prusa mentions modified food dehydrators. Many only reach temperatures suitable for PLA, PETG or TPU, so check the maximum before buying one for nylon or PC.</p>
+<h2>How to dry PLA filament</h2>
+<p><strong>Does PLA need to be dried?</strong> Not always. A freshly opened, sealed spool usually prints fine, and Bambu Lab lists drying PLA as recommended rather than required. Dry it if it pops, strings more than usual or snaps when bent.</p>
+<p><strong>What temperature and how long?</strong> Prusa uses 45 °C for 6 hours; Bambu Lab gives 50–60 °C for 8 hours in a dryer or oven. Stay at the low end: Polymaker gives PLA&#39;s glass transition as about 60 °C, and too much heat fuses the coils. This is why a kitchen oven is risky for PLA.</p>
+<h2>How to dry PETG filament</h2>
+<p><strong>Does PETG need to be dried?</strong> Bambu Lab recommends it before use, and PETG that has been open for some time is a common cause of heavy stringing. Bambu Lab&#39;s PETG HF guide explains that absorbed water turns to steam in the nozzle and causes stringing, oozing, holes and weaker parts.</p>
+<p><strong>How long to dry PETG?</strong> Prusa dries its PETG at 55 °C for 6 hours; Bambu Lab gives 60–70 °C for 8 hours (65 °C for 8 hours for PETG HF). More about the material in our <a href="/blog/petg-filament/">PETG filament guide</a>.</p>
+<h2>How to dry TPU filament</h2>
+<p>TPU is one of the materials both makers flag. Bambu Lab lists drying as required before use and desiccant as required during printing; its table gives 65–75 °C for 8 hours, while Prusa uses 60 °C for 4–6 hours. Because TPU picks up water quickly, printing straight from a dryer or a sealed box helps on long prints. Our <a href="/blog/tpu-filament/">TPU filament guide</a> covers printing settings.</p>
+<h2>How to keep filament dry</h2>
+<p>Drying is wasted if the spool goes back on an open shelf. Bambu Lab&#39;s wiki gives useful numbers:</p>
+<ul>
+<li>Indoor air is typically 45–65 % relative humidity; most filaments need <strong>below 20 %</strong> to stay dry long term.</li>
+<li>At about 55 % humidity, freshly dried filament can start absorbing moisture and losing print quality within roughly <strong>2–12 hours</strong>.</li>
+<li>At 20 % humidity, filament may stay dry for about <strong>2–7 days</strong>.</li>
+</ul>
+<p>So store spools in sealed boxes or vacuum bags with fresh desiccant, put a hygrometer in the box, and replace or regenerate desiccant when it changes colour. Two more maker notes: Bambu Lab warns that repeated drying and cooling makes <strong>PC brittle</strong>, so seal it after every dry; and nylon left in open air for months can absorb so much water that a normal oven cycle may not fully dry it.</p>
+<h2>Step-by-step: drying a wet spool</h2>
+<ol>
+<li>Confirm the signs: popping, steam, heavy stringing, rough walls or brittle filament.</li>
+<li>Find the drying temperature and time on the spool label or the maker&#39;s guide.</li>
+<li>Check the spool&#39;s temperature limit; put refills on a heat-safe spool.</li>
+<li>Choose a method: dryer, drying unit, forced-air oven, or heated bed under a box.</li>
+<li>Dry for the full time, turning the spool if it sits on a heated bed.</li>
+<li>Print from the dryer, or seal the spool with desiccant straight away.</li>
+<li>Note the drying date on the spool.</li>
+</ol>
+<h2>Verdict</h2>
+<p>The best way to dry filament is a dedicated dryer or a printer drying unit, at the temperature on the spool label. Without one, the heated-bed method is the safest workaround on an enclosed printer, and an oven only works if you check its real temperature. Keep PLA cool, give PETG and TPU a little more heat, and store everything sealed afterwards.</p>
+26:["$","div",null,{"className":"split","children":[["$","article",null,{"className":"prose","children":[["$","h1",null,{"children":"How to dry filament – methods, temperatures and times for PLA, PETG and TPU"}],["$","figure",null,{"className":"doc-hero","children":["$","img",null,{"src":"/images/blog/how-to-dry-filament.webp","alt":"Illustration of a filament spool drying on a heated bed under a clear box inside an enclosed printer, with a hygrometer and desiccant sachet","width":1200,"height":675,"fetchPriority":"high","decoding":"async"}]}],["$","p",null,{"className":"muted small","children":["Updated ","November 26, 2026"]}],["$","div",null,{"className":"summary-box","children":[["$","b",null,{"children":"Key points"}],["$","ul",null,{"children":[["$","li","To dry filament, heat the spool below the plastic's softening point for several hours with airflow – about 45–60 °C for PLA and 55–70 °C for PETG in maker guides.",{"children":"To dry filament, heat the spool below the plastic's softening point for several hours with airflow – about 45–60 °C for PLA and 55–70 °C for PETG in maker guides."}],["$","li","A filament dryer or forced-air oven gives the steadiest heat; Bambu Lab advises against microwaves and kitchen ovens, while Prusa says a home oven needs an external thermometer.",{"children":"A filament dryer or forced-air oven gives the steadiest heat; Bambu Lab advises against microwaves and kitchen ovens, while Prusa says a home oven needs an external thermometer."}],["$","li","Bambu Lab's wiki says freshly dried filament in room air at about 55 % humidity can start absorbing water again within roughly 2–12 hours, so store it sealed.",{"children":"Bambu Lab's wiki says freshly dried filament in room air at about 55 % humidity can start absorbing water again within roughly 2–12 hours, so store it sealed."}]]}]]}],null,["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$28"}}]]}],"$L29"]}]
+27:["$","section",null,{"className":"section faq","aria-labelledby":"faq-h","children":[["$","h2",null,{"id":"faq-h","children":"Questions and answers"}],["$","div",null,{"className":"faq-list","children":[["$","details","How do you dry filament without a dryer?",{"children":[["$","summary",null,{"children":"How do you dry filament without a dryer?"}],["$","p",null,{"children":"Bambu Lab documents drying on the heated bed of an enclosed printer, with the spool under its cardboard package box or a plastic storage box, doors closed and the spool turned every few hours. A forced-air oven or a food dehydrator that fits a spool also works if you check the temperature with a separate thermometer."}]]}],["$","details","Does PETG need to be dried?",{"children":[["$","summary",null,{"children":"Does PETG need to be dried?"}],["$","p",null,{"children":"Bambu Lab recommends drying PETG before use. Heavy stringing, popping or rough walls on a spool that used to print well are the usual signs that it needs it."}]]}],["$","details","What temperature do you dry PLA at?",{"children":[["$","summary",null,{"children":"What temperature do you dry PLA at?"}],["$","p",null,{"children":"Prusa dries its PLA at 45 °C for 6 hours, and Bambu Lab gives 50–60 °C for 8 hours in a dryer or oven. Stay at or below the spool label's value, because PLA softens not far above that."}]]}],["$","details","How long does it take to dry filament?",{"children":[["$","summary",null,{"children":"How long does it take to dry filament?"}],["$","p",null,{"children":"Usually 4–8 hours in a dryer or oven, depending on material and maker; heavily soaked nylon or PVA can need up to 12. Bambu Lab's heated-bed method takes about 12 hours."}]]}]]}]]}]
+29:["$","aside",null,{"className":"aside","children":[["$","div",null,{"className":"facts","children":[["$","b",null,{"children":"Tools for this"}],["$","div",null,{"className":"tool-grid","style":{"marginTop":10,"gridTemplateColumns":"1fr"},"children":[["$","$L4","stl-viewer",{"className":"tool-link","href":"/stl-viewer/","children":"STL viewer"}],["$","$L4","3d-viewer",{"className":"tool-link","href":"/3d-viewer/","children":"Online 3D model viewer"}]]}]]}],["$","div",null,{"className":"facts","children":[["$","b",null,{"children":"Open or convert a model"}],["$","p",null,{"className":"small","style":{"margin":"6px 0 10px"},"children":"View STL, 3MF, STEP and more in your browser."}],["$","$L4",null,{"className":"btn btn-accent","href":"/3d-viewer/","children":"3D viewer"}]]}]]}]
+20:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#10151C"}]]
+1c:null
+2a:I[622,[],"IconMark"]
+1e:{"metadata":[["$","title","0",{"children":"How to Dry Filament – Temperatures and Times by Material | my3dprinter.io"}],["$","meta","1",{"name":"description","content":"How to dry filament in a dryer, AMS, oven or on the heated bed, with drying temperatures and times for PLA, PETG, TPU, ASA, PC and nylon from maker guides."}],["$","meta","2",{"name":"application-name","content":"my3dprinter.io"}],["$","link","3",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","4",{"name":"robots","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","5",{"rel":"canonical","href":"https://my3dprinter.io/blog/how-to-dry-filament/"}],["$","meta","6",{"name":"format-detection","content":"telephone=no"}],["$","meta","7",{"property":"og:title","content":"How to Dry Filament – Temperatures and Times by Material | my3dprinter.io"}],["$","meta","8",{"property":"og:description","content":"How to dry filament in a dryer, AMS, oven or on the heated bed, with drying temperatures and times for PLA, PETG, TPU, ASA, PC and nylon from maker guides."}],["$","meta","9",{"property":"og:url","content":"https://my3dprinter.io/blog/how-to-dry-filament/"}],["$","meta","10",{"property":"og:site_name","content":"my3dprinter.io"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:image","content":"https://my3dprinter.io/images/blog/how-to-dry-filament.webp"}],["$","meta","13",{"property":"og:image:width","content":"1200"}],["$","meta","14",{"property":"og:image:height","content":"675"}],["$","meta","15",{"property":"og:image:alt","content":"How to Dry Filament – Temperatures and Times by Material"}],["$","meta","16",{"property":"og:type","content":"article"}],["$","meta","17",{"property":"article:published_time","content":"2026-11-26"}],["$","meta","18",{"property":"article:modified_time","content":"2026-11-26"}],["$","meta","19",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","20",{"name":"twitter:title","content":"How to Dry Filament – Temperatures and Times by Material | my3dprinter.io"}],["$","meta","21",{"name":"twitter:description","content":"How to dry filament in a dryer, AMS, oven or on the heated bed, with drying temperatures and times for PLA, PETG, TPU, ASA, PC and nylon from maker guides."}],["$","meta","22",{"name":"twitter:image","content":"https://my3dprinter.io/images/blog/how-to-dry-filament.webp"}],["$","link","23",{"rel":"icon","href":"/favicon.ico","sizes":"48x48"}],["$","link","24",{"rel":"icon","href":"/icon.svg","type":"image/svg+xml"}],["$","link","25",{"rel":"icon","href":"/icon-192.png","sizes":"192x192","type":"image/png"}],["$","link","26",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","sizes":"180x180"}],["$","$L2a","27",{}]],"error":null,"digest":"$undefined"}
+23:"$1e:metadata"

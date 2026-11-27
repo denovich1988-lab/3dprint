@@ -1,0 +1,253 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+4:I[2619,["2619","static/chunks/2619-3c9e02e22d10480a.js","4966","static/chunks/app/(en)/blog/%5Bslug%5D/page-6f60855278aa4f75.js"],""]
+5:I[1538,["2619","static/chunks/2619-3c9e02e22d10480a.js","90","static/chunks/app/(en)/layout-1d0e45a00e968cb3.js"],"default"]
+6:I[909,["2619","static/chunks/2619-3c9e02e22d10480a.js","90","static/chunks/app/(en)/layout-1d0e45a00e968cb3.js"],"default"]
+16:I[7150,[],""]
+:HL["/_next/static/css/93d1a12f2f4c9226.css","style"]
+0:{"P":null,"b":"rD7TGm9XF6FHQRkd5YG22","p":"","c":["","blog","3d-printed-chicken",""],"i":false,"f":[[["",{"children":["(en)",{"children":["blog",{"children":[["slug","3d-printed-chicken","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/93d1a12f2f4c9226.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","script",null,{"async":true,"src":"https://www.googletagmanager.com/gtm.js?id=GTM-T7SN8RQX"}],["$","script",null,{"async":true,"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3226858004021254","crossOrigin":"anonymous"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());"}}]]}],["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"wrap header-in","children":[["$","$L4",null,{"href":"/","className":"brand","aria-label":"my3dprinter.io home","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","nav",null,{"aria-label":"Main","className":"nav","children":[["$","$L4","/converters/",{"href":"/converters/","children":"Converters"}],["$","$L4","/3d-viewer/",{"href":"/3d-viewer/","children":"3D viewer"}],["$","$L4","/image-to-stl/",{"href":"/image-to-stl/","children":"Image to STL"}],["$","$L4","/printers/",{"href":"/printers/","children":"Printers"}],["$","$L4","/blog/",{"href":"/blog/","children":"Blog"}]]}],["$","div",null,{"className":"header-actions","children":[["$","$L5",null,{"lang":"en","langs":[{"code":"en","name":"English"},{"code":"de","name":"Deutsch"},{"code":"es","name":"Español"},{"code":"fr","name":"Français"},{"code":"it","name":"Italiano"},{"code":"ja","name":"日本語"},{"code":"ko","name":"한국어"},{"code":"pt","name":"Português"},{"code":"vi","name":"Tiếng Việt"},{"code":"th","name":"ไทย"},{"code":"zh","name":"简体中文"},{"code":"ru","name":"Русский"}],"localized":["/","/converters/","/3mf-to-stl/","/glb-to-stl/","/stl-to-3mf/","/step-to-stl/","/glb-to-obj/","/obj-to-stl/","/stl-to-obj/","/fbx-to-obj/","/gcode-to-stl/","/fbx-to-stl/","/zip-to-stl/","/stp-to-stl/","/dae-to-obj/","/gltf-to-obj/","/stl-to-dxf/","/obj-to-glb/","/gltf-to-stl/","/fbx-to-glb/","/ply-to-stl/","/3mf-to-obj/","/dae-to-stl/","/usdz-to-stl/","/ply-to-obj/","/stp-to-obj/","/3ds-to-obj/","/igs-to-stl/","/stl-to-glb/","/obj-to-3mf/","/glb-to-3mf/","/stl-to-usdz/","/glb-to-usdz/","/step-to-obj/","/step-to-3mf/","/stl-to-ply/","/fbx-to-gltf/","/image-to-stl/","/png-to-stl/","/jpg-to-stl/","/jpeg-to-stl/","/lithophane-maker/","/png-to-obj/","/png-to-3mf/","/svg-to-stl/","/svg-to-obj/","/png-to-dds/","/jpg-to-dds/","/dds-to-png/","/dds-to-jpg/","/3d-viewer/","/stl-viewer/","/3mf-viewer/","/obj-viewer/","/glb-viewer/","/step-viewer/","/ply-viewer/","/fbx-viewer/","/gltf-viewer/"],"label":"Language"}],["$","$L6",null,{"links":[["/converters/","Converters"],["/3d-viewer/","3D viewer"],["/image-to-stl/","Image to STL"],["/printers/","Printers"],["/blog/","Blog"],["/printers/compare/","Compare printers"]],"label":"Menu"}]]}]]}]}],["$","main",null,{"id":"main","className":"wrap","style":{"padding":"64px 24px"},"children":[["$","h1",null,{"children":"Page not found"}],["$","p",null,{"className":"lead","children":"This page does not exist. Try a converter or the 3D viewer."}],["$","p",null,{"children":["$","$L4",null,{"className":"btn btn-accent","href":"/converters/","children":"All converters"}]}]]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"wrap footer-grid","children":[["$","div",null,{"className":"footer-brand","children":[["$","$L4",null,{"href":"/","className":"brand","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":["$L7","$L8"]}]," ","$L9"]}],"$La"]}],["$Lb","$Lc","$Ld","$Le","$Lf"]]}],"$L10"]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["(en)","$L11",{"children":["blog","$L12",{"children":[["slug","3d-printed-chicken","d"],"$L13",{"children":["__PAGE__","$L14",{},null,false]},null,false]},null,false]},null,false]},null,false],"$L15",false]],"m":"$undefined","G":["$16",[]],"s":false,"S":true}
+1b:I[4431,[],"OutletBoundary"]
+1d:I[5278,[],"AsyncMetadataOutlet"]
+1f:I[4431,[],"ViewportBoundary"]
+21:I[4431,[],"MetadataBoundary"]
+22:"$Sreact.suspense"
+7:["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}]
+8:["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]
+9:["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]
+a:["$","p",null,{"children":"Free tools that run in your browser. Your files are never uploaded."}]
+b:["$","div","Converters",{"children":[["$","h2",null,{"children":"Converters"}],["$","ul",null,{"children":[["$","li","/3mf-to-stl/",{"children":["$","$L4",null,{"href":"/3mf-to-stl/","children":"3MF → STL"}]}],["$","li","/step-to-stl/",{"children":["$","$L4",null,{"href":"/step-to-stl/","children":"STEP → STL"}]}],["$","li","/glb-to-stl/",{"children":["$","$L4",null,{"href":"/glb-to-stl/","children":"GLB → STL"}]}],["$","li","/obj-to-stl/",{"children":["$","$L4",null,{"href":"/obj-to-stl/","children":"OBJ → STL"}]}],["$","li","/stl-to-3mf/",{"children":["$","$L4",null,{"href":"/stl-to-3mf/","children":"STL → 3MF"}]}],["$","li","/converters/",{"children":["$","$L4",null,{"href":"/converters/","children":"All converters"}]}]]}]]}]
+c:["$","div","Images & textures",{"children":[["$","h2",null,{"children":"Images & textures"}],["$","ul",null,{"children":[["$","li","/image-to-stl/",{"children":["$","$L4",null,{"href":"/image-to-stl/","children":"Image to STL"}]}],["$","li","/lithophane-maker/",{"children":["$","$L4",null,{"href":"/lithophane-maker/","children":"Lithophane maker"}]}],["$","li","/svg-to-stl/",{"children":["$","$L4",null,{"href":"/svg-to-stl/","children":"SVG → STL"}]}],["$","li","/png-to-dds/",{"children":["$","$L4",null,{"href":"/png-to-dds/","children":"PNG → DDS"}]}],["$","li","/dds-to-png/",{"children":["$","$L4",null,{"href":"/dds-to-png/","children":"DDS → PNG"}]}]]}]]}]
+d:["$","div","Viewers",{"children":[["$","h2",null,{"children":"Viewers"}],["$","ul",null,{"children":[["$","li","/3d-viewer/",{"children":["$","$L4",null,{"href":"/3d-viewer/","children":"Online 3D model viewer"}]}],["$","li","/stl-viewer/",{"children":["$","$L4",null,{"href":"/stl-viewer/","children":"STL viewer"}]}],["$","li","/3mf-viewer/",{"children":["$","$L4",null,{"href":"/3mf-viewer/","children":"3MF viewer"}]}],["$","li","/step-viewer/",{"children":["$","$L4",null,{"href":"/step-viewer/","children":"STEP viewer"}]}],["$","li","/obj-viewer/",{"children":["$","$L4",null,{"href":"/obj-viewer/","children":"OBJ viewer"}]}]]}]]}]
+e:["$","div","my3dprinter.io",{"children":[["$","h2",null,{"children":"my3dprinter.io"}],["$","ul",null,{"children":[["$","li","/printers/",{"children":["$","$L4",null,{"href":"/printers/","children":"3D printers"}]}],["$","li","/printers/compare/",{"children":["$","$L4",null,{"href":"/printers/compare/","children":"Compare printers"}]}],["$","li","/blog/",{"children":["$","$L4",null,{"href":"/blog/","children":"Blog"}]}],["$","li","/formats/",{"children":["$","$L4",null,{"href":"/formats/","children":"File formats"}]}],["$","li","/about/",{"children":["$","$L4",null,{"href":"/about/","children":"About"}]}],["$","li","/contact/",{"children":["$","$L4",null,{"href":"/contact/","children":"Contact"}]}]]}]]}]
+f:["$","div","Legal",{"children":[["$","h2",null,{"children":"Legal"}],["$","ul",null,{"children":[["$","li","/privacy/",{"children":["$","$L4",null,{"href":"/privacy/","children":"Privacy policy"}]}],["$","li","/cookies/",{"children":["$","$L4",null,{"href":"/cookies/","children":"Cookie policy"}]}],["$","li","/terms/",{"children":["$","$L4",null,{"href":"/terms/","children":"Terms of use"}]}],["$","li","/disclaimer/",{"children":["$","$L4",null,{"href":"/disclaimer/","children":"Disclaimer"}]}]]}]]}]
+10:["$","div",null,{"className":"wrap footer-base","children":["$","p",null,{"children":["© ",2026," my3dprinter.io. ","Brand and product names belong to their owners; my3dprinter.io is an independent site and is not affiliated with any printer maker."]}]}]
+11:["$","$1","c",{"children":[null,[["$","a",null,{"className":"skip","href":"#main","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"wrap header-in","children":[["$","$L4",null,{"href":"/","className":"brand","aria-label":"my3dprinter.io home","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","nav",null,{"aria-label":"Main","className":"nav","children":[["$","$L4","/converters/",{"href":"/converters/","children":"Converters"}],["$","$L4","/3d-viewer/",{"href":"/3d-viewer/","children":"3D viewer"}],["$","$L4","/image-to-stl/",{"href":"/image-to-stl/","children":"Image to STL"}],["$","$L4","/printers/",{"href":"/printers/","children":"Printers"}],["$","$L4","/blog/",{"href":"/blog/","children":"Blog"}]]}],["$","div",null,{"className":"header-actions","children":[["$","$L5",null,{"lang":"en","langs":[{"code":"en","name":"English"},{"code":"de","name":"Deutsch"},{"code":"es","name":"Español"},{"code":"fr","name":"Français"},{"code":"it","name":"Italiano"},{"code":"ja","name":"日本語"},{"code":"ko","name":"한국어"},{"code":"pt","name":"Português"},{"code":"vi","name":"Tiếng Việt"},{"code":"th","name":"ไทย"},{"code":"zh","name":"简体中文"},{"code":"ru","name":"Русский"}],"localized":"$0:f:0:1:1:props:children:1:props:children:1:props:children:props:notFound:0:0:props:children:props:children:2:props:children:0:props:localized","label":"Language"}],["$","$L6",null,{"links":[["/converters/","Converters"],["/3d-viewer/","3D viewer"],["/image-to-stl/","Image to STL"],["/printers/","Printers"],["/blog/","Blog"],["/printers/compare/","Compare printers"]],"label":"Menu"}]]}]]}]}],["$","main",null,{"id":"main","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"wrap footer-grid","children":[["$","div",null,{"className":"footer-brand","children":[["$","$L4",null,{"href":"/","className":"brand","children":[["$","svg",null,{"width":28,"height":28,"viewBox":"0 0 32 32","aria-hidden":"true","children":[["$","path",null,{"d":"M16 3 28 10v12L16 29 4 22V10Z","fill":"none","stroke":"currentColor","strokeWidth":"2.4","strokeLinejoin":"round"}],["$","path",null,{"d":"M4 10l12 7 12-7M16 17v12","fill":"none","stroke":"#E8590C","strokeWidth":"2.4","strokeLinejoin":"round"}]]}]," ",["$","span",null,{"children":["my3dprinter",["$","span",null,{"className":"brand-tld","children":".io"}]]}]]}],["$","p",null,{"children":"Free tools that run in your browser. Your files are never uploaded."}]]}],[["$","div","Converters",{"children":[["$","h2",null,{"children":"Converters"}],["$","ul",null,{"children":[["$","li","/3mf-to-stl/",{"children":["$","$L4",null,{"href":"/3mf-to-stl/","children":"3MF → STL"}]}],["$","li","/step-to-stl/",{"children":["$","$L4",null,{"href":"/step-to-stl/","children":"STEP → STL"}]}],["$","li","/glb-to-stl/",{"children":["$","$L4",null,{"href":"/glb-to-stl/","children":"GLB → STL"}]}],["$","li","/obj-to-stl/",{"children":["$","$L4",null,{"href":"/obj-to-stl/","children":"OBJ → STL"}]}],["$","li","/stl-to-3mf/",{"children":["$","$L4",null,{"href":"/stl-to-3mf/","children":"STL → 3MF"}]}],["$","li","/converters/",{"children":["$","$L4",null,{"href":"/converters/","children":"All converters"}]}]]}]]}],["$","div","Images & textures",{"children":[["$","h2",null,{"children":"Images & textures"}],["$","ul",null,{"children":[["$","li","/image-to-stl/",{"children":["$","$L4",null,{"href":"/image-to-stl/","children":"Image to STL"}]}],["$","li","/lithophane-maker/",{"children":["$","$L4",null,{"href":"/lithophane-maker/","children":"Lithophane maker"}]}],["$","li","/svg-to-stl/",{"children":["$","$L4",null,{"href":"/svg-to-stl/","children":"SVG → STL"}]}],["$","li","/png-to-dds/",{"children":["$","$L4",null,{"href":"/png-to-dds/","children":"PNG → DDS"}]}],["$","li","/dds-to-png/",{"children":["$","$L4",null,{"href":"/dds-to-png/","children":"DDS → PNG"}]}]]}]]}],["$","div","Viewers",{"children":[["$","h2",null,{"children":"Viewers"}],["$","ul",null,{"children":[["$","li","/3d-viewer/",{"children":["$","$L4",null,{"href":"/3d-viewer/","children":"Online 3D model viewer"}]}],["$","li","/stl-viewer/",{"children":["$","$L4",null,{"href":"/stl-viewer/","children":"STL viewer"}]}],["$","li","/3mf-viewer/",{"children":["$","$L4",null,{"href":"/3mf-viewer/","children":"3MF viewer"}]}],["$","li","/step-viewer/",{"children":["$","$L4",null,{"href":"/step-viewer/","children":"STEP viewer"}]}],["$","li","/obj-viewer/",{"children":["$","$L4",null,{"href":"/obj-viewer/","children":"OBJ viewer"}]}]]}]]}],"$L17","$L18"]]}],"$L19"]}]]]}]
+12:["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+13:["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+14:["$","$1","c",{"children":["$L1a",null,["$","$L1b",null,{"children":["$L1c",["$","$L1d",null,{"promise":"$@1e"}]]}]]}]
+15:["$","$1","h",{"children":[null,[["$","$L1f",null,{"children":"$L20"}],null],["$","$L21",null,{"children":["$","div",null,{"hidden":true,"children":["$","$22",null,{"fallback":null,"children":"$L23"}]}]}]]}]
+17:["$","div","my3dprinter.io",{"children":[["$","h2",null,{"children":"my3dprinter.io"}],["$","ul",null,{"children":[["$","li","/printers/",{"children":["$","$L4",null,{"href":"/printers/","children":"3D printers"}]}],["$","li","/printers/compare/",{"children":["$","$L4",null,{"href":"/printers/compare/","children":"Compare printers"}]}],["$","li","/blog/",{"children":["$","$L4",null,{"href":"/blog/","children":"Blog"}]}],["$","li","/formats/",{"children":["$","$L4",null,{"href":"/formats/","children":"File formats"}]}],["$","li","/about/",{"children":["$","$L4",null,{"href":"/about/","children":"About"}]}],["$","li","/contact/",{"children":["$","$L4",null,{"href":"/contact/","children":"Contact"}]}]]}]]}]
+18:["$","div","Legal",{"children":[["$","h2",null,{"children":"Legal"}],["$","ul",null,{"children":[["$","li","/privacy/",{"children":["$","$L4",null,{"href":"/privacy/","children":"Privacy policy"}]}],["$","li","/cookies/",{"children":["$","$L4",null,{"href":"/cookies/","children":"Cookie policy"}]}],["$","li","/terms/",{"children":["$","$L4",null,{"href":"/terms/","children":"Terms of use"}]}],["$","li","/disclaimer/",{"children":["$","$L4",null,{"href":"/disclaimer/","children":"Disclaimer"}]}]]}]]}]
+19:["$","div",null,{"className":"wrap footer-base","children":["$","p",null,{"children":["© ",2026," my3dprinter.io. ","Brand and product names belong to their owners; my3dprinter.io is an independent site and is not affiliated with any printer maker."]}]}]
+24:Td11,{"@context":"https://schema.org","@graph":[{"@type":"Article","headline":"3D printed chicken – flexi chickens, figurines, egg holders and coop parts","description":"3D printed chicken ideas – flexi chickens, figurines, egg holders, planters and coop feeders – with settings, supports, chicken-safe filament and painting tips.","datePublished":"2026-11-26","dateModified":"2026-11-26","mainEntityOfPage":"https://my3dprinter.io/blog/3d-printed-chicken/","inLanguage":"en","author":{"@type":"Organization","name":"my3dprinter.io","url":"https://my3dprinter.io"},"publisher":{"@type":"Organization","@id":"https://my3dprinter.io/#organization","name":"my3dprinter.io","url":"https://my3dprinter.io/","logo":{"@type":"ImageObject","url":"https://my3dprinter.io/icon-512.png","width":512,"height":512},"email":"hello@my3dprinter.io","description":"Free 3D file converters, viewers and 3D printer guides"},"image":"https://my3dprinter.io/images/blog/3d-printed-chicken.webp","citation":["https://wiki.bambulab.com/en/software/bambu-studio/support","https://help.prusa3d.com/article/color-change_1687","https://all3dp.com/2/beginner-s-guide-to-painting-3d-prints-pla-abs/","https://www.backyardchickens.com/articles/3d-printing-for-chickens-feeders-and-other-accessories.79702/?full=1","https://blog.prusa3d.com/upgrade-your-farmstead-with-3d-printing_73725/","https://www.printables.com/tag/chickens","https://www.thecampbellscompany.com/newsroom/news/campbells-soups-the-facts-about-our-chicken/","https://3dprint.com/322438/campbells-exec-fired-after-3d-printed-chicken-claim-but-whats-really-going-on/"]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://my3dprinter.io/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://my3dprinter.io/blog/"},{"@type":"ListItem","position":3,"name":"3D printed chicken – flexi chickens, figurines, egg holders and coop parts","item":"https://my3dprinter.io/blog/3d-printed-chicken/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is a 3D printed chicken?","acceptedAnswer":{"@type":"Answer","text":"On a home 3D printer, a 3D printed chicken is a plastic model or part shaped like or made for chickens – an articulated flexi chicken, a figurine, an egg holder, a planter or a coop accessory such as a feeder. It has nothing to do with printed meat."}},{"@type":"Question","name":"Is 3D printed chicken meat real?","acceptedAnswer":{"@type":"Answer","text":"Food 3D printing exists on specialised machines, but it is a separate field from hobby 3D printing. Campbell's has stated that it does not use 3D printed chicken in its soups. Home plastic 3D printers cannot print food."}},{"@type":"Question","name":"What filament is best for 3D printed chicken feeders?","acceptedAnswer":{"@type":"Answer","text":"Plain PLA or PETG without additives such as wood, glitter, glow or silk. PETG lasts longer outdoors and in sun. Use thick walls, smooth any rough edges and keep parts out of the dishwasher."}},{"@type":"Question","name":"Do flexi chickens need supports?","acceptedAnswer":{"@type":"Answer","text":"No. Articulated chickens are designed to print in place with no supports. Print them at the designed scale with a layer height of about 0.2 mm or thinner so the gaps between the segments stay open."}}]}]}1a:["$","div",null,{"className":"wrap","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$24"}}],"$L25","$L26","$L27"]}]
+25:["$","nav",null,{"className":"crumbs","aria-label":"Breadcrumb","children":[["$","$L4",null,{"href":"/","children":"Home"}]," / ",["$","$L4",null,{"href":"/blog/","children":"Blog"}]," / ","3D printed chicken – flexi chickens, figurines, egg holders and coop parts"]}]
+28:T2dcf,<p><strong>A 3D printed chicken is a plastic model or part you print at home – an articulated flexi chicken, a hen or chick figurine, an egg holder, a planter or a practical coop accessory such as a feeder or grit holder.</strong> Chickens are a popular subject because they suit every level: a flexi chick is a quick, support-free first print, a detailed rooster figurine tests supports and fine layers, and backyard keepers print feeders and coop fittings that solve real problems. This guide covers each type, the settings and supports it needs, which filament is safe around birds, where to find models and how to paint them. Settings and safety advice were checked in November 2026 against the Bambu Lab Wiki, the Prusa Knowledge Base and the BackYard Chickens community.</p>
+<p>If you were searching about <strong>3D printed chicken meat</strong>, there is a short section on that further down – but home plastic printers cannot print food.</p>
+<h2>3D printed chicken at a glance</h2>
+<table>
+<thead>
+<tr>
+<th>Type</th>
+<th>What it is</th>
+<th>Supports</th>
+<th>Typical layer height</th>
+<th>Best filament</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Articulated (flexi) chicken or chick</td>
+<td>Linked segments printed in one piece</td>
+<td>None</td>
+<td>0.15–0.2 mm</td>
+<td>PLA, silk PLA</td>
+</tr>
+<tr>
+<td>Low-poly chicken</td>
+<td>Faceted sculpture with flat faces</td>
+<td>Rarely</td>
+<td>0.2 mm</td>
+<td>Silk or matte PLA</td>
+</tr>
+<tr>
+<td>Realistic hen or rooster figurine</td>
+<td>Detailed bird with feathers, comb and feet</td>
+<td>Often (tree)</td>
+<td>0.08–0.16 mm</td>
+<td>Matte PLA</td>
+</tr>
+<tr>
+<td>Egg holder or egg cup</td>
+<td>Chicken-shaped stand or tray for eggs</td>
+<td>Sometimes</td>
+<td>0.2 mm</td>
+<td>PLA or PETG</td>
+</tr>
+<tr>
+<td>Chicken planter or pen pot</td>
+<td>Hollow bird-shaped pot</td>
+<td>Sometimes</td>
+<td>0.2 mm</td>
+<td>PLA indoors, PETG outdoors</td>
+</tr>
+<tr>
+<td>Coop parts</td>
+<td>Feeders, grit holders, chick waterers, door parts</td>
+<td>Depends on design</td>
+<td>0.2–0.28 mm</td>
+<td>Plain PETG or PLA</td>
+</tr>
+</tbody></table>
+<h2>Articulated and flexi 3D printed chickens</h2>
+<p>Flexi chickens and chicks are print-in-place models whose segments are separated by small gaps, so the body, neck and tail move as soon as you take them off the plate. They make good desk toys and gifts and are one of the easiest chicken prints.</p>
+<ul>
+<li>Turn supports off; the model is designed to print without them.</li>
+<li>Use a layer height of 0.2 mm or thinner and print at the designed scale, because shrinking the model also shrinks the joint gaps.</li>
+<li>Turn on elephant foot compensation so the first layer does not fuse the bottom of the joints.</li>
+</ul>
+<p>Gradient or multicolour PLA gives a flexi chick a rainbow body with no extra work. For more on joint gaps and fused segments, see our <a href="/blog/3d-printed-animals/">3D printed animals</a> guide, and for other print-in-place playthings, our 3D printed toys article.</p>
+<h2>Chicken figurines and low-poly hens</h2>
+<p>Low-poly chickens are built from flat triangular faces and usually need no support, so they scale up or down freely. Silk PLA catches the light on each facet; matte PLA gives a clean, modern look. Three walls keep the flat faces crisp.</p>
+<p>Realistic hens and roosters need more care. Beaks, combs, wattles, tail feathers and thin legs create overhangs and tiny details.</p>
+<ul>
+<li><strong>Orientation:</strong> stand the bird on its feet or base so the face and comb point up or sideways, where support marks matter least.</li>
+<li><strong>Layer height:</strong> 0.08–0.12 mm brings out feather detail; 0.16 mm is a common compromise for larger figures.</li>
+<li><strong>Supports:</strong> the Bambu Lab Wiki recommends tree or hybrid supports for complex shapes with mostly small, curved overhangs, and advises a top Z distance of about 0.2 mm when supports use the same filament as the model, so they come off cleanly.</li>
+<li><strong>Thin legs:</strong> add a brim, or choose a design where the legs join a solid base.</li>
+</ul>
+<h2>Egg holders, egg cups and planters</h2>
+<p>Chicken-shaped egg cups, countertop egg trays and planters turn a chicken model into something useful. They usually print upright with few or no supports.</p>
+<ul>
+<li>Eggs in their shells are low-risk, but a printed part is not automatically food safe: layer lines trap dirt and are hard to clean. Read <a href="/blog/is-pla-food-safe/">is PLA food safe</a> before printing anything that touches food.</li>
+<li>For planters, use 3–4 walls and 4 or more bottom layers, add a drainage hole or use the print as a cover around a plastic nursery pot, and choose PETG for pots that sit outdoors.</li>
+</ul>
+<h2>3D printed chicken coop accessories</h2>
+<p>Backyard keepers print a range of practical parts. The BackYard Chickens community describes printed feed and grit holders that clip to wire mesh, feed scoops with lids, weather-resistant grit and oyster-shell bins with drainage holes, feeder ports sized for roosters with large combs, and a pass-through for an extension cord to run a heated waterer. Model libraries also list chick feeders and chick waterers. Prusa&#39;s farmstead article shows a semi-automatic coop door, where a pedal releases a latch when a hen steps on it and a counterweight opens the door.</p>
+<p>Printed parts in a run have to survive beaks, scratching and weather. Guidance from the BackYard Chickens article:</p>
+<ul>
+<li><strong>Walls:</strong> use thicker walls and extra wall loops or denser infill, because a chicken&#39;s pecking force is concentrated at the beak tip.</li>
+<li><strong>Edges:</strong> smooth any sharp edges or stray strings that could catch combs and wattles.</li>
+<li><strong>Fit:</strong> leave room for combs and avoid holes a hen can push her head too far into.</li>
+<li><strong>Stability:</strong> hang or anchor light feeders so birds jumping on them cannot tip them over.</li>
+<li><strong>Water:</strong> a printed container only holds water if it is printed very smoothly; check for leaks before use.</li>
+<li><strong>Cleaning:</strong> wipe or hand-wash with soap and a soft sponge, dry thoroughly, avoid soaking parts that are not 100 % infill, and keep PLA out of the dishwasher, where heat can warp it.</li>
+</ul>
+<h2>Chicken-safe filament</h2>
+<table>
+<thead>
+<tr>
+<th>Filament</th>
+<th>Indoors (figurines, egg cups)</th>
+<th>In the run (feeders, holders)</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Plain PLA</td>
+<td>Yes</td>
+<td>Yes, in shade</td>
+<td>Softens in heat and can fade in sun</td>
+</tr>
+<tr>
+<td>Plain PETG</td>
+<td>Yes</td>
+<td>Yes, best general choice</td>
+<td>Tougher and better outdoors; strings more</td>
+</tr>
+<tr>
+<td>ASA</td>
+<td>Possible</td>
+<td>Structural parts in full sun</td>
+<td>Needs an enclosure; not for feed or water contact</td>
+</tr>
+<tr>
+<td>Silk, wood, glitter, glow, PLA+</td>
+<td>Fine for decoration</td>
+<td>Avoid</td>
+<td>Additives are a reason to keep them away from birds</td>
+</tr>
+<tr>
+<td>Resin</td>
+<td>Figurines only</td>
+<td>Avoid</td>
+<td>Never for anything chickens touch</td>
+</tr>
+</tbody></table>
+<p>The BackYard Chickens article recommends plain PLA or PETG in clear or solid colours for anything birds touch and advises against filaments with additives and against resin. For brackets or door parts in full sun that do not touch feed or water, a UV-resistant material such as ASA lasts longer; see our <a href="/blog/petg-filament/">PETG filament</a> and ASA filament guides.</p>
+<h2>Settings by type</h2>
+<table>
+<thead>
+<tr>
+<th>Setting</th>
+<th>Flexi chicken</th>
+<th>Figurine</th>
+<th>Egg holder or planter</th>
+<th>Coop part</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Layer height</td>
+<td>0.15–0.2 mm</td>
+<td>0.08–0.16 mm</td>
+<td>0.2 mm</td>
+<td>0.2–0.28 mm</td>
+</tr>
+<tr>
+<td>Walls</td>
+<td>2–3</td>
+<td>3</td>
+<td>3–4</td>
+<td>4 or more</td>
+</tr>
+<tr>
+<td>Infill</td>
+<td>As designed</td>
+<td>10–15 %</td>
+<td>15–20 %</td>
+<td>25 % or more</td>
+</tr>
+<tr>
+<td>Supports</td>
+<td>Off</td>
+<td>Tree or hybrid</td>
+<td>As needed</td>
+<td>As designed</td>
+</tr>
+<tr>
+<td>Brim</td>
+<td>Rarely</td>
+<td>On thin legs</td>
+<td>Rarely</td>
+<td>On large flat parts</td>
+</tr>
+</tbody></table>
+<p>These are starting points; the designer&#39;s print notes always come first, and temperatures depend on the filament brand, so check the spool label.</p>
+<h2>Painting and colouring 3D printed chickens</h2>
+<p>For simple colour, add a filament change at chosen layers. The Prusa Knowledge Base explains that the printer pauses at the M600 command and asks you to swap filament – useful for a red comb on top of a white hen. A multi-material unit can colour the beak, comb and eyes automatically.</p>
+<p>For the most control, paint. All3DP&#39;s painting guide suggests this order for PLA:</p>
+<ol>
+<li>Trim support stubs with a craft knife or flush cutters.</li>
+<li>Sand lightly, starting around 120–220 grit, and go gently around the beak and comb.</li>
+<li>Prime with two light coats; paint does not grip bare PLA well.</li>
+<li>Paint with acrylics in thin coats – white, brown or black for feathers, red for the comb and wattles, yellow or orange for the beak and feet.</li>
+<li>Seal with a clear coat.</li>
+</ol>
+<p>Paint only decorative pieces, not parts that go into the run.</p>
+<h2>Is 3D printed chicken meat real?</h2>
+<p>Many recent searches for &quot;3D printed chicken&quot; follow viral videos about printed meat. In short:</p>
+<ul>
+<li><strong>Campbell&#39;s</strong> stated in its FAQ that it does not use 3D printed chicken, lab-grown chicken or any artificial or bioengineered meat in its soups, after a recording of a company executive spread online (reported by 3DPrint.com).</li>
+<li><strong>Food 3D printing does exist</strong> as a separate field, using specialised food printers rather than hobby machines.</li>
+<li><strong>Home printers cannot do this.</strong> Food printers are specialised machines; a home FDM printer melts plastic and is not suitable for food.</li>
+</ul>
+<h2>How to print your first 3D printed chicken</h2>
+<ol>
+<li>Choose a flexi chick or a low-poly hen marked &quot;no supports&quot;.</li>
+<li>Open the file in our <a href="/3d-viewer/">3D viewer</a> or STL viewer to check its size and that it is one closed model.</li>
+<li>Slice in PLA at 0.2 mm with supports off, or follow the designer&#39;s notes.</li>
+<li>Watch the first layer go down, then let the plate cool before removing the print.</li>
+<li>Flex the joints gently, starting at the tail.</li>
+<li>Next, try a figurine with tree supports and 0.12 mm layers, or a feeder in PETG.</li>
+</ol>
+<h2>Where to find chicken models</h2>
+<p>Printables has a dedicated chickens tag, and MakerWorld, Thingiverse and Cults all have chicken figurines, flexi chicks and coop parts. Useful search terms are &quot;flexi chicken&quot;, &quot;articulated chick&quot;, &quot;low poly hen&quot;, &quot;egg holder&quot;, &quot;chicken planter&quot;, &quot;chick feeder&quot; and &quot;grit feeder&quot;. Check each model&#39;s licence before selling prints. To turn a photo of your own flock into a backlit keepsake, our <a href="/lithophane-maker/">lithophane maker</a> builds a printable panel in your browser.</p>
+<h2>Verdict</h2>
+<p>3D printed chickens range from a quick, support-free flexi chick to useful coop parts. Start with a support-free flexi or low-poly chicken in PLA, move on to figurines with tree supports, and print anything for the run in plain PETG or PLA with thick walls and smooth edges. And if a video says your supermarket chicken came off a 3D printer – that is a different technology, and not something your home printer can do.</p>
+26:["$","div",null,{"className":"split","children":[["$","article",null,{"className":"prose","children":[["$","h1",null,{"children":"3D printed chicken – flexi chickens, figurines, egg holders and coop parts"}],["$","figure",null,{"className":"doc-hero","children":["$","img",null,{"src":"/images/blog/3d-printed-chicken.webp","alt":"Illustration of a yellow flexi chicken, a red low-poly hen and a hen-shaped egg holder with eggs on a sunny kitchen windowsill","width":1200,"height":675,"fetchPriority":"high","decoding":"async"}]}],["$","p",null,{"className":"muted small","children":["Updated ","November 26, 2026"]}],["$","div",null,{"className":"summary-box","children":[["$","b",null,{"children":"Key points"}],["$","ul",null,{"children":[["$","li","The main kinds of 3D printed chicken are articulated flexi chickens and chicks, figurines and low-poly hens, egg holders and planters, and practical coop parts such as feeders, grit holders and chick waterers.",{"children":"The main kinds of 3D printed chicken are articulated flexi chickens and chicks, figurines and low-poly hens, egg holders and planters, and practical coop parts such as feeders, grit holders and chick waterers."}],["$","li","Flexi and low-poly chickens usually print in PLA with no supports, while detailed figurines with beaks, combs and feet often need tree supports and thinner layers.",{"children":"Flexi and low-poly chickens usually print in PLA with no supports, while detailed figurines with beaks, combs and feet often need tree supports and thinner layers."}],["$","li","Parts that live in a chicken run should be printed in plain PLA or PETG with thick walls and smooth edges, and PETG copes better with sun and weather.",{"children":"Parts that live in a chicken run should be printed in plain PLA or PETG with thick walls and smooth edges, and PETG copes better with sun and weather."}]]}]]}],null,["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$28"}}]]}],"$L29"]}]
+27:["$","section",null,{"className":"section faq","aria-labelledby":"faq-h","children":[["$","h2",null,{"id":"faq-h","children":"Questions and answers"}],["$","div",null,{"className":"faq-list","children":[["$","details","What is a 3D printed chicken?",{"children":[["$","summary",null,{"children":"What is a 3D printed chicken?"}],["$","p",null,{"children":"On a home 3D printer, a 3D printed chicken is a plastic model or part shaped like or made for chickens – an articulated flexi chicken, a figurine, an egg holder, a planter or a coop accessory such as a feeder. It has nothing to do with printed meat."}]]}],["$","details","Is 3D printed chicken meat real?",{"children":[["$","summary",null,{"children":"Is 3D printed chicken meat real?"}],["$","p",null,{"children":"Food 3D printing exists on specialised machines, but it is a separate field from hobby 3D printing. Campbell's has stated that it does not use 3D printed chicken in its soups. Home plastic 3D printers cannot print food."}]]}],["$","details","What filament is best for 3D printed chicken feeders?",{"children":[["$","summary",null,{"children":"What filament is best for 3D printed chicken feeders?"}],["$","p",null,{"children":"Plain PLA or PETG without additives such as wood, glitter, glow or silk. PETG lasts longer outdoors and in sun. Use thick walls, smooth any rough edges and keep parts out of the dishwasher."}]]}],["$","details","Do flexi chickens need supports?",{"children":[["$","summary",null,{"children":"Do flexi chickens need supports?"}],["$","p",null,{"children":"No. Articulated chickens are designed to print in place with no supports. Print them at the designed scale with a layer height of about 0.2 mm or thinner so the gaps between the segments stay open."}]]}]]}]]}]
+29:["$","aside",null,{"className":"aside","children":[["$","div",null,{"className":"facts","children":[["$","b",null,{"children":"Tools for this"}],["$","div",null,{"className":"tool-grid","style":{"marginTop":10,"gridTemplateColumns":"1fr"},"children":[["$","$L4","3d-viewer",{"className":"tool-link","href":"/3d-viewer/","children":"Online 3D model viewer"}],["$","$L4","stl-viewer",{"className":"tool-link","href":"/stl-viewer/","children":"STL viewer"}],["$","$L4","lithophane-maker",{"className":"tool-link","href":"/lithophane-maker/","children":"Lithophane maker"}]]}]]}],["$","div",null,{"className":"facts","children":[["$","b",null,{"children":"Open or convert a model"}],["$","p",null,{"className":"small","style":{"margin":"6px 0 10px"},"children":"View STL, 3MF, STEP and more in your browser."}],["$","$L4",null,{"className":"btn btn-accent","href":"/3d-viewer/","children":"3D viewer"}]]}]]}]
+20:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#10151C"}]]
+1c:null
+2a:I[622,[],"IconMark"]
+1e:{"metadata":[["$","title","0",{"children":"3D Printed Chicken – Models, Coop Parts and Print Settings | my3dprinter.io"}],["$","meta","1",{"name":"description","content":"3D printed chicken ideas – flexi chickens, figurines, egg holders, planters and coop feeders – with settings, supports, chicken-safe filament and painting tips."}],["$","meta","2",{"name":"application-name","content":"my3dprinter.io"}],["$","link","3",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","4",{"name":"robots","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","5",{"rel":"canonical","href":"https://my3dprinter.io/blog/3d-printed-chicken/"}],["$","meta","6",{"name":"format-detection","content":"telephone=no"}],["$","meta","7",{"property":"og:title","content":"3D Printed Chicken – Models, Coop Parts and Print Settings | my3dprinter.io"}],["$","meta","8",{"property":"og:description","content":"3D printed chicken ideas – flexi chickens, figurines, egg holders, planters and coop feeders – with settings, supports, chicken-safe filament and painting tips."}],["$","meta","9",{"property":"og:url","content":"https://my3dprinter.io/blog/3d-printed-chicken/"}],["$","meta","10",{"property":"og:site_name","content":"my3dprinter.io"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:image","content":"https://my3dprinter.io/images/blog/3d-printed-chicken.webp"}],["$","meta","13",{"property":"og:image:width","content":"1200"}],["$","meta","14",{"property":"og:image:height","content":"675"}],["$","meta","15",{"property":"og:image:alt","content":"3D Printed Chicken – Models, Coop Parts and Print Settings"}],["$","meta","16",{"property":"og:type","content":"article"}],["$","meta","17",{"property":"article:published_time","content":"2026-11-26"}],["$","meta","18",{"property":"article:modified_time","content":"2026-11-26"}],["$","meta","19",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","20",{"name":"twitter:title","content":"3D Printed Chicken – Models, Coop Parts and Print Settings | my3dprinter.io"}],["$","meta","21",{"name":"twitter:description","content":"3D printed chicken ideas – flexi chickens, figurines, egg holders, planters and coop feeders – with settings, supports, chicken-safe filament and painting tips."}],["$","meta","22",{"name":"twitter:image","content":"https://my3dprinter.io/images/blog/3d-printed-chicken.webp"}],["$","link","23",{"rel":"icon","href":"/favicon.ico","sizes":"48x48"}],["$","link","24",{"rel":"icon","href":"/icon.svg","type":"image/svg+xml"}],["$","link","25",{"rel":"icon","href":"/icon-192.png","sizes":"192x192","type":"image/png"}],["$","link","26",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","sizes":"180x180"}],["$","$L2a","27",{}]],"error":null,"digest":"$undefined"}
+23:"$1e:metadata"
