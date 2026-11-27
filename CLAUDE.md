@@ -1,5 +1,7 @@
 # my3dprinter.io — instructions
 
+- **Blog publishing PAUSED (owner, 2026-11-27): do not write or publish blog posts until the owner says so.**
+
 Static Next.js site (output: export). `npm run build` → `out/` → `dist/` (scripts/postbuild.mjs adds llms.txt). Then `python3 scripts/check-seo.py` must report 0 issues. Push to `main` → GitHub Actions builds and publishes the `site` branch → the promt-site server pulls it every 5 minutes (deploy/add-site.sh). Site language: **English**. Never mention any company name, address or phone number on the site (owner's rule); the operator is "my3dprinter.io", contact hello@my3dprinter.io.
 
 
