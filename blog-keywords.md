@@ -64,13 +64,13 @@ Tick when published: `- [x] slug | ... | blog/slug`. Mark `- [-]` with a reason 
 - [x] 3d-printer-enclosure | 3d printer enclosure | 2500 | 2 | | blog/3d-printer-enclosure
 - [x] industrial-3d-printer | industrial 3d printer | 2500 | 0 | | blog/industrial-3d-printer
 - [x] creality-filament | creality filament | 2400 | 0 | | blog/creality-filament
-- [ ] fdm-3d-printer | fdm 3d printer | 2300 | 4 | 
-- [ ] 3d-print-supports | how to add supports in bambu studio | 2180 | 0 | 3d print supports; how to enable support generation bambu; how to remove 3d print supports; best way to remove supports from 3d print; 3d print with supports; 3d print supports hard to remove; 3d print tree supports; how to add manual supports in bambu studio
-- [ ] bambu-lab-p2s-price | bambu lab p2s price | 2100 | 2 | 
-- [ ] sunlu-filament-dryer | sunlu filament dryer | 2100 | 4 | 
-- [ ] atomic-filament | atomic filament | 2100 | 0 | 
-- [ ] bambu-lab-pla-matte-filament | bambu lab pla matte filament | 2100 | 0 | 
-- [ ] big-3d-printer | big 3d printer | 2000 | 2 | 
+- [x] fdm-3d-printer | fdm 3d printer | 2300 | 4 | | blog/fdm-3d-printer
+- [x] 3d-print-supports | how to add supports in bambu studio | 2180 | 0 | 3d print supports; how to enable support generation bambu; how to remove 3d print supports; best way to remove supports from 3d print; 3d print with supports; 3d print supports hard to remove; 3d print tree supports; how to add manual supports in bambu studio | blog/3d-print-supports
+- [x] bambu-lab-p2s-price | bambu lab p2s price | 2100 | 2 | | printers/bambu-lab-p2s
+- [x] sunlu-filament-dryer | sunlu filament dryer | 2100 | 4 | | blog/sunlu-filament-dryer
+- [x] atomic-filament | atomic filament | 2100 | 0 | | blog/atomic-filament
+- [x] bambu-lab-pla-matte-filament | bambu lab pla matte filament | 2100 | 0 | | blog/bambu-lab-pla-matte-filament
+- [x] big-3d-printer | big 3d printer | 2000 | 2 | | blog/large-3d-printer
 - [ ] sla-3d-printer | sla 3d printer | 2000 | 2 | 
 - [ ] 3d-printed-car | 3d printed car | 2000 | 2 | 
 - [ ] esun-filament | esun filament | 2000 | 0 | 
