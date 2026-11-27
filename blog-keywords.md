@@ -76,12 +76,12 @@ Tick when published: `- [x] slug | ... | blog/slug`. Mark `- [-]` with a reason 
 - [x] esun-filament | esun filament | 2000 | 0 | | blog/esun-filament
 - [x] 3d-printed-action-figures | 3d printed action figures | 2000 | 0 | | blog/3d-printed-action-figures
 - [x] strongest-3d-printer-filament | strongest 3d printer filament | 2000 | 1 | what is the strongest 3d printer filament | blog/strongest-3d-printer-filament
-- [ ] petg-cf | petg-cf | 1900 | 2 | 
-- [ ] nylon-filament | nylon filament | 1900 | 0 | 
-- [ ] peek-filament | peek filament | 1900 | 1 | 
-- [ ] peba-filament | peba filament | 1900 | 0 | 
-- [ ] 3d-printed-ideas | 3d printed ideas | 1900 | 1 | 
-- [ ] 3d-print-not-sticking-to-bed | 3d print not sticking to bed | 1830 | 0 | 3d printer not sticking to bed; 3d printer bed adhesion; bed adhesion issues; 3d printer filament not sticking to bed; petg bed adhesion; 3d print not sticking to build plate; 3d print bed adhesion; why is my 3d print not sticking to the bed
+- [x] petg-cf | petg-cf | 1900 | 2 | | blog/petg-cf
+- [x] nylon-filament | nylon filament | 1900 | 0 | | blog/nylon-filament
+- [x] peek-filament | peek filament | 1900 | 1 | | blog/peek-filament
+- [x] peba-filament | peba filament | 1900 | 0 | | blog/peba-filament
+- [x] 3d-printed-ideas | 3d printed ideas | 1900 | 1 | | blog/what-to-3d-print
+- [x] 3d-print-not-sticking-to-bed | 3d print not sticking to bed | 1830 | 0 | 3d printer not sticking to bed; 3d printer bed adhesion; bed adhesion issues; 3d printer filament not sticking to bed; petg bed adhesion; 3d print not sticking to build plate; 3d print bed adhesion; why is my 3d print not sticking to the bed | blog/3d-print-not-sticking-to-bed
 - [ ] pva-filament | pva filament | 1800 | 4 | 
 - [ ] 3d-printed-basketball | 3d printed basketball | 1800 | 0 | 
 - [ ] 3d-printed-keychain | 3d printed keychain | 1800 | 0 | 
